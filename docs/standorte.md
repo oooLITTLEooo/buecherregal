@@ -16,7 +16,7 @@ Nicht lesbare Angaben als `offen` oder `pruefen` kennzeichnen und mit der Fotoqu
 
 ## Bilder
 
-Alle Originalfotos zunächst aus dem tatsächlichen **aktuellen Git-Bestand** erfassen; Dubletten und Standorte überprüfen. Zielnamen: `Regal_Gesamt`, `Regal_X-Y`, ggf. `Regal_X-Y_02`, mit tatsächlicher Dateierweiterung.
+Alle Originalfotos zunächst aus dem tatsächlichen **aktuellen Git-Bestand** erfassen, unter `bilder/originale/` mit **unverändertem Dateinamen** ablegen; Dubletten und Standorte überprüfen. Danach **Kopien** unter `bilder/umbenannt/` ablegen: Zielnamen `Regal_Gesamt`, `Regal_X-Y`, ggf. `Regal_X-Y_02`, mit tatsächlicher Dateierweiterung. Keine Position allein aus Uhrzeit oder ursprünglichem Dateinamen ableiten.
 
 Bei einem Foto, das Teile eines Nachbarfachs zeigt, Bücher nur dem richtigen Fach zuweisen.
 

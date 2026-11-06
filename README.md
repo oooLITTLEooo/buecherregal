@@ -6,7 +6,7 @@
 
 ## Neustart der Bestandsanalyse
 
-Der Foto-Upload durch den Nutzer läuft noch und soll **vor Beginn des neuen Chats** abgeschlossen sein. Die frühere Erfassung ist **nicht maßgeblich**. Keine Fotoanzahlen, Regalfachzuordnungen, Erinnerungen, Buchinventare oder Bilddateien aus vorherigen Chat-Nachrichten übernehmen.
+Der Foto-Upload wurde am 06.11.2026 als abgeschlossen gemeldet; der Bestand wird ausschließlich am aktuellen Git-Stand geprüft. Die frühere Erfassung ist **nicht maßgeblich**. Keine Fotoanzahlen, Regalfachzuordnungen, Erinnerungen, Buchinventare oder Bilddateien aus vorherigen Chat-Nachrichten übernehmen.
 
 **Verbindlicher Einstieg und vollständiger Arbeitsauftrag:**  
 [docs/NEUER_CHAT_BESTANDSANALYSE.md](docs/NEUER_CHAT_BESTANDSANALYSE.md)
@@ -15,7 +15,7 @@ Der Foto-Upload durch den Nutzer läuft noch und soll **vor Beginn des neuen Cha
 
 1. Repository und den tatsächlich vorhandenen Foto-Dateibestand vollständig prüfen.
 2. Identische und visuell doppelte Fotos vergleichen und nach dokumentierter Prüfung überflüssige Dubletten bereinigen.
-3. Originalfotos nach Regalfächern ordnen und eindeutig umbenennen.
+3. Originalfotos mit unverändertem Namen nach `bilder/originale/` verschieben; nach geprüfter Fachzuordnung unveränderte **Kopien** unter `bilder/umbenannt/` nach Regalposition benennen.
 4. Tatsächliche Regalstruktur und Vollständigkeit anhand des Gesamtbildes überprüfen; konkrete fehlende Fotos benennen.
 5. **Erst dann** die Originalfotos in voller Auflösung auf einzelne Bücher analysieren und Autor, Titel, Fach und Position erfassen.
 6. Alles versioniert in Git dokumentieren und anschließend überprüfen.
@@ -30,7 +30,8 @@ Ziel der späteren physischen Umsortierung: **A–Z nach Autoren-Nachnamen**, en
 
 ## Projektstruktur
 
-- `bilder/originale/` – Ablage der im Repository vorliegenden Originalfotos
+- `bilder/originale/` – unveränderte Originalfotos mit ursprünglichem Dateinamen
+- `bilder/umbenannt/` – später nach tatsächlicher Regalposition benannte Kopien (unveränderte Bildbytes)
 - `bilder/generiert/` – später ggf. erzeugte Diagramme und Fotoskizzen
 - `daten/fotos.csv` – aus dem aktuellen Git-Bestand neu zu erstellendes Foto-Inventar
 - `daten/fachstatus.csv` – tatsächliche Regalfächer und Foto-Abdeckung

@@ -29,8 +29,8 @@
 
 1. Regalfächer aus der Übersicht **spaltenweise** nummerieren: links beginnend, innerhalb jeder Spalte von oben nach unten. Beispiel: `1-5` = erste Spalte, fünftes Fach von oben.
 2. Jede Aufnahme anhand ihres tatsächlichen Bildinhalts einem Fach zuordnen; ursprüngliche Dateinamen sind **kein** sicherer Beleg für die Fachposition.
-3. Einheitliche Zielnamen: `Regal_Gesamt.jpg`, `Regal_1-5.jpg`, bei nützlicher zweiter Ansicht `Regal_1-5_02.jpg` usw. Die **Originalbilddaten unverändert** lassen; keine unnötige Neuspeicherung, Konvertierung, Skalierung oder Kompression.
-4. In `bilder/originale/` ordnen, möglichst mittels `git mv`; bestehende Dateien niemals versehentlich überschreiben. Vorher-Nachher-Mapping in `daten/fotos.csv` dokumentieren und nach dem Push verifizieren.
+3. Einheitliche Namen **nur für die Kopien unter `bilder/umbenannt/`**: `Regal_Gesamt.jpg`, `Regal_1-5.jpg`, bei nützlicher zweiter Ansicht `Regal_1-5_02.jpg` usw. Die **Originalbilddaten und Originaldateinamen** in `bilder/originale/` unverändert lassen; keine unnötige Neuspeicherung, Konvertierung, Skalierung oder Kompression.
+4. Verbindliche Präzisierung vom 06.11.2026: Originalfotos zunächst **ohne Umbenennung** aus dem Root nach `bilder/originale/` verlagern; nach gesicherter Bild-zu-Fach-Zuordnung jeweils eine byteidentische Kopie mit Positionsnamen in `bilder/umbenannt/` anlegen. Unbekannte Positionen nicht raten. Bestehende Dateien niemals überschreiben. Vorher-Nachher-Mapping in `daten/fotos.csv` dokumentieren und nach dem Push verifizieren.
 
 ### 4. Vollständigkeitsabgleich
 
