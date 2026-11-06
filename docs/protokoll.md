@@ -78,3 +78,13 @@
 - Der Nutzer hat ausdrücklich notiert: **`3.5 noch`**. Dieser Wortlaut ist als Erinnerung unverändert zu erhalten und am Ende der Antwort wiederzugeben. Regal 3-5 ist in `daten/fachstatus.csv` schon als fotografiert erfasst; Bedeutung des neuen Hinweises noch offen.
 - Gemäß vereinbartem Arbeitsablauf werden die zusätzlichen Bücher erst nach Bildarchivierung im Git vertieft inventarisiert.
 - Bild-Binärdateien weiterhin nicht nach GitHub hochgeladen, obwohl Foto-Metadaten dort dokumentiert sind. Zum Upload ist der einmalige Lauf von `scripts/import-fotos.sh` mit dem neuen ZIP im Git-Clone vorgesehen.
+
+## 2026-11-06 – Spalte 5 vollständig, weitere Erinnerung
+
+- Sechs neue Detailfotos im Chat erhalten: `58280.jpg`–`58285.jpg`, den Fächern `5-3`–`5-8` zugeordnet und nach `Regal_5-3.jpg`–`Regal_5-8.jpg` benannt.
+- `daten/fotos.csv` um Foto-IDs `F0032`–`F0037` ergänzt; SHA-256, Größe und pHash aus den Original-Dateibytes überprüft.
+- Gesamt: **37 einzigartige Original-JPEG-Dateien**, 1 Übersicht und 36 Fachfotos. Zwischen allen 37 Bildern keine identischen SHA-256-Werte und keine pHash-Distanzen unter 10 (kleinste Distanz 12). Alle 37 Bilddateien wurden unverändert und korrekt benannt im ZIP `buecherregal_fotos_bis_5-8_2026-11-06.zip` gesichert; ZIP-Integrität und Inhalt geprüft.
+- **Spalte 5 ist fotografisch vollständig.** Nächste Aufnahme `6-1`.
+- Neue wortgetreue Nutzer-Erinnerung: **`2.5 noch`**. Der bereits bestehende Vermerk **`3.5 noch`** bleibt ebenfalls offen. Beide stehen in `daten/offene_punkte.csv`; sie werden als offene Aufgaben behandelt, nicht automatisch als fehlende Fotos.
+- Die Binärfotos sind derzeit **noch nicht in GitHub hochgeladen**. Die gespeicherten Foto-Metadaten tragen `upload_status=ausstehend`; ein Git-Import des aktuellen ZIPs erfolgt über das vorhandene `scripts/import-fotos.sh`.
+- Die vorhandene Buchinventarliste (362 vorläufige Positionen, 68 offen/zu prüfen) bleibt vorerst unverändert; neue Detailanalyse folgt nach Git-Bildarchivierung.
