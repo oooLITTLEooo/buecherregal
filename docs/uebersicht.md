@@ -4,7 +4,7 @@
 **Übermittelter Dateiname:** 58245.jpg  
 **Eingang:** 2026-11-06  
 **Bildformat:** JPEG, 1536 × 864 Pixel  
-**Originaldatei:** als Chat-Anhang verfügbar; Ablage unter `bilder/originale/58245.jpg` im Git-Repository **noch ausstehend**.
+**Originaldatei:** als Chat-Anhang verfügbar; Ablage unter `bilder/originale/Regal_Gesamt.jpg` im Git-Repository **noch ausstehend**.
 
 ## Vorläufige Orientierung
 
@@ -15,6 +15,15 @@ Vom linken Rand des Fotos zum rechten Rand sind **acht vertikale Spalten** unter
 - Spalte 8: ganz rechts, schmaler Bereich mit Büchern oben und überwiegend leeren Fächern darunter.
 
 **Wichtig:** Anzahl und Grenzen der einzelnen Regalfächer bleiben bis zur Sichtung der Detailfotos vorläufig. Keine endgültigen Buchzuordnungen aus dieser Gesamtaufnahme. Ein Standort wie `1-5` bezeichnet immer **Spalte 1, fünftes Fach von oben**; die Stellung innerhalb dieses Fachs wird zusätzlich von links nach rechts gezählt.
+
+## Erfasster Fortschritt
+
+- Vier Buchfächer der ersten Spalte mit Detailbildern: `1-5`, `1-6`, `1-7`, `1-8`.
+- `1-1` bis `1-3` leer und `1-4` enthält eine Lampe (Gesamtfoto).
+- Zweite Spalte: `2-1` und `2-2` fotografiert.
+- Folgendes Foto erwartet: `2-3`.
+- 106 vorläufige Buchpositionen in `daten/buecher.csv`, darunter 18 mit Prüfbedarf.
+- Die sieben im Chat vorhandenen Original-JPEG-Dateien sind noch nicht ins Git hochgeladen.
 
 ## Noch zu tun
 
