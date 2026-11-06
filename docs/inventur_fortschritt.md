@@ -198,3 +198,8 @@ Einziges unsicheres Buch B00277 (Position 18) aus FOTO0015 Teil 04 als **Ben und
 ## 2026-11-06 – Fach 3-3 gezielt nachgeprüft
 
 B00292 (C. G. Jung, *Erinnerungen, Träume, Gedanken*) und B00300 (Jakob Wassermann, *Etzel Andergast*) aus FOTO0016 sicher identifiziert. Zwischen Eva Rossmann *Alles rot* und Jung könnte ein eigener, bisher übersehener Band von John Irving *Deutschlandreise* stehen. Fach 3-3 daher nicht freigegeben, sondern `positionsabgleich_noetig`; 21 Inventarzeilen vorläufig, mögliche tatsächliche Zahl 22. Derzeit gesamt 1048 Einträge, 967 lesbar, 42 prüfen, 39 offen, zusätzliche ungezählte Bücher nicht enthalten. Noch 21 gezielte Fachprüfungen. Bericht docs/fachpruefung_3-3_20261106.md. Nächstes Fach 3-4.
+
+
+## 2026-11-06 – Gezielte Prüfung Fach 3-4
+
+B00318 anhand FOTO0017 Teilbilder 03 und 04 nachgeprüft. Die physische Buchgrenze zwischen den John-Irving-Bänden *Eine Mittelgewichts-Ehe* und *Zirkuskind* lässt sich nicht zweifelsfrei bestimmen. B00318 bleibt offen; Nachfoto und Nachzählung des betroffenen Bereichs erforderlich. Das Fach hat weiter 22 vorläufige Einträge, davon 21 lesbar, 1 offen; nicht abgehakt. Gesamt 1048 Einträge, 967 lesbar, 42 prüfen, 39 offen. 20 weitere gezielte Fachprüfungen ausstehend. Siehe docs/fachpruefung_3-4_20261106.md. Nächstes Fach 3-5.

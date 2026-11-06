@@ -206,3 +206,11 @@
 - Zwischen Eva Rossmann *Alles rot* und Jung ist vermutlich John Irving *Deutschlandreise* als weiterer schmaler Buchrücken sichtbar. In 3-3 möglicherweise 22 statt 21 tatsächliche Bände. Deshalb keine vorläufige Fachfreigabe trotz gelesener Titel.
 - Status Fach 3-3: `positionsabgleich_noetig`; Nachfoto und spätere korrigierte Positionsliste erforderlich. Keine Bild-, Buch-ID- oder Positionsänderung.
 - Aktuell 1048 erfasste Bücher (967 lesbar, 42 prüfen, 39 offen), evtl. mindestens ein weiteres Exemplar. Noch 21 gezielte Fachprüfungen; Bericht docs/fachpruefung_3-3_20261106.md. Nächstes Fach 3-4.
+
+
+## 2026-11-06 – Gezielte Nachprüfung Fach 3-4
+
+- Original FOTO0017 und die Git-Originalpixelteile 03/04 nur für B00318 (Position 17) untersucht. Zwischen John Irving *Eine Mittelgewichts-Ehe* und *Zirkuskind* kann das Vorliegen eines eigenständigen weiteren Bandes nicht sicher belegt werden.
+- Kein Titel geraten und kein Datensatz gelöscht. B00318 bleibt offen, das Fach benötigt ein frontales Nachfoto und eine physische Nachzählung an Position 17.
+- Fach 3-4: weiterhin 22 vorläufige Einträge (21 lesbar, 1 offen), gezielte Nachprüfung erfolgt, nicht abgehakt. Gesamt unverändert 1048 Einträge: 967 lesbar, 42 prüfen, 39 offen.
+- Jetzt 20 Fächer mit noch ausstehender gezielter Kontrolle, 14 erneut geprüft mit Restunsicherheit; Bericht docs/fachpruefung_3-4_20261106.md. Als nächstes Fach 3-5.
