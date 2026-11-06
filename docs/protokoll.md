@@ -181,3 +181,12 @@
 - Einzelfoto des Buchrückens oder Titelblatts angefordert; Status prüfen bleibt unverändert, keine unbelegten Titel ergänzt.
 - Fach 2-8: 17 Einträge, 16 lesbar und 1 prüfen. Gesamt 1048, davon 959 lesbar, 49 prüfen, 40 offen.
 - Gezielte Fachprüfung abgeschlossen, nicht abgehakt; 24 Fächer noch ungeprüft, 12 nachgeprüft mit offenem Fotobedarf. Details: docs/fachpruefung_2-8_20261106.md. Nächstes Fach: 3-1.
+
+
+## 2026-11-06 – Zielprüfung Fach 3-1
+
+- Acht unsichere Einträge B00232, B00235, B00240, B00241, B00247, B00249, B00257, B00258 mit allen vier Originalpixel-Ausschnitten von FOTO0014 untersucht.
+- Fünf bestätigt/korrigiert: Eric Malpass *Wenn süß das Mondlicht auf den Hügeln schläft* sowie vier Bände André Kaminski (*Flimmergeschichten*, *Kiebitz*, *Die Gärten des Mulay Abdallah*, *Schalom allerseits*).
+- B00235 B00240 B00258 unlesbar bzw. mit unklaren Bandgrenzen; Fotobedarf präzise benannt. Fach 3-1 nachgeprüft aber nicht abgehakt.
+- 1048 unveränderte Buch-IDs: 964 lesbar, 44 prüfen, 40 offen; 15 Fächer vorläufig abgehakt; 23 noch gezielt nachzuprüfen.
+- Details docs/fachpruefung_3-1_20261106.md. Nächstes Fach 3-2.

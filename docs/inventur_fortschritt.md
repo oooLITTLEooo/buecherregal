@@ -183,3 +183,8 @@ B00185 auf FOTO0012 Teil 01 als Brigitte Giraud, *Die Liebe ist doch sehr übers
 ## 2026-11-06 – Gezielte Nachprüfung Fach 2-8
 
 B00226 (Position 14) anhand FOTO0013 Teile 03/04 geprüft. Eva Rossmann auf dem Rücken zwischen Isabel Allende *Violeta* und Martha Grimes *Das Hotel am See* bestätigt, aber Titel nicht erkennbar. Status bleibt prüfen; Zusatzfoto des Buchrückens oder Titelblatts benötigt. Fach 2-8 weiterhin 16 lesbar, 1 prüfen, vorläufig nicht abgehakt. Gesamt: 1048 Einträge, 959 lesbar, 49 prüfen, 40 offen. Noch 24 gezielte Fachprüfungen, 12 nachgeprüfte Fächer mit Restunsicherheiten. Bericht docs/fachpruefung_2-8_20261106.md. Nächstes Fach 3-1.
+
+
+## 2026-11-06 – Fachweise Nachprüfung 3-1
+
+Nur acht problematische Einträge in FOTO0014 erneut gelesen. Fünf geklärt (B00232, B00241, B00247, B00249, B00257) mit Originalpixeln und Rowohlt-/Suhrkamp-Bibliografie; drei offen (B00235, B00240, B00258) mit konkreten nötigen Zusatzfotos. Fach 3-1: 30 Datensätze, 27 lesbar, 3 offen. Gesamtsumme weiterhin 1048 vorläufige Bucheinträge, jetzt 964 lesbar, 44 prüfen, 40 offen; 23 Fächer gezielt nachzuprüfen. Bericht docs/fachpruefung_3-1_20261106.md. Nächstes Fach 3-2.
