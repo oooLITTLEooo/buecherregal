@@ -23,13 +23,14 @@ Vom linken Rand des Fotos zum rechten Rand sind **acht vertikale Spalten** unter
 - Zweite Spalte: `2-1` bis `2-8` vollständig fotografiert.
 - Dritte Spalte: `3-1` bis `3-8` vollständig fotografiert.
 - Vierte Spalte: `4-1` bis `4-8` vollständig fotografiert.
-- Fünfte Spalte: `5-1` und `5-2` fotografiert, voraussichtlich `5-3` bis `5-8` ausständig.
+- Fünfte Spalte: `5-1` bis `5-8` vollständig fotografiert.
+- Sechste Spalte: noch keine Detailfotos, als Nächstes `6-1`.
 - 362 vorläufige Buchpositionen in `daten/buecher.csv`, darunter 68 mit Prüfbedarf.
-- Die 31 im Chat vorhandenen Original-JPEG-Dateien sind noch nicht ins Git hochgeladen. Eine ZIP-Sicherung mit richtig benannten Originaldateien wurde im Chat erstellt.
+- Die 37 im Chat vorhandenen Original-JPEG-Dateien sind noch nicht ins Git hochgeladen. Eine ZIP-Sicherung mit richtig benannten Originaldateien wurde im Chat erstellt.
 
 ## Zusätzlicher Nutzervermerk
 
-- **`3.5 noch`**: ausdrücklich am Ende der Kommunikation ausgeben. Keine automatische Umdeutung als fehlendes Foto; Fach `3-5` war schon erfasst.
+- **`3.5 noch`** und **`2.5 noch`**: ausdrücklich am Ende der Kommunikation ausgeben. Beide Fächer waren bereits fotografiert; die Art der noch ausstehenden Aufgabe ist nicht spezifiziert. Siehe `daten/offene_punkte.csv`.
 
 ## Noch zu tun
 
