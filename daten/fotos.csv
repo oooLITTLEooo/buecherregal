@@ -1,2 +1,8 @@
-foto_id;dateiname_git;typ;standort;aufnahmedatum;quell_dateiname;upload_status;notizen
-F0001;Regal_Gesamt.jpg;gesamtuebersicht;Gesamtregal;;58245.jpg;ausstehend;Im Chat empfangen 2026-11-06, 1536x864 Pixel, acht Spalten vorlaeufig erkannt, Originaldatei noch nicht ins Git hochgeladen
+foto_id;dateiname_git;typ;standort;aufnahmedatum;quell_dateiname;upload_status;groesse_bytes;sha256;phash_fachinhalt;notizen
+F0001;Regal_Gesamt.jpg;gesamtuebersicht;Gesamtregal;58245.jpg;;ausstehend;310688;5b0769653b37b26031fdcc9933f24441545602f117753ba2e83cacd303b373e8;ead78394b9847a8a;Gesamtansicht; acht Spalten vorlaeufig
+F0002;Regal_1-5.jpg;fach;1-5;58246.jpg;;ausstehend;245320;71c5d948459504ad2eb2568f5172676c19c06a02f764f7f379b597c6078690fa;9a2ba556b512b556;Eindeutig verschiedenes Fach; Zuordnung aus Reihenfolge und Gesamtbild
+F0003;Regal_1-6.jpg;fach;1-6;58247.jpg;;ausstehend;252723;fbbda9b2787107deb10eabf12a6a9c60baf7adee1db872bc3e210151a6928098;8d2cec0cb34c9c6f;Eindeutig verschiedenes Fach; Zuordnung aus Reihenfolge und Gesamtbild
+F0004;Regal_1-7.jpg;fach;1-7;58248.jpg;;ausstehend;261634;086768a633763228444d0e0bc83d7cd07bbde8d7440dcf2afe860e08074a076f;9264e49dd98cbea2;Eindeutig verschiedenes Fach; Zuordnung aus Reihenfolge und Gesamtbild
+F0005;Regal_1-8.jpg;fach;1-8;58249.jpg;;ausstehend;257339;6c161dd25c83b907972c0bbf5d1511643422151a7acda507bda80cf4a825a25c;b06ffa9f888483a5;Eindeutig verschiedenes Fach; Zuordnung aus Reihenfolge und Gesamtbild
+F0006;Regal_2-1.jpg;fach;2-1;58250.jpg;;ausstehend;267518;d657c9dd99452ff133c0f3db28022b09f2388aaaeb974b05de098fe9acc7467f;801b3b5b3f781e0b;Eindeutig verschiedenes Fach; Zuordnung aus Reihenfolge und Gesamtbild
+F0007;Regal_2-2.jpg;fach;2-2;58251.jpg;;ausstehend;278199;62feddfcc49c7036be8b3ebf575dfe2ca0d925125d22ad48a4bb33464ddeea59;d32c2c20a59397df;Eindeutig verschiedenes Fach; Zuordnung aus Reihenfolge und Gesamtbild
