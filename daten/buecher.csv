@@ -1,1 +1,107 @@
 buch_id;autor_nachname;autor_vorname;titel;standort;position_im_fach;identifikationsstatus;foto_referenz;bemerkungen
+B0001;Elsberg;Marc;Blackout;1-5;1;sicher;F0002;
+B0002;Picoult;Jodi;Zeit der Gespenster;1-5;2;sicher;F0002;
+B0003;Pluhar;Erika;Als gehörte eins zum andern;1-5;3;sicher;F0002;
+B0004;Mankell;Henning;Die rote Antilope;1-5;4;sicher;F0002;
+B0005;Mankell;Henning;Die Rückkehr des Tanzlehrers;1-5;5;sicher;F0002;
+B0006;Mankell;Henning;Der Feind im Schatten;1-5;6;sicher;F0002;
+B0007;Mann;Thomas;Tagebücher;1-5;7;pruefen;F0002;Jahreszahlen auf dem Rückenschild noch prüfen
+B0008;Picoult;Jodi;Das Herz ihrer Tochter;1-5;8;sicher;F0002;
+B0009;Mankell;Henning;Tea-Bag;1-5;9;sicher;F0002;
+B0010;Pilcher;Rosamunde;Wilder Thymian;1-5;10;sicher;F0002;
+B0011;Mann;Thomas;Joseph und seine Brüder;1-5;11;sicher;F0002;
+B0012;Mann;Golo;Deutsche Geschichte des 19. und 20. Jahrhunderts;1-5;12;sicher;F0002;
+B0013;Mankell;Henning;Mittsommermord;1-5;13;sicher;F0002;
+B0014;Picoult;Jodi;Zerbrechlich;1-5;14;sicher;F0002;
+B0015;Mankell;Henning;Der Mann, der lächelte;1-6;1;sicher;F0003;
+B0016;Mankell;Henning;Der Chinese;1-6;2;sicher;F0003;
+B0017;Picoult;Jodi;19 Minuten;1-6;3;sicher;F0003;
+B0018;Mann;Thomas;Der Zauberberg;1-6;4;sicher;F0003;
+B0019;Pluhar;Erika;Nächtliche Entdeckungen;1-6;5;sicher;F0003;
+B0020;Picoult;Jodi;Die Wahrheit meines Vaters;1-6;6;sicher;F0003;
+B0021;Portisch;Hugo;Österreich II;1-6;7;sicher;F0003;Zusammen mit Sepp Riff
+B0022;George;Elizabeth;Wer Strafe verdient;1-6;8;sicher;F0003;
+B0023;Solschenizyn;Alexander;Iwan Denissowitsch;1-6;9;sicher;F0003;
+B0024;Slaughter;Karin;;1-6;10;offen;F0003;Titel des schmalen schwarzen Buchs unleserlich
+B0025;Ransmayr;Christoph;Atlas eines ängstlichen Mannes;1-6;11;sicher;F0003;
+B0026;Komarek;Alfred;Narrenwinter;1-6;12;sicher;F0003;
+B0027;Küppers;Topsy;Wie viel Zores!;1-6;13;sicher;F0003;
+B0028;Vermes;Timur;Die Hungrigen und die Satten;1-6;14;sicher;F0003;
+B0029;Walters;Minette;Dunkle Kammern;1-6;15;sicher;F0003;
+B0030;Malpass;Eric;Als Mutter streikte;1-7;1;sicher;F0004;
+B0031;Link;Charlotte;Das andere Kind;1-7;2;sicher;F0004;
+B0032;Mankell;Henning;Die italienischen Schuhe;1-7;3;sicher;F0004;
+B0033;Mankell;Henning;Die falsche Fährte;1-7;4;sicher;F0004;
+B0034;Ludewig;;Anleitung zum Herzinfarkt;1-7;5;pruefen;F0004;Initiale/Autorenname noch prüfen
+B0035;Mandela;Nelson;Der lange Weg zur Freiheit;1-7;6;sicher;F0004;
+B0036;Malpass;Eric;;1-7;7;offen;F0004;Buchrücken rechts neben Mandela nur teilweise lesbar
+B0037;Link;Charlotte;Die Stunde der Engel;1-7;8;sicher;F0004;
+B0038;Link;Charlotte;Schattenspiel;1-7;9;sicher;F0004;
+B0039;Palm;Kurt;Bad Fucking;1-7;10;sicher;F0004;
+B0040;Opitz;Karlheinz;Das Pfandhaus der Glückseligkeit;1-7;11;sicher;F0004;
+B0041;Estés;Clarissa Pinkola;Die Wolfsfrau;1-7;12;sicher;F0004;
+B0042;Pluhar;Erika;Der Fisch im Regen;1-7;13;sicher;F0004;
+B0043;Obama;Barack;Ein amerikanischer Traum;1-7;14;sicher;F0004;Untertitel: Die Geschichte meiner Familie
+B0044;Mankell;Henning;Vor dem Frost;1-7;15;sicher;F0004;
+B0045;King;Stephen;Der Anschlag;1-8;1;sicher;F0005;
+B0046;Achleitner;Hubert;flüchtig;1-8;2;sicher;F0005;
+B0047;Raab;Thomas;Der Metzger kommt ins Paradies;1-8;3;sicher;F0005;
+B0048;Picoult;Jodi;Schuldig;1-8;4;sicher;F0005;
+B0049;Sautner;Thomas;Fuchserde;1-8;5;sicher;F0005;
+B0050;Granger;Ann;Fuchs, du hast die Gans gestohlen;1-8;6;sicher;F0005;
+B0051;;;Der Duft des Bösen;1-8;7;pruefen;F0005;Autor auf schwarzem Buchrücken nicht eindeutig
+B0052;Leon;Donna;Endlich mein;1-8;8;sicher;F0005;
+B0053;Picoult;Jodi;Auf den zweiten Blick;1-8;9;sicher;F0005;
+B0054;Gordon;Noah;Der Rabbi;1-8;10;sicher;F0005;
+B0055;Rebhandl;Manfred;Das Schwert des Ostens;1-8;11;sicher;F0005;
+B0056;Link;Charlotte;Der Verehrer;1-8;12;sicher;F0005;
+B0057;Link;Charlotte;Der Beobachter;1-8;13;sicher;F0005;
+B0058;Link;Charlotte;Die Rosenzüchterin;1-8;14;sicher;F0005;
+B0059;Mankell;Henning;Wallanders erster Fall;1-8;15;sicher;F0005;
+B0060;Rossmann;Eva;Gut, aber tot;2-1;1;sicher;F0006;
+B0061;;;;2-1;2;offen;F0006;Schräg stehendes Buch hinter dem ersten Band
+B0062;Fruttero & Lucentini;;Die Sonntagsfrau;2-1;3;sicher;F0006;
+B0063;Frank;Rina;Als Gott die Großmutter holte;2-1;4;sicher;F0006;
+B0064;Fredriksson;Marianne;Stinas Entscheidung;2-1;5;sicher;F0006;
+B0065;Fredriksson;Marianne;Abels Bruder;2-1;6;sicher;F0006;
+B0066;;;Unser Haus hat viele Gäste;2-1;7;pruefen;F0006;Autor auf Goldrücken nicht eindeutig
+B0067;Fried;Amelie;Die Findelfrau;2-1;8;sicher;F0006;
+B0068;Fredriksson;Marianne;Hannas Töchter;2-1;9;sicher;F0006;
+B0069;Fredriksson;Marianne;;2-1;10;offen;F0006;Schmaler Band neben Hannas Töchter
+B0070;Fredriksson;Marianne;Sofia und Anders;2-1;11;sicher;F0006;
+B0071;Fredriksson;Marianne;;2-1;12;offen;F0006;Schmaler Band links neben Der dritte Zwilling
+B0072;Follett;Ken;Der dritte Zwilling;2-1;13;sicher;F0006;
+B0073;Fredriksson;Marianne;Geliebte Tochter;2-1;14;sicher;F0006;
+B0074;Fredriksson;Marianne;Maria Magdalena;2-1;15;sicher;F0006;
+B0075;Fredriksson;Marianne;Inge und Mira;2-1;16;sicher;F0006;
+B0076;Crombie;Deborah;Denn nie bist du allein;2-1;17;sicher;F0006;
+B0077;French;Nicci;2 in 1;2-1;18;pruefen;F0006;Sammelband: Das rote Zimmer / In seiner Hand
+B0078;French;Nicci;;2-1;19;offen;F0006;Schwarzer Buchrücken rechts neben 2 in 1
+B0079;Fredriksson;Marianne;Die Jahre mit Jan;2-1;20;sicher;F0006;
+B0080;French;Nicci;Seit er tot ist;2-2;1;sicher;F0007;
+B0081;;;;2-2;2;offen;F0007;Teilweise verdecktes Buch hinter Seit er tot ist
+B0082;Frimansson;Inger;Gute Nacht, mein Geliebter;2-2;3;sicher;F0007;
+B0083;Frisch;Max;Mein Name sei Gantenbein;2-2;4;sicher;F0007;
+B0084;;;;2-2;5;offen;F0007;Sehr schmaler roter Band
+B0085;Fruttero & Lucentini;;Der Liebhaber ohne festen Wohnsitz;2-2;6;sicher;F0007;
+B0086;Friedell;Egon;Wozu das Theater?;2-2;7;sicher;F0007;
+B0087;Frischmuth;Barbara;Amoralische Kinderklapper;2-2;8;sicher;F0007;
+B0088;;;;2-2;9;offen;F0007;Dünner hellgrüner Band
+B0089;Frischmuth;Barbara;Amy oder Die Metamorphose;2-2;10;sicher;F0007;
+B0090;Frischmuth;Barbara;Die Mystifikationen der Sophie Silber;2-2;11;sicher;F0007;
+B0091;Frischmuth;Barbara;Kai und die Liebe zu den Modellen;2-2;12;sicher;F0007;
+B0092;Fromm;Erich;Die Kunst des Liebens;2-2;13;sicher;F0007;
+B0093;Fried;Amelie;;2-2;14;offen;F0007;Dünner orangefarbener Band, Titel noch prüfen
+B0094;Frischmuth;Barbara;Kopftänzer;2-2;15;sicher;F0007;
+B0095;;;;2-2;16;offen;F0007;Zwei schmale Bände rechts von Kopftänzer noch identifizieren
+B0096;Fredriksson;Marianne;Noreas Geschichte;2-2;17;sicher;F0007;
+B0097;Jonasson;Jonas;Mörder Anders und seine Freunde nebst dem einen oder anderen Feind;2-2;18;sicher;F0007;
+B0098;Fredriksson;Marianne;Marcus und Eneides;2-2;19;pruefen;F0007;Titel-Schreibweise überprüfen
+B0099;Jepsen;Erling;Die Kunst, im Chor zu weinen;2-2;20;sicher;F0007;
+B0100;Fried;Amelie;Rosannas Tochter;2-2;21;sicher;F0007;
+B0101;Fitzgerald;F. Scott;Der große Gatsby;2-2;22;sicher;F0007;
+B0102;Rehn;Christoph;Schlaraffenland;2-2;23;pruefen;F0007;Autor und Titel auf Rücken prüfen
+B0103;Mann;Thomas;Buddenbrooks;2-2;24;sicher;F0007;
+B0104;Fromm;Erich;Die Seele des Menschen;2-2;25;sicher;F0007;
+B0105;Fried;Amelie;Traumfrau mit Nebenwirkungen;2-2;26;sicher;F0007;
+B0106;Franzen;Jonathan;Die Korrekturen;2-2;27;sicher;F0007;
