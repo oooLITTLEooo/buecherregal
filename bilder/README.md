@@ -1,6 +1,6 @@
 # Bilder und Dateinamen
 
-Repository-Sichtbarkeit am 2026-11-06 als **private** bestätigt.
+Repository-Sichtbarkeit am 2026-11-06 als **public** bestätigt und vom Nutzer ausdrücklich als beabsichtigt bezeichnet. Originalfotos werden nach erfolgreichem Import öffentlich einsehbar sein.
 
 ## Namenskonvention
 
@@ -16,4 +16,4 @@ Alle Dateien werden in `daten/fotos.csv` dokumentiert. Das dortige Feld `upload_
 
 ## Wichtig
 
-Vorläufige Fotobezeichnungen sind kein Beweis, dass eine Bilddatei tatsächlich im Repository liegt. Das Übersichtsfoto wurde bereits im Chat empfangen, sein Binärupload nach GitHub muss separat verifiziert werden.
+Vorläufige Fotobezeichnungen sind kein Beweis, dass eine Bilddatei tatsächlich im Repository liegt. Insgesamt 25 Fotos liegen im Chat und in einem Original-ZIP vor. Ihr Binärupload nach GitHub steht noch aus. Der Import erfolgt mit `scripts/import-fotos.sh` anhand der SHA-256-Prüfsummen.
