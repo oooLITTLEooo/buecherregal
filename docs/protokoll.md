@@ -56,3 +56,8 @@
 
 - Native Originalausschnitte FOTO0010–FOTO0013 visuell geprüft. 80 neue Datensätze, 11 unsicher, Gesamtstand 229.
 - Keine Originalfotos geändert oder alphabetische Umsortierung begonnen.
+
+## 2026-11-06 – Erfassung Fächer 3-1 bis 3-4
+
+- Originalpixel-Ausschnitte von FOTO0014 bis FOTO0017 geprüft, 94 weitere vorläufige Datensätze, 15 unsicher, Gesamtstand 323.
+- Zwei Fehllesungen in 2-7 korrigiert; Originale und physische Buchreihenfolge nicht verändert.

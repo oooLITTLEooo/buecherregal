@@ -42,3 +42,9 @@ Es wurden noch keine Bücher physisch bewegt oder alphabetisch umsortiert.
 80 weitere vorläufige Buchdatensätze aus FOTO0010 bis FOTO0013, davon 11 mit Status pruefen. Alle vier Originalfotos in je vier nativen Pixelausschnitten visuell geprüft.
 Schmale, verdeckte und uneindeutige Buchrücken ausdrücklich als unsicher markiert. Reihenfolge von links nach rechts, Originalfoto als Quellenpfad. Sichtbare echte Doppelexemplare bleiben als getrennte physische Exemplare. Exakte Kantenkontrolle noch offen.
 Gesamtstand 229 Datensätze. Die fotografierten Fächer der ersten beiden Spalten sind vorläufig inventarisiert. Anschließend Spalten 3 bis 7.
+
+## Spalte 3: Fach 3-1 bis 3-4 (Originalauflösung)
+
+Vier Originalbilder FOTO0014 bis FOTO0017 jeweils anhand von vier nativen Pixelausschnitten visuell geprüft. 94 vorläufige Buchexemplare erfasst, davon 15 mit Status pruefen/offen. Autoren, Titel, Position links-rechts und Originalfoto-Beleg je Datensatz.
+Zwei frühere Fehllesungen im Fach 2-7 (Position 12 und 13) anhand derselben Originalauflösung korrigiert.
+Unklare Rücken und unsichere Zählungen bleiben ausdrücklich vorläufig. Nächste Fächer: 3-5 bis 3-8 und danach Spalten 4 bis 7. Gesamtbestand aktuell 323 Einträge.
