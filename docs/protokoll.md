@@ -173,3 +173,11 @@
 - Nach Bild-/Bibliografieabgleich alle drei auf lesbar; 29/29 im Fach formell lesbar. Keine Buch-IDs, Positionen oder Bilddateien verändert.
 - Gesamt 1048 Einträge, 959 lesbar, 49 prüfen, 40 offen; 15 Fächer vorläufig abgehakt; 25 weitere noch gezielt zu prüfen.
 - Details: docs/fachpruefung_2-7_20261106.md. Als nächstes Fach 2-8.
+
+
+## 2026-11-06 – Fach 2-8 gezielt nachgeprüft
+
+- Aus FOTO0013 Teilen 03 und 04 ausschließlich B00226 (Position 14) geprüft. Autorin Eva Rossmann im Bild sichtbar, Titel mangels lesbarer Rückenaufschrift nicht sicher bestimmbar.
+- Einzelfoto des Buchrückens oder Titelblatts angefordert; Status prüfen bleibt unverändert, keine unbelegten Titel ergänzt.
+- Fach 2-8: 17 Einträge, 16 lesbar und 1 prüfen. Gesamt 1048, davon 959 lesbar, 49 prüfen, 40 offen.
+- Gezielte Fachprüfung abgeschlossen, nicht abgehakt; 24 Fächer noch ungeprüft, 12 nachgeprüft mit offenem Fotobedarf. Details: docs/fachpruefung_2-8_20261106.md. Nächstes Fach: 3-1.
