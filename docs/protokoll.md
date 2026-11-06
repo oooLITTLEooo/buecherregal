@@ -88,3 +88,15 @@
 - Neue wortgetreue Nutzer-Erinnerung: **`2.5 noch`**. Der bereits bestehende Vermerk **`3.5 noch`** bleibt ebenfalls offen. Beide stehen in `daten/offene_punkte.csv`; sie werden als offene Aufgaben behandelt, nicht automatisch als fehlende Fotos.
 - Die Binärfotos sind derzeit **noch nicht in GitHub hochgeladen**. Die gespeicherten Foto-Metadaten tragen `upload_status=ausstehend`; ein Git-Import des aktuellen ZIPs erfolgt über das vorhandene `scripts/import-fotos.sh`.
 - Die vorhandene Buchinventarliste (362 vorläufige Positionen, 68 offen/zu prüfen) bleibt vorerst unverändert; neue Detailanalyse folgt nach Git-Bildarchivierung.
+
+## 2026-11-06 – Projektübergabe für neuen Chat / Dokumentation abschließen
+
+- Der Nutzer hat erklärt, dass **alle Fotos in voller Auflösung hochgeladen** wurden, und eine neue Vorgehensweise angeordnet.
+- Dieser Chat dient nur noch zum **Vervollständigen der Projektdokumentation**. Die nächsten Arbeiten erfolgen **in einem neuen Chat**, in der Reihenfolge: (1) Repository analysieren, (2) doppelte Fotos löschen, (3) Fotos sortieren und umbenennen, (4) mit Gesamtansicht und Fachstatus auf fehlende Fotos abgleichen, (5) sämtliche Fotos im Git gründlich auf einzelne Bücher analysieren.
+- Dafür die Übergabe **`docs/NEUER_CHAT_BESTANDSANALYSE.md`** angelegt; README und Foto-/Fachstatuslisten entsprechend aktualisiert.
+- Sechs zuletzt im Gespräch übermittelte Dateien `58286.jpg` bis `58291.jpg` als `Regal_6-1.jpg` bis `Regal_6-6.jpg` in `daten/fotos.csv` registriert (Foto-IDs `F0038` bis `F0043`, Original-Dateigrößen und SHA-256-Digests). Keine inhaltliche Buchauswertung und keine Dublettenlöschung durchgeführt.
+- Gesamt: **43 Fotos im Chat** (1 Übersicht und 42 Fachfotos); als Sicherung ohne Umkodierung zusammen im `buecherregal_fotos_bis_6-6_2026-11-06.zip` zusammengeführt. ZIP gegen die SHA-256-Prüfsummen verifiziert, `FOTO_MANIFEST.csv` enthalten. Die ZIP-Datei ist ein Chat-Artefakt, **keine** bestätigte GitHub-Datei.
+- **GitHub-Direktprüfung:** Repository `oooLITTLEooo/buecherregal` ist `public` wie vom Nutzer gewünscht, Standardbranch `main`, nur dieser Branch vorhanden; rekursiver `main`-Tree umfasst 18 Einträge und **keine Bilddateien**. In `bilder/originale/` lag nur `.gitkeep`. Die vom Nutzer gemeldeten Bilder sind daher im geprüften Repository/Branch **noch nicht verifizierbar**. Vor weiterer Arbeit im neuen Chat erneut nachsehen, ob die Ablage inzwischen erfolgt ist oder einen anderen Speicherort hat.
+- Foto-Uploadstatus bleibt bis zur tatsächlichen Verifikation `ausstehend`. Das bisherige Inventar bleibt bei **362 vorläufigen Buchpositionen**, davon **68 offen/zu prüfen**.
+- Die drei wortgetreuen Nutzer-Erinnerungen sind in `daten/offene_punkte.csv`: **`3.5 noch`**, **`2.5 noch`** und **`1.5 noch offen`**. Alle drei fotografierten Fächer müssen nicht zwingend als fehlende Fotos verstanden werden. Wortlaut bis zur Klärung am Ende weiterer Antworten ausgeben.
+- **Keine Git-Bilder gelöscht, umbenannt oder analysiert.** Vollständiger Neuabgleich folgt erst im neuen Chat.
