@@ -1,36 +1,27 @@
-# Nummerierung und Erfassungsregeln
+# Standort- und Erfassungsregeln
 
-## Fächer
+## Regalfachnummerierung
 
-Ein Standort besteht aus `Spalte-Fach`.
+`X-Y` bedeutet **Spalte X von links**, **Fach Y von oben**. Beispiel `1-5`: erste Spalte, fünftes Fach von oben.
 
-- `1-1`: erste Spalte von links, oberstes Fach.
-- `1-2`: erste Spalte von links, zweites Fach von oben.
-- `1-4`: erste Spalte von links, viertes Fach von oben.
-- `1-5`: erste Spalte von links, fünftes Fach von oben.
-- `2-1`: zweite Spalte von links, oberstes Fach.
+Die **tatsächliche Zahl** von Spalten und Fächern ist nicht vorgegeben und wird anhand der **im Git-Repository liegenden Gesamtübersicht** und Detailfotos bestimmt.
 
-Auf dem Übersichtsfoto sind vorläufig acht Spalten zu erkennen. Die exakten Fachgrenzen und Fachzahlen werden nach Erhalt der Detailfotos bestätigt.
+## Bücher innerhalb eines Faches
 
-## Buchpositionen
+Jedes physische Buchexemplar erhält einen eigenen Datensatz. `position_im_fach` zählt sichtbare Bücher **von links nach rechts**, beginnend bei `1`. Mehrfach vorhandene Exemplare eines Titels sind eigene Einträge.
 
-Pro Fach wird von links nach rechts in der tatsächlichen Reihenfolge gezählt: `1`, `2`, `3` usw. Die Positionen bezeichnen zunächst den **Ist-Zustand**, nicht eine bereits geplante Sortierung.
+`daten/buecher.csv` enthält nach abgeschlossener Prüfung: `buch_id`, `autor_nachname`, `autor_vorname`, `titel`, `standort`, `position_im_fach`, `identifikationsstatus`, `foto_referenz`, `bemerkungen`.
 
-## Inventar
+Nicht lesbare Angaben als `offen` oder `pruefen` kennzeichnen und mit der Fotoquelle verbinden, nicht erfinden.
 
-Ein Datensatz je Buch bzw. physischem Exemplar. Pflichtfelder nach Identifikation: `buch_id`, `autor_nachname`, `titel`, `standort`, `position_im_fach`.
+## Bilder
 
-Nicht eindeutig identifizierbare Angaben werden als `unsicher` oder `unbekannt` gekennzeichnet. Keine Titel/Autoren erfinden. Doppelte Exemplare erhalten unterschiedliche IDs.
+Alle Originalfotos zunächst aus dem tatsächlichen **aktuellen Git-Bestand** erfassen; Dubletten und Standorte überprüfen. Zielnamen: `Regal_Gesamt`, `Regal_X-Y`, ggf. `Regal_X-Y_02`, mit tatsächlicher Dateierweiterung.
 
-## Sortierziel
+Bei einem Foto, das Teile eines Nachbarfachs zeigt, Bücher nur dem richtigen Fach zuweisen.
 
-Alphabetisch A–Z nach Nachname des Autors, bei gleichem Nachnamen nach Vorname und danach nach Titel. Reihenfolge der Regalfächer: erste Spalte von oben nach unten; anschließend zweite Spalte von oben nach unten; usw.
+## Spätere alphabetische Sortierung
 
-## Bildablage
+Erst nach Abschluss des vollständigen Ist-Inventars und erneuter Anweisung: **Autoren-Nachname A–Z**, bei Gleichstand Vorname, danach Titel. Die Fachabfolge läuft spaltenweise von links nach rechts und innerhalb jeder Spalte von oben nach unten.
 
-- Nutzerfotos unter `bilder/originale/`, inhaltlich unverändert, mit sprechendem Dateinamen.
-- `Regal_Gesamt.jpg` für die Gesamtansicht.
-- `Regal_1-4.jpg` für Fach 1-4; zusätzliche Ansichten `Regal_1-4_02.jpg`.
-- Generierte Visualisierungen separat unter `bilder/generiert/`.
-- Tatsächliche Quelldateinamen und Uploadstatus werden in `daten/fotos.csv` gespeichert.
-- Keine Bilddatei als in Git archiviert kennzeichnen, bevor ihr Upload überprüft wurde.
+Siehe [Übergabe für neuen Chat](NEUER_CHAT_BESTANDSANALYSE.md).
