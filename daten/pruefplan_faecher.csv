@@ -6,7 +6,7 @@ fach;fotostatus;bucheintraege;lesbar;pruefen;offen;arbeitsstatus;zweite_sichtpru
 1-5;detail_vorhanden;14;14;0;0;vorlaeufig_abgehakt;ja;
 1-6;detail_vorhanden;15;15;0;0;vorlaeufig_abgehakt;ja;
 1-7;detail_vorhanden;15;15;0;0;vorlaeufig_abgehakt;ja;
-1-8;detail_vorhanden;15;14;0;1;gezielte_pruefung;nein;B00055
+1-8;detail_vorhanden;15;15;0;0;vorlaeufig_abgehakt;ja;
 2-1;detail_vorhanden;20;17;2;1;gezielte_pruefung;nein;B00061|B00071|B00078
 2-2;detail_vorhanden;27;26;0;1;gezielte_pruefung;nein;B00094
 2-3;detail_vorhanden;20;16;3;1;gezielte_pruefung;nein;B00107|B00117|B00123|B00125
