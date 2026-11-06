@@ -44,3 +44,14 @@
 - Die Inventarzahlen sind ein erster Durchgang und können sich durch verdeckte oder mehrfach sichtbare Buchrücken noch ändern. Der ursprüngliche Standort bleibt unverändert dokumentiert.
 - **Nächstes Detailfoto:** `Regal_3-1.jpg`, anschließend innerhalb von Spalte 3 von oben nach unten.
 - **Originalfotos:** alle 13 JPEGs im Chat vorhanden und lokal mit korrekten Namen in `buecherregal_fotos_bis_2-8_2026-11-06.zip` zusammengestellt. **Upload der Binärdateien nach GitHub weiter ausstehend**, deshalb `upload_status=ausstehend`.
+
+## 2026-11-06 – Dritte Spalte, Fächer 3-1 bis 3-6
+
+- Sechs weitere Detailfotos entgegengenommen: `58261.jpg`, `58262.jpg`, `58264.jpg`, `58265.jpg`, `58266.jpg`, `58267.jpg`.
+- Im privaten GitHub-Inventar registriert als `Regal_3-1.jpg` bis `Regal_3-6.jpg` (`F0014`–`F0019`); keine Foto-Dubletten zu den 13 älteren Aufnahmen festgestellt.
+- Die Lücke der Kamera-Dateinummer `58263.jpg` bedeutet **keine Regalfachlücke**. Die Fächer 3-1 bis 3-6 sind inhaltlich fortlaufend.
+- SHA-256-Prüfsummen aus den Original-JPEG-Bytes verifiziert; für alle 19 Aufnahmen perzeptuelle Hashwerte nach einheitlichem Verfahren neu berechnet.
+- 135 weitere vorläufige Buchpositionen aus den sechs Fächern erfasst; nun insgesamt **362**, davon **68** mit `offen`/`pruefen`.
+- Erfassungsstand für **Spalte 3**: Fächer 3-1 bis 3-6 fotografiert, 3-7 und 3-8 noch ausständig. Die noch ausständigen Fächer basieren auf dem bisherigen Acht-Fächer-Muster und sind bei Detailansichten zu prüfen.
+- Alle 19 unveränderten JPEG-Dateien inklusive früherer Fotos zusätzlich im ZIP `buecherregal_fotos_bis_3-6_2026-11-06.zip` mit Git-Zielnamen gesichert; ZIP-Datei im Chat bereitgestellt.
+- Bilddateien selbst weiterhin **nicht** im GitHub-Repository. Eintrag `upload_status=ausstehend` bleibt bis zum erfolgreichen Upload bestehen.
