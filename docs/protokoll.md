@@ -102,3 +102,10 @@
 - Fotos FOTO0038–FOTO0041 im Git vollaufloesend geprueft; 87 neue physische Buchdatensaetze. 11 unsicher/offen.
 - Originalfoto-Pfade und Standort 6-1 bis 6-4 dokumentiert; keine Originalbilder geaendert, keine alphabetische Umordnung.
 - Folge-Queue auf FOTO0042–FOTO0045 gesetzt.
+
+
+## 2026-11-06 – Fächer 6-5 bis 6-8
+
+- Native Ausschnitte aus den Originalen FOTO0042–FOTO0045 visuell geprüft, auch die Serie von schmalen Agatha-Christie-Bänden; keine Bilddaten im Original geändert.
+- 100 vorläufige Exemplare in Links-rechts-Position geschrieben; 10 unklar/offen.
+- Git-Sync mit Foto-Pfaden, keine Buchumsortierung. Nächster Crop-Lauf für FOTO0046–FOTO0049 vorgemerkt.

@@ -117,3 +117,15 @@ Die tatsächlichen Git-Originalfotos FOTO0038 bis FOTO0041 sind als 16 native Or
 - 6-4: 24 Einzelexemplare, 2 offen/pruefen
 
 Offene dünne/verdeckte Buchrücken und unklare Sammelbände mit offen/pruefen gekennzeichnet. Die fortlaufende physische Links-rechts-Position ist aus dem Foto erfasst und bleibt endprüfpflichtig. 813 vorläufige Exemplare in 40 Fächern. Nächstes Foto-Batch: FOTO0042–FOTO0045.
+
+
+## 2026-11-06 – Sechste Spalte vollständig, Fächer 6-5 bis 6-8
+
+Die Originalbilder FOTO0042–FOTO0045 wurden anhand von 16 Vollauflösungs-Pixelausschnitten geprüft. Insbesondere die schmalen Agatha-Christie-Bände in Fach 6-5 und 6-6 sind einzeln gezählt. 100 neue Exemplare:
+
+- Fach 6-5: 34 Einträge; 3 offen/pruefen
+- Fach 6-6: 25 Einträge; 3 offen/pruefen
+- Fach 6-7: 19 Einträge; 0 offen/pruefen
+- Fach 6-8: 22 Einträge; 4 offen/pruefen
+
+Gesamtsumme: 913 vorläufige physische Buch-Einträge aus 44 Fachpositionen. Ein eigener Band kann mehrere Titel enthalten und wird dann nur als ein Exemplar erfasst. Unsichere Buchrücken und exakte Autoren bleiben markiert. Nächster Bearbeitungsabschnitt: FOTO0046–FOTO0049 für Regal 7-1 bis 7-4.
