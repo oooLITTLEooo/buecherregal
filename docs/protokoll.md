@@ -61,3 +61,10 @@
 
 - Originalpixel-Ausschnitte von FOTO0014 bis FOTO0017 geprüft, 94 weitere vorläufige Datensätze, 15 unsicher, Gesamtstand 323.
 - Zwei Fehllesungen in 2-7 korrigiert; Originale und physische Buchreihenfolge nicht verändert.
+
+## 2026-11-06 – Fächer 3-5 bis 3-8
+
+- Git synchronisiert; Originaldateien FOTO0018–FOTO0021 geprüft; 16 hochauflösende Ausschnitte verwendet.
+- 77 Buchexemplare mit Standort, physischer Links-rechts-Position, Bildquelle und Lesestatus hinzugefügt.
+- 8 Einträge offen/pruefen, keine erdachten Autor- oder Titelangaben.
+- Nächste Originalfotos für Fächer 4-1 bis 4-4 zur Vollauflösungsprüfung vorgemerkt. Keine alphabetische Umsortierung.

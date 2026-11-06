@@ -48,3 +48,14 @@ Gesamtstand 229 Datensätze. Die fotografierten Fächer der ersten beiden Spalte
 Vier Originalbilder FOTO0014 bis FOTO0017 jeweils anhand von vier nativen Pixelausschnitten visuell geprüft. 94 vorläufige Buchexemplare erfasst, davon 15 mit Status pruefen/offen. Autoren, Titel, Position links-rechts und Originalfoto-Beleg je Datensatz.
 Zwei frühere Fehllesungen im Fach 2-7 (Position 12 und 13) anhand derselben Originalauflösung korrigiert.
 Unklare Rücken und unsichere Zählungen bleiben ausdrücklich vorläufig. Nächste Fächer: 3-5 bis 3-8 und danach Spalten 4 bis 7. Gesamtbestand aktuell 323 Einträge.
+
+## Spalte 3: 3-5 bis 3-8 in nativer Originalauflösung
+
+FOTO0018 bis FOTO0021 wurden jeweils in vier nativen Pixelausschnitten aus der vorhandenen Git-Originaldatei gelesen. 77 sichtbare Buchrücken als vorläufige Exemplare transkribiert. Unsichere Stellen nicht vervollständigt.
+
+- Fach 3-5: 16 Einträge, 4 offen/pruefen, Quelle bilder/originale/PXL_20261105_151324453.jpg
+- Fach 3-6: 25 Einträge, 2 offen/pruefen, Quelle bilder/originale/PXL_20261105_151327949.jpg
+- Fach 3-7: 18 Einträge, 1 offen/pruefen, Quelle bilder/originale/PXL_20261105_151332194.jpg
+- Fach 3-8: 18 Einträge, 1 offen/pruefen, Quelle bilder/originale/PXL_20261105_151346844.jpg
+
+Gesamtinventar: 400 vorläufige Einträge in 20 fotografierten Fachpositionen. Nächster Durchgang: 4-1 bis 4-4 (FOTO0022 bis FOTO0025). Exakte Identifikation, auch bei dünnen Rücken, ist im finalen Fachabgleich noch zu verifizieren.
