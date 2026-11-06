@@ -1,17 +1,17 @@
 foto_id;dateiname_git;typ;standort;aufnahmedatum;quell_dateiname;upload_status;groesse_bytes;sha256;phash_fachinhalt;notizen
-F0001;Regal_Gesamt.jpg;gesamtuebersicht;Gesamtregal;;58245.jpg;ausstehend;310688;5b0769653b37b26031fdcc9933f24441545602f117753ba2e83cacd303b373e8;ead48195bb855ecc;Acht Spalten vorläufig erkennbar
-F0002;Regal_1-5.jpg;fach;1-5;;58246.jpg;ausstehend;245320;71c5d948459504ad2eb2568f5172676c19c06a02f764f7f379b597c6078690fa;9a6be5d244e54ce1;Erfasst; 14 Positionen vorläufig
-F0003;Regal_1-6.jpg;fach;1-6;;58247.jpg;ausstehend;252723;fbbda9b2787107deb10eabf12a6a9c60baf7adee1db872bc3e210151a6928098;8f2cf0f753d04ba4;Erfasst; 15 Positionen vorläufig
-F0004;Regal_1-7.jpg;fach;1-7;;58248.jpg;ausstehend;261634;086768a633763228444d0e0bc83d7cd07bbde8d7440dcf2afe860e08074a076f;9be4e40b853b655b;Erfasst; 15 Positionen vorläufig
-F0005;Regal_1-8.jpg;fach;1-8;;58249.jpg;ausstehend;257339;6c161dd25c83b907972c0bbf5d1511643422151a7acda507bda80cf4a825a25c;aa59db18c93a3b38;Erfasst; 15 Positionen vorläufig
-F0006;Regal_2-1.jpg;fach;2-1;;58250.jpg;ausstehend;267518;d657c9dd99452ff133c0f3db28022b09f2388aaaeb974b05de098fe9acc7467f;906b3fe084a1dba8;Erfasst; 20 Positionen vorläufig
-F0007;Regal_2-2.jpg;fach;2-2;;58251.jpg;ausstehend;278199;62feddfcc49c7036be8b3ebf575dfe2ca0d925125d22ad48a4bb33464ddeea59;9668a5d6915b7a68;Erfasst; 27 Positionen vorläufig
-F0008;Regal_2-3.jpg;fach;2-3;;58253.jpg;ausstehend;254370;5c37481616b99f8b861ae7d4ff0df19b8b9a1cf21dec19aad45b8094744c6aa7;ce2cb18390f44ebf;Foto eindeutig, keine Dublette; Buchinventar erster Durchgang
-F0009;Regal_2-4.jpg;fach;2-4;;58254.jpg;ausstehend;259133;9be7433d64de6bffdc3f94fa0dcbf1c5727a7b586de1f15836f3b7362094386d;d14e8ed1ce4e6a4c;Foto eindeutig, keine Dublette; Buchinventar erster Durchgang
-F0010;Regal_2-5.jpg;fach;2-5;;58255.jpg;ausstehend;269784;71eb6785c023f777fbaa2275f74baf07e6bfb3393ee783a5049ada5f24c6e9ec;ef1191e991737b53;Foto eindeutig, keine Dublette; Buchinventar erster Durchgang
-F0011;Regal_2-6.jpg;fach;2-6;;58256.jpg;ausstehend;226591;91334fb0a69a3c3fdb2ca935edd03ad5464b236b02265aafe88f90ea9138e893;9f6ca0cb768517f4;Foto eindeutig, keine Dublette; Buchinventar erster Durchgang
-F0012;Regal_2-7.jpg;fach;2-7;;58257.jpg;ausstehend;243263;c001b2caeb6aeb56432cbf738e574ea76ba7a19d8d0e7646c750b247c6157e86;9748c8b7d8937b8c;Foto eindeutig, keine Dublette; Buchinventar erster Durchgang
-F0013;Regal_2-8.jpg;fach;2-8;;58258.jpg;ausstehend;234649;6eb6806d6583e140017ad6a32adeb54db269a96599b2dfed8b58862b1ed13caa;9f47c03989b1b6b7;Foto eindeutig, keine Dublette; Buchinventar erster Durchgang
+F0001;Regal_Gesamt.jpg;gesamtuebersicht;Gesamtregal;;58245.jpg;ausstehend;310688;5b0769653b37b26031fdcc9933f24441545602f117753ba2e83cacd303b373e8;eaf7c5302bb609a4;Acht Spalten vorläufig erkennbar
+F0002;Regal_1-5.jpg;fach;1-5;;58246.jpg;ausstehend;245320;71c5d948459504ad2eb2568f5172676c19c06a02f764f7f379b597c6078690fa;9a2ba552b772e942;Erfasst; 14 Positionen vorläufig
+F0003;Regal_1-6.jpg;fach;1-6;;58247.jpg;ausstehend;252723;fbbda9b2787107deb10eabf12a6a9c60baf7adee1db872bc3e210151a6928098;8d2cf826b366d263;Erfasst; 15 Positionen vorläufig
+F0004;Regal_1-7.jpg;fach;1-7;;58248.jpg;ausstehend;261634;086768a633763228444d0e0bc83d7cd07bbde8d7440dcf2afe860e08074a076f;9be4ec9d95a0a2e2;Erfasst; 15 Positionen vorläufig
+F0005;Regal_1-8.jpg;fach;1-8;;58249.jpg;ausstehend;257339;6c161dd25c83b907972c0bbf5d1511643422151a7acda507bda80cf4a825a25c;a07b9a8d85a7a1f8;Erfasst; 15 Positionen vorläufig
+F0006;Regal_2-1.jpg;fach;2-1;;58250.jpg;ausstehend;267518;d657c9dd99452ff133c0f3db28022b09f2388aaaeb974b05de098fe9acc7467f;d03f3b7e25c4c4c1;Erfasst; 20 Positionen vorläufig
+F0007;Regal_2-2.jpg;fach;2-2;;58251.jpg;ausstehend;278199;62feddfcc49c7036be8b3ebf575dfe2ca0d925125d22ad48a4bb33464ddeea59;d728248495d3fb78;Erfasst; 27 Positionen vorläufig
+F0008;Regal_2-3.jpg;fach;2-3;;58253.jpg;ausstehend;254370;5c37481616b99f8b861ae7d4ff0df19b8b9a1cf21dec19aad45b8094744c6aa7;ce3d2302b1d8e9ce;Foto eindeutig, keine Dublette; Buchinventar erster Durchgang
+F0009;Regal_2-4.jpg;fach;2-4;;58254.jpg;ausstehend;259133;9be7433d64de6bffdc3f94fa0dcbf1c5727a7b586de1f15836f3b7362094386d;912eadb596b194d2;Foto eindeutig, keine Dublette; Buchinventar erster Durchgang
+F0010;Regal_2-5.jpg;fach;2-5;;58255.jpg;ausstehend;269784;71eb6785c023f777fbaa2275f74baf07e6bfb3393ee783a5049ada5f24c6e9ec;ee11ca9885a9bd36;Foto eindeutig, keine Dublette; Buchinventar erster Durchgang
+F0011;Regal_2-6.jpg;fach;2-6;;58256.jpg;ausstehend;226591;91334fb0a69a3c3fdb2ca935edd03ad5464b236b02265aafe88f90ea9138e893;9f608a7eea03f826;Foto eindeutig, keine Dublette; Buchinventar erster Durchgang
+F0012;Regal_2-7.jpg;fach;2-7;;58257.jpg;ausstehend;243263;c001b2caeb6aeb56432cbf738e574ea76ba7a19d8d0e7646c750b247c6157e86;954ceb46d3c292d6;Foto eindeutig, keine Dublette; Buchinventar erster Durchgang
+F0013;Regal_2-8.jpg;fach;2-8;;58258.jpg;ausstehend;234649;6eb6806d6583e140017ad6a32adeb54db269a96599b2dfed8b58862b1ed13caa;9746ca4bc86bc93c;Foto eindeutig, keine Dublette; Buchinventar erster Durchgang
 F0014;Regal_3-1.jpg;fach;3-1;;58261.jpg;ausstehend;283582;bfb9573632750c1e4c8322031bc29e7ce493ff8584fcd4c8b5b091578b4a3461;d402223e236b3d7f;Im Chat empfangen, eindeutiges Fachfoto, Original-JPEG noch nicht auf GitHub
 F0015;Regal_3-2.jpg;fach;3-2;;58262.jpg;ausstehend;272646;eeb2895e083881c7fc1b6a3665ced78830e92ae33e2e0648a553e0dbbf7d9d5c;d03e2f4fc9d0d494;Im Chat empfangen, eindeutiges Fachfoto, Original-JPEG noch nicht auf GitHub
 F0016;Regal_3-3.jpg;fach;3-3;;58264.jpg;ausstehend;247076;ee5ce3b03dd779d0f2802888981086c4720edddae11cc9d612f3b28757fde653;e41f1b94d7e887c0;Im Chat empfangen, eindeutiges Fachfoto, Original-JPEG noch nicht auf GitHub
