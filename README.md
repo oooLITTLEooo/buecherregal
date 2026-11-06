@@ -13,6 +13,7 @@ Nummerierung: links beginnen, in Spalte 1 von oben nach unten, danach in Spalte 
 - `daten/buecher.csv`: Autor, Titel, ursprünglicher Standort, Position und Prüfstatus
 - `daten/fotos.csv`: Zuordnung originaler Fotos, SHA-256 und Git-Uploadstatus
 - `daten/fachstatus.csv`: fotografierte und noch fehlende Regalfächer
+- `daten/offene_punkte.csv`: wortgetreue Nutzer-Erinnerungen und offener Status
 - `bilder/originale/`: alle vom Nutzer übermittelten, **unveränderten** JPEGs mit Regalnamen
 - `bilder/generiert/`: später generierte Bilder
 - `docs/uebersicht.md`: Gesamtbild und Fortschritt
@@ -31,15 +32,17 @@ Alle Originaldateien werden nur **umbenannt**, nicht inhaltlich verändert.
 ## Aktueller Stand (2026-11-06)
 
 - GitHub-Sichtbarkeit: **public**, ausdrücklich gewünscht.
-- **31 Fotos** im Chat übermittelt: 1 Gesamtansicht + 30 Fachfotos (bis einschließlich Fach `5-2`).
+- **37 Fotos** im Chat übermittelt: 1 Gesamtansicht + 36 Fachfotos (bis einschließlich Fach `5-8`).
 - Die Fotos wurden anhand der Aufnahmen benannt und in einem verifizierten ZIP gesammelt.
-- **0 von 31 Original-JPEGs im Git-Repository**; alle in `daten/fotos.csv` als `upload_status=ausstehend` markiert. Der Upload steht aus, weil die verfügbare GitHub-Verbindung keinen direkten Dateitransfer lokaler Binärbilder ermöglicht.
-- Die vorläufige Buchinventarliste enthält **362** Positionen aus den früher bearbeiteten Fächern, davon **68** als offen/zu prüfen. Die sechs zuletzt erhaltenen Fächer werden gemäß neuem Workflow erst **nach erfolgreicher Bildarchivierung in Git** detailliert ausgewertet.
-- **Nächste noch fehlende Aufnahme:** voraussichtlich `5-3` (danach `5-4` usw.), anhand der Gesamtübersicht weiter überprüfen.
+- **0 von 37 Original-JPEGs im Git-Repository**; alle in `daten/fotos.csv` als `upload_status=ausstehend` markiert. Der Upload steht aus, weil die verfügbare GitHub-Verbindung keinen direkten Dateitransfer lokaler Binärbilder ermöglicht.
+- Die vorläufige Buchinventarliste enthält **362** Positionen aus den früher bearbeiteten Fächern, davon **68** als offen/zu prüfen. Die seit der Workflow-Umstellung eingegangenen Fächer werden erst **nach erfolgreicher Bildarchivierung in Git** detailliert ausgewertet.
+- **Nächste noch fehlende Aufnahme:** voraussichtlich `6-1` (danach `6-2` usw.), anhand der Gesamtübersicht weiter überprüfen.
 
 ## Offene Notizen
 
-- **Nutzervermerk (unverändert):** `3.5 noch`. Bei Abschluss der weiteren Erfassung erneut nennen. Fach `3-5` ist bereits fotografiert; Bedeutung des Zusatzvermerks noch nicht konkretisiert.
+- **Nutzervermerk (unverändert):** `3.5 noch`. Fach `3-5` ist bereits fotografiert; Bedeutung des Zusatzvermerks noch nicht konkretisiert.
+- **Nutzervermerk (unverändert):** `2.5 noch`. Fach `2-5` ist bereits fotografiert; Bedeutung des Zusatzvermerks noch nicht konkretisiert.
+- Beide Vermerke am Ende der weiteren Antworten angeben, bis sie erledigt sind.
 
 ## Neuer verbindlicher Arbeitsablauf
 
@@ -49,14 +52,14 @@ Alle Originaldateien werden nur **umbenannt**, nicht inhaltlich verändert.
 4. Änderungen mit Git dokumentieren: **sync → script/import → sync → analyse**.
 5. Nach vollständiger Aufnahme Sortierplan nach Autorennachname erstellen.
 
-### Ersteinmaliger Import der ersten 31 Fotos
+### Ersteinmaliger Import der ersten 37 Fotos
 
-Original-ZIP `buecherregal_fotos_bis_5-2_2026-11-06.zip` aus der Chat-Antwort herunterladen. Im geklonten Repository mit Git-Schreibzugriff ausführen:
+Original-ZIP `buecherregal_fotos_bis_5-8_2026-11-06.zip` aus der Chat-Antwort herunterladen. Im geklonten Repository mit Git-Schreibzugriff ausführen:
 
 ```bash
 git clone https://github.com/oooLITTLEooo/buecherregal.git
 cd buecherregal
-bash scripts/import-fotos.sh /vollstaendiger/pfad/buecherregal_fotos_bis_5-2_2026-11-06.zip
+bash scripts/import-fotos.sh /vollstaendiger/pfad/buecherregal_fotos_bis_5-8_2026-11-06.zip
 ```
 
 Das Skript verifiziert jede Original-JPEG-Datei gegen `daten/fotos.csv`, setzt den Uploadstatus und führt Commit + Push aus. Danach:
