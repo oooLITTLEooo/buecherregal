@@ -11,7 +11,7 @@ standort;status;foto_id;bemerkung
 2-2;detailfoto_erfasst;F0007;Buchtitel erstpassweise erfasst
 2-3;detailfoto_erfasst;F0008;Buchtitel erstpassweise erfasst, Unsicherheiten gekennzeichnet
 2-4;detailfoto_erfasst;F0009;Buchtitel erstpassweise erfasst, Unsicherheiten gekennzeichnet
-2-5;detailfoto_erfasst;F0010;Buchtitel erstpassweise erfasst, Unsicherheiten gekennzeichnet
+2-5;detailfoto_erfasst;F0010;Buchtitel erstpassweise erfasst, Unsicherheiten gekennzeichnet | Nutzervermerk 2.5 noch (Bedeutung offen)
 2-6;detailfoto_erfasst;F0011;Buchtitel erstpassweise erfasst, Unsicherheiten gekennzeichnet
 2-7;detailfoto_erfasst;F0012;Buchtitel erstpassweise erfasst, Unsicherheiten gekennzeichnet
 2-8;detailfoto_erfasst;F0013;Buchtitel erstpassweise erfasst, Unsicherheiten gekennzeichnet
@@ -33,9 +33,17 @@ standort;status;foto_id;bemerkung
 4-8;detailfoto_erfasst;F0029;Original-JPEG im Chat, Git-Import ausstehend, Analyse danach
 5-1;detailfoto_erfasst;F0030;Original-JPEG im Chat, Git-Import ausstehend, Analyse danach
 5-2;detailfoto_erfasst;F0031;Original-JPEG im Chat, Git-Import ausstehend, Analyse danach
-5-3;detailfoto_ausstehend;;Foto noch nicht erhalten, voraussichtliches Fach nach Gesamtuebersicht
-5-4;detailfoto_ausstehend;;Foto noch nicht erhalten, voraussichtliches Fach nach Gesamtuebersicht
-5-5;detailfoto_ausstehend;;Foto noch nicht erhalten, voraussichtliches Fach nach Gesamtuebersicht
-5-6;detailfoto_ausstehend;;Foto noch nicht erhalten, voraussichtliches Fach nach Gesamtuebersicht
-5-7;detailfoto_ausstehend;;Foto noch nicht erhalten, voraussichtliches Fach nach Gesamtuebersicht
-5-8;detailfoto_ausstehend;;Foto noch nicht erhalten, voraussichtliches Fach nach Gesamtuebersicht
+5-3;detailfoto_erfasst;F0032;Foto im Chat erfasst, Original-JPEG im Git noch ausstehend
+5-4;detailfoto_erfasst;F0033;Foto im Chat erfasst, Original-JPEG im Git noch ausstehend
+5-5;detailfoto_erfasst;F0034;Foto im Chat erfasst, Original-JPEG im Git noch ausstehend
+5-6;detailfoto_erfasst;F0035;Foto im Chat erfasst, Original-JPEG im Git noch ausstehend
+5-7;detailfoto_erfasst;F0036;Foto im Chat erfasst, Original-JPEG im Git noch ausstehend
+5-8;detailfoto_erfasst;F0037;Foto im Chat erfasst, Original-JPEG im Git noch ausstehend
+6-1;detailfoto_ausstehend;;Naechste Regalspalte, genaue Fachzahl anhand der Detailfotos weiter pruefen
+6-2;detailfoto_ausstehend;;Naechste Regalspalte, genaue Fachzahl anhand der Detailfotos weiter pruefen
+6-3;detailfoto_ausstehend;;Naechste Regalspalte, genaue Fachzahl anhand der Detailfotos weiter pruefen
+6-4;detailfoto_ausstehend;;Naechste Regalspalte, genaue Fachzahl anhand der Detailfotos weiter pruefen
+6-5;detailfoto_ausstehend;;Naechste Regalspalte, genaue Fachzahl anhand der Detailfotos weiter pruefen
+6-6;detailfoto_ausstehend;;Naechste Regalspalte, genaue Fachzahl anhand der Detailfotos weiter pruefen
+6-7;detailfoto_ausstehend;;Naechste Regalspalte, genaue Fachzahl anhand der Detailfotos weiter pruefen
+6-8;detailfoto_ausstehend;;Naechste Regalspalte, genaue Fachzahl anhand der Detailfotos weiter pruefen
