@@ -12,11 +12,11 @@ Maschinenlesbare vollständige Übersicht: `daten/pruefplan_faecher.csv`. Nach j
 
 - Raster: **64** Fachpositionen, davon **51** mit Foto und vorhandenen Bucheinträgen.
 - **12** fotografierte Fächer mit `0` offenen/prüfpflichtigen Bucheinträgen → **vorläufig abhaken**.
-- **39** fotografierte Fächer mit zusammen **99** `pruefen`/`offen`-Einträgen.
-- Von diesen 39 sind **30** noch nicht in der neuen fachweisen Nachkontrolle behandelt worden → als nächstes **gezielt nur die unsicheren Bücher prüfen**.
-- **9** weitere wurden bereits mit allen vier Fotoausschnitten erneut geprüft, bleiben aber ungeklärt → erneute identische Bildprüfung ohne neuen Hinweis vermeiden; bei Bedarf neues Detailfoto.
+- **39** fotografierte Fächer mit zusammen **96** `pruefen`/`offen`-Einträgen.
+- Von diesen 39 sind **29** noch nicht in der neuen fachweisen Nachkontrolle behandelt worden → als nächstes **gezielt nur die unsicheren Bücher prüfen**.
+- **10** weitere wurden bereits mit allen vier Fotoausschnitten erneut geprüft, bleiben aber ungeklärt → erneute identische Bildprüfung ohne neuen Hinweis vermeiden; bei Bedarf neues Detailfoto.
 - Daneben **13 Positionen ohne Fachdetailfoto**: 3 mit Foto- oder Sichtbedarf, 6 mit unklarer/leer wirkender Belegung, 4 laut Übersicht leer oder mit Lampe.
-- Global: **1048** vorläufige Exemplare, davon **949 lesbar, 59 prüfen, 40 offen**. Fotos, Buch-IDs und positionsbezogene Originalreferenzen werden nicht geändert.
+- Global: **1048** vorläufige Exemplare, davon **952 lesbar, 56 prüfen, 40 offen**. Fotos, Buch-IDs und positionsbezogene Originalreferenzen werden nicht geändert.
 
 ## Vorläufig abgehakt — 12 Fächer
 
@@ -33,13 +33,12 @@ Maschinenlesbare vollständige Übersicht: `daten/pruefplan_faecher.csv`. Nach j
 - `7-2` — zweite Sichtprüfung durchgeführt
 - `7-4` — zweite Sichtprüfung durchgeführt
 
-## Noch gezielt prüfen — 30 Fächer
+## Noch gezielt prüfen — 29 Fächer
 
 Reihenfolge folgt der Regalnummerierung. Nur die betroffenen IDs öffnen und einen passenden Bildausschnitt lesen; klar lesbare Bücher nicht erneut bearbeiten.
 
 | Fach | Unsichere Bücher | IDs |
 | --- | ---: | --- |
-| 2-3 | 4 | `B00107`, `B00117`, `B00123`, `B00125` |
 | 2-4 | 2 | `B00131`, `B00149` |
 | 2-5 | 2 | `B00155`, `B00161` |
 | 2-6 | 1 | `B00170` |
@@ -70,9 +69,9 @@ Reihenfolge folgt der Regalnummerierung. Nur die betroffenen IDs öffnen und ein
 | 6-2 | 1 | `B00767` |
 | 6-4 | 2 | `B00804`, `B00811` |
 
-**Nächstes Fach:** `2-3`, nur **B00107**, **B00117**, **B00123** und **B00125**.
+**Nächstes Fach:** `2-4`, nur **B00131** und **B00149**.
 
-## Bereits erneut geprüft, aber weiterhin ungeklärt — 9 Fächer
+## Bereits erneut geprüft, aber weiterhin ungeklärt — 10 Fächer
 
 Diese Fächer sind **nicht** abgehakt. Ohne neue Fotodetails oder einen anderen konkret vielversprechenden Bildansatz nicht erneut dieselben Ausschnitte verarbeiten:
 
@@ -80,6 +79,7 @@ Diese Fächer sind **nicht** abgehakt. Ohne neue Fotodetails oder einen anderen 
 | --- | ---: | --- | --- |
 | 2-1 | 3 | `B00061`, `B00071`, `B00078` | `docs/fachpruefung_2-1_20261106.md` |
 | 2-2 | 1 | `B00094` | `docs/fachpruefung_2-2_20261106.md` |
+| 2-3 | 1 | `B00123` | `docs/fachpruefung_2-3_20261106.md` |
 | 6-6 | 3 | `B00848`, `B00860`, `B00869` | `docs/fachpruefung_6-6_20261106.md` |
 | 6-8 | 1 | `B00896` | `docs/fachpruefung_6-8_20261106.md` |
 | 7-1 | 1 | `B00916` | `docs/fachpruefung_7-1_20261106.md` |
@@ -102,3 +102,7 @@ Diese Fächer sind **nicht** abgehakt. Ohne neue Fotodetails oder einen anderen 
 3. Den vorhandenen Fotostatus in `daten/fachstatus.csv` erhalten; keine vorgetäuschte Gewissheit.
 4. `daten/pruefplan_faecher.csv` synchronisieren, sobald ein Unsicherheitsstatus wechselt.
 5. Nach Commit die CSV-Strukturen, Anzahl, IDs und die Änderung im Git verifizieren. Dann STOP und Ergebnis berichten.
+
+## Separat bemerkte bibliografische Abweichung (kein weiterer Foto-Check)
+
+- In Fach **2-3** ist **B00126 – Der Fluch der Fitzgeralds** derzeit fälschlich **F. Scott Fitzgerald** zugeordnet, obwohl das Werk bibliografisch **John D. Fitzgerald** zugeschrieben wird. Der Datensatz blieb gemäß der Vorgabe, nur unsichere IDs zu bearbeiten, unverändert. Siehe `docs/fachpruefung_2-3_20261106.md`. Bei einer separaten Datenbereinigung korrigieren.
