@@ -1,9 +1,5 @@
-# Fotos in Sichtpruefung: erste vier Faechern plus naechste vier Aufnahmen
-FOTO0002
-FOTO0003
-FOTO0004
-FOTO0005
-FOTO0006
-FOTO0007
-FOTO0008
-FOTO0009
+# Naechste vier Regalfachbilder, zweite Regalspalte
+FOTO0010
+FOTO0011
+FOTO0012
+FOTO0013
