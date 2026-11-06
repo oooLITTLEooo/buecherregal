@@ -1,52 +1,64 @@
 # Bücherregal – Inventar und Sortierung
 
-Dieses **private** Repository ist die zentrale Projektablage für die Erfassung und spätere alphabetische Sortierung eines Bücherregals. Die Sichtbarkeit wurde am 2026-11-06 auf GitHub als `private` bestätigt.
+**Öffentliches GitHub-Repository (Public) auf ausdrücklichen Wunsch des Eigentümers**, damit Interessierte Einsicht in die Sammlung und Projektfortschritte erhalten. GitHub als **Single Source of Truth**. Zuvor war es zeitweise privat; die Umstellung auf Public wurde vom Nutzer am 2026-11-06 als **beabsichtigt** bestätigt.
 
-## Projektziele
+## Projektziel
 
-- Regalfächer anhand eines Übersichtsfotos systematisch identifizieren und nummerieren.
-- Alle Bücher anhand von Detailfotos erfassen: Autor, Titel und ursprünglicher Standort.
-- Den ursprünglichen Platz jedes Buchs dokumentieren, damit es wiedergefunden werden kann.
-- Später eine alphabetische Sortierung nach dem **Nachnamen des Autors** planen.
-- Nutzerfotos sowie gegebenenfalls erzeugte Bilder im Repository versionieren.
+Ein vollständiges, nachvollziehbares Buchinventar mit ursprünglicher Regalposition erstellen und anschließend alphabetisch nach Autorennachnamen sortieren.
 
-## Ordnungssystem
+Nummerierung: links beginnen, in Spalte 1 von oben nach unten, danach in Spalte 2 wieder von oben nach unten, usw. `1-5` bedeutet Spalte 1, Fach 5. Innerhalb des Fachs die Bücher von links nach rechts zählen.
 
-Die Fächer werden **spaltenweise** nummeriert: links oben beginnend in der ersten Spalte nach unten, danach die zweite Spalte wieder oben beginnend nach unten, usw. `1-4` bedeutet: erste Spalte, viertes Fach von oben.
+## Daten und Bilder
 
-Zusätzlich erfasst `position_im_fach` die Position des Buchs im jeweiligen Fach, gezählt von links nach rechts. Die tatsächlichen Fächer und Spalten werden anhand des Übersichtsfotos und der Detailfotos festgelegt.
+- `daten/buecher.csv`: Autor, Titel, ursprünglicher Standort, Position und Prüfstatus
+- `daten/fotos.csv`: Zuordnung originaler Fotos, SHA-256 und Git-Uploadstatus
+- `daten/fachstatus.csv`: fotografierte und noch fehlende Regalfächer
+- `bilder/originale/`: alle vom Nutzer übermittelten, **unveränderten** JPEGs mit Regalnamen
+- `bilder/generiert/`: später generierte Bilder
+- `docs/uebersicht.md`: Gesamtbild und Fortschritt
+- `docs/standorte.md`: Nummerierungs- und Sortierregeln
+- `docs/protokoll.md`: Änderungen und Entscheidungen
+- `scripts/import-fotos.sh`: SHA-256-geprüfter Bildimport in den Git-Clone samt Commit und Push
 
-## Verzeichnisübersicht
+### Bilddateinamen
 
-- `daten/buecher.csv` – Buchinventar mit ursprünglichen Standorten
-- `daten/fotos.csv` – Zuordnung der Aufnahmen zu den Regalfächern und Uploadstatus
-- `docs/standorte.md` – Nummerierung und Erfassungsregeln
-- `docs/uebersicht.md` – visuelle Ersteinschätzung des Gesamtfotos
-- `docs/protokoll.md` – Projektverlauf
-- `scripts/import-fotos.sh` – SHA-256-geprüfter Import der unveränderten Original-JPEGs aus dem Chat-ZIP in GitHub
-- `bilder/originale/` – Nutzerfotos, sprechende Dateinamen, unveränderter Bildinhalt
-- `bilder/generiert/` – erzeugte Bilder/Grafiken
+- Gesamtansicht: `Regal_Gesamt.jpg`
+- Regalfach: `Regal_3-7.jpg` (Spalte 3, Fach 7)
+- Weitere Ansicht: `Regal_3-7_02.jpg`
 
-## Benennung der Fotos
+Alle Originaldateien werden nur **umbenannt**, nicht inhaltlich verändert.
 
-- Gesamtübersicht: `Regal_Gesamt.jpg`
-- Einzelnes Fach: `Regal_1-4.jpg` (erste Spalte, viertes Fach von oben)
-- Mehrere Fotos eines Faches: `Regal_1-4_02.jpg` etc.
+## Aktueller Stand (2026-11-06)
 
-Dateiendung passend zum echten Bildformat beibehalten. Originale können unverändert umbenannt werden. Siehe `bilder/README.md`.
+- GitHub-Sichtbarkeit: **public**, ausdrücklich gewünscht.
+- **25 Fotos** im Chat übermittelt: 1 Gesamtansicht + 24 Fachfotos (bis einschließlich Fach `4-4`).
+- Die Fotos wurden anhand der Aufnahmen benannt und in einem verifizierten ZIP gesammelt.
+- **0 von 25 Original-JPEGs im Git-Repository**; alle in `daten/fotos.csv` als `upload_status=ausstehend` markiert. Der Upload steht aus, weil die verfügbare GitHub-Verbindung keinen direkten Dateitransfer lokaler Binärbilder ermöglicht.
+- Die vorläufige Buchinventarliste enthält **362** Positionen aus den früher bearbeiteten Fächern, davon **68** als offen/zu prüfen. Die sechs zuletzt erhaltenen Fächer werden gemäß neuem Workflow erst **nach erfolgreicher Bildarchivierung in Git** detailliert ausgewertet.
+- **Nächste noch fehlende Aufnahme:** voraussichtlich `4-5` (danach `4-6`, `4-7`, `4-8`), anhand der Gesamtübersicht weiter überprüfen.
 
-## Aktueller Stand
+## Neuer verbindlicher Arbeitsablauf
 
-- Repository-Sichtbarkeit: **private**.
-- Dokumentation und leere Inventardateien angelegt.
-- Übersichtsfoto (`F0001`) und achtzehn Detailfotos (`F0002` bis `F0019`) im Chat empfangen.
-- Achtzehn belegte Fächer erfasst: `1-5` bis `1-8`, `2-1` bis `2-8` sowie `3-1` bis `3-6`.
-- In `daten/buecher.csv` 362 vorläufige Buchpositionen im ersten Erfassungsdurchgang, davon 68 noch offen/zu prüfen.
-- Fortschritt und fehlende Fotos in `daten/fachstatus.csv` dokumentiert. **Nächstes Foto: `3-7`, danach `3-8`.**
-- **Die 19 Original-JPEG-Dateien sind noch nicht in GitHub hochgeladen**, aber als ZIP mit korrekten Git-Dateinamen gesichert. Der in `daten/fotos.csv` gespeicherte Dateiname ist vorerst der beabsichtigte Git-Name.
-- Alphabetische Umordnung erst auf Anweisung des Nutzers.
+1. Bilder empfangen, Standorte zuordnen und Dubletten erkennen.
+2. Alle unveränderten Originale **zuerst im GitHub-Repository ablegen**, Upload mittels SHA-256 und Pfad verifizieren.
+3. Erst danach jedes Fach exakt analysieren, unlesbare Titel markieren, jedes Buch inventarisieren.
+4. Änderungen mit Git dokumentieren: **sync → script/import → sync → analyse**.
+5. Nach vollständiger Aufnahme Sortierplan nach Autorennachname erstellen.
 
-## Datenschutz und Arbeitsweise
+### Ersteinmaliger Import der ersten 25 Fotos
 
-- Alle Projektänderungen werden in Git dokumentiert.
-- Eine Upload-Zusage gilt erst, wenn die Bilddatei tatsächlich ins Git-Repository übertragen und verifiziert wurde.
+Original-ZIP `buecherregal_fotos_bis_4-4_2026-11-06.zip` aus der Chat-Antwort herunterladen. Im geklonten Repository mit Git-Schreibzugriff ausführen:
+
+```bash
+git clone https://github.com/oooLITTLEooo/buecherregal.git
+cd buecherregal
+bash scripts/import-fotos.sh /vollstaendiger/pfad/buecherregal_fotos_bis_4-4_2026-11-06.zip
+```
+
+Das Skript verifiziert jede Original-JPEG-Datei gegen `daten/fotos.csv`, setzt den Uploadstatus und führt Commit + Push aus. Danach:
+```bash
+git ls-files bilder/originale/ | grep -c '\.jpg$'
+git status --short
+```
+
+**Hinweis:** GitHub ist öffentlich, auch die dort später hochgeladenen Original-Regalfotos können von anderen angesehen werden.
