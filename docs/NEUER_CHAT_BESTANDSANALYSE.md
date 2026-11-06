@@ -1,76 +1,63 @@
-# Übergabe an neuen Chat – Bestandsanalyse Bücherregal
+# Übergabe für neuen Chat: Bestandsanalyse Bücherregal
 
-**Stand:** 2026-11-06  
-**GitHub:** https://github.com/oooLITTLEooo/buecherregal  
-**Standardbranch:** `main`  
-**Sichtbarkeit:** `public` – vom Nutzer ausdrücklich gewünscht.  
-**Arbeitsregel:** GitHub ist die Single Source of Truth; **immer Git: sync → Skript/Änderung → sync → Analyse**.
+## Projekt und verbindlicher Datenbestand
 
-## Auftrag für den NEUEN Chat
+- **GitHub-Repository:** https://github.com/oooLITTLEooo/buecherregal
+- **Sichtbarkeit:** `public` ist ausdrücklich gewünscht.
+- **Single Source of Truth:** ausschließlich die **zum Start des neuen Chats tatsächlich im Git-Repository vorhandenen Dateien**, insbesondere die Originalfotos. Der Upload wird laut Nutzer **vor Beginn des neuen Chats abgeschlossen** sein.
+- **Keine Übernahme von Fotos, Bucherkennungen, Bildnummern, Regalzuordnungen, Inventarständen oder sonstigen Annahmen aus früheren Chat-Nachrichten.** Den Bestand ohne Vorannahmen aus Git neu ermitteln.
+- Frühere, nicht anhand des aktuellen Git-Fotobestands überprüfte Daten gelten **nicht** als Inventarnachweis. Aus dem aktuellen Git-Bestand eine neue, überprüfbare Bestandsaufnahme erstellen.
 
-Der Nutzer wünscht folgende Reihenfolge:
+## Arbeitsauftrag – in genau dieser Reihenfolge
 
-1. **Repository vollständig analysieren**: Branches, Verzeichnisbaum, tatsächliche Originalfotos, README, CSV-Inventare, Foto-Manifest, Protokoll und Git-Historie.
-2. **Doppelte Fotos identifizieren und bereinigen**: erst identische Dateien über SHA-256, danach visuell fast identische Aufnahmen durch Bildvergleich. Bei Zweifeln nicht automatisch löschen; aussagekräftigste Aufnahme bewahren. Jede Löschung vorher dokumentieren und sicherstellen, dass keine einzigartige Buchinformation verloren geht. Git-Historie/Backup als Rückweg erhalten.
-3. **Fotos ordnen und umbenennen**: `Regal_Gesamt.jpg` sowie `Regal_<Spalte>-<Fach>.jpg`; bei mehreren sinnvollen Ansichten z. B. `Regal_3-5_02.jpg`. Dateien in `bilder/originale/`; `git mv` bzw. GitHub-Commits benutzen. Umbenennung nur anhand gesicherter Fachzuordnung, nicht bloß nach Kameranummer. `daten/fotos.csv` und Fotoverweise in `daten/buecher.csv` konsistent nachführen.
-4. **Abgleich auf Vollständigkeit**: Foto-Standorte gegen `daten/fachstatus.csv` und Gesamtübersicht prüfen. Leere Fächer als leer markieren, nicht als fehlende Fotos. Pro tatsächlich belegtem Fach mindestens eine ausreichend lesbare Aufnahme. Konkrete fehlende Fächer mit Nummer melden; Kameranummernlücken sind für sich allein kein Beweis fehlender Regalfotos.
-5. **Erst danach vollständige Analyse aller in Git gespeicherten Fotos**: jeden Buchrücken möglichst genau identifizieren (Autor, Titel, ggf. Band und Edition). Physische Exemplare einzeln erfassen, auch echte doppelte Bücher. Reihenfolge von **links nach rechts** innerhalb des Faches dokumentieren. Unleserliche Angaben als `offen`/`pruefen` kennzeichnen statt zu raten. Nicht davon ausgehen, dass die 362 bereits erfassten Einträge korrekt oder vollständig sind; anhand der Originale verifizieren.
-6. Ergebnisse und Prüfprotokolle **ins Git committen**. Erst nach kompletter Bestandsanalyse einen separaten alphabetischen Sortierplan vorbereiten. **Keine physische Umsortierung ohne neue Nutzeranweisung.**
+### 1. Git-Repository und tatsächlich vorhandene Fotos prüfen
 
-## Aktueller geprüfter GitHub-Befund
+1. Repository-Status, Standardbranch, gegebenenfalls andere Branches, Git-Historie und Verzeichnisstruktur prüfen; **Git-Sync** vor Arbeitsbeginn.
+2. **Alle Bilddateien im Repository rekursiv** finden, unabhängig davon, wie sie aktuell heißen und in welchen Unterordnern sie liegen. Unterstützte Formate und mögliche Abweichungen ermitteln; nicht nur `bilder/originale/` durchsuchen.
+3. Eine vorläufige Fotoliste aus **tatsächlich existierenden Dateien** erstellen: ursprünglicher Git-Pfad, Format, Dateigröße, Auflösung, SHA-256, ggf. EXIF, Erfassungs-/Prüfstatus.
+4. Verfügbarkeit und Lesbarkeit der hochgeladenen Bilder in voller Auflösung verifizieren. Wenn der Upload wider Erwarten nicht vollständig oder der Speicherort unbekannt ist, die konkreten Lücken dokumentieren; **keine imaginären Bilder ergänzen**.
+5. Das Gesamtübersichtsfoto ermitteln und den wirklichen Regalaufbau daraus ableiten. Es gibt keine vorausgesetzte Zahl von Spalten oder Fächern.
 
-Am **2026-11-06** wurden das Repository und seine Branches sowie der rekursive Dateibaum über die GitHub-Verbindung geprüft:
+### 2. Doppelte Fotos erkennen und bereinigen
 
-- Es existierte **nur der Branch `main`**.
-- `bilder/originale/` enthielt nur `.gitkeep`. Im gesamten rekursiv abgefragten `main`-Baum waren **keine JPG/JPEG/PNG/WEBP/HEIC-Bilddateien**.
-- Der Nutzer berichtet, **alle Fotos in voller Auflösung hochgeladen zu haben**. Das konnte im überprüften Branch/Repository zu diesem Zeitpunkt **noch nicht bestätigt** werden. Bei Beginn im neuen Chat **erneut prüfen**, ob inzwischen Bilder hinzugekommen sind oder sie an anderer Stelle abgelegt wurden. Nicht widerspruchslos als in Git vorhanden behandeln.
-- Die GitHub-Textdateien sind vorhanden, insbesondere `daten/buecher.csv`, `daten/fotos.csv`, `daten/fachstatus.csv`, `daten/offene_punkte.csv`.
-- **43 Chat-Aufnahmen** wurden verzeichnet: **1 Übersichtsfoto + 42 Fachfotos**.
-- Die Original-JPEG-Daten der 43 Chat-Aufnahmen wurden für einen möglichen Import **ohne Rekodierung** im Chat-Archiv `buecherregal_fotos_bis_6-6_2026-11-06.zip` gesichert (43 Dateien, pro Bild SHA-256 im enthaltenen `FOTO_MANIFEST.csv`). Das Archiv liegt als Chat-Artefakt vor, **nicht als bestätigte Datei im GitHub-Repository**.
-- Die 43 `daten/fotos.csv`-Einträge tragen korrekterweise `upload_status=ausstehend`. Status erst nach Abgleich mit echten Git-Dateien aktualisieren.
+1. **Byte-identische Dubletten** per SHA-256 finden.
+2. **Visuell ähnliche und mehrfach aufgenommene Fächer** mittels Bildvergleich (z. B. perceptual hash) prüfen. Ähnliche Bilder können zusätzliche lesbare Buchrücken zeigen und müssen deshalb nicht überflüssig sein.
+3. Prüfprotokoll mit allen Kandidaten, Bildpfaden, Prüfsummen und Entscheidung anlegen.
+4. Nur **nachweislich überflüssige Dubletten** aus dem aktiven Bestand entfernen; möglichst aussagekräftiges Original behalten. Unklare Fälle erhalten und kennzeichnen. Veränderungen nachvollziehbar committen; die Git-Historie als Wiederherstellungsmöglichkeit bewahren.
 
-## Bislang abgebildete Fächer (vorläufig)
+### 3. Fotos sortieren und eindeutig umbenennen
 
-- `1-1` bis `1-3`: laut Übersicht leer; `1-4`: Lampe / kein erkennbarer Bücherbestand.
-- `1-5` bis `1-8`: Detailaufnahmen vorhanden.
-- `2-1` bis `2-8`: Detailaufnahmen vorhanden.
-- `3-1` bis `3-8`: Detailaufnahmen vorhanden.
-- `4-1` bis `4-8`: Detailaufnahmen vorhanden.
-- `5-1` bis `5-8`: Detailaufnahmen vorhanden.
-- `6-1` bis `6-6`: Detailaufnahmen vorhanden.
-- **Abgleich noch offen:** `6-7`, `6-8` und die übrigen Spalten (auf dem Übersichtsbild schätzungsweise insgesamt acht vertikale Spalten). Die endgültige Zahl und Belegung der Fachpositionen sind erst nach Fotoabgleich festzulegen.
+1. Regalfächer aus der Übersicht **spaltenweise** nummerieren: links beginnend, innerhalb jeder Spalte von oben nach unten. Beispiel: `1-5` = erste Spalte, fünftes Fach von oben.
+2. Jede Aufnahme anhand ihres tatsächlichen Bildinhalts einem Fach zuordnen; ursprüngliche Dateinamen sind **kein** sicherer Beleg für die Fachposition.
+3. Einheitliche Zielnamen: `Regal_Gesamt.jpg`, `Regal_1-5.jpg`, bei nützlicher zweiter Ansicht `Regal_1-5_02.jpg` usw. Die **Originalbilddaten unverändert** lassen; keine unnötige Neuspeicherung, Konvertierung, Skalierung oder Kompression.
+4. In `bilder/originale/` ordnen, möglichst mittels `git mv`; bestehende Dateien niemals versehentlich überschreiben. Vorher-Nachher-Mapping in `daten/fotos.csv` dokumentieren und nach dem Push verifizieren.
 
-## Inventarqualität bisher
+### 4. Vollständigkeitsabgleich
 
-- `daten/buecher.csv`: 362 **vorläufige** Buchpositionen aus 18 früher analysierten Fächern.
-- Davon 68 als `offen` oder `pruefen` gekennzeichnet.
-- Die nach dem vereinbarten Wechsel auf **„Bilder zuerst in Git“** erhaltenen Fächer sind noch **nicht** vollständig buchweise erfasst.
-- Im Folgechat alle 362 vorhandenen Zeilen gegen die Originalfotos validieren; danach die fehlenden Fächer vervollständigen. Einträge nicht unbesehen als endgültige Fakten übernehmen.
+1. Die anhand der Gesamtübersicht **tatsächlich vorhandenen** Regalspalten und Fächer bestimmen.
+2. Bild für Bild abgleichen: Welche Fächer sind eindeutig dokumentiert, welche nur teilweise und welche fehlen? Mehrfachbilder nicht als zusätzliche Fächer zählen.
+3. Leere Fächer und Fächer ohne Bücher separat kennzeichnen, nicht als fehlendes Buchfoto behandeln.
+4. Konkrete fehlende oder schlecht lesbare Fächer **mit Standortnummer** in `daten/fachstatus.csv` aufführen. Bei Unklarheiten exakt sagen, welches Foto ergänzend gebraucht wird.
+5. Keine pauschalen Annahmen über Fachanzahl, ursprüngliche Reihenfolge oder bisherigen Erfassungsfortschritt übernehmen.
 
-## Offene Nutzer-Erinnerungen – unbedingt erhalten
+### 5. Vollständige Buchbestandsanalyse aus Git-Fotos
 
-Diese Wortlaute stammen vom Nutzer und dürfen **nicht** als Behauptung eines fehlenden Fotos missverstanden werden:
+**Erst wenn die Bildablage bereinigt, nummeriert und auf Vollständigkeit geprüft ist:**
 
-- **`3.5 noch`** → in `daten/offene_punkte.csv`, offen; Fach 3-5 ist bereits fotografiert.
-- **`2.5 noch`** → in `daten/offene_punkte.csv`, offen; Fach 2-5 ist bereits fotografiert.
-- **`1.5 noch offen`** → in `daten/offene_punkte.csv`, offen; Fach 1-5 ist bereits fotografiert.
+1. Jedes Fach in voller Originalauflösung ansehen, bei Bedarf Bildbereiche vergrößern.
+2. Für **jedes physische Buchexemplar** Autor (Nachname, Vorname), exakten Titel, Original-Standort und Position **von links nach rechts** erfassen. Echte doppelte Bücher sind getrennte Exemplare.
+3. Verdeckte, unscharfe oder unlesbare Buchrücken nicht raten: `offen`/`pruefen` samt genauer Fundstelle markieren. Bei Bedarf ergänzendes Detailfoto eines konkret benannten Faches anfordern.
+4. Quellbeleg zu jedem Datensatz in `daten/buecher.csv` bzw. mittels stabiler Foto-ID und Git-Pfad dokumentieren. Bücher aus angrenzenden Fächern, die am Rand eines Bildes zu sehen sind, nicht doppelt erfassen.
+5. Abschlusskontrolle pro Fach: Anzahl und Reihenfolge der Bücher gegen die Bilddatei prüfen; summarische Statistik zu Beständen, Unsicherheiten, fehlenden Ansichten und echten Dubletten erstellen.
 
-Bis zur Klärung diese Erinnerungen **am Ende der Antworten wiedergeben**.
+### 6. Git-Dokumentation und Ergebnis
 
-## Qualitäts- und Sicherheitsregeln
+- Alle Scripts, Inventare, Fotozuordnungen, Prüfprotokolle und Entscheidungen im Repository versionieren.
+- Arbeitsregel: **Git sync → Skript/Änderung → Git sync → Analyse und Ergebnisprüfung**; `main` nicht unnötig mit temporären Dateien verschmutzen.
+- Vorhandene Datenfelder und CSV-Strukturen bei Bedarf anpassen, sofern konsistent und dokumentiert. **Keine alten Inventare blind übernehmen.**
+- Abschließend einen geprüften **Ist-Bestand** und eine Liste eventuell noch fehlender/unklarer Fotos bereitstellen.
+- **Noch keine physische oder geplante alphabetische Umsortierung durchführen.** Das spätere Ziel lautet alphabetisch nach **Nachnamen der Autoren A–Z**, spaltenweise von links nach rechts und innerhalb jeder Spalte von oben nach unten. Die Umsortierung erfolgt nur auf ausdrückliche weitere Anweisung.
 
-- Nie Originalbilder ohne expliziten Grund bearbeiten, verkleinern oder durch andere Dateibytes ersetzen.
-- Vor **Löschungen** Dublettenprotokoll mit mindestens Pfad, Dateigröße, SHA-256, verglichenem Inhalt und Entscheidung erstellen; im Zweifel nicht löschen.
-- Ähnliche Aufnahmen können unterschiedliche Buchrücken sichtbar machen und daher **keine** überflüssigen Dubletten sein.
-- Wenn noch keine Fotos im Repository sind, **nicht mit der vollständigen Buchanalyse beginnen**; erst die Bildarchivierung/Verfügbarkeit beheben und verifizieren.
-- Das Repository ist öffentlich, die Tatsache ist **gewollt**; nicht wieder eigenmächtig auf privat stellen.
-- Nach jeder Git-Änderung die resultierenden Dateien verifizieren, nicht bloß Erfolg vermuten.
-- Der Nutzer möchte die eigentliche Bestandsanalyse ausdrücklich **in einem neuen Chat** starten.
+## Kurzprompt zum Start im neuen Chat
 
-## Datenformat/Bezeichner
-
-- Standort `X-Y`: Spalte X von links, Fach Y von oben; `3-5` = Spalte 3, fünftes Fach von oben.
-- Foto-IDs `F0001`…`F0043` in `daten/fotos.csv`; Fotoposition `3-5` sollte in `standort` stehen.
-- Buch-IDs `B0001`…`B0362` und Referenz-Foto-ID in `daten/buecher.csv`; keine IDs für unterschiedliche Exemplare wiederverwenden.
-- Beim Fotografieren aufgenommene Anteile des oberen/unteren Nachbarfachs **nicht** als separate Bücher des aktuellen Fachs erfassen.
-- Nachnamen für spätere alphabetische Ordnung (A–Z) vorsehen, zunächst aber ursprüngliche Standorte unverändert erfassen.
+> Starte die vollständige Bestandsanalyse von `oooLITTLEooo/buecherregal` gemäß `docs/NEUER_CHAT_BESTANDSANALYSE.md`. Mein Foto-Upload ist jetzt abgeschlossen. Verwende ausschließlich Dateien, die tatsächlich im GitHub-Repository liegen. Prüfe zuerst den vollständigen Bildbestand, entferne verifizierte Fotodubletten, ordne und benenne die Originalbilder nach den richtigen Regalfächern, ermittle fehlende Fotos und analysiere erst danach alle Bücher mit Autor, Titel und exakter ursprünglicher Position. Dokumentiere und synchronisiere alle Schritte über Git.
