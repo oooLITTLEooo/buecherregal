@@ -1,1 +1,65 @@
 standort;status;foto_id;bemerkung
+1-1;leer_nach_gesamtbild;;Gesamtfoto zeigt keine Buecher
+1-2;leer_nach_gesamtbild;;Gesamtfoto zeigt keine Buecher
+1-3;leer_nach_gesamtbild;;Gesamtfoto zeigt keine Buecher
+1-4;gegenstand_lampe;;Lampe im Fach - kein Buchfoto erforderlich
+1-5;detail_vorhanden;FOTO0002;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+1-6;detail_vorhanden;FOTO0003;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+1-7;detail_vorhanden;FOTO0004;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+1-8;detail_vorhanden;FOTO0005;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+2-1;detail_vorhanden;FOTO0006;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+2-2;detail_vorhanden;FOTO0007;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+2-3;detail_vorhanden;FOTO0008;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+2-4;detail_vorhanden;FOTO0009;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+2-5;detail_vorhanden;FOTO0010;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+2-6;detail_vorhanden;FOTO0011;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+2-7;detail_vorhanden;FOTO0012;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+2-8;detail_vorhanden;FOTO0013;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+3-1;detail_vorhanden;FOTO0014;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+3-2;detail_vorhanden;FOTO0015;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+3-3;detail_vorhanden;FOTO0016;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+3-4;detail_vorhanden;FOTO0017;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+3-5;detail_vorhanden;FOTO0018;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+3-6;detail_vorhanden;FOTO0019;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+3-7;detail_vorhanden;FOTO0020;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+3-8;detail_vorhanden;FOTO0021;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+4-1;detail_vorhanden;FOTO0022;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+4-2;detail_vorhanden;FOTO0023;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+4-3;detail_vorhanden;FOTO0024;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+4-4;detail_vorhanden;FOTO0025;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+4-5;detail_vorhanden;FOTO0026;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+4-6;detail_vorhanden;FOTO0027;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+4-7;detail_vorhanden;FOTO0028;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+4-8;detail_vorhanden;FOTO0029;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+5-1;detail_vorhanden;FOTO0030;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+5-2;detail_vorhanden;FOTO0031;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+5-3;detail_vorhanden;FOTO0032;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+5-4;detail_vorhanden;FOTO0033;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+5-5;detail_vorhanden;FOTO0034;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+5-6;detail_vorhanden;FOTO0035;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+5-7;detail_vorhanden;FOTO0036;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+5-8;detail_vorhanden;FOTO0037;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+6-1;detail_vorhanden;FOTO0038;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+6-2;detail_vorhanden;FOTO0039;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+6-3;detail_vorhanden;FOTO0040;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+6-4;detail_vorhanden;FOTO0041;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+6-5;detail_vorhanden;FOTO0042;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+6-6;detail_vorhanden;FOTO0043;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+6-7;detail_vorhanden;FOTO0044;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+6-8;detail_vorhanden;FOTO0045;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+7-1;detail_vorhanden;FOTO0046;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+7-2;detail_vorhanden;FOTO0047;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+7-3;detail_vorhanden;FOTO0048;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+7-4;detail_vorhanden;FOTO0049;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+7-5;detail_vorhanden;FOTO0050;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+7-6;detail_vorhanden;FOTO0051;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+7-7;detail_vorhanden;FOTO0052;Originalbild und positionsbezogene Kopie vorhanden - Einzelbucherfassung ausstehend
+7-8;detail_fehlt_verdeckt;;Gegenstand verdeckt Regalbereich - Buchbestand unklar
+8-1;detail_fehlt_buecher;;Buecher in rechter Randspalte erkennbar - Detailfoto erbeten
+8-2;detail_fehlt_buecher;;Buecher in rechter Randspalte erkennbar - Detailfoto erbeten
+8-3;leer_oder_unklar;;Nur Gesamtfoto - aus dieser Ansicht keine sichere Bucherfassung
+8-4;leer_oder_unklar;;Nur Gesamtfoto - aus dieser Ansicht keine sichere Bucherfassung
+8-5;leer_oder_unklar;;Nur Gesamtfoto - aus dieser Ansicht keine sichere Bucherfassung
+8-6;leer_oder_unklar;;Nur Gesamtfoto - aus dieser Ansicht keine sichere Bucherfassung
+8-7;leer_oder_unklar;;Nur Gesamtfoto - aus dieser Ansicht keine sichere Bucherfassung
+8-8;leer_oder_unklar;;Nur Gesamtfoto - aus dieser Ansicht keine sichere Bucherfassung

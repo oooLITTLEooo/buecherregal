@@ -1,9 +1,10 @@
-# Positionsbezogen benannte Foto-Kopien
+# Positionsbezogen benannte Kopien
 
-Dieser Ordner wird nach der fachlichen Sichtprüfung gefüllt.
+Alle 52 JPG-Dateien mit Namen Regal_...jpg sind **byteidentische Kopien** der Fotos unter bilder/originale. Es wurde weder skaliert noch erneut JPEG-komprimiert.
 
-**Keine Originale verschieben oder verändern.** Die Quelle bleibt `bilder/originale/`.
-Jede Datei hier ist eine byteidentische Kopie der passenden Originaldatei; nur der Dateiname ändert sich.
-Konvention: `Regal_Gesamt.jpg`, `Regal_X-Y.jpg`, `Regal_X-Y_02.jpg` für zusätzliche Aufnahmen.
+- Regal_Gesamt.jpg entspricht FOTO0001, der Übersicht.
+- Regal_X-Y.jpg entspricht Spalte X von links, Fach Y von oben.
+- Alle 52 Herkunfts- und Zielpfade und Prüfsummen stehen in daten/fotos.csv.
+- Fachabdeckung sowie noch fehlende Detailfotos stehen in daten/fachstatus.csv und docs/uebersicht.md.
 
-Die Zuordnung und der Quellpfad werden in `daten/fotos.csv` dokumentiert.
+Originalfotos niemals überschreiben. Neue Bilder erst nach Prüfung der Fachposition ergänzen.

@@ -28,3 +28,13 @@
 - GitHub Actions hat direkt mit git hash-object und git ls-files --stage die Unveraendertheit des ersten JPEG bestaetigt.
 - Die CSV wurde anhand des aktuellen Git-Baums mit exakt 13 Feldern je Zeile neu aufgebaut, alle 52 Foto-IDs beibehalten, Originalpfade/Blob-SHAs verifiziert. Keine Originalfotos veraendert.
 - Erneuter technischer Analyselauf nach Reparatur angestossen.
+
+## 2026-11-06 – Erfolgreiche technische und visuelle Fotoprüfung
+
+- GitHub Actions hat alle 52 Originalfotos erfolgreich geöffnet und SHA-256, Git-Blob-SHA, JPEG-Abmessungen, EXIF und dHash in daten/fotos.csv eingetragen. 0 Lesefehler.
+- Vier Kontaktbögen und 52 Foto-Vorschauen aus den Git-Originalen generiert und in Git dokumentiert.
+- FOTO0001 ist Gesamtübersicht: acht Spalten, acht Fach-Ebenen. FOTO0002–FOTO0052 folgen in den aufgenommenen Fachreihen.
+- Alle 52 positionsbezogen benannten Kopien als bestehende Git-Blobs ohne erneute Kodierung angelegt; 52 von 52 Kopie-Hashes nach Git-Push geprüft.
+- DHash-Kandidat FOTO0021/FOTO0033 visuell als verschiedene Bücher und verschiedene Fächer erkannt; beide erhalten.
+- Mapping in daten/fotos.csv und Fachstatus für alle 64 Fachpositionen in daten/fachstatus.csv aktualisiert.
+- Fehlende mögliche Buchdetails: 8-1, 8-2; 7-8 wegen Verdeckung zu prüfen. Keine physische oder geplante alphabetische Umsortierung.
