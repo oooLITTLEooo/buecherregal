@@ -24,13 +24,13 @@ Vom linken Rand des Fotos zum rechten Rand sind **acht vertikale Spalten** unter
 - Dritte Spalte: `3-1` bis `3-8` vollständig fotografiert.
 - Vierte Spalte: `4-1` bis `4-8` vollständig fotografiert.
 - Fünfte Spalte: `5-1` bis `5-8` vollständig fotografiert.
-- Sechste Spalte: noch keine Detailfotos, als Nächstes `6-1`.
+- Sechste Spalte: `6-1` bis `6-6` fotografiert; `6-7` und `6-8` noch ohne nachgewiesene Detailfotos und anhand der tatsächlichen Fachzahl zu prüfen.
 - 362 vorläufige Buchpositionen in `daten/buecher.csv`, darunter 68 mit Prüfbedarf.
-- Die 37 im Chat vorhandenen Original-JPEG-Dateien sind noch nicht ins Git hochgeladen. Eine ZIP-Sicherung mit richtig benannten Originaldateien wurde im Chat erstellt.
+- Die 43 im Chat vorhandenen Original-JPEG-Dateien sind noch nicht ins Git hochgeladen. Eine ZIP-Sicherung mit richtig benannten Originaldateien wurde im Chat erstellt (`buecherregal_fotos_bis_6-6_2026-11-06.zip`). Der Nutzer meldet einen vollständigen Upload in voller Auflösung; die GitHub-Kontrolle des Branches `main` fand jedoch noch keine Bilddateien. Diesen Widerspruch im nächsten Chat erneut prüfen.
 
 ## Zusätzlicher Nutzervermerk
 
-- **`3.5 noch`** und **`2.5 noch`**: ausdrücklich am Ende der Kommunikation ausgeben. Beide Fächer waren bereits fotografiert; die Art der noch ausstehenden Aufgabe ist nicht spezifiziert. Siehe `daten/offene_punkte.csv`.
+- **`3.5 noch`**, **`2.5 noch`** und **`1.5 noch offen`**: ausdrücklich am Ende der Kommunikation ausgeben. Alle drei Fächer waren bereits fotografiert; die Art der noch ausstehenden Aufgabe ist nicht spezifiziert. Siehe `daten/offene_punkte.csv`.
 
 ## Noch zu tun
 
