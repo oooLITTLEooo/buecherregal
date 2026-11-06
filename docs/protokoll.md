@@ -198,3 +198,11 @@
 - Buchrücken benennt Ben und Daniela Segenreich und *Fast ganz normal* (Amalthea). Vollständigen Titel *Fast ganz normal – Unser Leben in Israel* mit Original-Verlagskatalog verifiziert.
 - B00277 auf lesbar gesetzt. Fach 3-2: 21/21 Bücher lesbar, vorläufig abgehakt. Gesamt unverändert 1048 vorläufige Exemplare; 965 lesbar, 43 prüfen, 40 offen.
 - 16 Fächer vorläufig abgehakt, 22 weitere gezielt zu prüfen. Keine Fotos oder Standortdaten verändert. Einzelbericht docs/fachpruefung_3-2_20261106.md. Nächstes Fach 3-3.
+
+
+## 2026-11-06 – Gezielte Nachprüfung 3-3 und Feststellung eines möglichen Zählfehlers
+
+- FOTO0016 Teil 02-04: B00292 als Carl Gustav Jung, *Erinnerungen, Träume, Gedanken* (aufgezeichnet und herausgegeben von Aniela Jaffé), B00300 als Jakob Wassermann, *Etzel Andergast* (Moewig), identifiziert.
+- Zwischen Eva Rossmann *Alles rot* und Jung ist vermutlich John Irving *Deutschlandreise* als weiterer schmaler Buchrücken sichtbar. In 3-3 möglicherweise 22 statt 21 tatsächliche Bände. Deshalb keine vorläufige Fachfreigabe trotz gelesener Titel.
+- Status Fach 3-3: `positionsabgleich_noetig`; Nachfoto und spätere korrigierte Positionsliste erforderlich. Keine Bild-, Buch-ID- oder Positionsänderung.
+- Aktuell 1048 erfasste Bücher (967 lesbar, 42 prüfen, 39 offen), evtl. mindestens ein weiteres Exemplar. Noch 21 gezielte Fachprüfungen; Bericht docs/fachpruefung_3-3_20261106.md. Nächstes Fach 3-4.

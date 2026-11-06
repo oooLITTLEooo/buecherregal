@@ -12,11 +12,12 @@ Maschinenlesbare vollständige Übersicht: `daten/pruefplan_faecher.csv`. Nach j
 
 - Raster: **64** Fachpositionen, davon **51** mit Foto und vorhandenen Bucheinträgen.
 - **16** fotografierte Fächer mit `0` offenen/prüfpflichtigen Bucheinträgen → **vorläufig abhaken**.
-- **35** fotografierte Fächer mit zusammen **83** `pruefen`/`offen`-Einträgen.
-- Von diesen 35 sind **22** noch nicht in der neuen fachweisen Nachkontrolle behandelt worden → als nächstes **gezielt nur die unsicheren Bücher prüfen**.
+- **34** fotografierte Fächer mit zusammen **81** `pruefen`/`offen`-Einträgen.
+- Von diesen 34 sind **21** noch nicht in der neuen fachweisen Nachkontrolle behandelt worden → als nächstes **gezielt nur die unsicheren Bücher prüfen**.
 - **13** weitere wurden bereits mit den einschlägigen Originalpixel-Ausschnitten erneut geprüft, bleiben aber ungeklärt → erneute identische Bildprüfung ohne neuen Hinweis vermeiden; bei Bedarf neues Detailfoto.
+- **1** fotografiertes Fach (3-3) mit lesbaren Titeln, aber fraglicher Buchanzahl bzw. Positionsfolge (möglicher zusätzlicher Band *Deutschlandreise*).
 - Daneben **13 Positionen ohne Fachdetailfoto**: 3 mit Foto- oder Sichtbedarf, 6 mit unklarer/leer wirkender Belegung, 4 laut Übersicht leer oder mit Lampe.
-- Global: **1048** vorläufige Exemplare, davon **965 lesbar, 43 prüfen, 40 offen**. Fotos, Buch-IDs und positionsbezogene Originalreferenzen werden nicht geändert.
+- Global: **1048** vorläufige Exemplare, davon **967 lesbar, 42 prüfen, 39 offen**. Fotos, Buch-IDs und positionsbezogene Originalreferenzen werden nicht geändert.
 
 ## Vorläufig abgehakt — 16 Fächer
 
@@ -37,13 +38,12 @@ Maschinenlesbare vollständige Übersicht: `daten/pruefplan_faecher.csv`. Nach j
 - `7-2` — zweite Sichtprüfung durchgeführt
 - `7-4` — zweite Sichtprüfung durchgeführt
 
-## Noch gezielt prüfen — 22 Fächer
+## Noch gezielt prüfen — 21 Fächer
 
 Reihenfolge folgt der Regalnummerierung. Nur die betroffenen IDs öffnen und einen passenden Bildausschnitt lesen; klar lesbare Bücher nicht erneut bearbeiten.
 
 | Fach | Unsichere Bücher | IDs |
 | --- | ---: | --- |
-| 3-3 | 2 | `B00292`, `B00300` |
 | 3-4 | 1 | `B00318` |
 | 3-5 | 4 | `B00329`, `B00330`, `B00332`, `B00333` |
 | 3-6 | 2 | `B00340`, `B00360` |
@@ -66,7 +66,7 @@ Reihenfolge folgt der Regalnummerierung. Nur die betroffenen IDs öffnen und ein
 | 6-2 | 1 | `B00767` |
 | 6-4 | 2 | `B00804`, `B00811` |
 
-**Nächstes Fach:** `3-3`, nur **B00292** und **B00300**.
+**Nächstes Fach:** `3-4`, ausschließlich **B00318**.
 
 ## Bereits erneut geprüft, aber weiterhin ungeklärt — 13 Fächer
 
@@ -87,6 +87,10 @@ Diese Fächer sind **nicht** abgehakt. Ohne neue Fotodetails oder einen anderen 
 | 7-5 | 3 | `B01001`, `B01007`, `B01008` | `docs/fachpruefung_7-5_20261106.md` |
 | 7-6 | 3 | `B01017`, `B01030`, `B01031` | `docs/fachpruefung_7-6_20261106.md` |
 | 7-7 | 1 | `B01035` | `docs/fachpruefung_7-7_20261106.md` |
+
+## Fach mit besonderem Positions-/Zählabgleich
+
+- **3-3** – B00292 (C. G. Jung, *Erinnerungen, Träume, Gedanken*) und B00300 (Jakob Wassermann, *Etzel Andergast*) sicher identifiziert. FOTO0016 Teil 02 zeigt neben Eva Rossmann *Alles rot* einen zusätzlichen schmalen Rücken mit John Irving / *Deutschlandreise*, Teil 03 zeigt anschließend den Jung-Band. Mögliches 22. physisches Buch statt 21 erfassten Einträgen. Die bisherige Buchzählung und die Positionen ab dieser Stelle sind **vorläufig**. Keine neue ID oder Positionsverschiebung ohne erneute Sicherung. Nachfoto oder Nachzählung von *Alles rot* bis Jung erforderlich. Siehe `docs/fachpruefung_3-3_20261106.md`.
 
 ## Fächer ohne eigene Detailbilder
 

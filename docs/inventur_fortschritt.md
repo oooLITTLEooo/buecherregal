@@ -193,3 +193,8 @@ Nur acht problematische Einträge in FOTO0014 erneut gelesen. Fünf geklärt (B0
 ## 2026-11-06 – Gezielte Nachprüfung Fach 3-2
 
 Einziges unsicheres Buch B00277 (Position 18) aus FOTO0015 Teil 04 als **Ben und Daniela Segenreich – Fast ganz normal – Unser Leben in Israel** identifiziert; Autoren/Titel am Rücken und Titelvollform im Amalthea-Verlagskatalog bestätigt. Fach 3-2 vorläufig abgeschlossen (21/21 lesbar). Gesamt 1048 Einträge: 965 lesbar, 43 prüfen, 40 offen; 16 Fächer vorläufig abgehakt, 22 weitere zur gezielten Nachprüfung. Details docs/fachpruefung_3-2_20261106.md. Nächstes Fach 3-3.
+
+
+## 2026-11-06 – Fach 3-3 gezielt nachgeprüft
+
+B00292 (C. G. Jung, *Erinnerungen, Träume, Gedanken*) und B00300 (Jakob Wassermann, *Etzel Andergast*) aus FOTO0016 sicher identifiziert. Zwischen Eva Rossmann *Alles rot* und Jung könnte ein eigener, bisher übersehener Band von John Irving *Deutschlandreise* stehen. Fach 3-3 daher nicht freigegeben, sondern `positionsabgleich_noetig`; 21 Inventarzeilen vorläufig, mögliche tatsächliche Zahl 22. Derzeit gesamt 1048 Einträge, 967 lesbar, 42 prüfen, 39 offen, zusätzliche ungezählte Bücher nicht enthalten. Noch 21 gezielte Fachprüfungen. Bericht docs/fachpruefung_3-3_20261106.md. Nächstes Fach 3-4.
