@@ -23,6 +23,7 @@ Zusätzlich erfasst `position_im_fach` die Position des Buchs im jeweiligen Fach
 - `docs/standorte.md` – Nummerierung und Erfassungsregeln
 - `docs/uebersicht.md` – visuelle Ersteinschätzung des Gesamtfotos
 - `docs/protokoll.md` – Projektverlauf
+- `scripts/import-fotos.sh` – SHA-256-geprüfter Import der unveränderten Original-JPEGs aus dem Chat-ZIP in GitHub
 - `bilder/originale/` – Nutzerfotos, sprechende Dateinamen, unveränderter Bildinhalt
 - `bilder/generiert/` – erzeugte Bilder/Grafiken
 
