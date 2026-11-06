@@ -125,3 +125,11 @@
 - Unsichere Titel, verborgene Ruecken sowie doppelbetitelte Sammelbaende als pruefen/offen dokumentiert. Nichtbuch-Material (Notizblaetter, Gulda-CD-Hoerbuch in 7-7) nicht als Buch aufgenommen.
 - Originalbilder unveraendert. Alle 51 verfuegbaren Detailfotos durchgegangen. Offene fotografische Luecken 8-1, 8-2 und Pruefung 7-8; finale fachweise Plausibilitaetspruefung steht aus.
 
+## 2026-11-06 – Zweite Detailprüfung unsicherer Fotoablesungen (Teil 1)
+
+- Alle 159 bisher als offen/pruefen markierten IDs als Prüfbasis fixiert.
+- Native Foto-Bildausschnitte für die Fächer 1-7 bis 1-8, 2-1 bis 2-8, 3-1 und 7-1 bis 7-7 betrachtet und 27 eindeutige Autor-/Titelangaben direkt in daten/buecher.csv korrigiert bzw. bestaetigt.
+- Das Inventar bleibt bei 1048 Zeilen; IDs, Positionen, Originalquellpfade unveraendert.
+- Geprüfte Änderungen und noch ausstehende Einträge in docs/feinpruefung_unsicher_20261106.md und daten/bildanalyse/feinpruefung_unsicher.csv.
+- Weitere Sichtprüfung der übrigen Fächer (insbesondere Spalten 3-6) noch ausstehend; offene Titel bleiben ausdrücklich ungesichert.
+

@@ -151,3 +151,6 @@ Die drei Originalbilder FOTO0050–FOTO0052 wurden jeweils anhand von vier nativ
 
 **Gesamtinventar:** 1048 vorlaeufige Bucheintraege aus allen **51** fotografierten Fachpositionen. Das ist noch keine endgueltige Bestandssumme: Unleserliche Ruecken, Zaehlsituationen und Titel muessen bei der abschliessenden Feinpruefung kontrolliert werden. Neue Detailfotos fehlen fuer die erkennbar mit Buechern belegten Faecher 8-1 und 8-2; 7-8 muss wegen Sichtbehinderung zusaetzlich geklaert werden. Andere Positionen der Spalte 8 aus der Gesamtuebersicht gegebenenfalls bestaetigen. Keine physische oder geplante alphabetische Umsortierung erfolgt.
 
+## 2026-11-06 – Nachprüfung der 159 unsicheren Einträge gestartet
+
+27 Identifikationen anhand nativer Pixelbereiche korrigiert oder bestätigt; 132 Identifikationen weiterhin offen/pruefen. Der Buchbestand bleibt bei 1048 vorläufigen Einträgen. Nachweise und noch nicht abgeschlossene Prüffälle: docs/feinpruefung_unsicher_20261106.md und daten/bildanalyse/feinpruefung_unsicher.csv.
