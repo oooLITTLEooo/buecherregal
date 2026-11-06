@@ -109,3 +109,12 @@
 - Native Ausschnitte aus den Originalen FOTO0042–FOTO0045 visuell geprüft, auch die Serie von schmalen Agatha-Christie-Bänden; keine Bilddaten im Original geändert.
 - 100 vorläufige Exemplare in Links-rechts-Position geschrieben; 10 unklar/offen.
 - Git-Sync mit Foto-Pfaden, keine Buchumsortierung. Nächster Crop-Lauf für FOTO0046–FOTO0049 vorgemerkt.
+
+## 2026-11-06 – Siebte Regalspalte 7-1 bis 7-4
+
+- Aktuellen Git-Stand samt vorhandener 913 Eintraege und Fotomapping vor dem Schreiben abgeglichen.
+- FOTO0046–FOTO0049 jeweils aus vier nativen Pixel-Ausschnitten gelesen. 74 vorlaeufige Exemplare zu daten/buecher.csv ergaenzt.
+- Unlesbare oder nicht zweifelsfrei abzugrenzende Buchruecken bleiben offen/pruefen und sind mit Foto-/Fachposition rueckverfolgbar.
+- Alle Originalfotos und bereits vorhandene Buecher-Datensaetze unveraendert; keine physische Sortierung oder Bildloeschung.
+- Folgeauftrag in daten/bildanalyse/crop_queue.txt: FOTO0050 bis FOTO0052.
+

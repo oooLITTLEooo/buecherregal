@@ -129,3 +129,14 @@ Die Originalbilder FOTO0042–FOTO0045 wurden anhand von 16 Vollauflösungs-Pixe
 - Fach 6-8: 22 Einträge; 4 offen/pruefen
 
 Gesamtsumme: 913 vorläufige physische Buch-Einträge aus 44 Fachpositionen. Ein eigener Band kann mehrere Titel enthalten und wird dann nur als ein Exemplar erfasst. Unsichere Buchrücken und exakte Autoren bleiben markiert. Nächster Bearbeitungsabschnitt: FOTO0046–FOTO0049 für Regal 7-1 bis 7-4.
+
+## 2026-11-06 – Siebte Regalspalte, Faecher 7-1 bis 7-4 (Originalaufloesung)
+
+Die Git-Originalfotos FOTO0046 bis FOTO0049 wurden in insgesamt 16 nativen Pixel-Ausschnitten bildlich geprueft. 74 weitere **vorlaeufige** physische Bucheintraege mit Standort, Links-rechts-Position, Identifikationsstatus und unveraenderter Fotoquelle aufgenommen. Unsichere Ruecken oder Zaehlsituationen sind bewusst nicht als bestaetigt ausgegeben.
+
+- 7-1: 19 Eintraege, 4 offen/pruefen
+- 7-2: 19 Eintraege, 3 offen/pruefen
+- 7-3: 18 Eintraege, 4 offen/pruefen
+- 7-4: 18 Eintraege, 3 offen/pruefen
+
+Neuer vorlaeufiger Gesamtbestand: 987 Eintraege aus 48 fotografierten Fachpositionen. Besonders die quer/versetzt liegende Aufnahme in 7-3, verdeckte/duenne Ruecken in 7-1 und 7-4 sowie ein blauer Randruecken in 7-2 erfordern die exakte Feinpruefung. Buchpositionen sind eine foto-basierte vorlaeufige Reihenfolge, keine physische Umsortierung. Naechster Durchgang: 7-5 bis 7-7 mit FOTO0050 bis FOTO0052.
