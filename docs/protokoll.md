@@ -140,3 +140,11 @@
 - Für die übrigen 107 ursprünglich fraglichen Einträge kein Scheinabschluss: Details weiterhin `offen`/`pruefen`, einschließlich bibliographisch nur teilweise bekannter Einträge und unklarer Buchzählung.
 - Es wurden keine Originalfotos überschrieben, keine Büchernummern neu vergeben und kein vorhandenes Exemplar entfernt.
 
+
+
+## 2026-11-06 – Gezielt Fach 2-4 nachgeprüft
+
+- FOTO0009 originalpixelbasiert in Teilbildern 1, 2 und 4 für B00131 und B00149 gesichtet.
+- B00149 als Peter Høeg, *Von der Liebe und ihren Bedingungen in der Nacht des 19. März 1929*, anhand rororo 22314 am Rücken mit Bibliotheksabgleich bestätigt und bibliografisch korrigiert.
+- B00131 bleibt mangels eindeutig lesbarem Rücken und gesicherter Bandgrenze offen, Einzelaufnahme angefordert.
+- Gesamt 1048 Einträge: 953 lesbar, 55 prüfen, 40 offen. Nächster Prüfschritt Fach 2-5. Siehe docs/fachpruefung_2-4_20261106.md.

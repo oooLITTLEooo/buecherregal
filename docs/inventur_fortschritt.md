@@ -158,3 +158,8 @@ Die drei Originalbilder FOTO0050–FOTO0052 wurden jeweils anhand von vier nativ
 ## 2026-11-06 – Zweite Nachkontrolle (Hochauflösung)
 
 25 weitere zuvor unsichere Einträge korrigiert oder bestätigt. Insgesamt 52 auf lesbar nachgeprüft. Stand: 941 lesbar, 65 pruefen und 42 offen von 1048 vorlaeufigen Bucheintraegen. Noch 107 zuvor unsichere Einträge sind nicht abschließend identifiziert. Teilbilder FOTO0042 3 und 4 konnten in der verbundenen Bildauslieferung nicht gelesen werden. Siehe docs/feinpruefung_unsicher_20261106.md.
+
+
+## 2026-11-06 – Gezielte Nachprüfung Fach 2-4
+
+Aus FOTO0009 in den Teilen 1/2/4 nur B00131 und B00149 erneut geprüft. B00149 anhand der im Bild erkennbaren rororo-Reihennummer 22314 als Peter Høeg, *Von der Liebe und ihren Bedingungen in der Nacht des 19. März 1929*, bibliografisch vervollständigt und auf lesbar gesetzt. B00131 bleibt wegen unklarer Buchgrenze/Lesbarkeit offen. Neuer Stand 1048 vorläufige Einträge (953 lesbar, 55 prüfen, 40 offen), 28 gezielte Fachprüfungen noch ausstehend. Bericht docs/fachpruefung_2-4_20261106.md.
