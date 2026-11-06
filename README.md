@@ -38,11 +38,11 @@ Dateiendung passend zum echten Bildformat beibehalten. Originale können unverä
 
 - Repository-Sichtbarkeit: **private**.
 - Dokumentation und leere Inventardateien angelegt.
-- Übersichtsfoto (`F0001`) und zwölf Detailfotos (`F0002` bis `F0013`) im Chat empfangen.
-- Zwölf belegte Fächer identifiziert: `1-5` bis `1-8` sowie `2-1` bis `2-8`.
-- In `daten/buecher.csv` 227 Buchpositionen im ersten Erfassungsdurchgang, davon 39 noch offen/zu prüfen.
-- Fortschritt und fehlende Fotos in `daten/fachstatus.csv` dokumentiert. **Nächstes Foto: `3-1`.**
-- **Die 13 Original-JPEG-Dateien sind noch nicht in GitHub hochgeladen**, aber als ZIP mit richtigen Git-Dateinamen gesichert. Der in `daten/fotos.csv` gespeicherte Dateiname ist vorerst der beabsichtigte Git-Name.
+- Übersichtsfoto (`F0001`) und achtzehn Detailfotos (`F0002` bis `F0019`) im Chat empfangen.
+- Achtzehn belegte Fächer erfasst: `1-5` bis `1-8`, `2-1` bis `2-8` sowie `3-1` bis `3-6`.
+- In `daten/buecher.csv` 362 vorläufige Buchpositionen im ersten Erfassungsdurchgang, davon 68 noch offen/zu prüfen.
+- Fortschritt und fehlende Fotos in `daten/fachstatus.csv` dokumentiert. **Nächstes Foto: `3-7`, danach `3-8`.**
+- **Die 19 Original-JPEG-Dateien sind noch nicht in GitHub hochgeladen**, aber als ZIP mit korrekten Git-Dateinamen gesichert. Der in `daten/fotos.csv` gespeicherte Dateiname ist vorerst der beabsichtigte Git-Name.
 - Alphabetische Umordnung erst auf Anweisung des Nutzers.
 
 ## Datenschutz und Arbeitsweise
