@@ -93,3 +93,15 @@ Alle vier Foto-Originale FOTO0030 bis FOTO0033 in je vier nativen Pixelbereichen
 - 5-4: 22 Exemplare, davon 5 offen/pruefen
 
 Im Git-Inventar jetzt 643 vorlaeufige physische Buchdatensaetze aus 32 Foto-Fachpositionen. Unsicherheiten markiert; Endabgleich noch ausstehend. Naechste Fotos 5-5 bis 5-8 unter GitHub Actions bereitgestellt.
+
+
+## 2026-11-06 – Fünfte Spalte abgeschlossen bis Fach 5-8
+
+Die Originalfotos FOTO0034–FOTO0037 wurden jeweils mit vier nativen Pixel-Ausschnitten geprüft. 83 physisch getrennte Buchrücken mit Fach und Links-rechts-Position dokumentiert:
+
+- 5-5: 21 vorlaeufige Exemplare, 2 offen/pruefen
+- 5-6: 24 vorlaeufige Exemplare, 7 offen/pruefen
+- 5-7: 18 vorlaeufige Exemplare, 4 offen/pruefen
+- 5-8: 20 vorlaeufige Exemplare, 4 offen/pruefen
+
+Gesamtbestand 726 vorläufige Inventareinträge aus 36 fotografierten Fachpositionen. Unsichere Lesungen ausdrücklich offen/pruefen. Ein früher falsch in Nachname/Vorname getrenntes Exemplar von Dieter Noll wurde korrigiert. Nächste Fotos: FOTO0038–FOTO0041.

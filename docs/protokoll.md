@@ -88,3 +88,10 @@
 - 85 vorläufige Exemplar-Datensätze aus den Originalbildern FOTO0030 bis FOTO0033 nach nativer Pixelprüfung angehängt.
 - Offene Teiltexte (u.a. dünne Taschenbücher und Mehrfachbände) bleiben markiert, ohne aus früheren Chats zu ergänzen.
 - Vorheriger Git-Stand geprüft, keine Originalfotos verändert. Nächster Prüfauftrag FOTO0034–FOTO0037 per Git-Workflow; keine alphabetische Umsortierung.
+
+
+## 2026-11-06 – Fächer 5-5 bis 5-8
+
+- 83 sichtbare Exemplare aus den 16 nativen Prüfausschnitten zu FOTO0034..FOTO0037 erfasst; 17 offene Titel/Buchangaben markiert.
+- Datensatz mit Dieter Noll / Die Abenteuer des Werner Holt von falsch getrennten Namensfeldern berichtigt.
+- Kein Originalbild verändert. Git vorher synchronisiert, Folgeprüfung FOTO0038–FOTO0041 im Git-Workflow eingetragen. Keine alphabetische Umsortierung.
