@@ -243,3 +243,8 @@ B00492, Position 2, im FOTO0027 Teil 01 gezielt kontrolliert. Dunkler sehr schma
 ## 2026-11-06 – Zielprüfung Fach 4-7
 
 B00526, B00528 und B00535 anhand FOTO0028 und Bibliografie geklärt (Martin Borré / Thomas Reintjes, Friederun Pleterski, Eugen Roth). B00516 und B00540 bleiben offen, B00518 prüfen; bei allen drei Einzelfoto/physische Abgrenzung nötig. Fach 4-7: 30 vorläufige Einträge (27 lesbar, 1 prüfen, 2 offen), nicht abgehakt. Gesamt: 1048 Einträge, 978 lesbar, 31 prüfen, 39 offen; 12 weitere Fachprüfungen. Bericht docs/fachpruefung_4-7_20261106.md. Nächstes Fach 4-8.
+
+
+## 2026-11-06 – Fachweise Nachprüfung 4-8
+
+Die beiden vorher unsicheren B00545 und B00558 anhand FOTO0029 und bibliografischen Katalogen geklaert: B00545 Richard Picker, *Das Ende vom Lied? Positionen eines Lebens zwischen Hitlerjugend, Psychotherapie und Kirche*, B00558 Arthur Schnitzler, *Lesebuch*. Ein Exemplar-/Auflagennachweis zu B00558 fehlt, ist aber fuer die Lesung des vorhandenen Rueckens nicht erforderlich. Fach 4-8 jetzt 16/16 lesbar, vorlaeufig abgehakt. Gesamt 1048 Eintraege: 980 lesbar, 29 pruefen, 39 offen; 11 weitere Fachpruefungen ausstehend. Details docs/fachpruefung_4-8_20261106.md; naechstes Fach 5-1.

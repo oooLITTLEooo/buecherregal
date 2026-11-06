@@ -279,3 +279,11 @@
 - B00516, B00518 und B00540 bleiben wegen nicht sicherer Titellesung bzw. Buchabgrenzung unsicher, jeweils konkrete Fotoanweisung hinterlegt.
 - Fach 4-7 mit 30 Einträgen jetzt 27 lesbar, 1 prüfen, 2 offen; nicht abgehakt. Gesamt 1048 Einträge (978 lesbar, 31 prüfen, 39 offen); noch 12 gezielte Fachprüfungen.
 - Einzelbericht docs/fachpruefung_4-7_20261106.md, nächstes Fach 4-8.
+
+
+## 2026-11-06 – Fach 4-8 gezielt nachgeprüft
+
+- FOTO0029: vier native Git-Originalpixel-Ausschnitte betrachtet, nur B00545 und B00558 neu bewertet.
+- B00545 als Richard Picker, *Das Ende vom Lied? Positionen eines Lebens zwischen Hitlerjugend, Psychotherapie und Kirche*, mit Czernin Verlagskatalog bestaetigt. B00558 als Arthur Schnitzler, *Lesebuch*, anhand des gruenen Buchrueckens und bibliografischem Werknachweis geklaert; Herausgeber/Auflage dieser konkreten Ausgabe nicht behauptet.
+- Fach 4-8 mit 16/16 vorlaeufigen Eintraegen lesbar und vorlaeufig abgehakt. Originalfotos, Buchnummern und Positionen unveraendert.
+- Gesamt 1048 Eintraege: 980 lesbar, 29 pruefen, 39 offen. 19 Faecher abgehakt, 11 noch gezielt zu pruefen. Siehe docs/fachpruefung_4-8_20261106.md. Naechstes Fach 5-1.
