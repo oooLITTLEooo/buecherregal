@@ -68,3 +68,9 @@
 - 77 Buchexemplare mit Standort, physischer Links-rechts-Position, Bildquelle und Lesestatus hinzugefügt.
 - 8 Einträge offen/pruefen, keine erdachten Autor- oder Titelangaben.
 - Nächste Originalfotos für Fächer 4-1 bis 4-4 zur Vollauflösungsprüfung vorgemerkt. Keine alphabetische Umsortierung.
+
+## 2026-11-06 – vierte Spalte, Fächer 4-1 bis 4-4
+
+- Git-Sync und Prüfung der 16 nativen Originalausschnitte von FOTO0022 bis FOTO0025 durchgeführt.
+- 71 neue Exemplare einzeln nach physischer Links-rechts-Position dokumentiert; 8 mit offenen/pruefen-Feldern.
+- Originale unverändert, keine Umordnung. Nächste vier Detailfotos in der Git-Actions-Prüfliste vorgesehen.

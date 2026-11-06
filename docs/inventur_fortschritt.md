@@ -59,3 +59,13 @@ FOTO0018 bis FOTO0021 wurden jeweils in vier nativen Pixelausschnitten aus der v
 - Fach 3-8: 18 Einträge, 1 offen/pruefen, Quelle bilder/originale/PXL_20261105_151346844.jpg
 
 Gesamtinventar: 400 vorläufige Einträge in 20 fotografierten Fachpositionen. Nächster Durchgang: 4-1 bis 4-4 (FOTO0022 bis FOTO0025). Exakte Identifikation, auch bei dünnen Rücken, ist im finalen Fachabgleich noch zu verifizieren.
+
+## Spalte 4: Fächer 4-1 bis 4-4 (Originalauflösung)
+
+FOTO0022 bis FOTO0025 wurden anhand von je vier nativen Pixelausschnitten geprueft. 71 weitere vorlaeufige Buchexemplare transkribiert:
+- 4-1: 17 Exemplare; 1 offen/pruefen; Quelle bilder/originale/PXL_20261105_151352487.jpg
+- 4-2: 21 Exemplare; 4 offen/pruefen; Quelle bilder/originale/PXL_20261105_151418892.jpg
+- 4-3: 18 Exemplare; 2 offen/pruefen; Quelle bilder/originale/PXL_20261105_151422169.jpg
+- 4-4: 15 Exemplare; 1 offen/pruefen; Quelle bilder/originale/PXL_20261105_151432665.jpg
+
+Sammelbände und vier getrennt gebundene Goethe-Bände (Fach 4-1) jeweils anhand der physischen Bände erfasst. Besonders schwer lesbare schmale oder verdeckte Rücken bleiben pruefen/offen. Das Inventar umfasst nun 471 vorlaeufige Exemplare aus 24 fotografierten Fächern. Nächste Fächer: 4-5 bis 4-8.
