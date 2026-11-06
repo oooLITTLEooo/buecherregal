@@ -55,3 +55,15 @@
 - Erfassungsstand für **Spalte 3**: Fächer 3-1 bis 3-6 fotografiert, 3-7 und 3-8 noch ausständig. Die noch ausständigen Fächer basieren auf dem bisherigen Acht-Fächer-Muster und sind bei Detailansichten zu prüfen.
 - Alle 19 unveränderten JPEG-Dateien inklusive früherer Fotos zusätzlich im ZIP `buecherregal_fotos_bis_3-6_2026-11-06.zip` mit Git-Zielnamen gesichert; ZIP-Datei im Chat bereitgestellt.
 - Bilddateien selbst weiterhin **nicht** im GitHub-Repository. Eintrag `upload_status=ausstehend` bleibt bis zum erfolgreichen Upload bestehen.
+
+## 2026-11-06 – Git-Workflow korrigiert; Public ist beabsichtigt
+
+- Nutzer erklärt, dass die Umstellung des Repositories auf **public absichtlich** erfolgte, damit andere die Sammlung einsehen können.
+- Vorgabe geändert: **Originalfotos zuerst in Git hochladen und verifizieren, erst danach einzelne Buchrücken vertieft analysieren und Inventar vervollständigen**.
+- Sechs weitere JPEGs erhalten: `58268.jpg` bis `58273.jpg`.
+- Zuordnung anhand der Gesamtaufnahme und Fotoreihenfolge: `3-7`, `3-8`, `4-1`, `4-2`, `4-3`, `4-4`, Git-Namen `Regal_3-7.jpg` usw.
+- Identische Fotos im neuen Paket nicht festgestellt; SHA-256-Prüfsummen in `daten/fotos.csv`.
+- Alle 25 unveränderten Originale als ZIP `buecherregal_fotos_bis_4-4_2026-11-06.zip` mit Manifest gesammelt; alle 25 SHA-256-Werte geprüft und 25 individuelle Dateien bestätigt.
+- **Noch nicht hochgeladen:** 25 Original-JPEGs. Vorhandene GitHub-Verbindung schreibt Inventardateien, aber kann die lokalen Binärdateien nicht direkt hochladen. Statt voreilig `im_git` zu setzen, verbleibt der Status auf `ausstehend`.
+- Das bereits im Repository gespeicherte Skript `scripts/import-fotos.sh` ermöglicht den überprüften Import des ZIPs aus einem Git-Clone mit Push-Rechten.
+- Der detaillierte Erfassungsdurchgang der sechs neu erhaltenen Fächer wartet gemäß neuem Ablauf auf die bestätigte Git-Bildablage. Vorläufiges Buchinventar weiterhin 362 Datensätze, davon 68 zu prüfen.
