@@ -17,3 +17,13 @@ Stand 2026-11-06. Das Fach-Mapping und alle Originalfoto-Dateien wurden anhand d
 - Die 8. Spalte mit noch fehlenden Detailaufnahmen.
 
 Es wurden noch keine Bücher physisch bewegt oder alphabetisch umsortiert.
+
+
+## Vollaufloesende Erfassung: Regalspalte 2 (Faecher 2-1 bis 2-4)
+
+- 90 neue vorlaeufige Buchexemplare in daten/buecher.csv (davon 14 mit Status offen oder pruefen).
+- Originalbildquellen: FOTO0006 bis FOTO0009. Fuer jedes Foto wurden vier Ausschnitte aus den Pixeln des 8160x4590-JPEGs erzeugt und bildlich geprueft.
+- Die Ausschnitte liegen als textcodierte JPG-Bilddaten unter daten/bildanalyse/fullres/ und sind inhaltlich aus unveraenderten Originalbildern abgeleitet.
+- Titel und Autor nur soweit abgelesen; unsichere Angaben markiert. Ein Buch in anderer Ausgabe wird nicht wegen gleichem Titel gestrichen.
+- Nicht eindeutige Kanten und verdeckte Ruecken sind weiterhin als offen gekennzeichnet. Die genaue Buchanzahl pro Fach kann bei der Feinpruefung der Buchkanten noch korrigiert werden.
+- Noch offen: die restlichen vier Faecher der zweiten Spalte (2-5 bis 2-8), danach Spalten 3 bis 7.
