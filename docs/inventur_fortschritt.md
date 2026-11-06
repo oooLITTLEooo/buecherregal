@@ -238,3 +238,8 @@ B00474 (Mary Higgins Clark, *Und morgen in das kühle Grab*) bestätigt, B00475 
 ## 2026-11-06 – Fachweise Nachprüfung 4-6
 
 B00492, Position 2, im FOTO0027 Teil 01 gezielt kontrolliert. Dunkler sehr schmaler Bereich zwischen Sabine Thiesler *Hexenkind* und Paul Auster *Nacht des Orakels*, aber kein sicher lesbarer Titel und keine verifizierbare separate Bandgrenze. Frontalfoto und physische Zählung erforderlich. Fach 4-6 bleibt mit 22 vorläufigen Einträgen (21 lesbar, 1 offen), nicht abgehakt. Gesamter vorläufiger Bestand 1048 Einträge (975 lesbar, 34 prüfen, 39 offen), noch 13 gezielte Fachprüfungen. Einzelbericht docs/fachpruefung_4-6_20261106.md. Nächstes Fach 4-7.
+
+
+## 2026-11-06 – Zielprüfung Fach 4-7
+
+B00526, B00528 und B00535 anhand FOTO0028 und Bibliografie geklärt (Martin Borré / Thomas Reintjes, Friederun Pleterski, Eugen Roth). B00516 und B00540 bleiben offen, B00518 prüfen; bei allen drei Einzelfoto/physische Abgrenzung nötig. Fach 4-7: 30 vorläufige Einträge (27 lesbar, 1 prüfen, 2 offen), nicht abgehakt. Gesamt: 1048 Einträge, 978 lesbar, 31 prüfen, 39 offen; 12 weitere Fachprüfungen. Bericht docs/fachpruefung_4-7_20261106.md. Nächstes Fach 4-8.

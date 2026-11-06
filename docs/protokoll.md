@@ -271,3 +271,11 @@
 - B00492 liegt zwischen Sabine Thiesler *Hexenkind* und Paul Auster *Nacht des Orakels*. Ein schmaler dunkler Bereich ist sichtbar, aber weder eigenständige Buchgrenze noch Autor/Titel sicher nachweisbar.
 - Status bleibt `offen`; Frontalfoto und physische Nachzählung mit ggf. Titelblatt erforderlich. Fach 4-6 bleibt bei 22 vorläufigen Einträgen (21 lesbar, 1 offen), nicht abgehakt.
 - Gesamt unverändert 1048 Einträge: 975 lesbar, 34 prüfen, 39 offen. Jetzt 13 weitere Fächer gezielt zu prüfen. Bericht: docs/fachpruefung_4-6_20261106.md. Nächstes Fach 4-7.
+
+
+## 2026-11-06 – Fach 4-7 nachgeprüft
+
+- Sechs unsichere Buch-IDs in allen vier Originalpixelteilen von FOTO0028 erneut betrachtet. B00526 zu Martin Borré / Thomas Reintjes, *Warum Frauen schneller frieren*, B00528 zu Friederun Pleterski, *Ein Haus in Dalmatien*, B00535 zu Eugen Roth, *Ernst und heiter*, bibliografisch ergänzt und auf lesbar gesetzt.
+- B00516, B00518 und B00540 bleiben wegen nicht sicherer Titellesung bzw. Buchabgrenzung unsicher, jeweils konkrete Fotoanweisung hinterlegt.
+- Fach 4-7 mit 30 Einträgen jetzt 27 lesbar, 1 prüfen, 2 offen; nicht abgehakt. Gesamt 1048 Einträge (978 lesbar, 31 prüfen, 39 offen); noch 12 gezielte Fachprüfungen.
+- Einzelbericht docs/fachpruefung_4-7_20261106.md, nächstes Fach 4-8.
