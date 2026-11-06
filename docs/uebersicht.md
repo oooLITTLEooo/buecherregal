@@ -34,3 +34,7 @@ Die Zuordnung wurde aus dem Gesamtbild, der sichtbaren Fachfolge und den sich ü
 - Ein automatischer Ähnlichkeitskandidat FOTO0021/FOTO0033 ist keine Dublette (unterschiedliche Buchbestände).
 - Einzelbücher und physische Exemplare sind bislang nicht vollständig inventarisiert.
 - Originaldateien liegen unverändert unter bilder/originale, die nach Standort benannten bytegleichen Kopien unter bilder/umbenannt.
+
+## Stand der vorlaeufigen Bucherfassung am 06.11.2026
+
+Alle 51 Faecher mit vorhandenem Detailfoto wurden in Vollaufloesungs-Pixelausschnitten einmal transkribiert. Aktuell 1048 vorlaeufige Eintraege, davon weiterhin zahlreiche mit offen/pruefen, inklusive einzelner strittiger Zaehlsituationen. Die noch fehlenden Fotomotive 8-1 und 8-2 sowie 7-8 sind weiterhin offen. Die Zahl ist keine endgueltig gepruefte physische Bestandszahl; keine alphabetische Sortierung begonnen.

@@ -118,3 +118,10 @@
 - Alle Originalfotos und bereits vorhandene Buecher-Datensaetze unveraendert; keine physische Sortierung oder Bildloeschung.
 - Folgeauftrag in daten/bildanalyse/crop_queue.txt: FOTO0050 bis FOTO0052.
 
+## 2026-11-06 – Siebte Spalte 7-5 bis 7-7, Foto-Inventur abgeschlossen
+
+- Aktuellen Git-HEAD und bestehende 987 Bucheintraege vor Schreiben abgeglichen.
+- Git-Folgeworkflow stellte 12 native Vollaufloesungs-Ausschnitte fuer FOTO0050–FOTO0052 bereit. 61 Datensaetze mit stabilen fortlaufenden IDs erfasst.
+- Unsichere Titel, verborgene Ruecken sowie doppelbetitelte Sammelbaende als pruefen/offen dokumentiert. Nichtbuch-Material (Notizblaetter, Gulda-CD-Hoerbuch in 7-7) nicht als Buch aufgenommen.
+- Originalbilder unveraendert. Alle 51 verfuegbaren Detailfotos durchgegangen. Offene fotografische Luecken 8-1, 8-2 und Pruefung 7-8; finale fachweise Plausibilitaetspruefung steht aus.
+

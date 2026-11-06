@@ -140,3 +140,14 @@ Die Git-Originalfotos FOTO0046 bis FOTO0049 wurden in insgesamt 16 nativen Pixel
 - 7-4: 18 Eintraege, 3 offen/pruefen
 
 Neuer vorlaeufiger Gesamtbestand: 987 Eintraege aus 48 fotografierten Fachpositionen. Besonders die quer/versetzt liegende Aufnahme in 7-3, verdeckte/duenne Ruecken in 7-1 und 7-4 sowie ein blauer Randruecken in 7-2 erfordern die exakte Feinpruefung. Buchpositionen sind eine foto-basierte vorlaeufige Reihenfolge, keine physische Umsortierung. Naechster Durchgang: 7-5 bis 7-7 mit FOTO0050 bis FOTO0052.
+
+## 2026-11-06 – Siebte Spalte abgeschlossen: 7-5 bis 7-7 (Originalaufloesung)
+
+Die drei Originalbilder FOTO0050–FOTO0052 wurden jeweils anhand von vier nativen Pixel-Ausschnitten geprueft. 61 weitere **vorlaeufige** Buchexemplare aus den sichtbaren Ruecken erfasst; bei zusammengestellten Doppelromanen nur ein physischer Band. Notizblaetter und erkennbares CD-Hoerbuch von Friedrich Gulda (Fach 7-7) werden nicht als gedruckte Buchexemplare gezaehlt. Dunkle, verdeckte oder uneindeutige Ruecken und Grenz-/Zaehlsituationen bleiben explizit offen/pruefen.
+
+- 7-5: 22 vorlaeufige Bucheintraege, 5 offen/pruefen
+- 7-6: 23 vorlaeufige Bucheintraege, 10 offen/pruefen
+- 7-7: 16 vorlaeufige Bucheintraege, 5 offen/pruefen
+
+**Gesamtinventar:** 1048 vorlaeufige Bucheintraege aus allen **51** fotografierten Fachpositionen. Das ist noch keine endgueltige Bestandssumme: Unleserliche Ruecken, Zaehlsituationen und Titel muessen bei der abschliessenden Feinpruefung kontrolliert werden. Neue Detailfotos fehlen fuer die erkennbar mit Buechern belegten Faecher 8-1 und 8-2; 7-8 muss wegen Sichtbehinderung zusaetzlich geklaert werden. Andere Positionen der Spalte 8 aus der Gesamtuebersicht gegebenenfalls bestaetigen. Keine physische oder geplante alphabetische Umsortierung erfolgt.
+
