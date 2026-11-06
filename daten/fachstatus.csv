@@ -19,7 +19,7 @@ standort;status;foto_id;bemerkung
 3-2;detailfoto_erfasst;F0015;Buchinventar erster Durchgang erfasst, unsichere Titel markiert
 3-3;detailfoto_erfasst;F0016;Buchinventar erster Durchgang erfasst, unsichere Titel markiert
 3-4;detailfoto_erfasst;F0017;Buchinventar erster Durchgang erfasst, unsichere Titel markiert
-3-5;detailfoto_erfasst;F0018;Buchinventar erster Durchgang erfasst, unsichere Titel markiert
+3-5;detailfoto_erfasst;F0018;Buchinventar erster Durchgang erfasst; Nutzervermerk: 3.5 noch (offen, Bedeutung nicht konkretisiert)
 3-6;detailfoto_erfasst;F0019;Buchinventar erster Durchgang erfasst, unsichere Titel markiert
 3-7;detailfoto_erfasst;F0020;JPEG empfangen, Git-Original noch ausstehend, Buchanalyse nach Upload
 3-8;detailfoto_erfasst;F0021;JPEG empfangen, Git-Original noch ausstehend, Buchanalyse nach Upload
@@ -27,7 +27,15 @@ standort;status;foto_id;bemerkung
 4-2;detailfoto_erfasst;F0023;JPEG empfangen, Git-Original noch ausstehend, Buchanalyse nach Upload
 4-3;detailfoto_erfasst;F0024;JPEG empfangen, Git-Original noch ausstehend, Buchanalyse nach Upload
 4-4;detailfoto_erfasst;F0025;JPEG empfangen, Git-Original noch ausstehend, Buchanalyse nach Upload
-4-5;detailfoto_ausstehend;;Kein Detailfoto im Chat
-4-6;detailfoto_ausstehend;;Kein Detailfoto im Chat
-4-7;detailfoto_ausstehend;;Kein Detailfoto im Chat
-4-8;detailfoto_ausstehend;;Kein Detailfoto im Chat
+4-5;detailfoto_erfasst;F0026;Original-JPEG im Chat, Git-Import ausstehend, Analyse danach
+4-6;detailfoto_erfasst;F0027;Original-JPEG im Chat, Git-Import ausstehend, Analyse danach
+4-7;detailfoto_erfasst;F0028;Original-JPEG im Chat, Git-Import ausstehend, Analyse danach
+4-8;detailfoto_erfasst;F0029;Original-JPEG im Chat, Git-Import ausstehend, Analyse danach
+5-1;detailfoto_erfasst;F0030;Original-JPEG im Chat, Git-Import ausstehend, Analyse danach
+5-2;detailfoto_erfasst;F0031;Original-JPEG im Chat, Git-Import ausstehend, Analyse danach
+5-3;detailfoto_ausstehend;;Foto noch nicht erhalten, voraussichtliches Fach nach Gesamtuebersicht
+5-4;detailfoto_ausstehend;;Foto noch nicht erhalten, voraussichtliches Fach nach Gesamtuebersicht
+5-5;detailfoto_ausstehend;;Foto noch nicht erhalten, voraussichtliches Fach nach Gesamtuebersicht
+5-6;detailfoto_ausstehend;;Foto noch nicht erhalten, voraussichtliches Fach nach Gesamtuebersicht
+5-7;detailfoto_ausstehend;;Foto noch nicht erhalten, voraussichtliches Fach nach Gesamtuebersicht
+5-8;detailfoto_ausstehend;;Foto noch nicht erhalten, voraussichtliches Fach nach Gesamtuebersicht
