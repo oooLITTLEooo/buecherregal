@@ -31,11 +31,15 @@ Alle Originaldateien werden nur **umbenannt**, nicht inhaltlich verändert.
 ## Aktueller Stand (2026-11-06)
 
 - GitHub-Sichtbarkeit: **public**, ausdrücklich gewünscht.
-- **25 Fotos** im Chat übermittelt: 1 Gesamtansicht + 24 Fachfotos (bis einschließlich Fach `4-4`).
+- **31 Fotos** im Chat übermittelt: 1 Gesamtansicht + 30 Fachfotos (bis einschließlich Fach `5-2`).
 - Die Fotos wurden anhand der Aufnahmen benannt und in einem verifizierten ZIP gesammelt.
-- **0 von 25 Original-JPEGs im Git-Repository**; alle in `daten/fotos.csv` als `upload_status=ausstehend` markiert. Der Upload steht aus, weil die verfügbare GitHub-Verbindung keinen direkten Dateitransfer lokaler Binärbilder ermöglicht.
+- **0 von 31 Original-JPEGs im Git-Repository**; alle in `daten/fotos.csv` als `upload_status=ausstehend` markiert. Der Upload steht aus, weil die verfügbare GitHub-Verbindung keinen direkten Dateitransfer lokaler Binärbilder ermöglicht.
 - Die vorläufige Buchinventarliste enthält **362** Positionen aus den früher bearbeiteten Fächern, davon **68** als offen/zu prüfen. Die sechs zuletzt erhaltenen Fächer werden gemäß neuem Workflow erst **nach erfolgreicher Bildarchivierung in Git** detailliert ausgewertet.
-- **Nächste noch fehlende Aufnahme:** voraussichtlich `4-5` (danach `4-6`, `4-7`, `4-8`), anhand der Gesamtübersicht weiter überprüfen.
+- **Nächste noch fehlende Aufnahme:** voraussichtlich `5-3` (danach `5-4` usw.), anhand der Gesamtübersicht weiter überprüfen.
+
+## Offene Notizen
+
+- **Nutzervermerk (unverändert):** `3.5 noch`. Bei Abschluss der weiteren Erfassung erneut nennen. Fach `3-5` ist bereits fotografiert; Bedeutung des Zusatzvermerks noch nicht konkretisiert.
 
 ## Neuer verbindlicher Arbeitsablauf
 
@@ -45,14 +49,14 @@ Alle Originaldateien werden nur **umbenannt**, nicht inhaltlich verändert.
 4. Änderungen mit Git dokumentieren: **sync → script/import → sync → analyse**.
 5. Nach vollständiger Aufnahme Sortierplan nach Autorennachname erstellen.
 
-### Ersteinmaliger Import der ersten 25 Fotos
+### Ersteinmaliger Import der ersten 31 Fotos
 
-Original-ZIP `buecherregal_fotos_bis_4-4_2026-11-06.zip` aus der Chat-Antwort herunterladen. Im geklonten Repository mit Git-Schreibzugriff ausführen:
+Original-ZIP `buecherregal_fotos_bis_5-2_2026-11-06.zip` aus der Chat-Antwort herunterladen. Im geklonten Repository mit Git-Schreibzugriff ausführen:
 
 ```bash
 git clone https://github.com/oooLITTLEooo/buecherregal.git
 cd buecherregal
-bash scripts/import-fotos.sh /vollstaendiger/pfad/buecherregal_fotos_bis_4-4_2026-11-06.zip
+bash scripts/import-fotos.sh /vollstaendiger/pfad/buecherregal_fotos_bis_5-2_2026-11-06.zip
 ```
 
 Das Skript verifiziert jede Original-JPEG-Datei gegen `daten/fotos.csv`, setzt den Uploadstatus und führt Commit + Push aus. Danach:
