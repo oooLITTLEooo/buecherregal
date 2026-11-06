@@ -21,5 +21,13 @@ standort;status;foto_id;bemerkung
 3-4;detailfoto_erfasst;F0017;Buchinventar erster Durchgang erfasst, unsichere Titel markiert
 3-5;detailfoto_erfasst;F0018;Buchinventar erster Durchgang erfasst, unsichere Titel markiert
 3-6;detailfoto_erfasst;F0019;Buchinventar erster Durchgang erfasst, unsichere Titel markiert
-3-7;detailfoto_ausstehend;;Noch kein Detailfoto im Chat
-3-8;detailfoto_ausstehend;;Noch kein Detailfoto im Chat
+3-7;detailfoto_erfasst;F0020;JPEG empfangen, Git-Original noch ausstehend, Buchanalyse nach Upload
+3-8;detailfoto_erfasst;F0021;JPEG empfangen, Git-Original noch ausstehend, Buchanalyse nach Upload
+4-1;detailfoto_erfasst;F0022;JPEG empfangen, Git-Original noch ausstehend, Buchanalyse nach Upload
+4-2;detailfoto_erfasst;F0023;JPEG empfangen, Git-Original noch ausstehend, Buchanalyse nach Upload
+4-3;detailfoto_erfasst;F0024;JPEG empfangen, Git-Original noch ausstehend, Buchanalyse nach Upload
+4-4;detailfoto_erfasst;F0025;JPEG empfangen, Git-Original noch ausstehend, Buchanalyse nach Upload
+4-5;detailfoto_ausstehend;;Kein Detailfoto im Chat
+4-6;detailfoto_ausstehend;;Kein Detailfoto im Chat
+4-7;detailfoto_ausstehend;;Kein Detailfoto im Chat
+4-8;detailfoto_ausstehend;;Kein Detailfoto im Chat
