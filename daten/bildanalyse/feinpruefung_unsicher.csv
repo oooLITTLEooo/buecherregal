@@ -114,9 +114,9 @@ B00767;6-2;18;pruefen;bleibt_unsicher_nach_hochaufloesungspruefung;bilder/origin
 B00774;6-3;5;pruefen;korrigiert_und_lesbar;bilder/originale/PXL_20261105_151546964.jpg;Bestätigt per nativer Teilansicht FOTO0040_teil_01
 B00804;6-4;15;pruefen;bleibt_unsicher_nach_hochaufloesungspruefung;bilder/originale/PXL_20261105_151551048.jpg;Native Pixelteilansichten durchgesehen. Buchrücken oder physische Zuordnung aus Foto nicht zuverlässig abschließend lesbar
 B00811;6-4;22;offen;bleibt_unsicher_nach_hochaufloesungspruefung;bilder/originale/PXL_20261105_151551048.jpg;Native Pixelteilansichten durchgesehen. Buchrücken oder physische Zuordnung aus Foto nicht zuverlässig abschließend lesbar
-B00826;6-5;13;offen;teilweise_unzureichende_bilddaten;bilder/originale/PXL_20261105_151556258.jpg;Verfügbare Pixelteile 1 und 2 geprüft. Teile 3 und 4 konnten über GitHub nicht als Bilder geladen werden
-B00829;6-5;16;pruefen;teilweise_unzureichende_bilddaten;bilder/originale/PXL_20261105_151556258.jpg;Verfügbare Pixelteile 1 und 2 geprüft. Teile 3 und 4 konnten über GitHub nicht als Bilder geladen werden
-B00845;6-5;32;pruefen;teilweise_unzureichende_bilddaten;bilder/originale/PXL_20261105_151556258.jpg;Verfügbare Pixelteile 1 und 2 geprüft. Teile 3 und 4 konnten über GitHub nicht als Bilder geladen werden
+B00826;6-5;13;offen;korrigiert_und_lesbar;bilder/originale/PXL_20261105_151556258.jpg;FOTO0042 Teil 2 (Git-Blob-Abruf); Der Dienstagabend-Klub
+B00829;6-5;16;pruefen;korrigiert_und_lesbar;bilder/originale/PXL_20261105_151556258.jpg;FOTO0042 Teil 2 (Git-Blob-Abruf); Die Mörder-Maschen
+B00845;6-5;32;pruefen;korrigiert_und_lesbar;bilder/originale/PXL_20261105_151556258.jpg;FOTO0042 Teil 4 (Git-Blob-Abruf); Tödlicher Irrtum oder Feuerprobe der Unschuld
 B00848;6-6;1;pruefen;bleibt_unsicher_nach_hochaufloesungspruefung;bilder/originale/PXL_20261105_151603704.jpg;Native Pixelteilansichten durchgesehen. Buchrücken oder physische Zuordnung aus Foto nicht zuverlässig abschließend lesbar
 B00860;6-6;13;offen;bleibt_unsicher_nach_hochaufloesungspruefung;bilder/originale/PXL_20261105_151603704.jpg;Native Pixelteilansichten durchgesehen. Buchrücken oder physische Zuordnung aus Foto nicht zuverlässig abschließend lesbar
 B00869;6-6;22;offen;bleibt_unsicher_nach_hochaufloesungspruefung;bilder/originale/PXL_20261105_151603704.jpg;Native Pixelteilansichten durchgesehen. Buchrücken oder physische Zuordnung aus Foto nicht zuverlässig abschließend lesbar
