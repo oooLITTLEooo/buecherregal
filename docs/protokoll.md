@@ -34,3 +34,13 @@
 - `daten/fachstatus.csv` angelegt: `1-1` bis `1-3` laut Übersichtsbild leer, `1-4` enthält Lampe, `1-5` bis `1-8` und `2-1` bis `2-2` fotografiert.
 - **Nächstes Detailfoto:** `Regal_2-3.jpg`, danach `Regal_2-4.jpg` usw.
 - **Wichtig:** Die Bilder liegen im Chat vor, aber die Original-JPEG-Binärdateien wurden noch nicht nach GitHub übertragen; die Fotoeinträge tragen korrekt `upload_status=ausstehend`. Die Dateinamen in Git sind derzeit Soll-Namen, keine vorhandenen Bilddateien.
+
+## 2026-11-06 – Zweite Spalte vollständig fotografiert
+
+- Sechs neue Originalfotos erhalten: `58253.jpg` bis `58258.jpg`, ohne identische Dubletten; Zuordnung `2-3` bis `2-8`.
+- Foto-IDs `F0008` bis `F0013` mit Soll-Dateinamen `Regal_2-3.jpg` bis `Regal_2-8.jpg` in `daten/fotos.csv` aufgenommen; SHA-256 und konsistente perzeptuelle Hashes dokumentiert.
+- `daten/fachstatus.csv` aktualisiert. In Spalte 2 sind alle acht Fächer fotografiert.
+- `daten/buecher.csv`: 121 zusätzliche vorläufige Buchpositionen (20 + 22 + 17 + 17 + 28 + 17). Insgesamt derzeit 227 Positionen, davon 39 mit Status `offen` oder `pruefen`.
+- Die Inventarzahlen sind ein erster Durchgang und können sich durch verdeckte oder mehrfach sichtbare Buchrücken noch ändern. Der ursprüngliche Standort bleibt unverändert dokumentiert.
+- **Nächstes Detailfoto:** `Regal_3-1.jpg`, anschließend innerhalb von Spalte 3 von oben nach unten.
+- **Originalfotos:** alle 13 JPEGs im Chat vorhanden und lokal mit korrekten Namen in `buecherregal_fotos_bis_2-8_2026-11-06.zip` zusammengestellt. **Upload der Binärdateien nach GitHub weiter ausstehend**, deshalb `upload_status=ausstehend`.
