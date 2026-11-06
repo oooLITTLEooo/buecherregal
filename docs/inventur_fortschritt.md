@@ -105,3 +105,15 @@ Die Originalfotos FOTO0034–FOTO0037 wurden jeweils mit vier nativen Pixel-Auss
 - 5-8: 20 vorlaeufige Exemplare, 4 offen/pruefen
 
 Gesamtbestand 726 vorläufige Inventareinträge aus 36 fotografierten Fachpositionen. Unsichere Lesungen ausdrücklich offen/pruefen. Ein früher falsch in Nachname/Vorname getrenntes Exemplar von Dieter Noll wurde korrigiert. Nächste Fotos: FOTO0038–FOTO0041.
+
+
+## 2026-11-06 – Regalspalte 6, Fächer 6-1 bis 6-4
+
+Die tatsächlichen Git-Originalfotos FOTO0038 bis FOTO0041 sind als 16 native Originalpixel-Ausschnitte geprüft. 87 vorläufige Exemplare dokumentiert:
+
+- 6-1: 23 Einzelexemplare, 3 offen/pruefen
+- 6-2: 20 Einzelexemplare, 5 offen/pruefen
+- 6-3: 20 Einzelexemplare, 1 offen/pruefen
+- 6-4: 24 Einzelexemplare, 2 offen/pruefen
+
+Offene dünne/verdeckte Buchrücken und unklare Sammelbände mit offen/pruefen gekennzeichnet. Die fortlaufende physische Links-rechts-Position ist aus dem Foto erfasst und bleibt endprüfpflichtig. 813 vorläufige Exemplare in 40 Fächern. Nächstes Foto-Batch: FOTO0042–FOTO0045.

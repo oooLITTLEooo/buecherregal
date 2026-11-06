@@ -95,3 +95,10 @@
 - 83 sichtbare Exemplare aus den 16 nativen Prüfausschnitten zu FOTO0034..FOTO0037 erfasst; 17 offene Titel/Buchangaben markiert.
 - Datensatz mit Dieter Noll / Die Abenteuer des Werner Holt von falsch getrennten Namensfeldern berichtigt.
 - Kein Originalbild verändert. Git vorher synchronisiert, Folgeprüfung FOTO0038–FOTO0041 im Git-Workflow eingetragen. Keine alphabetische Umsortierung.
+
+
+## 2026-11-06 – Spalte 6, erste Hälfte
+
+- Fotos FOTO0038–FOTO0041 im Git vollaufloesend geprueft; 87 neue physische Buchdatensaetze. 11 unsicher/offen.
+- Originalfoto-Pfade und Standort 6-1 bis 6-4 dokumentiert; keine Originalbilder geaendert, keine alphabetische Umordnung.
+- Folge-Queue auf FOTO0042–FOTO0045 gesetzt.
