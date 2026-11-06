@@ -1,6 +1,6 @@
 # Bücherregal – Inventar und Sortierung
 
-Dieses **private** Repository ist die zentrale Projektablage für die Erfassung und spätere alphabetische Sortierung eines Bücherregals. Die Sichtbarkeit wurde am 2026-11-06 direkt auf GitHub als `private` bestätigt.
+Dieses **private** Repository ist die zentrale Projektablage für die Erfassung und spätere alphabetische Sortierung eines Bücherregals. Die Sichtbarkeit wurde am 2026-11-06 auf GitHub als `private` bestätigt.
 
 ## Projektziele
 
@@ -8,32 +8,41 @@ Dieses **private** Repository ist die zentrale Projektablage für die Erfassung 
 - Alle Bücher anhand von Detailfotos erfassen: Autor, Titel und ursprünglicher Standort.
 - Den ursprünglichen Platz jedes Buchs dokumentieren, damit es wiedergefunden werden kann.
 - Später eine alphabetische Sortierung nach dem **Nachnamen des Autors** planen.
-- Vom Nutzer bereitgestellte Originalfotos sowie gegebenenfalls später erzeugte Bilder im Repository versionieren.
+- Nutzerfotos sowie gegebenenfalls erzeugte Bilder im Repository versionieren.
 
 ## Ordnungssystem
 
-Die Fächer werden **spaltenweise** nummeriert: links oben beginnend in der ersten Spalte nach unten, danach die zweite Spalte wieder oben beginnend nach unten, usw. `1-5` bedeutet: erste Spalte, fünftes Fach von oben.
+Die Fächer werden **spaltenweise** nummeriert: links oben beginnend in der ersten Spalte nach unten, danach die zweite Spalte wieder oben beginnend nach unten, usw. `1-4` bedeutet: erste Spalte, viertes Fach von oben.
 
-Zusätzlich erfasst `position_im_fach` die Position des Buchs im jeweiligen Fach, gezählt von links nach rechts. Die tatsächlichen Fächer und Spalten werden erst anhand des Übersichtsfotos festgelegt.
+Zusätzlich erfasst `position_im_fach` die Position des Buchs im jeweiligen Fach, gezählt von links nach rechts. Die tatsächlichen Fächer und Spalten werden anhand des Übersichtsfotos und der Detailfotos festgelegt.
 
 ## Verzeichnisübersicht
 
 - `daten/buecher.csv` – Buchinventar mit ursprünglichen Standorten
-- `daten/fotos.csv` – Zuordnung der Aufnahmen zu den Regalfächern
+- `daten/fotos.csv` – Zuordnung der Aufnahmen zu den Regalfächern und Uploadstatus
 - `docs/standorte.md` – Nummerierung und Erfassungsregeln
-- `docs/protokoll.md` – Projektverlauf und getroffene Entscheidungen
-- `bilder/originale/` – unveränderte Originalfotos
-- `bilder/generiert/` – später erzeugte Bilder und Grafiken
+- `docs/uebersicht.md` – visuelle Ersteinschätzung des Gesamtfotos
+- `docs/protokoll.md` – Projektverlauf
+- `bilder/originale/` – Nutzerfotos, sprechende Dateinamen, unveränderter Bildinhalt
+- `bilder/generiert/` – erzeugte Bilder/Grafiken
+
+## Benennung der Fotos
+
+- Gesamtübersicht: `Regal_Gesamt.jpg`
+- Einzelnes Fach: `Regal_1-4.jpg` (erste Spalte, viertes Fach von oben)
+- Mehrere Fotos eines Faches: `Regal_1-4_02.jpg` etc.
+
+Dateiendung passend zum echten Bildformat beibehalten. Originale können unverändert umbenannt werden. Siehe `bilder/README.md`.
 
 ## Aktueller Stand
 
-- Repository-Sichtbarkeit: **private** (geprüft am 2026-11-06).
-- Dokumentationsstruktur und leere Inventardateien angelegt.
-- Regalfotos und Buchinventar noch nicht erfasst.
-- Nächster Schritt: Übersichtsfoto entgegennehmen, danach Detailfotos der Regalfächer. Erst nach Anweisung des Nutzers die Ergebnisse und Sortierung ausgeben.
+- Repository-Sichtbarkeit: **private**.
+- Dokumentation und leere Inventardateien angelegt.
+- Erstes Übersichtsfoto im Chat empfangen, `F0001` in `daten/fotos.csv` registriert. **Binärupload nach GitHub noch ausstehend**.
+- Detailfotos und Buchinventar noch ausständig.
+- Alphabetische Umordnung erst auf Anweisung des Nutzers.
 
 ## Datenschutz und Arbeitsweise
 
-- Alle Projektänderungen werden direkt in Git dokumentiert.
-- Bilddateien werden nach Möglichkeit im Originalformat gespeichert und über `daten/fotos.csv` referenziert.
-- Eine Upload-Zusage gilt erst, wenn die jeweilige Datei tatsächlich ins Git-Repository übertragen und verifiziert wurde.
+- Alle Projektänderungen werden in Git dokumentiert.
+- Eine Upload-Zusage gilt erst, wenn die Bilddatei tatsächlich ins Git-Repository übertragen und verifiziert wurde.
