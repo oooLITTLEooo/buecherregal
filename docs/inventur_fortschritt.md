@@ -218,3 +218,8 @@ Nur B00340 und B00360 anhand FOTO0019 nachgeprüft. B00360 als Antonio Manuel Ga
 ## 2026-11-06 – Fachweise Nachprüfung 3-7
 
 B00373 (Position 9) anhand FOTO0020 Teil 02 und 03 überprüft: Autorin Brigitte Schwaiger am schmalen rosa-orange Rücken sichtbar, der Titel bleibt nicht bestimmbar. Zusatzfoto frontal oder Titelblatt benötigt; Fach 3-7 mit 17/18 lesbar, 1 offen, nicht abgehakt. Gesamt 1048 erfasste Bucheinträge (972 lesbar, 37 prüfen, 39 offen), 17 noch gezielt zu prüfende Fächer. Details docs/fachpruefung_3-7_20261106.md; nächstes Fach 4-2.
+
+
+## 2026-11-06 – Gezielte Nachprüfung Fach 4-2
+
+Nur B00418 und B00433 auf FOTO0023 Teil 01/03 gezielt betrachtet. B00418 bleibt bei Folke Tegetthoff mit unbekanntem Titel; das rechts folgende Buch *Kräutermärchen* ist ein gesonderter Band. B00433 bleibt offen, dunkler schmaler Rücken zwischen Torberg *Süßkind von Trimberg* und Thiesler *Die Totengräberin*. Für beide Einzelfotos oder Titelblatt nötig. Fach 4-2 21 Einträge (19 lesbar, 1 prüfen, 1 offen), nicht abgehakt. Gesamt weiterhin 1048 Einträge (972 lesbar, 37 prüfen, 39 offen), 16 weitere gezielte Fachprüfungen ausstehend. Bericht docs/fachpruefung_4-2_20261106.md; nächstes Fach 4-3.

@@ -239,3 +239,11 @@
 - Original-JPEG über GitHub-API wegen Binär-/Größenbeschränkung nicht vollständig nachgeladen; einzelnes Rücken-/Titelblattfoto erforderlich.
 - B00373 bleibt offen. Fach 3-7 weiterhin 18 vorläufige Einträge, 17 lesbar und 1 offen, gezielte Prüfung durchgeführt, nicht abgehakt.
 - Gesamt weiterhin 1048 Einträge: 972 lesbar, 37 prüfen, 39 offen. Jetzt 17 gezielte Fachprüfungen ausstehend. Bericht docs/fachpruefung_3-7_20261106.md, nächstes Fach 4-2.
+
+
+## 2026-11-06 – Gezielte Nachprüfung Fach 4-2
+
+- Original FOTO0023, alle vier Originalpixelteile aus Git betrachtet; nur B00418 (Pos 1) und B00433 (Pos 16) bewertet.
+- B00418: Autor Folke Tegetthoff erkennbar, Titel des ersten dunkelgrün-blauen Bandes nicht lesbar. Nicht mit danebenstehenden *Kräutermärchen* (B00419) gleichgesetzt.
+- B00433: dunkler schmaler Rücken zwischen Friedrich Torberg *Süßkind von Trimberg* und Sabine Thiesler *Die Totengräberin* sichtbar; Autor und Titel unbekannt.
+- Für beide Fälle Einzelaufnahme/Titelblatt benötigt, keine neuen Titel geraten, Status unverändert. Fach 4-2 mit 21 Einträgen (19 lesbar, 1 prüfen, 1 offen) gezielt kontrolliert, nicht abgehakt. Gesamt 1048 (972 lesbar, 37 prüfen, 39 offen); 16 weitere Fachprüfungen. Bericht docs/fachpruefung_4-2_20261106.md. Nächstes Fach 4-3.
