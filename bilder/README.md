@@ -1,8 +1,19 @@
-# Bilder
+# Bilder und Dateinamen
 
-Die Repository-Sichtbarkeit wurde am **2026-11-06** als **private** bestätigt.
+Repository-Sichtbarkeit am 2026-11-06 als **private** bestätigt.
 
-- `originale/`: vom Nutzer übermittelte Originalbilder, unverändert, sobald sie technisch zugänglich und übertragen wurden
-- `generiert/`: später erstellte Abbildungen, Regalskizzen und Visualisierungen
+## Namenskonvention
 
-Jede übernommene Bilddatei wird mit Dateiname, Bildtyp und Regalbezug in `daten/fotos.csv` erfasst. Ohne erfolgreiches Hochladen wird eine Datei nicht als archiviert markiert. Die Ordner werden mit Platzhalterdateien im Git angelegt und später mit Bildern befüllt.
+- Übersichtsfoto: `Regal_Gesamt.jpg`
+- Einzelnes Fach: `Regal_1-4.jpg` = **erste Spalte von links, viertes Fach von oben**
+- Weitere Aufnahme desselben Fachs: `Regal_1-4_02.jpg`, `Regal_1-4_03.jpg`, usw.
+- Wenn mehrere nebeneinanderliegende Fächer sichtbar sind, erst nach eindeutiger Zuordnung benennen; bei Unsicherheit eine vorläufige Bild-ID verwenden und nicht falsch einsortieren.
+- Bildendung muss dem tatsächlichen Originalformat entsprechen (`.jpg`, `.png`, `.webp`, …); keine Formatkonvertierung nur zum Umbenennen.
+
+`bilder/originale/` enthält unveränderte Nutzerbilder (gleiche Dateibytes, nur sinnvoller Dateiname). `bilder/generiert/` enthält neu erzeugte Visualisierungen.
+
+Alle Dateien werden in `daten/fotos.csv` dokumentiert. Das dortige Feld `upload_status` unterscheidet `ausstehend` von `im_git`. Nur nach erfolgreichem Upload und Prüfung des Ablageorts als `im_git` kennzeichnen.
+
+## Wichtig
+
+Vorläufige Fotobezeichnungen sind kein Beweis, dass eine Bilddatei tatsächlich im Repository liegt. Das Übersichtsfoto wurde bereits im Chat empfangen, sein Binärupload nach GitHub muss separat verifiziert werden.
