@@ -81,3 +81,15 @@ FOTO0026 bis FOTO0029 anhand ihrer vier nativen Originalpixelausschnitte pro Bil
 - 4-8: 16 vorlaeufige Exemplare, davon 3 offen/pruefen
 
 Bei verdeckten oder unsicheren Titeln wurden die Angaben als offen/pruefen statt geraten erfasst. Mehrteilige Titel in einem physischen Band sind ein Exemplar. Der aktuelle Stand betraegt 558 vorlaeufige Buchdatensaetze in 28 erfassten Fachpositionen. Naechster Abschnitt: 5-1 bis 5-4, FOTO0030–FOTO0033.
+
+
+## 2026-11-06 – Fuenfte Spalte Faecher 5-1 bis 5-4
+
+Alle vier Foto-Originale FOTO0030 bis FOTO0033 in je vier nativen Pixelbereichen visuell geprueft. 85 Buchruecken als eigenstaendige physische Exemplare mit linksausgerichteter Position in daten/buecher.csv neu eingetragen.
+
+- 5-1: 22 Exemplare, davon 4 offen/pruefen
+- 5-2: 19 Exemplare, davon 3 offen/pruefen
+- 5-3: 22 Exemplare, davon 5 offen/pruefen
+- 5-4: 22 Exemplare, davon 5 offen/pruefen
+
+Im Git-Inventar jetzt 643 vorlaeufige physische Buchdatensaetze aus 32 Foto-Fachpositionen. Unsicherheiten markiert; Endabgleich noch ausstehend. Naechste Fotos 5-5 bis 5-8 unter GitHub Actions bereitgestellt.

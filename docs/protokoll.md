@@ -81,3 +81,10 @@
 - Git-Originaldateien FOTO0026 bis FOTO0029 nur lesend ueber native Bildausschnitte geprueft.
 - 87 separate sichtbare Buchruecken vorlaeufig aufgenommen. 14 unsichere Angaben sind als pruefen oder offen markiert.
 - Die Originalfotos blieben unveraendert. Git-Sync vor dem Schreiben, Quellenpfade kontrolliert, neue Vollauflosungs-Queue fuer FOTO0030..FOTO0033 eingetragen. Keine alphabetische Sortierung.
+
+
+## 2026-11-06 – Fächer 5-1 bis 5-4
+
+- 85 vorläufige Exemplar-Datensätze aus den Originalbildern FOTO0030 bis FOTO0033 nach nativer Pixelprüfung angehängt.
+- Offene Teiltexte (u.a. dünne Taschenbücher und Mehrfachbände) bleiben markiert, ohne aus früheren Chats zu ergänzen.
+- Vorheriger Git-Stand geprüft, keine Originalfotos verändert. Nächster Prüfauftrag FOTO0034–FOTO0037 per Git-Workflow; keine alphabetische Umsortierung.
