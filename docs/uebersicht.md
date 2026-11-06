@@ -1,41 +1,16 @@
-# Erste Gesamtaufnahme des Bücherregals
+# Regalübersicht – Neuaufnahme aus Git-Fotos
 
-**Bild-ID:** F0001  
-**Übermittelter Dateiname:** 58245.jpg  
-**Eingang:** 2026-11-06  
-**Bildformat:** JPEG, 1536 × 864 Pixel  
-**Originaldatei:** als Chat-Anhang verfügbar; Ablage unter `bilder/originale/Regal_Gesamt.jpg` im Git-Repository **noch ausstehend**.
+**Status:** Neuaufnahme noch nicht durchgeführt.
 
-## Vorläufige Orientierung
+Der Nutzer lädt Originalfotos direkt in das öffentliche Repository hoch. Die Erfassung beginnt in einem neuen Chat **erst nach Abschluss dieses Uploads** und ausschließlich auf Basis der dann tatsächlich im GitHub-Repository vorhandenen Bilder.
 
-Vom linken Rand des Fotos zum rechten Rand sind **acht vertikale Spalten** unterscheidbar. Die Nummerierung soll zuerst innerhalb der linken Spalte von oben nach unten und danach in der jeweils nächsten Spalte erneut von oben nach unten erfolgen.
+## Im neuen Chat zu bestimmen
 
-- Spalte 1: ganz links, überwiegend leere obere Fächer und Bücher in der unteren Hälfte.
-- Spalten 2–7: überwiegend mit Büchern gefüllte Regalbereiche.
-- Spalte 8: ganz rechts, schmaler Bereich mit Büchern oben und überwiegend leeren Fächern darunter.
+- Git-Verzeichnis und Pfad des Gesamtübersichtsfotos
+- Anzahl der Spalten und Fächer anhand des Gesamtfotos
+- Welche Fächer Bücher enthalten, leer sind oder andere Gegenstände enthalten
+- Welche Regalfächer mit Fotos ausreichend abgedeckt sind
+- Welche Aufnahmen doppelt, unklar oder fehlend sind
+- Eindeutige Standortnamen nach `Spalte-Fach`
 
-**Wichtig:** Anzahl und Grenzen der einzelnen Regalfächer bleiben bis zur Sichtung der Detailfotos vorläufig. Keine endgültigen Buchzuordnungen aus dieser Gesamtaufnahme. Ein Standort wie `1-5` bezeichnet immer **Spalte 1, fünftes Fach von oben**; die Stellung innerhalb dieses Fachs wird zusätzlich von links nach rechts gezählt.
-
-## Erfasster Fortschritt
-
-- Vier Buchfächer der ersten Spalte mit Detailbildern: `1-5`, `1-6`, `1-7`, `1-8`.
-- `1-1` bis `1-3` leer und `1-4` enthält eine Lampe (Gesamtfoto).
-- Zweite Spalte: `2-1` bis `2-8` vollständig fotografiert.
-- Dritte Spalte: `3-1` bis `3-8` vollständig fotografiert.
-- Vierte Spalte: `4-1` bis `4-8` vollständig fotografiert.
-- Fünfte Spalte: `5-1` bis `5-8` vollständig fotografiert.
-- Sechste Spalte: `6-1` bis `6-6` fotografiert; `6-7` und `6-8` noch ohne nachgewiesene Detailfotos und anhand der tatsächlichen Fachzahl zu prüfen.
-- 362 vorläufige Buchpositionen in `daten/buecher.csv`, darunter 68 mit Prüfbedarf.
-- Die 43 im Chat vorhandenen Original-JPEG-Dateien sind noch nicht ins Git hochgeladen. Eine ZIP-Sicherung mit richtig benannten Originaldateien wurde im Chat erstellt (`buecherregal_fotos_bis_6-6_2026-11-06.zip`). Der Nutzer meldet einen vollständigen Upload in voller Auflösung; die GitHub-Kontrolle des Branches `main` fand jedoch noch keine Bilddateien. Diesen Widerspruch im nächsten Chat erneut prüfen.
-
-## Zusätzlicher Nutzervermerk
-
-- **`3.5 noch`**, **`2.5 noch`** und **`1.5 noch offen`**: ausdrücklich am Ende der Kommunikation ausgeben. Alle drei Fächer waren bereits fotografiert; die Art der noch ausstehenden Aufgabe ist nicht spezifiziert. Siehe `daten/offene_punkte.csv`.
-
-## Noch zu tun
-
-- Detailfotos aller Spalten/Fächer erhalten und der Reihe nach erfassen.
-- Verifizierte Fachmatrix erstellen.
-- Jedes sichtbare Buch mit Autor, Titel und Originalstandort in `daten/buecher.csv` erfassen; Unleserliches offen lassen.
-- Die Originaldatei aus dem Chat unverändert nach GitHub übertragen und Upload verifizieren.
-- Alphabetische Neuordnung erst auf ausdrückliche Nutzeranweisung ausarbeiten.
+Keine vorläufige Zuordnung, Zählung oder Bildanalyse aus einem früheren Gespräch übernehmen. Siehe [NEUER_CHAT_BESTANDSANALYSE.md](NEUER_CHAT_BESTANDSANALYSE.md).
