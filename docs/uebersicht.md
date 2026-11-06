@@ -21,9 +21,10 @@ Vom linken Rand des Fotos zum rechten Rand sind **acht vertikale Spalten** unter
 - Vier Buchfächer der ersten Spalte mit Detailbildern: `1-5`, `1-6`, `1-7`, `1-8`.
 - `1-1` bis `1-3` leer und `1-4` enthält eine Lampe (Gesamtfoto).
 - Zweite Spalte: `2-1` bis `2-8` vollständig fotografiert.
-- Dritte Spalte: `3-1` bis `3-6` fotografiert; `3-7` und `3-8` ausständig.
+- Dritte Spalte: `3-1` bis `3-8` vollständig fotografiert.
+- Vierte Spalte: `4-1` bis `4-4` fotografiert; `4-5` bis `4-8` noch ausständig.
 - 362 vorläufige Buchpositionen in `daten/buecher.csv`, darunter 68 mit Prüfbedarf.
-- Die 19 im Chat vorhandenen Original-JPEG-Dateien sind noch nicht ins Git hochgeladen. Eine ZIP-Sicherung mit richtig benannten Originaldateien wurde im Chat erstellt.
+- Die 25 im Chat vorhandenen Original-JPEG-Dateien sind noch nicht ins Git hochgeladen. Eine ZIP-Sicherung mit richtig benannten Originaldateien wurde im Chat erstellt.
 
 ## Noch zu tun
 
