@@ -133,3 +133,10 @@
 - Geprüfte Änderungen und noch ausstehende Einträge in docs/feinpruefung_unsicher_20261106.md und daten/bildanalyse/feinpruefung_unsicher.csv.
 - Weitere Sichtprüfung der übrigen Fächer (insbesondere Spalten 3-6) noch ausstehend; offene Titel bleiben ausdrücklich ungesichert.
 
+## 2026-11-06 – Feinprüfung restlicher Git-Originalpixel und 25 weitere Berichtigungen
+
+- Weitere native 1:1-Pixel-Ausschnitte aus den vorhandenen 8160x4590-JPEGs eingesehen; bei zwei Teilbildern von FOTO0042 schlug die Bildauslieferung fehl. Dies ist im Prüfprotokoll explizit dokumentiert.
+- Weitere 25 prüfpflichtige Einträge sicher nachkontrolliert (kumulativ 52). Darunter falsche Autoren bei Eva Bakos, Nicholas Sparks sowie Doris Knecht korrigiert.
+- Für die übrigen 107 ursprünglich fraglichen Einträge kein Scheinabschluss: Details weiterhin `offen`/`pruefen`, einschließlich bibliographisch nur teilweise bekannter Einträge und unklarer Buchzählung.
+- Es wurden keine Originalfotos überschrieben, keine Büchernummern neu vergeben und kein vorhandenes Exemplar entfernt.
+

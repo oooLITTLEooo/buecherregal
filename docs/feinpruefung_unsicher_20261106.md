@@ -41,3 +41,40 @@ Grundlage: **159** vorher offene/prüfpflichtige Einträge aus `daten/buecher.cs
 - Nicht sichtbare Rückseiten, verdeckte Titel oder gegeneinander verschobene Bände lassen sich auch aus einer vorhandenen Aufnahme mit vergrößerten Bildausschnitten nicht zuverlässig rekonstruieren. Konkrete Zusatzaufnahme vor Ort ist dann erforderlich.
 - Bildausschnitte sind JPG-Rekodierungen der **Originalpixel mit unverändertem Bildmaßstab**, das Original selbst bleibt unverändert. Zusätzliche JPEG-Kompression bringt keine neue Schärfe; für Grenzfälle den Originalpixelbereich möglichst verlustfrei neu ausschneiden.
 - Fehlende Detailfotos: 8-1 und 8-2, sowie Sichtkontrolle 7-8.
+
+## Zweiter Originalpixel-Prüfblock am 06.11.2026 – 25 zusätzliche sichere Identifizierungen
+
+Die vorhandenen nativen Originalpixel-Ausschnitte zu den zuvor unsicheren Bucheinträgen wurden nach Fachposition erneut gelesen. Alle 51 vorhandenen Detailfotos sind berücksichtigt; für FOTO0042 (Fach 6-5) waren in der verbundenen GitHub-Auslieferung nur Teile 1 und 2 als Bild dekodierbar. Teile 3 und 4 blieben beim Lesen leer – ihre Zuordnung ist ausdrücklich nicht abgeschlossen. Bei verbleibenden Unklarheiten kein Titel geraten.
+
+| ID | Fach / Position | Alte Lesung | Aus dem Fotobereich bestätigt | Git-Bildausschnitt |
+| --- | --- | --- | --- | --- |
+| B00309 | 3-4 / 8 | Walter, Ilse / Passende Wüste für Fata Morgana gesucht [pruefen] | Walter, Ilse / Passende Wüste für Fata Morgana gesucht | FOTO0017 Teil 2 |
+| B00311 | 3-4 / 10 | Walser, Martin / Der Hexer [pruefen] | Walser, Martin / Der Hexer | FOTO0017 Teil 3 |
+| B00393 | 3-8 / 11 | Wecker, Konstantin / offen [offen] | Wecker, Konstantin / Schon Schweigen ist Betrug: Die kompletten Liedtexte | FOTO0021 Teil 4 |
+| B00401 | 4-1 / 1 | Kappacher, Walter / Der Fliege [pruefen] | Kappacher, Walter / Der Fliege | FOTO0022 Teil 1 |
+| B00419 | 4-2 / 2 | Tegetthoff, Folke / Kräutermärchen [pruefen] | Tegetthoff, Folke / Kräutermärchen | FOTO0023 Teil 1 |
+| B00423 | 4-2 / 6 | Sperber, Manès / Churban [pruefen] | Sperber, Manès / Churban | FOTO0023 Teil 2 |
+| B00457 | 4-4 / 1 | Barons, Eva / Sehnsucht nach Salina [pruefen] | Bakos, Eva / Sehnsucht nach Salina | FOTO0025 Teil 1 |
+| B00498 | 4-6 / 8 | Altenberg, Peter / Sonnenuntergang im Prater [pruefen] | Altenberg, Peter / Sonnenuntergang im Prater | FOTO0027 Teil 2 |
+| B00547 | 4-8 / 5 | Lukas, Leo / Mörder Quoten [pruefen] | Lukas, Leo / Mörder Quoten | FOTO0029 Teil 2 |
+| B00595 | 5-2 / 15 | Adamson, Joy / Die Löwin Elsa und ihre Jungen [pruefen] | Adamson, Joy / Die Löwin Elsa und ihre Jungen | FOTO0031 Teil 3 |
+| B00628 | 5-4 / 7 | offen, offen / offen [offen] | Galloway, Steven / Der Cellist von Sarajevo | FOTO0033 Teil 2 |
+| B00632 | 5-4 / 11 | Bock, Ute / Zeit im Wind [pruefen] | Sparks, Nicholas / Zeit im Wind | FOTO0033 Teil 3 |
+| B00669 | 5-6 / 5 | Wieninger, Manfred / Die Spur der Katzen [pruefen] | Wieninger, Manfred / Die Spur der Katzen | FOTO0035 Teil 2 |
+| B00690 | 5-7 / 2 | Danella, Utta / offen [offen] | Danella, Utta / Wo hohe Türme sind | FOTO0036 Teil 1 |
+| B00698 | 5-7 / 10 | Komarek, Alfred / Polt [pruefen] | Komarek, Alfred / Polt | FOTO0036 Teil 3 |
+| B00714 | 5-8 / 8 | Walser, Martin / Femme fatale [pruefen] | Walser, Martin / Femme fatale | FOTO0037 Teil 2 |
+| B00735 | 6-1 / 9 | Dahl, Arne / Misterioso / Böses Blut [pruefen] | Dahl, Arne / Misterioso / Böses Blut | FOTO0038 Teil 2 |
+| B00752 | 6-2 / 3 | Wagner, Christoph / Schattenbach [pruefen] | Wagner, Christoph / Schattenbach | FOTO0039 Teil 1 |
+| B00754 | 6-2 / 5 | Walser, Martin / Protokolleure [pruefen] | Walser, Martin / Protokolleure | FOTO0039 Teil 2 |
+| B00765 | 6-2 / 16 | Eschbach, Andreas / NSA [pruefen] | Eschbach, Andreas / NSA | FOTO0039 Teil 3 |
+| B00766 | 6-2 / 17 | Ansh..., Martin / Typisch Welt [offen] | Amanshauser, Martin / Typisch Welt | FOTO0039 Teil 4 |
+| B00774 | 6-3 / 5 | Stermann, Dirk / 6 österreichische ... [pruefen] | Stermann, Dirk / 6 Österreicher unter den ersten 5 | FOTO0040 Teil 1 |
+| B00895 | 6-8 / 4 | offen, offen / offen [offen] | Muliar, Fritz / Streng indiskret! | FOTO0045 Teil 1 |
+| B00898 | 6-8 / 7 | Köpf, Gerhard / Eulenspiegel [pruefen] | Köpf, Gerhard / Eulensehen | FOTO0045 Teil 2 |
+| B00911 | 6-8 / 20 | Besser, Doris Knecht / Besser [pruefen] | Knecht, Doris / Besser | FOTO0045 Teil 4 |
+
+**Kumulative Zweitprüfung:** 52 von ursprünglich 159 vormals unsicheren Datensätzen auf `lesbar` umgestellt; 107 bleiben `offen` oder `pruefen`. Unter ihnen sind teils zwar Titel lesbar, aber Autor, Buchgrenze oder ursprüngliche Positions-ID nicht hinreichend belegt. Ein Bildausschnitt kann kein verdecktes Objekt sichtbar machen. Aktuelle Einzelstatus in `daten/bildanalyse/feinpruefung_unsicher.csv`.
+
+**Wichtige Fachkontrollen:** 6-5 erfordert Nachzugriff auf die Originalpixel der Bildteile 3/4; fehlende zusätzliche Regal-Detailfotos bleiben 8-1, 8-2 sowie Sichtprüfung 7-8. Die physische Reihenfolge und Buchexemplar-Zählung von insgesamt 1048 bleiben vorläufig. Keine alphabetische Umsortierung.
+

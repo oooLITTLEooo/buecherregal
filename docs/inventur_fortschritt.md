@@ -154,3 +154,7 @@ Die drei Originalbilder FOTO0050–FOTO0052 wurden jeweils anhand von vier nativ
 ## 2026-11-06 – Nachprüfung der 159 unsicheren Einträge gestartet
 
 27 Identifikationen anhand nativer Pixelbereiche korrigiert oder bestätigt; 132 Identifikationen weiterhin offen/pruefen. Der Buchbestand bleibt bei 1048 vorläufigen Einträgen. Nachweise und noch nicht abgeschlossene Prüffälle: docs/feinpruefung_unsicher_20261106.md und daten/bildanalyse/feinpruefung_unsicher.csv.
+
+## 2026-11-06 – Zweite Nachkontrolle (Hochauflösung)
+
+25 weitere zuvor unsichere Einträge korrigiert oder bestätigt. Insgesamt 52 auf lesbar nachgeprüft. Stand: 941 lesbar, 65 pruefen und 42 offen von 1048 vorlaeufigen Bucheintraegen. Noch 107 zuvor unsichere Einträge sind nicht abschließend identifiziert. Teilbilder FOTO0042 3 und 4 konnten in der verbundenen Bildauslieferung nicht gelesen werden. Siehe docs/feinpruefung_unsicher_20261106.md.
