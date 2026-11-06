@@ -203,3 +203,8 @@ B00292 (C. G. Jung, *Erinnerungen, Träume, Gedanken*) und B00300 (Jakob Wasserm
 ## 2026-11-06 – Gezielte Prüfung Fach 3-4
 
 B00318 anhand FOTO0017 Teilbilder 03 und 04 nachgeprüft. Die physische Buchgrenze zwischen den John-Irving-Bänden *Eine Mittelgewichts-Ehe* und *Zirkuskind* lässt sich nicht zweifelsfrei bestimmen. B00318 bleibt offen; Nachfoto und Nachzählung des betroffenen Bereichs erforderlich. Das Fach hat weiter 22 vorläufige Einträge, davon 21 lesbar, 1 offen; nicht abgehakt. Gesamt 1048 Einträge, 967 lesbar, 42 prüfen, 39 offen. 20 weitere gezielte Fachprüfungen ausstehend. Siehe docs/fachpruefung_3-4_20261106.md. Nächstes Fach 3-5.
+
+
+## 2026-11-06 – Fachweise Nachprüfung 3-5
+
+B00329 als Lesebuch von Karl-Markus Gauß und Martin Pollack (Herausgeber), B00330 mit korrigiertem Titel *Träume süß, mein Mädchen* (Joy Fielding), B00332 als Konstantin Wecker *Dann denkt mit dem Herzen* und B00333 als Erle Stanley Gardner *Mord auf der Luxusjacht* anhand FOTO0018 Teil 02 und Bibliografie geklärt. Fach 3-5 nun 16/16 lesbar und vorläufig abgehakt. Gesamter Inventarstand 1048 Einträge: 971 lesbar, 38 prüfen, 39 offen. 19 weitere Fächer gezielt zu prüfen; Fachbericht docs/fachpruefung_3-5_20261106.md. Nächstes Fach 3-6.

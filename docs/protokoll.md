@@ -214,3 +214,11 @@
 - Kein Titel geraten und kein Datensatz gelöscht. B00318 bleibt offen, das Fach benötigt ein frontales Nachfoto und eine physische Nachzählung an Position 17.
 - Fach 3-4: weiterhin 22 vorläufige Einträge (21 lesbar, 1 offen), gezielte Nachprüfung erfolgt, nicht abgehakt. Gesamt unverändert 1048 Einträge: 967 lesbar, 42 prüfen, 39 offen.
 - Jetzt 20 Fächer mit noch ausstehender gezielter Kontrolle, 14 erneut geprüft mit Restunsicherheit; Bericht docs/fachpruefung_3-4_20261106.md. Als nächstes Fach 3-5.
+
+
+## 2026-11-06 – Gezielte Nachprüfung Fach 3-5
+
+- FOTO0018 alle 4 Originalpixel-Ausschnitte aus Git betrachtet, vier vorher unsichere IDs im Teil 02 geprüft.
+- B00329 richtig als Karl-Markus Gauß und Martin Pollack (Herausgeber), *Das reiche Land der armen Leute: Literarische Wanderungen durch Galizien*; B00330 Joy Fielding, *Träume süß, mein Mädchen* (vorher „Träume sind“ falsch); B00332 Konstantin Wecker, *Dann denkt mit dem Herzen*; B00333 Erle Stanley Gardner, *Mord auf der Luxusjacht*.
+- Fach 3-5 jetzt 16/16 formal lesbar, vorläufig abgehakt, Originalfotos und alle Positionen unverändert.
+- Stand 1048 inventarisierte Einträge, 971 lesbar, 38 prüfen, 39 offen. 17 Fächer abgehakt, 19 gezielt nachzuprüfen. Belege docs/fachpruefung_3-5_20261106.md. Nächstes Fach: 3-6.
