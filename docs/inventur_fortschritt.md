@@ -173,3 +173,8 @@ B00155 auf Originalfoto FOTO0010 Teil 02 als Helen Fielding, *Bridget Jones*, be
 ## 2026-11-06 – Nachprüfung Fach 2-6
 
 B00170 (Position 4) in FOTO0011 Teil 02 als Götz Schrage, *Tausendmal verliebt* (Rückenaufschrift *1000x verliebt*) bestätigt, anhand Milena-Verlagskatalog abgeglichen. Einziger Unsicherheitsfall in Fach 2-6 erledigt. Damit 17/17 dort lesbar, vorläufig abgehakt. Gesamt: 1048 vorläufige Bucheinträge, 956 lesbar, 52 prüfen, 40 offen. Noch 26 gezielte Fachprüfungen. Bericht docs/fachpruefung_2-6_20261106.md.
+
+
+## 2026-11-06 – Gezielte Nachprüfung Fach 2-7
+
+B00185 auf FOTO0012 Teil 01 als Brigitte Giraud, *Die Liebe ist doch sehr überschätzt*, B00188 als Petra Hammesfahr, *Das Geheimnis der Puppe* (Bild-Bestseller-Bibliothek Band 6), und B00198 auf Teil 03 als Roland Girtler, *Die feinen Leute: Von der vornehmen Art, durchs Leben zu gehen*, bestätigt. Alle 29 Einträge in Fach 2-7 formal lesbar; das Fach ist vorläufig abgehakt. Neuer Inventarstand 1048 Exemplare: 959 lesbar, 49 prüfen, 40 offen. Einzelbericht docs/fachpruefung_2-7_20261106.md. Nächstes Fach 2-8.

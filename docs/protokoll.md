@@ -164,3 +164,12 @@
 - 17 von 17 Büchern im Fach nun formal lesbar, vorläufig abgehakt; keine Bilder, Standorte oder IDs verändert.
 - Stand 1048 Einträge, 956 lesbar, 52 prüfen, 40 offen. 14 Fächer abgehakt, 26 weitere gezielt zu prüfen.
 - Bericht: docs/fachpruefung_2-6_20261106.md. Nächstes Fach: 2-7.
+
+
+## 2026-11-06 – Fachweise Unsicherheitenprüfung 2-7
+
+- FOTO0012 Teile 01-03 gezielt für B00185, B00188 und B00198 eingesehen.
+- B00185 = Brigitte Giraud, *Die Liebe ist doch sehr überschätzt*; B00188 = Petra Hammesfahr, *Das Geheimnis der Puppe* (Bild Bestseller-Bibliothek Band 6); B00198 = Roland Girtler, *Die feinen Leute: Von der vornehmen Art, durchs Leben zu gehen*.
+- Nach Bild-/Bibliografieabgleich alle drei auf lesbar; 29/29 im Fach formell lesbar. Keine Buch-IDs, Positionen oder Bilddateien verändert.
+- Gesamt 1048 Einträge, 959 lesbar, 49 prüfen, 40 offen; 15 Fächer vorläufig abgehakt; 25 weitere noch gezielt zu prüfen.
+- Details: docs/fachpruefung_2-7_20261106.md. Als nächstes Fach 2-8.
