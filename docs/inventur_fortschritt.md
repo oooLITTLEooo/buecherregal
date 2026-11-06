@@ -69,3 +69,15 @@ FOTO0022 bis FOTO0025 wurden anhand von je vier nativen Pixelausschnitten geprue
 - 4-4: 15 Exemplare; 1 offen/pruefen; Quelle bilder/originale/PXL_20261105_151432665.jpg
 
 Sammelbände und vier getrennt gebundene Goethe-Bände (Fach 4-1) jeweils anhand der physischen Bände erfasst. Besonders schwer lesbare schmale oder verdeckte Rücken bleiben pruefen/offen. Das Inventar umfasst nun 471 vorlaeufige Exemplare aus 24 fotografierten Fächern. Nächste Fächer: 4-5 bis 4-8.
+
+
+## 2026-11-06: Spalte 4 komplett bis Fach 4-8
+
+FOTO0026 bis FOTO0029 anhand ihrer vier nativen Originalpixelausschnitte pro Bild gesichtet. 87 zusaetzliche Buchruecken dokumentiert; Position je Fach von links nach rechts.
+
+- 4-5: 19 vorlaeufige Exemplare, davon 3 offen/pruefen
+- 4-6: 22 vorlaeufige Exemplare, davon 2 offen/pruefen
+- 4-7: 30 vorlaeufige Exemplare, davon 6 offen/pruefen
+- 4-8: 16 vorlaeufige Exemplare, davon 3 offen/pruefen
+
+Bei verdeckten oder unsicheren Titeln wurden die Angaben als offen/pruefen statt geraten erfasst. Mehrteilige Titel in einem physischen Band sind ein Exemplar. Der aktuelle Stand betraegt 558 vorlaeufige Buchdatensaetze in 28 erfassten Fachpositionen. Naechster Abschnitt: 5-1 bis 5-4, FOTO0030–FOTO0033.

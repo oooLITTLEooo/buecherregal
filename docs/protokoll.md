@@ -74,3 +74,10 @@
 - Git-Sync und Prüfung der 16 nativen Originalausschnitte von FOTO0022 bis FOTO0025 durchgeführt.
 - 71 neue Exemplare einzeln nach physischer Links-rechts-Position dokumentiert; 8 mit offenen/pruefen-Feldern.
 - Originale unverändert, keine Umordnung. Nächste vier Detailfotos in der Git-Actions-Prüfliste vorgesehen.
+
+
+## 2026-11-06 – Abschluss Spalte 4, Faecher 4-5 bis 4-8
+
+- Git-Originaldateien FOTO0026 bis FOTO0029 nur lesend ueber native Bildausschnitte geprueft.
+- 87 separate sichtbare Buchruecken vorlaeufig aufgenommen. 14 unsichere Angaben sind als pruefen oder offen markiert.
+- Die Originalfotos blieben unveraendert. Git-Sync vor dem Schreiben, Quellenpfade kontrolliert, neue Vollauflosungs-Queue fuer FOTO0030..FOTO0033 eingetragen. Keine alphabetische Sortierung.
