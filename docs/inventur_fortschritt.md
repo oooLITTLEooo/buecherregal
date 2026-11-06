@@ -36,3 +36,9 @@ Es wurden noch keine Bücher physisch bewegt oder alphabetisch umsortiert.
 - Beispiele fuer korrigierte Fehlablesungen: Erika Pluhar statt Jodi Picoult; Thomas Mann Tagebuecher 1953–1955; Rosamunde Pilcher Wilder Thymian; Eric Malpass statt Charlotte Link; Donna Leon Endlich mein.
 - Die Erfassung umfasst weiterhin 149 physische Eintraege, ohne Duplikatloeschung; Reihenfolge und Foto-Referenzen unveraendert.
 - Beim unter ungewoehnlichen Winkeln sichtbaren oder teilweise verdeckten Buchruecken ist eine separate Nachkontrolle gegebenenfalls weiterhin erforderlich.
+
+## Regalfächer 2-5 bis 2-8: Originalauflösung
+
+80 weitere vorläufige Buchdatensätze aus FOTO0010 bis FOTO0013, davon 11 mit Status pruefen. Alle vier Originalfotos in je vier nativen Pixelausschnitten visuell geprüft.
+Schmale, verdeckte und uneindeutige Buchrücken ausdrücklich als unsicher markiert. Reihenfolge von links nach rechts, Originalfoto als Quellenpfad. Sichtbare echte Doppelexemplare bleiben als getrennte physische Exemplare. Exakte Kantenkontrolle noch offen.
+Gesamtstand 229 Datensätze. Die fotografierten Fächer der ersten beiden Spalten sind vorläufig inventarisiert. Anschließend Spalten 3 bis 7.

@@ -51,3 +51,8 @@
 - Native Ausschnitte von FOTO0002 bis FOTO0005 visuell neu geprueft.
 - 22 zuvor fehlerhafte oder unvollstaendige Angaben im Inventar der Faecher 1-5 bis 1-8 korrigiert. 2 unklare Positionen verbleiben.
 - Bestehende Buch-IDs, Fachpositionen und Originalfoto-Referenzen erhalten. Git-Historie bewahrt alle alten Lesungen.
+
+## 2026-11-06 – Erfassung 2-5 bis 2-8
+
+- Native Originalausschnitte FOTO0010–FOTO0013 visuell geprüft. 80 neue Datensätze, 11 unsicher, Gesamtstand 229.
+- Keine Originalfotos geändert oder alphabetische Umsortierung begonnen.
