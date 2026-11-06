@@ -228,3 +228,8 @@ Nur B00418 und B00433 auf FOTO0023 Teil 01/03 gezielt betrachtet. B00418 bleibt 
 ## 2026-11-06 – Nachprüfung Fach 4-3
 
 B00448 (Position 10) und B00454 (Position 16) in FOTO0024 Originalpixelteilen 02 bis 04 kontrolliert. B00448: Ann Granger erkennbar, Titel nicht lesbar; B00454: dunkler Bereich zwischen Markaris *Zurück auf Start* und Elizabeth George *Mein ist die Rache*, eigenständige Bandgrenze/Titel unbekannt. Zwei zusätzliche Einzelbilder erforderlich. Fach 4-3 weiterhin 18 vorläufige Bucheinträge mit 16 lesbar, 1 prüfen, 1 offen, nicht abgehakt. Gesamt 1048 (972 lesbar, 37 prüfen, 39 offen). 15 Fachprüfungen ausstehend. Siehe docs/fachpruefung_4-3_20261106.md; als Nächstes 4-5.
+
+
+## 2026-11-06 – Gezielte Nachprüfung Fach 4-5
+
+B00474 (Mary Higgins Clark, *Und morgen in das kühle Grab*) bestätigt, B00475 mit vollständigen Autoren Corinna Milborn und Markus Breitenecker sowie *Change the Game: Wie wir uns das Netz von Facebook und Google zurückerobern* korrigiert, B00486 (Semezdin Mehmedinović, *Sarajevo Blues*) bestätigt. FOTO0026 Originalpixelteile 01 bis 04, bibliografischer Abgleich dokumentiert. Fach 4-5: 19 Einträge alle lesbar, vorläufig abgehakt. Gesamt 1048 Bucheinträge, 975 lesbar, 34 prüfen, 39 offen. 14 weitere gezielte Fachprüfungen. Details docs/fachpruefung_4-5_20261106.md; nächstes Fach 4-6.

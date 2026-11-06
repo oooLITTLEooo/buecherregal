@@ -255,3 +255,11 @@
 - B00448: Ann Granger auf schmalem dunklem Buchrücken nach Wolf Haas *Auferstehung der Toten* lesbar; Titel nicht bestimmbar. B00454: schmaler dunkler Bereich zwischen Petros Markaris *Zurück auf Start* und Elizabeth George *Mein ist die Rache*, weder Titel noch eigenständige physische Buchgrenze zuverlässig erkennbar.
 - Status unverändert (1 prüfen, 1 offen), für beide Fälle konkrete Frontal-/Titelblattfotos dokumentiert. Fach 4-3 vorläufig 18 Einträge (16 lesbar), gezielt nachgeprüft aber nicht abgehakt.
 - Gesamt unverändert 1048 Einträge (972 lesbar, 37 prüfen, 39 offen). Jetzt 15 noch gezielte Fachprüfungen. Bericht docs/fachpruefung_4-3_20261106.md, nächstes Fach 4-5.
+
+
+## 2026-11-06 – Fach 4-5 gezielt geprüft
+
+- FOTO0026: vier Originalpixel-Ausschnitte gesichtet, ausschließlich B00474, B00475 und B00486 neu bewertet.
+- B00474 = Mary Higgins Clark, *Und morgen in das kühle Grab*, bestätigt; B00475 = Corinna Milborn / Markus Breitenecker, *Change the Game: Wie wir uns das Netz von Facebook und Google zurückerobern*, bisherige Autorenschreibweise korrigiert; B00486 = Semezdin Mehmedinović, *Sarajevo Blues*, bestätigt.
+- Fach 4-5 nun 19/19 Einträge lesbar, vorläufig abgehakt. Keine Fotos oder Buch-IDs oder Positionen verändert.
+- Gesamt 1048 Einträge: 975 lesbar, 34 prüfen, 39 offen. 18 Fächer abgehakt, 14 gezielt zu prüfen. Bericht docs/fachpruefung_4-5_20261106.md; nächstes Fach 4-6.

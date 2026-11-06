@@ -11,15 +11,15 @@ Maschinenlesbare vollständige Übersicht: `daten/pruefplan_faecher.csv`. Nach j
 ## Zusammenfassung
 
 - Raster: **64** Fachpositionen, davon **51** mit Foto und vorhandenen Bucheinträgen.
-- **17** fotografierte Fächer mit `0` offenen/prüfpflichtigen Bucheinträgen → **vorläufig abhaken**.
-- **33** fotografierte Fächer mit zusammen **77** `pruefen`/`offen`-Einträgen.
-- Von diesen 33 sind **15** noch nicht in der neuen fachweisen Nachkontrolle behandelt worden → als nächstes **gezielt nur die unsicheren Bücher prüfen**.
+- **18** fotografierte Fächer mit `0` offenen/prüfpflichtigen Bucheinträgen → **vorläufig abhaken**.
+- **32** fotografierte Fächer mit zusammen **74** `pruefen`/`offen`-Einträgen.
+- Von diesen 32 sind **14** noch nicht in der neuen fachweisen Nachkontrolle behandelt worden → als nächstes **gezielt nur die unsicheren Bücher prüfen**.
 - **18** weitere wurden bereits mit den einschlägigen Originalpixel-Ausschnitten erneut geprüft, bleiben aber ungeklärt → erneute identische Bildprüfung ohne neuen Hinweis vermeiden; bei Bedarf neues Detailfoto.
 - **1** fotografiertes Fach (3-3) mit lesbaren Titeln, aber fraglicher Buchanzahl bzw. Positionsfolge (möglicher zusätzlicher Band *Deutschlandreise*).
 - Daneben **13 Positionen ohne Fachdetailfoto**: 3 mit Foto- oder Sichtbedarf, 6 mit unklarer/leer wirkender Belegung, 4 laut Übersicht leer oder mit Lampe.
-- Global: **1048** vorläufige Exemplare, davon **972 lesbar, 37 prüfen, 39 offen**. Fotos, Buch-IDs und positionsbezogene Originalreferenzen werden nicht geändert.
+- Global: **1048** vorläufige Exemplare, davon **975 lesbar, 34 prüfen, 39 offen**. Fotos, Buch-IDs und positionsbezogene Originalreferenzen werden nicht geändert.
 
-## Vorläufig abgehakt — 17 Fächer
+## Vorläufig abgehakt — 18 Fächer
 
 - `1-5` — zweite Sichtprüfung durchgeführt
 - `1-6` — zweite Sichtprüfung durchgeführt
@@ -33,19 +33,19 @@ Maschinenlesbare vollständige Übersicht: `daten/pruefplan_faecher.csv`. Nach j
 - `3-8` — nur im ersten Inventurdurchgang erfasst, keine offenen Datensätze
 - `4-1` — nur im ersten Inventurdurchgang erfasst, keine offenen Datensätze
 - `4-4` — nur im ersten Inventurdurchgang erfasst, keine offenen Datensätze
+- `4-5` — drei verbliebene Unsicherheiten aus FOTO0026 geklärt, siehe `docs/fachpruefung_4-5_20261106.md`
 - `6-3` — nur im ersten Inventurdurchgang erfasst, keine offenen Datensätze
 - `6-5` — zweite Sichtprüfung durchgeführt
 - `6-7` — zweite Sichtprüfung durchgeführt
 - `7-2` — zweite Sichtprüfung durchgeführt
 - `7-4` — zweite Sichtprüfung durchgeführt
 
-## Noch gezielt prüfen — 15 Fächer
+## Noch gezielt prüfen — 14 Fächer
 
 Reihenfolge folgt der Regalnummerierung. Nur die betroffenen IDs öffnen und einen passenden Bildausschnitt lesen; klar lesbare Bücher nicht erneut bearbeiten.
 
 | Fach | Unsichere Bücher | IDs |
 | --- | ---: | --- |
-| 4-5 | 3 | `B00474`, `B00475`, `B00486` |
 | 4-6 | 1 | `B00492` |
 | 4-7 | 6 | `B00516`, `B00518`, `B00526`, `B00528`, `B00535`, `B00540` |
 | 4-8 | 2 | `B00545`, `B00558` |
@@ -61,7 +61,7 @@ Reihenfolge folgt der Regalnummerierung. Nur die betroffenen IDs öffnen und ein
 | 6-2 | 1 | `B00767` |
 | 6-4 | 2 | `B00804`, `B00811` |
 
-**Nächstes Fach:** `4-5`, ausschließlich **B00474**, **B00475** und **B00486**.
+**Nächstes Fach:** `4-6`, ausschließlich **B00492**.
 
 ## Bereits erneut geprüft, aber weiterhin ungeklärt — 18 Fächer
 
