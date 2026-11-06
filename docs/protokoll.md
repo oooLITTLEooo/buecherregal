@@ -230,3 +230,12 @@
 - B00360 als **Antonio Manuel Garrido – Das Pergament des Himmels** über Bildzuordnung und Aufbau-Verlagskatalog ergänzt, auf lesbar gestellt.
 - B00340: Veit Heinichen am schwarzen Rücken sichtbar, bisheriger Titelanfang *Kalte Tage des …* aber nicht sicher lesbar und bibliografisch nicht bestätigt. Bleibt prüfen, frontales Rückendetail/Titelblatt nötig; keinen Werktitel erfunden.
 - Fach 3-6 vorläufig 25 Bucheinträge (24 lesbar, 1 prüfen), gezielte Prüfung abgeschlossen, nicht abgehakt. Gesamt 1048 Einträge, 972 lesbar, 37 prüfen, 39 offen; 18 noch gezielt zu prüfende Fächer. Bericht docs/fachpruefung_3-6_20261106.md. Nächstes Fach 3-7.
+
+
+## 2026-11-06 – Gezielte Nachprüfung Fach 3-7
+
+- Original FOTO0020, vier Git-Originalpixel-Ausschnitte geprüft, einzig unklaren Datensatz B00373 erneut betrachtet.
+- Name Brigitte Schwaiger auf schmalem orange/rosa Buchrücken zwischen Håkan Nesser und Sten Nadolny sichtbar, Titel in den vorhandenen Ausschnitten nicht zweifelsfrei lesbar. Kein Titel aus Bibliografie geraten.
+- Original-JPEG über GitHub-API wegen Binär-/Größenbeschränkung nicht vollständig nachgeladen; einzelnes Rücken-/Titelblattfoto erforderlich.
+- B00373 bleibt offen. Fach 3-7 weiterhin 18 vorläufige Einträge, 17 lesbar und 1 offen, gezielte Prüfung durchgeführt, nicht abgehakt.
+- Gesamt weiterhin 1048 Einträge: 972 lesbar, 37 prüfen, 39 offen. Jetzt 17 gezielte Fachprüfungen ausstehend. Bericht docs/fachpruefung_3-7_20261106.md, nächstes Fach 4-2.

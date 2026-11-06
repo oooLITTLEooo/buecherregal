@@ -13,8 +13,8 @@ Maschinenlesbare vollständige Übersicht: `daten/pruefplan_faecher.csv`. Nach j
 - Raster: **64** Fachpositionen, davon **51** mit Foto und vorhandenen Bucheinträgen.
 - **17** fotografierte Fächer mit `0` offenen/prüfpflichtigen Bucheinträgen → **vorläufig abhaken**.
 - **33** fotografierte Fächer mit zusammen **77** `pruefen`/`offen`-Einträgen.
-- Von diesen 33 sind **18** noch nicht in der neuen fachweisen Nachkontrolle behandelt worden → als nächstes **gezielt nur die unsicheren Bücher prüfen**.
-- **15** weitere wurden bereits mit den einschlägigen Originalpixel-Ausschnitten erneut geprüft, bleiben aber ungeklärt → erneute identische Bildprüfung ohne neuen Hinweis vermeiden; bei Bedarf neues Detailfoto.
+- Von diesen 33 sind **17** noch nicht in der neuen fachweisen Nachkontrolle behandelt worden → als nächstes **gezielt nur die unsicheren Bücher prüfen**.
+- **16** weitere wurden bereits mit den einschlägigen Originalpixel-Ausschnitten erneut geprüft, bleiben aber ungeklärt → erneute identische Bildprüfung ohne neuen Hinweis vermeiden; bei Bedarf neues Detailfoto.
 - **1** fotografiertes Fach (3-3) mit lesbaren Titeln, aber fraglicher Buchanzahl bzw. Positionsfolge (möglicher zusätzlicher Band *Deutschlandreise*).
 - Daneben **13 Positionen ohne Fachdetailfoto**: 3 mit Foto- oder Sichtbedarf, 6 mit unklarer/leer wirkender Belegung, 4 laut Übersicht leer oder mit Lampe.
 - Global: **1048** vorläufige Exemplare, davon **972 lesbar, 37 prüfen, 39 offen**. Fotos, Buch-IDs und positionsbezogene Originalreferenzen werden nicht geändert.
@@ -39,13 +39,12 @@ Maschinenlesbare vollständige Übersicht: `daten/pruefplan_faecher.csv`. Nach j
 - `7-2` — zweite Sichtprüfung durchgeführt
 - `7-4` — zweite Sichtprüfung durchgeführt
 
-## Noch gezielt prüfen — 18 Fächer
+## Noch gezielt prüfen — 17 Fächer
 
 Reihenfolge folgt der Regalnummerierung. Nur die betroffenen IDs öffnen und einen passenden Bildausschnitt lesen; klar lesbare Bücher nicht erneut bearbeiten.
 
 | Fach | Unsichere Bücher | IDs |
 | --- | ---: | --- |
-| 3-7 | 1 | `B00373` |
 | 4-2 | 2 | `B00418`, `B00433` |
 | 4-3 | 2 | `B00448`, `B00454` |
 | 4-5 | 3 | `B00474`, `B00475`, `B00486` |
@@ -64,9 +63,9 @@ Reihenfolge folgt der Regalnummerierung. Nur die betroffenen IDs öffnen und ein
 | 6-2 | 1 | `B00767` |
 | 6-4 | 2 | `B00804`, `B00811` |
 
-**Nächstes Fach:** `3-7`, ausschließlich **B00373**.
+**Nächstes Fach:** `4-2`, ausschließlich **B00418** und **B00433**.
 
-## Bereits erneut geprüft, aber weiterhin ungeklärt — 15 Fächer
+## Bereits erneut geprüft, aber weiterhin ungeklärt — 16 Fächer
 
 Diese Fächer sind **nicht** abgehakt. Ohne neue Fotodetails oder einen anderen konkret vielversprechenden Bildansatz nicht erneut dieselben Ausschnitte verarbeiten:
 
@@ -80,6 +79,7 @@ Diese Fächer sind **nicht** abgehakt. Ohne neue Fotodetails oder einen anderen 
 | 3-1 | 3 | `B00235`, `B00240`, `B00258` | `docs/fachpruefung_3-1_20261106.md` |
 | 3-4 | 1 | `B00318` | `docs/fachpruefung_3-4_20261106.md` |
 | 3-6 | 1 | `B00340` | `docs/fachpruefung_3-6_20261106.md` |
+| 3-7 | 1 | `B00373` | `docs/fachpruefung_3-7_20261106.md` |
 | 6-6 | 3 | `B00848`, `B00860`, `B00869` | `docs/fachpruefung_6-6_20261106.md` |
 | 6-8 | 1 | `B00896` | `docs/fachpruefung_6-8_20261106.md` |
 | 7-1 | 1 | `B00916` | `docs/fachpruefung_7-1_20261106.md` |

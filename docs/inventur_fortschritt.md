@@ -213,3 +213,8 @@ B00329 als Lesebuch von Karl-Markus Gauß und Martin Pollack (Herausgeber), B003
 ## 2026-11-06 – Fachweise Prüfung 3-6
 
 Nur B00340 und B00360 anhand FOTO0019 nachgeprüft. B00360 als Antonio Manuel Garrido *Das Pergament des Himmels* anhand Bild und Aufbau-Verlagsbibliografie identifiziert, nun lesbar. B00340 Veit Heinichen als Autor sichtbar, aber ursprünglicher Titelanfang *Kalte Tage des …* nicht zuverlässig bestätigt; individuelles Rückendetail/Titelblatt benötigt, bleibt prüfen. Fach 3-6: 25 vorläufige Bücher, 24 lesbar, 1 prüfen. Gesamt 1048 Einträge, 972 lesbar, 37 prüfen, 39 offen; 18 weitere Fachprüfungen, 15 nachgeprüfte Fächer mit Restunsicherheit. Siehe docs/fachpruefung_3-6_20261106.md. Nächstes Fach 3-7.
+
+
+## 2026-11-06 – Fachweise Nachprüfung 3-7
+
+B00373 (Position 9) anhand FOTO0020 Teil 02 und 03 überprüft: Autorin Brigitte Schwaiger am schmalen rosa-orange Rücken sichtbar, der Titel bleibt nicht bestimmbar. Zusatzfoto frontal oder Titelblatt benötigt; Fach 3-7 mit 17/18 lesbar, 1 offen, nicht abgehakt. Gesamt 1048 erfasste Bucheinträge (972 lesbar, 37 prüfen, 39 offen), 17 noch gezielt zu prüfende Fächer. Details docs/fachpruefung_3-7_20261106.md; nächstes Fach 4-2.
