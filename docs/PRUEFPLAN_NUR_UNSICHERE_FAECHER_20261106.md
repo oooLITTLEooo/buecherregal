@@ -11,19 +11,20 @@ Maschinenlesbare vollständige Übersicht: `daten/pruefplan_faecher.csv`. Nach j
 ## Zusammenfassung
 
 - Raster: **64** Fachpositionen, davon **51** mit Foto und vorhandenen Bucheinträgen.
-- **12** fotografierte Fächer mit `0` offenen/prüfpflichtigen Bucheinträgen → **vorläufig abhaken**.
-- **39** fotografierte Fächer mit zusammen **95** `pruefen`/`offen`-Einträgen.
-- Von diesen 39 sind **28** noch nicht in der neuen fachweisen Nachkontrolle behandelt worden → als nächstes **gezielt nur die unsicheren Bücher prüfen**.
-- **11** weitere wurden bereits mit allen vier Fotoausschnitten erneut geprüft, bleiben aber ungeklärt → erneute identische Bildprüfung ohne neuen Hinweis vermeiden; bei Bedarf neues Detailfoto.
+- **13** fotografierte Fächer mit `0` offenen/prüfpflichtigen Bucheinträgen → **vorläufig abhaken**.
+- **38** fotografierte Fächer mit zusammen **93** `pruefen`/`offen`-Einträgen.
+- Von diesen 38 sind **27** noch nicht in der neuen fachweisen Nachkontrolle behandelt worden → als nächstes **gezielt nur die unsicheren Bücher prüfen**.
+- **11** weitere wurden bereits mit den einschlägigen Originalpixel-Ausschnitten erneut geprüft, bleiben aber ungeklärt → erneute identische Bildprüfung ohne neuen Hinweis vermeiden; bei Bedarf neues Detailfoto.
 - Daneben **13 Positionen ohne Fachdetailfoto**: 3 mit Foto- oder Sichtbedarf, 6 mit unklarer/leer wirkender Belegung, 4 laut Übersicht leer oder mit Lampe.
-- Global: **1048** vorläufige Exemplare, davon **953 lesbar, 55 prüfen, 40 offen**. Fotos, Buch-IDs und positionsbezogene Originalreferenzen werden nicht geändert.
+- Global: **1048** vorläufige Exemplare, davon **955 lesbar, 53 prüfen, 40 offen**. Fotos, Buch-IDs und positionsbezogene Originalreferenzen werden nicht geändert.
 
-## Vorläufig abgehakt — 12 Fächer
+## Vorläufig abgehakt — 13 Fächer
 
 - `1-5` — zweite Sichtprüfung durchgeführt
 - `1-6` — zweite Sichtprüfung durchgeführt
 - `1-7` — gezielte Nachprüfung B00034 erfolgreich, siehe `docs/fachpruefung_1-7_20261106.md`
 - `1-8` — gezielte Nachprüfung B00055 erfolgreich, siehe `docs/fachpruefung_1-8_20261106.md`
+- `2-5` — gezielte Nachprüfung beider unklarer Buchrücken erfolgreich, siehe `docs/fachpruefung_2-5_20261106.md`
 - `3-8` — nur im ersten Inventurdurchgang erfasst, keine offenen Datensätze
 - `4-1` — nur im ersten Inventurdurchgang erfasst, keine offenen Datensätze
 - `4-4` — nur im ersten Inventurdurchgang erfasst, keine offenen Datensätze
@@ -33,13 +34,12 @@ Maschinenlesbare vollständige Übersicht: `daten/pruefplan_faecher.csv`. Nach j
 - `7-2` — zweite Sichtprüfung durchgeführt
 - `7-4` — zweite Sichtprüfung durchgeführt
 
-## Noch gezielt prüfen — 28 Fächer
+## Noch gezielt prüfen — 27 Fächer
 
 Reihenfolge folgt der Regalnummerierung. Nur die betroffenen IDs öffnen und einen passenden Bildausschnitt lesen; klar lesbare Bücher nicht erneut bearbeiten.
 
 | Fach | Unsichere Bücher | IDs |
 | --- | ---: | --- |
-| 2-5 | 2 | `B00155`, `B00161` |
 | 2-6 | 1 | `B00170` |
 | 2-7 | 3 | `B00185`, `B00188`, `B00198` |
 | 2-8 | 1 | `B00226` |
@@ -68,7 +68,7 @@ Reihenfolge folgt der Regalnummerierung. Nur die betroffenen IDs öffnen und ein
 | 6-2 | 1 | `B00767` |
 | 6-4 | 2 | `B00804`, `B00811` |
 
-**Nächstes Fach:** `2-5`, nur **B00155** und **B00161**.
+**Nächstes Fach:** `2-6`, nur **B00170**.
 
 ## Bereits erneut geprüft, aber weiterhin ungeklärt — 11 Fächer
 

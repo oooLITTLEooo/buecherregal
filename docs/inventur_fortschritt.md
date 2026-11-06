@@ -163,3 +163,8 @@ Die drei Originalbilder FOTO0050–FOTO0052 wurden jeweils anhand von vier nativ
 ## 2026-11-06 – Gezielte Nachprüfung Fach 2-4
 
 Aus FOTO0009 in den Teilen 1/2/4 nur B00131 und B00149 erneut geprüft. B00149 anhand der im Bild erkennbaren rororo-Reihennummer 22314 als Peter Høeg, *Von der Liebe und ihren Bedingungen in der Nacht des 19. März 1929*, bibliografisch vervollständigt und auf lesbar gesetzt. B00131 bleibt wegen unklarer Buchgrenze/Lesbarkeit offen. Neuer Stand 1048 vorläufige Einträge (953 lesbar, 55 prüfen, 40 offen), 28 gezielte Fachprüfungen noch ausstehend. Bericht docs/fachpruefung_2-4_20261106.md.
+
+
+## 2026-11-06 – Fachprüfung 2-5
+
+B00155 auf Originalfoto FOTO0010 Teil 02 als Helen Fielding, *Bridget Jones*, bestätigt. B00161 in Teil 03 als Mary Higgins Clark, *Dass du ewig denkst an mich*, vollständig identifiziert. Beide Unsicherheiten erledigt; Fach 2-5 nun 17/17 lesbar, vorläufig abgehakt. Gesamt 1048 Einträge: 955 lesbar, 53 prüfen, 40 offen. Nachweis in docs/fachpruefung_2-5_20261106.md. Nächste Fachprüfung 2-6.

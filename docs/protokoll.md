@@ -148,3 +148,11 @@
 - B00149 als Peter Høeg, *Von der Liebe und ihren Bedingungen in der Nacht des 19. März 1929*, anhand rororo 22314 am Rücken mit Bibliotheksabgleich bestätigt und bibliografisch korrigiert.
 - B00131 bleibt mangels eindeutig lesbarem Rücken und gesicherter Bandgrenze offen, Einzelaufnahme angefordert.
 - Gesamt 1048 Einträge: 953 lesbar, 55 prüfen, 40 offen. Nächster Prüfschritt Fach 2-5. Siehe docs/fachpruefung_2-4_20261106.md.
+
+
+## 2026-11-06 – Fach 2-5 gezielt nachgeprüft
+
+- FOTO0010 Teile 02 und 03: B00155 als Helen Fielding, Bridget Jones, sowie B00161 als Mary Higgins Clark, Dass du ewig denkst an mich, auf den Originalpixeln identifiziert.
+- 17 von 17 vorläufigen Buchdatensätzen im Fach lesbar. Keine Originalfotos verändert oder Positionen verschoben.
+- Gesamt: 1048 Einträge, 955 lesbar, 53 prüfen, 40 offen. 13 Fächer vorläufig abgehakt, 27 gezielt nachzuprüfen.
+- Siehe docs/fachpruefung_2-5_20261106.md. Nächstes Fach: 2-6.
