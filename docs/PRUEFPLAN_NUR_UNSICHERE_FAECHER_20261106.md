@@ -11,14 +11,14 @@ Maschinenlesbare vollständige Übersicht: `daten/pruefplan_faecher.csv`. Nach j
 ## Zusammenfassung
 
 - Raster: **64** Fachpositionen, davon **51** mit Foto und vorhandenen Bucheinträgen.
-- **15** fotografierte Fächer mit `0` offenen/prüfpflichtigen Bucheinträgen → **vorläufig abhaken**.
-- **36** fotografierte Fächer mit zusammen **84** `pruefen`/`offen`-Einträgen.
-- Von diesen 36 sind **23** noch nicht in der neuen fachweisen Nachkontrolle behandelt worden → als nächstes **gezielt nur die unsicheren Bücher prüfen**.
+- **16** fotografierte Fächer mit `0` offenen/prüfpflichtigen Bucheinträgen → **vorläufig abhaken**.
+- **35** fotografierte Fächer mit zusammen **83** `pruefen`/`offen`-Einträgen.
+- Von diesen 35 sind **22** noch nicht in der neuen fachweisen Nachkontrolle behandelt worden → als nächstes **gezielt nur die unsicheren Bücher prüfen**.
 - **13** weitere wurden bereits mit den einschlägigen Originalpixel-Ausschnitten erneut geprüft, bleiben aber ungeklärt → erneute identische Bildprüfung ohne neuen Hinweis vermeiden; bei Bedarf neues Detailfoto.
 - Daneben **13 Positionen ohne Fachdetailfoto**: 3 mit Foto- oder Sichtbedarf, 6 mit unklarer/leer wirkender Belegung, 4 laut Übersicht leer oder mit Lampe.
-- Global: **1048** vorläufige Exemplare, davon **964 lesbar, 44 prüfen, 40 offen**. Fotos, Buch-IDs und positionsbezogene Originalreferenzen werden nicht geändert.
+- Global: **1048** vorläufige Exemplare, davon **965 lesbar, 43 prüfen, 40 offen**. Fotos, Buch-IDs und positionsbezogene Originalreferenzen werden nicht geändert.
 
-## Vorläufig abgehakt — 15 Fächer
+## Vorläufig abgehakt — 16 Fächer
 
 - `1-5` — zweite Sichtprüfung durchgeführt
 - `1-6` — zweite Sichtprüfung durchgeführt
@@ -27,6 +27,7 @@ Maschinenlesbare vollständige Übersicht: `daten/pruefplan_faecher.csv`. Nach j
 - `2-5` — gezielte Nachprüfung beider unklarer Buchrücken erfolgreich, siehe `docs/fachpruefung_2-5_20261106.md`
 - `2-6` — gezielte Nachprüfung B00170 erfolgreich, siehe `docs/fachpruefung_2-6_20261106.md`
 - `2-7` — alle drei verbleibenden Unsicherheiten nach Bild- und Bibliografieprüfung geklärt, siehe `docs/fachpruefung_2-7_20261106.md`
+- `3-2` — B00277 als gemeinsames Buch von Ben und Daniela Segenreich identifiziert; Bericht `docs/fachpruefung_3-2_20261106.md`
 - `3-8` — nur im ersten Inventurdurchgang erfasst, keine offenen Datensätze
 - `4-1` — nur im ersten Inventurdurchgang erfasst, keine offenen Datensätze
 - `4-4` — nur im ersten Inventurdurchgang erfasst, keine offenen Datensätze
@@ -36,13 +37,12 @@ Maschinenlesbare vollständige Übersicht: `daten/pruefplan_faecher.csv`. Nach j
 - `7-2` — zweite Sichtprüfung durchgeführt
 - `7-4` — zweite Sichtprüfung durchgeführt
 
-## Noch gezielt prüfen — 23 Fächer
+## Noch gezielt prüfen — 22 Fächer
 
 Reihenfolge folgt der Regalnummerierung. Nur die betroffenen IDs öffnen und einen passenden Bildausschnitt lesen; klar lesbare Bücher nicht erneut bearbeiten.
 
 | Fach | Unsichere Bücher | IDs |
 | --- | ---: | --- |
-| 3-2 | 1 | `B00277` |
 | 3-3 | 2 | `B00292`, `B00300` |
 | 3-4 | 1 | `B00318` |
 | 3-5 | 4 | `B00329`, `B00330`, `B00332`, `B00333` |
@@ -66,7 +66,7 @@ Reihenfolge folgt der Regalnummerierung. Nur die betroffenen IDs öffnen und ein
 | 6-2 | 1 | `B00767` |
 | 6-4 | 2 | `B00804`, `B00811` |
 
-**Nächstes Fach:** `3-2`, ausschließlich B00277.
+**Nächstes Fach:** `3-3`, nur **B00292** und **B00300**.
 
 ## Bereits erneut geprüft, aber weiterhin ungeklärt — 13 Fächer
 

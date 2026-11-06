@@ -188,3 +188,8 @@ B00226 (Position 14) anhand FOTO0013 Teile 03/04 geprüft. Eva Rossmann auf dem 
 ## 2026-11-06 – Fachweise Nachprüfung 3-1
 
 Nur acht problematische Einträge in FOTO0014 erneut gelesen. Fünf geklärt (B00232, B00241, B00247, B00249, B00257) mit Originalpixeln und Rowohlt-/Suhrkamp-Bibliografie; drei offen (B00235, B00240, B00258) mit konkreten nötigen Zusatzfotos. Fach 3-1: 30 Datensätze, 27 lesbar, 3 offen. Gesamtsumme weiterhin 1048 vorläufige Bucheinträge, jetzt 964 lesbar, 44 prüfen, 40 offen; 23 Fächer gezielt nachzuprüfen. Bericht docs/fachpruefung_3-1_20261106.md. Nächstes Fach 3-2.
+
+
+## 2026-11-06 – Gezielte Nachprüfung Fach 3-2
+
+Einziges unsicheres Buch B00277 (Position 18) aus FOTO0015 Teil 04 als **Ben und Daniela Segenreich – Fast ganz normal – Unser Leben in Israel** identifiziert; Autoren/Titel am Rücken und Titelvollform im Amalthea-Verlagskatalog bestätigt. Fach 3-2 vorläufig abgeschlossen (21/21 lesbar). Gesamt 1048 Einträge: 965 lesbar, 43 prüfen, 40 offen; 16 Fächer vorläufig abgehakt, 22 weitere zur gezielten Nachprüfung. Details docs/fachpruefung_3-2_20261106.md. Nächstes Fach 3-3.

@@ -190,3 +190,11 @@
 - B00235 B00240 B00258 unlesbar bzw. mit unklaren Bandgrenzen; Fotobedarf präzise benannt. Fach 3-1 nachgeprüft aber nicht abgehakt.
 - 1048 unveränderte Buch-IDs: 964 lesbar, 44 prüfen, 40 offen; 15 Fächer vorläufig abgehakt; 23 noch gezielt nachzuprüfen.
 - Details docs/fachpruefung_3-1_20261106.md. Nächstes Fach 3-2.
+
+
+## 2026-11-06 – Gezielte Nachprüfung Fach 3-2
+
+- FOTO0015 Teil 03 und 04 aus Git betrachtet; nur B00277 erneut bewertet.
+- Buchrücken benennt Ben und Daniela Segenreich und *Fast ganz normal* (Amalthea). Vollständigen Titel *Fast ganz normal – Unser Leben in Israel* mit Original-Verlagskatalog verifiziert.
+- B00277 auf lesbar gesetzt. Fach 3-2: 21/21 Bücher lesbar, vorläufig abgehakt. Gesamt unverändert 1048 vorläufige Exemplare; 965 lesbar, 43 prüfen, 40 offen.
+- 16 Fächer vorläufig abgehakt, 22 weitere gezielt zu prüfen. Keine Fotos oder Standortdaten verändert. Einzelbericht docs/fachpruefung_3-2_20261106.md. Nächstes Fach 3-3.
