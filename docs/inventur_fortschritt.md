@@ -27,3 +27,12 @@ Es wurden noch keine Bücher physisch bewegt oder alphabetisch umsortiert.
 - Titel und Autor nur soweit abgelesen; unsichere Angaben markiert. Ein Buch in anderer Ausgabe wird nicht wegen gleichem Titel gestrichen.
 - Nicht eindeutige Kanten und verdeckte Ruecken sind weiterhin als offen gekennzeichnet. Die genaue Buchanzahl pro Fach kann bei der Feinpruefung der Buchkanten noch korrigiert werden.
 - Noch offen: die restlichen vier Faecher der zweiten Spalte (2-5 bis 2-8), danach Spalten 3 bis 7.
+
+
+## Erneute Kontrolle Spalte 1 in nativer Originalaufloesung
+
+- Die vier zuvor nur aus Vorschaubildern erfassten Faecher 1-5 bis 1-8 (FOTO0002–FOTO0005) wurden aus den vier nativen Pixel-Ausschnitten pro Foto erneut gelesen.
+- 22 urspruengliche Autor-/Titel-/Status-Angaben korrigiert; 2 Bucheintraege in dieser Spalte noch mit pruefen/offen markiert.
+- Beispiele fuer korrigierte Fehlablesungen: Erika Pluhar statt Jodi Picoult; Thomas Mann Tagebuecher 1953–1955; Rosamunde Pilcher Wilder Thymian; Eric Malpass statt Charlotte Link; Donna Leon Endlich mein.
+- Die Erfassung umfasst weiterhin 149 physische Eintraege, ohne Duplikatloeschung; Reihenfolge und Foto-Referenzen unveraendert.
+- Beim unter ungewoehnlichen Winkeln sichtbaren oder teilweise verdeckten Buchruecken ist eine separate Nachkontrolle gegebenenfalls weiterhin erforderlich.

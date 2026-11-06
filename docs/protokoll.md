@@ -45,3 +45,9 @@
 - 18 Angaben sind unsicher oder offen und brauchen den Feinabgleich der Originalauflösung.
 - Keine unsichtbaren Exemplare erfunden; jedes erfasste Buch enthält die Originalfoto-Referenz.
 - Die restlichen Detailbilder und die fehlenden Fachaufnahmen sind weiter offen, siehe docs/inventur_fortschritt.md.
+
+## 2026-11-06 – Korrektur frueherer Vorschaufehler aus Originalaufloesung
+
+- Native Ausschnitte von FOTO0002 bis FOTO0005 visuell neu geprueft.
+- 22 zuvor fehlerhafte oder unvollstaendige Angaben im Inventar der Faecher 1-5 bis 1-8 korrigiert. 2 unklare Positionen verbleiben.
+- Bestehende Buch-IDs, Fachpositionen und Originalfoto-Referenzen erhalten. Git-Historie bewahrt alle alten Lesungen.
