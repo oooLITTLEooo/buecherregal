@@ -3,7 +3,7 @@ standort;status;foto_id;bemerkung
 1-2;leer;;Laut Übersichtsfoto leer, kein Detailfoto notwendig
 1-3;leer;;Laut Übersichtsfoto leer, kein Detailfoto notwendig
 1-4;gegenstand;;Lampe, keine Bücher im Übersichtsbild
-1-5;detailfoto_erfasst;F0002;Buchtitel erstpassweise erfasst
+1-5;detailfoto_erfasst;F0002;Buchtitel erstpassweise erfasst | Nutzererinnerung: 1.5 noch offen
 1-6;detailfoto_erfasst;F0003;Buchtitel erstpassweise erfasst
 1-7;detailfoto_erfasst;F0004;Buchtitel erstpassweise erfasst
 1-8;detailfoto_erfasst;F0005;Buchtitel erstpassweise erfasst
@@ -39,11 +39,11 @@ standort;status;foto_id;bemerkung
 5-6;detailfoto_erfasst;F0035;Foto im Chat erfasst, Original-JPEG im Git noch ausstehend
 5-7;detailfoto_erfasst;F0036;Foto im Chat erfasst, Original-JPEG im Git noch ausstehend
 5-8;detailfoto_erfasst;F0037;Foto im Chat erfasst, Original-JPEG im Git noch ausstehend
-6-1;detailfoto_ausstehend;;Naechste Regalspalte, genaue Fachzahl anhand der Detailfotos weiter pruefen
-6-2;detailfoto_ausstehend;;Naechste Regalspalte, genaue Fachzahl anhand der Detailfotos weiter pruefen
-6-3;detailfoto_ausstehend;;Naechste Regalspalte, genaue Fachzahl anhand der Detailfotos weiter pruefen
-6-4;detailfoto_ausstehend;;Naechste Regalspalte, genaue Fachzahl anhand der Detailfotos weiter pruefen
-6-5;detailfoto_ausstehend;;Naechste Regalspalte, genaue Fachzahl anhand der Detailfotos weiter pruefen
-6-6;detailfoto_ausstehend;;Naechste Regalspalte, genaue Fachzahl anhand der Detailfotos weiter pruefen
+6-1;detailfoto_erfasst;F0038;Original im Chat und Fotoindex, GitHub-Ablage der JPEGs nicht nachgewiesen; Analyse im Folgechat
+6-2;detailfoto_erfasst;F0039;Original im Chat und Fotoindex, GitHub-Ablage der JPEGs nicht nachgewiesen; Analyse im Folgechat
+6-3;detailfoto_erfasst;F0040;Original im Chat und Fotoindex, GitHub-Ablage der JPEGs nicht nachgewiesen; Analyse im Folgechat
+6-4;detailfoto_erfasst;F0041;Original im Chat und Fotoindex, GitHub-Ablage der JPEGs nicht nachgewiesen; Analyse im Folgechat
+6-5;detailfoto_erfasst;F0042;Original im Chat und Fotoindex, GitHub-Ablage der JPEGs nicht nachgewiesen; Analyse im Folgechat
+6-6;detailfoto_erfasst;F0043;Original im Chat und Fotoindex, GitHub-Ablage der JPEGs nicht nachgewiesen; Analyse im Folgechat
 6-7;detailfoto_ausstehend;;Naechste Regalspalte, genaue Fachzahl anhand der Detailfotos weiter pruefen
 6-8;detailfoto_ausstehend;;Naechste Regalspalte, genaue Fachzahl anhand der Detailfotos weiter pruefen
