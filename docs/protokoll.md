@@ -287,3 +287,11 @@
 - B00545 als Richard Picker, *Das Ende vom Lied? Positionen eines Lebens zwischen Hitlerjugend, Psychotherapie und Kirche*, mit Czernin Verlagskatalog bestaetigt. B00558 als Arthur Schnitzler, *Lesebuch*, anhand des gruenen Buchrueckens und bibliografischem Werknachweis geklaert; Herausgeber/Auflage dieser konkreten Ausgabe nicht behauptet.
 - Fach 4-8 mit 16/16 vorlaeufigen Eintraegen lesbar und vorlaeufig abgehakt. Originalfotos, Buchnummern und Positionen unveraendert.
 - Gesamt 1048 Eintraege: 980 lesbar, 29 pruefen, 39 offen. 19 Faecher abgehakt, 11 noch gezielt zu pruefen. Siehe docs/fachpruefung_4-8_20261106.md. Naechstes Fach 5-1.
+
+
+## 2026-11-06 – Gezielte Nachprüfung Fach 5-1
+
+- Git-Original FOTO0030, alle vier Originalpixel-Ausschnitte gezielt für B00560, B00563, B00575 und B00579 eingesehen.
+- B00560 als Marlo Morgan *Traumfänger* (Goldmann 43740; früher fälschlich Mario); B00575 als Donna Leon *Endstation Venedig* (detebe 22936); B00579 als Norman Levine *Django, Karfunkelstein & Rosen* (vorher *Django Kaffein & Rosen* falsch) durch Originalpixel und bibliografischen Abgleich gelöst.
+- B00563 weiter offen: Buchbereich zwischen Håkan Nesser *Barins Dreieck* und Claudie Gallay *Die Brandungswelle*, Mörike-Eintrag noch nicht mit sicherem Titel belegbar; Einzelfoto des Titels/der Buchgrenze erforderlich.
+- Fach 5-1 gezielt geprüft, nicht abgehakt: 22 Einträge, 21 lesbar, 1 offen. Gesamt 1048 IDs (983 lesbar, 27 prüfen, 38 offen), noch 10 gezielte Fachprüfungen. Einzelbericht docs/fachpruefung_5-1_20261106.md, nächstes Fach 5-2.

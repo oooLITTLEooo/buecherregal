@@ -248,3 +248,8 @@ B00526, B00528 und B00535 anhand FOTO0028 und Bibliografie geklärt (Martin Borr
 ## 2026-11-06 – Fachweise Nachprüfung 4-8
 
 Die beiden vorher unsicheren B00545 und B00558 anhand FOTO0029 und bibliografischen Katalogen geklaert: B00545 Richard Picker, *Das Ende vom Lied? Positionen eines Lebens zwischen Hitlerjugend, Psychotherapie und Kirche*, B00558 Arthur Schnitzler, *Lesebuch*. Ein Exemplar-/Auflagennachweis zu B00558 fehlt, ist aber fuer die Lesung des vorhandenen Rueckens nicht erforderlich. Fach 4-8 jetzt 16/16 lesbar, vorlaeufig abgehakt. Gesamt 1048 Eintraege: 980 lesbar, 29 pruefen, 39 offen; 11 weitere Fachpruefungen ausstehend. Details docs/fachpruefung_4-8_20261106.md; naechstes Fach 5-1.
+
+
+## 2026-11-06 – Gezielte Nachprüfung 5-1
+
+B00560 als Marlo Morgan *Traumfänger* (Goldmann 43740), B00575 als Donna Leon *Endstation Venedig* (detebe 22936), B00579 als Norman Levine *Django, Karfunkelstein & Rosen* (Claassen) sicher identifiziert und auf lesbar gesetzt. B00563 (Eduard Mörike bislang zugeordnet) bleibt mangels sicher lesbarem Titel offen; frontales Rücken-/Titelblattfoto zwischen Nesser *Barins Dreieck* und Gallay *Die Brandungswelle* erforderlich. Fach 5-1: 22 vorläufige Einträge, 21 lesbar, 1 offen, nicht abgehakt. Gesamt 1048 Einträge: 983 lesbar, 27 prüfen, 38 offen. Noch 10 gezielte Fachprüfungen. Bericht docs/fachpruefung_5-1_20261106.md; nächstes Fach 5-2.
