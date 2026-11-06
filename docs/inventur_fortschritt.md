@@ -168,3 +168,8 @@ Aus FOTO0009 in den Teilen 1/2/4 nur B00131 und B00149 erneut geprüft. B00149 a
 ## 2026-11-06 – Fachprüfung 2-5
 
 B00155 auf Originalfoto FOTO0010 Teil 02 als Helen Fielding, *Bridget Jones*, bestätigt. B00161 in Teil 03 als Mary Higgins Clark, *Dass du ewig denkst an mich*, vollständig identifiziert. Beide Unsicherheiten erledigt; Fach 2-5 nun 17/17 lesbar, vorläufig abgehakt. Gesamt 1048 Einträge: 955 lesbar, 53 prüfen, 40 offen. Nachweis in docs/fachpruefung_2-5_20261106.md. Nächste Fachprüfung 2-6.
+
+
+## 2026-11-06 – Nachprüfung Fach 2-6
+
+B00170 (Position 4) in FOTO0011 Teil 02 als Götz Schrage, *Tausendmal verliebt* (Rückenaufschrift *1000x verliebt*) bestätigt, anhand Milena-Verlagskatalog abgeglichen. Einziger Unsicherheitsfall in Fach 2-6 erledigt. Damit 17/17 dort lesbar, vorläufig abgehakt. Gesamt: 1048 vorläufige Bucheinträge, 956 lesbar, 52 prüfen, 40 offen. Noch 26 gezielte Fachprüfungen. Bericht docs/fachpruefung_2-6_20261106.md.

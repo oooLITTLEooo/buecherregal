@@ -156,3 +156,11 @@
 - 17 von 17 vorläufigen Buchdatensätzen im Fach lesbar. Keine Originalfotos verändert oder Positionen verschoben.
 - Gesamt: 1048 Einträge, 955 lesbar, 53 prüfen, 40 offen. 13 Fächer vorläufig abgehakt, 27 gezielt nachzuprüfen.
 - Siehe docs/fachpruefung_2-5_20261106.md. Nächstes Fach: 2-6.
+
+
+## 2026-11-06 – Gezielte Nachprüfung Fach 2-6
+
+- FOTO0011 Teile 01 und 02 zum einzigen unsicheren Eintrag B00170 gelesen. Auf schwarzem Rücken Götz Schrage, 1000x verliebt und Milena erkennbar; offiziellen Katalogtitel beim Verlag als *Tausendmal verliebt* abgeglichen.
+- 17 von 17 Büchern im Fach nun formal lesbar, vorläufig abgehakt; keine Bilder, Standorte oder IDs verändert.
+- Stand 1048 Einträge, 956 lesbar, 52 prüfen, 40 offen. 14 Fächer abgehakt, 26 weitere gezielt zu prüfen.
+- Bericht: docs/fachpruefung_2-6_20261106.md. Nächstes Fach: 2-7.
