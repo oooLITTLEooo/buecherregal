@@ -247,3 +247,11 @@
 - B00418: Autor Folke Tegetthoff erkennbar, Titel des ersten dunkelgrün-blauen Bandes nicht lesbar. Nicht mit danebenstehenden *Kräutermärchen* (B00419) gleichgesetzt.
 - B00433: dunkler schmaler Rücken zwischen Friedrich Torberg *Süßkind von Trimberg* und Sabine Thiesler *Die Totengräberin* sichtbar; Autor und Titel unbekannt.
 - Für beide Fälle Einzelaufnahme/Titelblatt benötigt, keine neuen Titel geraten, Status unverändert. Fach 4-2 mit 21 Einträgen (19 lesbar, 1 prüfen, 1 offen) gezielt kontrolliert, nicht abgehakt. Gesamt 1048 (972 lesbar, 37 prüfen, 39 offen); 16 weitere Fachprüfungen. Bericht docs/fachpruefung_4-2_20261106.md. Nächstes Fach 4-3.
+
+
+## 2026-11-06 – Gezielte Nachprüfung Fach 4-3
+
+- Git-FOTO0024, Originalpixelteile 02/03/04 nur für B00448 und B00454 ausgewertet.
+- B00448: Ann Granger auf schmalem dunklem Buchrücken nach Wolf Haas *Auferstehung der Toten* lesbar; Titel nicht bestimmbar. B00454: schmaler dunkler Bereich zwischen Petros Markaris *Zurück auf Start* und Elizabeth George *Mein ist die Rache*, weder Titel noch eigenständige physische Buchgrenze zuverlässig erkennbar.
+- Status unverändert (1 prüfen, 1 offen), für beide Fälle konkrete Frontal-/Titelblattfotos dokumentiert. Fach 4-3 vorläufig 18 Einträge (16 lesbar), gezielt nachgeprüft aber nicht abgehakt.
+- Gesamt unverändert 1048 Einträge (972 lesbar, 37 prüfen, 39 offen). Jetzt 15 noch gezielte Fachprüfungen. Bericht docs/fachpruefung_4-3_20261106.md, nächstes Fach 4-5.

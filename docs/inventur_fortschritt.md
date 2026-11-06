@@ -223,3 +223,8 @@ B00373 (Position 9) anhand FOTO0020 Teil 02 und 03 überprüft: Autorin Brigitte
 ## 2026-11-06 – Gezielte Nachprüfung Fach 4-2
 
 Nur B00418 und B00433 auf FOTO0023 Teil 01/03 gezielt betrachtet. B00418 bleibt bei Folke Tegetthoff mit unbekanntem Titel; das rechts folgende Buch *Kräutermärchen* ist ein gesonderter Band. B00433 bleibt offen, dunkler schmaler Rücken zwischen Torberg *Süßkind von Trimberg* und Thiesler *Die Totengräberin*. Für beide Einzelfotos oder Titelblatt nötig. Fach 4-2 21 Einträge (19 lesbar, 1 prüfen, 1 offen), nicht abgehakt. Gesamt weiterhin 1048 Einträge (972 lesbar, 37 prüfen, 39 offen), 16 weitere gezielte Fachprüfungen ausstehend. Bericht docs/fachpruefung_4-2_20261106.md; nächstes Fach 4-3.
+
+
+## 2026-11-06 – Nachprüfung Fach 4-3
+
+B00448 (Position 10) und B00454 (Position 16) in FOTO0024 Originalpixelteilen 02 bis 04 kontrolliert. B00448: Ann Granger erkennbar, Titel nicht lesbar; B00454: dunkler Bereich zwischen Markaris *Zurück auf Start* und Elizabeth George *Mein ist die Rache*, eigenständige Bandgrenze/Titel unbekannt. Zwei zusätzliche Einzelbilder erforderlich. Fach 4-3 weiterhin 18 vorläufige Bucheinträge mit 16 lesbar, 1 prüfen, 1 offen, nicht abgehakt. Gesamt 1048 (972 lesbar, 37 prüfen, 39 offen). 15 Fachprüfungen ausstehend. Siehe docs/fachpruefung_4-3_20261106.md; als Nächstes 4-5.
