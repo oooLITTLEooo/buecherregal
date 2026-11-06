@@ -222,3 +222,11 @@
 - B00329 richtig als Karl-Markus Gauß und Martin Pollack (Herausgeber), *Das reiche Land der armen Leute: Literarische Wanderungen durch Galizien*; B00330 Joy Fielding, *Träume süß, mein Mädchen* (vorher „Träume sind“ falsch); B00332 Konstantin Wecker, *Dann denkt mit dem Herzen*; B00333 Erle Stanley Gardner, *Mord auf der Luxusjacht*.
 - Fach 3-5 jetzt 16/16 formal lesbar, vorläufig abgehakt, Originalfotos und alle Positionen unverändert.
 - Stand 1048 inventarisierte Einträge, 971 lesbar, 38 prüfen, 39 offen. 17 Fächer abgehakt, 19 gezielt nachzuprüfen. Belege docs/fachpruefung_3-5_20261106.md. Nächstes Fach: 3-6.
+
+
+## 2026-11-06 – Gezielte Nachprüfung Fach 3-6
+
+- Git-Original FOTO0019: Teil 01 für B00340, Teile 03-04 für B00360 geprüft.
+- B00360 als **Antonio Manuel Garrido – Das Pergament des Himmels** über Bildzuordnung und Aufbau-Verlagskatalog ergänzt, auf lesbar gestellt.
+- B00340: Veit Heinichen am schwarzen Rücken sichtbar, bisheriger Titelanfang *Kalte Tage des …* aber nicht sicher lesbar und bibliografisch nicht bestätigt. Bleibt prüfen, frontales Rückendetail/Titelblatt nötig; keinen Werktitel erfunden.
+- Fach 3-6 vorläufig 25 Bucheinträge (24 lesbar, 1 prüfen), gezielte Prüfung abgeschlossen, nicht abgehakt. Gesamt 1048 Einträge, 972 lesbar, 37 prüfen, 39 offen; 18 noch gezielt zu prüfende Fächer. Bericht docs/fachpruefung_3-6_20261106.md. Nächstes Fach 3-7.

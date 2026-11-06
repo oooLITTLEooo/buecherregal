@@ -208,3 +208,8 @@ B00318 anhand FOTO0017 Teilbilder 03 und 04 nachgeprüft. Die physische Buchgren
 ## 2026-11-06 – Fachweise Nachprüfung 3-5
 
 B00329 als Lesebuch von Karl-Markus Gauß und Martin Pollack (Herausgeber), B00330 mit korrigiertem Titel *Träume süß, mein Mädchen* (Joy Fielding), B00332 als Konstantin Wecker *Dann denkt mit dem Herzen* und B00333 als Erle Stanley Gardner *Mord auf der Luxusjacht* anhand FOTO0018 Teil 02 und Bibliografie geklärt. Fach 3-5 nun 16/16 lesbar und vorläufig abgehakt. Gesamter Inventarstand 1048 Einträge: 971 lesbar, 38 prüfen, 39 offen. 19 weitere Fächer gezielt zu prüfen; Fachbericht docs/fachpruefung_3-5_20261106.md. Nächstes Fach 3-6.
+
+
+## 2026-11-06 – Fachweise Prüfung 3-6
+
+Nur B00340 und B00360 anhand FOTO0019 nachgeprüft. B00360 als Antonio Manuel Garrido *Das Pergament des Himmels* anhand Bild und Aufbau-Verlagsbibliografie identifiziert, nun lesbar. B00340 Veit Heinichen als Autor sichtbar, aber ursprünglicher Titelanfang *Kalte Tage des …* nicht zuverlässig bestätigt; individuelles Rückendetail/Titelblatt benötigt, bleibt prüfen. Fach 3-6: 25 vorläufige Bücher, 24 lesbar, 1 prüfen. Gesamt 1048 Einträge, 972 lesbar, 37 prüfen, 39 offen; 18 weitere Fachprüfungen, 15 nachgeprüfte Fächer mit Restunsicherheit. Siehe docs/fachpruefung_3-6_20261106.md. Nächstes Fach 3-7.
