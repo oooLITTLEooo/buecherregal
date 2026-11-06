@@ -233,3 +233,8 @@ B00448 (Position 10) und B00454 (Position 16) in FOTO0024 Originalpixelteilen 02
 ## 2026-11-06 – Gezielte Nachprüfung Fach 4-5
 
 B00474 (Mary Higgins Clark, *Und morgen in das kühle Grab*) bestätigt, B00475 mit vollständigen Autoren Corinna Milborn und Markus Breitenecker sowie *Change the Game: Wie wir uns das Netz von Facebook und Google zurückerobern* korrigiert, B00486 (Semezdin Mehmedinović, *Sarajevo Blues*) bestätigt. FOTO0026 Originalpixelteile 01 bis 04, bibliografischer Abgleich dokumentiert. Fach 4-5: 19 Einträge alle lesbar, vorläufig abgehakt. Gesamt 1048 Bucheinträge, 975 lesbar, 34 prüfen, 39 offen. 14 weitere gezielte Fachprüfungen. Details docs/fachpruefung_4-5_20261106.md; nächstes Fach 4-6.
+
+
+## 2026-11-06 – Fachweise Nachprüfung 4-6
+
+B00492, Position 2, im FOTO0027 Teil 01 gezielt kontrolliert. Dunkler sehr schmaler Bereich zwischen Sabine Thiesler *Hexenkind* und Paul Auster *Nacht des Orakels*, aber kein sicher lesbarer Titel und keine verifizierbare separate Bandgrenze. Frontalfoto und physische Zählung erforderlich. Fach 4-6 bleibt mit 22 vorläufigen Einträgen (21 lesbar, 1 offen), nicht abgehakt. Gesamter vorläufiger Bestand 1048 Einträge (975 lesbar, 34 prüfen, 39 offen), noch 13 gezielte Fachprüfungen. Einzelbericht docs/fachpruefung_4-6_20261106.md. Nächstes Fach 4-7.

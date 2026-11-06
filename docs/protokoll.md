@@ -263,3 +263,11 @@
 - B00474 = Mary Higgins Clark, *Und morgen in das kühle Grab*, bestätigt; B00475 = Corinna Milborn / Markus Breitenecker, *Change the Game: Wie wir uns das Netz von Facebook und Google zurückerobern*, bisherige Autorenschreibweise korrigiert; B00486 = Semezdin Mehmedinović, *Sarajevo Blues*, bestätigt.
 - Fach 4-5 nun 19/19 Einträge lesbar, vorläufig abgehakt. Keine Fotos oder Buch-IDs oder Positionen verändert.
 - Gesamt 1048 Einträge: 975 lesbar, 34 prüfen, 39 offen. 18 Fächer abgehakt, 14 gezielt zu prüfen. Bericht docs/fachpruefung_4-5_20261106.md; nächstes Fach 4-6.
+
+
+## 2026-11-06 – Gezielte Nachprüfung Fach 4-6
+
+- Git-Original FOTO0027 (Originalpixel Teil 01, zur Orientierung Teil 02) nur für B00492 überprüft.
+- B00492 liegt zwischen Sabine Thiesler *Hexenkind* und Paul Auster *Nacht des Orakels*. Ein schmaler dunkler Bereich ist sichtbar, aber weder eigenständige Buchgrenze noch Autor/Titel sicher nachweisbar.
+- Status bleibt `offen`; Frontalfoto und physische Nachzählung mit ggf. Titelblatt erforderlich. Fach 4-6 bleibt bei 22 vorläufigen Einträgen (21 lesbar, 1 offen), nicht abgehakt.
+- Gesamt unverändert 1048 Einträge: 975 lesbar, 34 prüfen, 39 offen. Jetzt 13 weitere Fächer gezielt zu prüfen. Bericht: docs/fachpruefung_4-6_20261106.md. Nächstes Fach 4-7.
