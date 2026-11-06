@@ -63,7 +63,10 @@ def main():
         row=indexed[rel]
         sha,git=hashes(path)
         if git!=row["git_blob_sha"]:
-            raise ValueError("Original content was changed: "+rel)
+            import subprocess
+            git_cli=subprocess.run(["git","hash-object",str(path)],capture_output=True,text=True)
+            git_index=subprocess.run(["git","ls-files","--stage",rel],capture_output=True,text=True)
+            raise ValueError("Git hash mismatch: "+rel+" expected="+row["git_blob_sha"]+" calculated="+git+" git_hash_object="+git_cli.stdout.strip()+" index="+git_index.stdout.strip()+" bytes="+str(path.stat().st_size))
         row["sha256"]=sha
         row["groesse_bytes"]=str(path.stat().st_size)
         row["git_blob_sha_berechnet"]=git
