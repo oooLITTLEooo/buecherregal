@@ -6,6 +6,7 @@ on:
       - "scripts/analyse_fotos.py"
       - ".github/workflows/foto-bestandsanalyse.yml"
       - "bilder/originale/**"
+      - "daten/fotos.csv"
   workflow_dispatch:
 permissions:
   contents: write
