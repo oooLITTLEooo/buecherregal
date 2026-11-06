@@ -6,10 +6,11 @@ Ein Standort besteht aus `Spalte-Fach`.
 
 - `1-1`: erste Spalte von links, oberstes Fach.
 - `1-2`: erste Spalte von links, zweites Fach von oben.
+- `1-4`: erste Spalte von links, viertes Fach von oben.
 - `1-5`: erste Spalte von links, fünftes Fach von oben.
 - `2-1`: zweite Spalte von links, oberstes Fach.
 
-Die tatsächliche Anzahl der Spalten und Fächer wird erst nach Sichtung des Übersichtsfotos festgelegt.
+Auf dem Übersichtsfoto sind vorläufig acht Spalten zu erkennen. Die exakten Fachgrenzen und Fachzahlen werden nach Erhalt der Detailfotos bestätigt.
 
 ## Buchpositionen
 
@@ -27,4 +28,9 @@ Alphabetisch A–Z nach Nachname des Autors, bei gleichem Nachnamen nach Vorname
 
 ## Bildablage
 
-Unbearbeitete Nutzerfotos werden unter `bilder/originale/` archiviert; generierte Visualisierungen separat unter `bilder/generiert/`. Jede Aufnahme wird in `daten/fotos.csv` referenziert. **Kein Upload persönlicher Bilder, solange das Repository öffentlich ist.**
+- Nutzerfotos unter `bilder/originale/`, inhaltlich unverändert, mit sprechendem Dateinamen.
+- `Regal_Gesamt.jpg` für die Gesamtansicht.
+- `Regal_1-4.jpg` für Fach 1-4; zusätzliche Ansichten `Regal_1-4_02.jpg`.
+- Generierte Visualisierungen separat unter `bilder/generiert/`.
+- Tatsächliche Quelldateinamen und Uploadstatus werden in `daten/fotos.csv` gespeichert.
+- Keine Bilddatei als in Git archiviert kennzeichnen, bevor ihr Upload überprüft wurde.
