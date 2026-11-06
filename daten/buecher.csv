@@ -1,1 +1,60 @@
 buch_id;autor_nachname;autor_vorname;titel;standort;position_im_fach;identifikationsstatus;foto_referenz;bemerkungen
+B00001;Elsberg;Marc;Blackout;1-5;1;lesbar;bilder/originale/PXL_20261105_151031219.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00002;Picoult;Jodi;Zeit der Gespenster;1-5;2;lesbar;bilder/originale/PXL_20261105_151031219.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00003;Picoult;Jodi;Als gehöre eins zum andern;1-5;3;lesbar;bilder/originale/PXL_20261105_151031219.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00004;Mankell;Henning;Die rote Antilope;1-5;4;pruefen;bilder/originale/PXL_20261105_151031219.jpg;Text teilweise lesbar - Schreibweise oder Zuordnung anhand Original prüfen
+B00005;Mankell;Henning;Die Rückkehr des Tanzlehrers;1-5;5;lesbar;bilder/originale/PXL_20261105_151031219.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00006;Mankell;Henning;Der Feind im Schatten;1-5;6;lesbar;bilder/originale/PXL_20261105_151031219.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00007;Mann;Thomas;Tagebücher 1933–1934;1-5;7;pruefen;bilder/originale/PXL_20261105_151031219.jpg;Text teilweise lesbar - Schreibweise oder Zuordnung anhand Original prüfen
+B00008;Picoult;Jodi;Das Herz ihrer Tochter;1-5;8;lesbar;bilder/originale/PXL_20261105_151031219.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00009;Mankell;Henning;Tea-Bag;1-5;9;lesbar;bilder/originale/PXL_20261105_151031219.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00010;Pilcher;Rosamunde;Im Wind der Träume;1-5;10;pruefen;bilder/originale/PXL_20261105_151031219.jpg;Text teilweise lesbar - Schreibweise oder Zuordnung anhand Original prüfen
+B00011;Mann;Thomas;Joseph und seine Brüder;1-5;11;lesbar;bilder/originale/PXL_20261105_151031219.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00012;Mann;Golo;Deutsche Geschichte des 19. und 20. Jahrhunderts;1-5;12;lesbar;bilder/originale/PXL_20261105_151031219.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00013;Mankell;Henning;Mittsommermord;1-5;13;lesbar;bilder/originale/PXL_20261105_151031219.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00014;Picoult;Jodi;Zerbrechlich;1-5;14;lesbar;bilder/originale/PXL_20261105_151031219.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00015;Mankell;Henning;Der Mann, der lächelte;1-6;1;pruefen;bilder/originale/PXL_20261105_151037823.jpg;Text teilweise lesbar - Schreibweise oder Zuordnung anhand Original prüfen
+B00016;Mankell;Henning;Der Chinese;1-6;2;lesbar;bilder/originale/PXL_20261105_151037823.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00017;Picoult;Jodi;19 Minuten;1-6;3;lesbar;bilder/originale/PXL_20261105_151037823.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00018;Mann;Thomas;Der Zauberberg;1-6;4;lesbar;bilder/originale/PXL_20261105_151037823.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00019;offen;offen;offen;1-6;5;offen;bilder/originale/PXL_20261105_151037823.jpg;Buchrücken auf Vorschau nicht ausreichend lesbar - Original vergrößern
+B00020;Picoult;Jodi;Die Wahrheit meines Vaters;1-6;6;lesbar;bilder/originale/PXL_20261105_151037823.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00021;Portisch;Hugo;Österreich II;1-6;7;lesbar;bilder/originale/PXL_20261105_151037823.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00022;George;Elizabeth;Wer Strafe verdient;1-6;8;lesbar;bilder/originale/PXL_20261105_151037823.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00023;offen;offen;offen;1-6;9;offen;bilder/originale/PXL_20261105_151037823.jpg;Buchrücken auf Vorschau nicht ausreichend lesbar - Original vergrößern
+B00024;offen;offen;offen;1-6;10;offen;bilder/originale/PXL_20261105_151037823.jpg;Buchrücken auf Vorschau nicht ausreichend lesbar - Original vergrößern
+B00025;Ransmayr;Christoph;offen;1-6;11;pruefen;bilder/originale/PXL_20261105_151037823.jpg;Text teilweise lesbar - Schreibweise oder Zuordnung anhand Original prüfen
+B00026;Komarek;Alfred;Narrenwinter;1-6;12;lesbar;bilder/originale/PXL_20261105_151037823.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00027;Küppers;Topsy;Wie ein Vogel;1-6;13;lesbar;bilder/originale/PXL_20261105_151037823.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00028;Vermes;Timur;Die Hungrigen und die Satten;1-6;14;lesbar;bilder/originale/PXL_20261105_151037823.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00029;Walters;Minette;Dunkle Kammern;1-6;15;lesbar;bilder/originale/PXL_20261105_151037823.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00030;offen;offen;offen;1-7;1;offen;bilder/originale/PXL_20261105_151044826.jpg;Buchrücken auf Vorschau nicht ausreichend lesbar - Original vergrößern
+B00031;Link;Charlotte;Das andere Kind;1-7;2;lesbar;bilder/originale/PXL_20261105_151044826.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00032;Mankell;Henning;Die italienischen Schuhe;1-7;3;lesbar;bilder/originale/PXL_20261105_151044826.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00033;Mankell;Henning;Die falsche Fährte;1-7;4;lesbar;bilder/originale/PXL_20261105_151044826.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00034;offen;offen;Anleitung zum Herzinfarkt;1-7;5;pruefen;bilder/originale/PXL_20261105_151044826.jpg;Text teilweise lesbar - Schreibweise oder Zuordnung anhand Original prüfen
+B00035;Mandela;Nelson;Der lange Weg zur Freiheit;1-7;6;lesbar;bilder/originale/PXL_20261105_151044826.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00036;Link;Charlotte;Der Beobachter;1-7;7;pruefen;bilder/originale/PXL_20261105_151044826.jpg;Text teilweise lesbar - Schreibweise oder Zuordnung anhand Original prüfen
+B00037;Link;Charlotte;Die Stunde der Erben;1-7;8;lesbar;bilder/originale/PXL_20261105_151044826.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00038;Link;Charlotte;Schattenspiel;1-7;9;lesbar;bilder/originale/PXL_20261105_151044826.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00039;Palm;Kurt;Bad Fucking;1-7;10;lesbar;bilder/originale/PXL_20261105_151044826.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00040;offen;offen;Das Paradies der Glückseligkeit;1-7;11;pruefen;bilder/originale/PXL_20261105_151044826.jpg;Text teilweise lesbar - Schreibweise oder Zuordnung anhand Original prüfen
+B00041;Estés;Clarissa Pinkola;Die Wolfsfrau;1-7;12;pruefen;bilder/originale/PXL_20261105_151044826.jpg;Text teilweise lesbar - Schreibweise oder Zuordnung anhand Original prüfen
+B00042;Pluhar;Erika;Die öffentliche Frau;1-7;13;pruefen;bilder/originale/PXL_20261105_151044826.jpg;Text teilweise lesbar - Schreibweise oder Zuordnung anhand Original prüfen
+B00043;Obama;Barack;Ein amerikanischer Traum. Die Geschichte meiner Familie;1-7;14;lesbar;bilder/originale/PXL_20261105_151044826.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00044;Mankell;Henning;Vor dem Frost;1-7;15;lesbar;bilder/originale/PXL_20261105_151044826.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00045;King;Stephen;Der Anschlag;1-8;1;lesbar;bilder/originale/PXL_20261105_151050073.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00046;Achleitner;Hubert;flüchtig;1-8;2;lesbar;bilder/originale/PXL_20261105_151050073.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00047;Raab;Thomas;Der Metzger kommt ins Paradies;1-8;3;lesbar;bilder/originale/PXL_20261105_151050073.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00048;Picoult;Jodi;Schuldig;1-8;4;lesbar;bilder/originale/PXL_20261105_151050073.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00049;Sautner;Thomas K.;Fuchserde;1-8;5;lesbar;bilder/originale/PXL_20261105_151050073.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00050;offen;offen;offen;1-8;6;offen;bilder/originale/PXL_20261105_151050073.jpg;Buchrücken auf Vorschau nicht ausreichend lesbar - Original vergrößern
+B00051;offen;offen;Der Duft des Bösen;1-8;7;pruefen;bilder/originale/PXL_20261105_151050073.jpg;Text teilweise lesbar - Schreibweise oder Zuordnung anhand Original prüfen
+B00052;Leon;Donna;Feine Freunde;1-8;8;pruefen;bilder/originale/PXL_20261105_151050073.jpg;Text teilweise lesbar - Schreibweise oder Zuordnung anhand Original prüfen
+B00053;Picoult;Jodi;Auf den zweiten Blick;1-8;9;lesbar;bilder/originale/PXL_20261105_151050073.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00054;Gordon;Noah;Der Rabbi;1-8;10;lesbar;bilder/originale/PXL_20261105_151050073.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00055;offen;offen;Das Schwert des ...;1-8;11;pruefen;bilder/originale/PXL_20261105_151050073.jpg;Text teilweise lesbar - Schreibweise oder Zuordnung anhand Original prüfen
+B00056;Link;Charlotte;Der Verehrer;1-8;12;lesbar;bilder/originale/PXL_20261105_151050073.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00057;Link;Charlotte;Der Beobachter;1-8;13;lesbar;bilder/originale/PXL_20261105_151050073.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00058;Link;Charlotte;Die Rosenzüchterin;1-8;14;lesbar;bilder/originale/PXL_20261105_151050073.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich
+B00059;Mankell;Henning;Wallanders erster Fall;1-8;15;lesbar;bilder/originale/PXL_20261105_151050073.jpg;Aus Vorschau abgelesen - Abgleich in voller Originalauflösung noch erforderlich

@@ -38,3 +38,10 @@
 - DHash-Kandidat FOTO0021/FOTO0033 visuell als verschiedene Bücher und verschiedene Fächer erkannt; beide erhalten.
 - Mapping in daten/fotos.csv und Fachstatus für alle 64 Fachpositionen in daten/fachstatus.csv aktualisiert.
 - Fehlende mögliche Buchdetails: 8-1, 8-2; 7-8 wegen Verdeckung zu prüfen. Keine physische oder geplante alphabetische Umsortierung.
+
+## 2026-11-06 – Beginn der physischen Buchexemplar-Erfassung
+
+- In den Bildvorschauen FOTO0002 bis FOTO0005 wurden 59 vorläufige einzelne Buchrücken in Reihenfolge erfasst.
+- 18 Angaben sind unsicher oder offen und brauchen den Feinabgleich der Originalauflösung.
+- Keine unsichtbaren Exemplare erfunden; jedes erfasste Buch enthält die Originalfoto-Referenz.
+- Die restlichen Detailbilder und die fehlenden Fachaufnahmen sind weiter offen, siehe docs/inventur_fortschritt.md.
