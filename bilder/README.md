@@ -16,4 +16,8 @@ Alle Dateien werden in `daten/fotos.csv` dokumentiert. Das dortige Feld `upload_
 
 ## Wichtig
 
-Vorläufige Fotobezeichnungen sind kein Beweis, dass eine Bilddatei tatsächlich im Repository liegt. Insgesamt 37 Originalfotos liegen im Chat und in einem SHA-256-geprüften Original-ZIP vor. Ihr Binärupload nach GitHub steht noch aus. Der Import erfolgt mit `scripts/import-fotos.sh` anhand der SHA-256-Prüfsummen.
+Vorläufige Fotobezeichnungen sind kein Beweis, dass eine Bilddatei tatsächlich im Repository liegt. Insgesamt 43 Originalfotos liegen im Chat und in einem SHA-256-geprüften Original-ZIP (`buecherregal_fotos_bis_6-6_2026-11-06.zip`) vor. Der Nutzer meldet einen Upload aller Fotos in voller Auflösung. Der rekursiv geprüfte GitHub-Dateibaum von `main` enthielt am 2026-11-06 jedoch keine JPEGs/PNGs, nur `.gitkeep` unter `bilder/originale/`. Daher ist der tatsächliche Speicherort noch zu überprüfen. Bis zum Nachweis gilt `upload_status=ausstehend`. Der vorgesehene lokale Git-Import erfolgt gegebenenfalls mit `scripts/import-fotos.sh` anhand der SHA-256-Prüfsummen. Der Import erfolgt mit `scripts/import-fotos.sh` anhand der SHA-256-Prüfsummen.
+
+## Neuer Chat
+
+Die vollständige Bildbestandsprüfung, Dublettenbereinigung und Umbenennung werden **nicht hier** durchgeführt, sondern nach der Übergabe in `docs/NEUER_CHAT_BESTANDSANALYSE.md` im neuen Chat. Vor dem Löschen oder Umbenennen Bildbestand, Provenienz und Sicherung nachweisen.
