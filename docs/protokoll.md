@@ -295,3 +295,11 @@
 - B00560 als Marlo Morgan *Traumfänger* (Goldmann 43740; früher fälschlich Mario); B00575 als Donna Leon *Endstation Venedig* (detebe 22936); B00579 als Norman Levine *Django, Karfunkelstein & Rosen* (vorher *Django Kaffein & Rosen* falsch) durch Originalpixel und bibliografischen Abgleich gelöst.
 - B00563 weiter offen: Buchbereich zwischen Håkan Nesser *Barins Dreieck* und Claudie Gallay *Die Brandungswelle*, Mörike-Eintrag noch nicht mit sicherem Titel belegbar; Einzelfoto des Titels/der Buchgrenze erforderlich.
 - Fach 5-1 gezielt geprüft, nicht abgehakt: 22 Einträge, 21 lesbar, 1 offen. Gesamt 1048 IDs (983 lesbar, 27 prüfen, 38 offen), noch 10 gezielte Fachprüfungen. Einzelbericht docs/fachpruefung_5-1_20261106.md, nächstes Fach 5-2.
+
+## 2026-11-07 – Gezielte Nachprüfung Fach 5-2
+
+- Nur B00585 und B00599 an den vorhandenen Git-Originalpixelteilen FOTO0031 Teil 01, 02 und 04 erneut geprüft.
+- B00599 als Martha Grimes, *Fremde Federn / Inspektor Jury besucht alte Damen*, anhand der zwei eindeutig lesbaren Titel auf demselben Goldmann-Rücken bestätigt; jetzt lesbar.
+- B00585 bleibt offen: ein überstehender Umschlag verdeckt den Bereich zwischen Jonas Jonasson *Mörder Anders* und Minette Walters *Wellenbrecher*. Frontalfoto ohne Umschlag und physische Fachzählung erforderlich.
+- Fach 5-2: 19 vorläufig erfasste Bücher, 18 lesbar, 0 prüfen, 1 offen; nicht abgehakt. Gesamt 1048 Bucheinträge (984 lesbar, 26 prüfen, 38 offen = 64 unsicher). 19 Fächer vorläufig abgehakt, 9 weitere Fächer gezielt zu prüfen. Bericht `docs/fachpruefung_5-2_20261107.md`, nächstes Fach 5-3.
+
