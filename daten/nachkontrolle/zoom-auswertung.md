@@ -1,6 +1,6 @@
 # Ergebnis der vollständigen Zoom-Nachkontrolle – 2026-11-07
 
-Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht und in beiden Leserichtungen vergrößert. Fuer die 30 weiterhin offenen IDs sind nun zusaetzlich Nah- und Kontextansichten direkt aus den vollstaendigen Originalfotos erzeugt worden; sie zeigen beidseitig mehr Nachbarbuecher. Historische Zoomdateien bleiben erhalten. **14 Titel neu identifiziert; nach Nutzerentscheidung zu B00123 noch 29 offen.** Keine zweifelhafte Buchgrenze automatisch als `kein_buch` eingestuft.
+Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht und in beiden Leserichtungen vergrößert. Fuer die 30 weiterhin offenen IDs sind nun zusaetzlich Nah- und Kontextansichten direkt aus den vollstaendigen Originalfotos erzeugt worden; sie zeigen beidseitig mehr Nachbarbuecher. Historische Zoomdateien bleiben erhalten. **14 Titel neu identifiziert; nach Nutzerentscheidungen zu B00123 und B00235 noch 28 offen.** Keine zweifelhafte Buchgrenze automatisch als `kein_buch` eingestuft.
 
 ## Neu identifiziert
 
@@ -29,7 +29,6 @@ Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht 
 | ID | Regalposition | Zwischen | Grund | Nahansicht mit Nachbarn | Breiterer Kontext |
 |---|---|---|---|---|---|
 | B00131 | Regal 2-4 (Pos. 5) | zwischen Marguerite Duras – Der Matrose von Gibraltar und Michael Ende – Momo | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00131-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00131-kontext-gesamt.jpg) |
-| B00235 | Regal 3-1 (Pos. 6) | zwischen Roger Willemsen – Gute Tage und Stephen King – In einer kleinen Stadt | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00235-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00235-kontext-gesamt.jpg) |
 | B00240 | Regal 3-1 (Pos. 11) | zwischen Alfred Komarek – Polterabend und André Kaminski – Flimmergeschichten | Auf der Suche nach dem Wunderbaren möglicherweise erkennbar; Autor fehlt | [Nahansicht](../../bilder/nachkontrolle-zoom/B00240-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00240-kontext-gesamt.jpg) |
 | B00258 | Regal 3-1 (Pos. 29) | zwischen André Kaminski – Schalom allerseits und John Irving – Garp und wie er die Welt sah | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00258-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00258-kontext-gesamt.jpg) |
 | B00318 | Regal 3-4 (Pos. 17) | zwischen John Irving – Eine Mittelgewichts-Ehe und John Irving – Zirkuskind | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00318-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00318-kontext-gesamt.jpg) |
@@ -75,3 +74,7 @@ B00123 ist laut Nutzer **kein eigenes Buch**. Status `kein_buch`, als historisch
 ## Nutzerentscheidung B00131 – 2026-11-07
 
 **Unklar lassen und weiter.** B00131 (Fach 2-4, Position 5) bleibt offen und in der nicht-erkannt-Liste. Weiterhin 29 offene IDs. Nächste gemeinsame Einzelprüfung: **B00235, Fach 3-1, Position 6**, zwischen Roger Willemsen *Gute Tage* und Stephen King *In einer kleinen Stadt*. Bild und Auswahlmöglichkeiten anzeigen.
+
+## Nutzerentscheidung B00235 – 2026-11-07
+
+**Kein eigenes Buch.** B00235 bleibt als historischer Platzhalter mit Status `kein_buch` im Inventar und wird aus den offenen Tabellen entfernt. 28 offene IDs verbleiben, darunter der auf Wunsch unklar belassene B00131. Nächste gemeinsame Einzelprüfung: **B00240, Fach 3-1, Position 11**, zwischen Alfred Komarek *Polterabend* und André Kaminski *Flimmergeschichten*. Aktuelle Nahansicht erneut betrachtet: Titel *Auf der Suche nach dem Wunderbaren* lesbar, Autorenlesung als Vorschlag **P. D. Ouspensky**, Nutzerbestätigung ausstehend.
