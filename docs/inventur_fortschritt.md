@@ -261,3 +261,11 @@ B00560 als Marlo Morgan *Traumfänger* (Goldmann 43740), B00575 als Donna Leon *
 - B00585 bleibt offen: ein überstehender Umschlag verdeckt den Bereich zwischen Jonas Jonasson *Mörder Anders* und Minette Walters *Wellenbrecher*. Frontalfoto ohne Umschlag und physische Fachzählung erforderlich.
 - Fach 5-2: 19 vorläufig erfasste Bücher, 18 lesbar, 0 prüfen, 1 offen; nicht abgehakt. Gesamt 1048 Bucheinträge (984 lesbar, 26 prüfen, 38 offen = 64 unsicher). 19 Fächer vorläufig abgehakt, 9 weitere Fächer gezielt zu prüfen. Bericht `docs/fachpruefung_5-2_20261107.md`, nächstes Fach 5-3.
 
+## 2026-11-07 – Gezielte Nachprüfung Fach 5-3
+
+- Nur B00600, B00604, B00614, B00615 und B00619 anhand der vier nativen Git-Ausschnitte von FOTO0032 behandelt; keine Originalfotos verändert.
+- B00614 Julian Schutting, *Liebesgedichte* (dtv 6346) und B00619 Alexander Solschenizyn, *Zwischenfall* (dtv 857), durch Originalrücken und Bibliografie bestätigt → lesbar.
+- B00615: bisherige Titellesung *Manchmal möchte ich eine Insel sein* korrigiert zu **Christine Nöstlinger – Manchmal möchte ich ein Single sein**, durch Originalpixel und offizielle Werkliste nachgewiesen → lesbar.
+- B00600 Agatha Christie, Titel trotz Rückenzahl 822 nicht belegt → offen. B00604 ebenfalls offen: neben dunklem schlecht lesbaren Rücken steht noch ein erkennbarer gelber Rücken **Bertolt Brecht – Der gute Mensch von Sezuan** zwischen Ann Granger und Fabio Geda. Möglicher zusätzlicher Band/Positionsfehler, vor Ort zählen, keine neue ID oder Verschiebung geraten.
+- Fach 5-3: 22 vorläufige Einträge (20 lesbar, 0 prüfen, 2 offen), nicht abgehakt. Gesamt 1048 (987 lesbar, 23 prüfen, 38 offen = 61 unsicher). 19 Fächer vorläufig abgehakt, 8 weitere gezielt zu prüfen. Bericht `docs/fachpruefung_5-3_20261107.md`, nächstes Fach **5-4**.
+
