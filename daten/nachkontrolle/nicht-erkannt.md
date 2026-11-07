@@ -2,27 +2,26 @@
 
 Quelle: `daten/buecher.csv`. Stand: 2026-11-07.
 
-**Neue Nachbaransichten:** Fuer alle 25 offenen IDs sind jetzt aus den vollstaendigen Git-Originalfotos jeweils eine Nahansicht und ein breiterer Kontext gespeichert. Die neuen Links stehen in der Tabelle. Fruehere SVG-Ausschnitte bleiben fuer den Audit im Git erhalten.
+**Neue Nachbaransichten:** Fuer alle 24 offenen IDs sind jetzt aus den vollstaendigen Git-Originalfotos jeweils eine Nahansicht und ein breiterer Kontext gespeichert. Die neuen Links stehen in der Tabelle. Fruehere SVG-Ausschnitte bleiben fuer den Audit im Git erhalten.
 
-**Einzelklärung:** Immer Bild, Standort und Nachbarbücher zeigen sowie Auswahlmöglichkeiten anbieten: „Kein eigenes Buch“, „Autor/Titel angeben“ oder „Unklar lassen“. B00131 und B00240 wurden auf Nutzerwunsch unklar belassen und bleiben in der Liste. Nächste ID zur gemeinsamen Prüfung: **B00433**.
+**Einzelklärung:** Immer Bild, Standort und Nachbarbücher zeigen sowie Auswahlmöglichkeiten anbieten: „Kein eigenes Buch“, „Autor/Titel angeben“ oder „Unklar lassen“. B00131 und B00240 wurden auf Nutzerwunsch unklar belassen und bleiben in der Liste. Nächste ID zur gemeinsamen Prüfung: **B00492**.
 
 **Zum Ausfüllen:** Die Felder **Autor** und **Titel** bleiben bewusst leer, bis der Nutzer sie bestätigt. Teilhinweise bleiben in `daten/buecher.csv` erhalten. Wo bereits ein individueller Ausschnitt unter `bilder/nachkontrolle/` existiert, ist dieser verlinkt; sonst das Originalfoto. Bestätigte Entscheidungen (auch `kein Buch`) stehen unter `daten/nachkontrolle/entscheidungen.csv`; abschließend geklärte Einträge werden aus dieser offenen Liste entfernt; „unklar lassen“ bleibt enthalten.
-**Zoom-Nachkontrolle:** 14 weitere IDs identifiziert; die 25 weiterhin offenen Fälle stehen mit vergrößerten Ansichten in [zoom-auswertung.md](zoom-auswertung.md).
+**Zoom-Nachkontrolle:** 14 weitere IDs identifiziert; die 24 weiterhin offenen Fälle stehen mit vergrößerten Ansichten in [zoom-auswertung.md](zoom-auswertung.md).
 
-**Entscheidungsstand:** B00061, B00078, B00123, B00235, B00258, B00318 und B00418 wurden vom Nutzer am 2026-11-07 als **kein eigenes Buch** bestätigt; die IDs und Regalpositionen bleiben als historische Platzhalter in `daten/buecher.csv`, ohne im Buchbestand mitzuzählen. B00071 wurde durch Nutzer-Screenshot am 2026-11-07 als Marianne Fredriksson – *Lillemors Rätsel* erkannt. B00094 wurde durch Nutzer-Screenshot am 2026-11-07 als Heinrich von Kleist – *Der zerbrochene Krug* identifiziert. B00418 gehört laut Nutzer zu *Kräutermärchen* (B00419), kein zusätzliches Exemplar. Die Positionsnummern der übrigen Bücher werden nicht verschoben.
+**Entscheidungsstand:** B00061, B00078, B00123, B00235, B00258, B00318, B00418 und B00433 wurden vom Nutzer am 2026-11-07 als **kein eigenes Buch** bestätigt; die IDs und Regalpositionen bleiben als historische Platzhalter in `daten/buecher.csv`, ohne im Buchbestand mitzuzählen. B00071 wurde durch Nutzer-Screenshot am 2026-11-07 als Marianne Fredriksson – *Lillemors Rätsel* erkannt. B00094 wurde durch Nutzer-Screenshot am 2026-11-07 als Heinrich von Kleist – *Der zerbrochene Krug* identifiziert. B00418 gehört laut Nutzer zu *Kräutermärchen* (B00419), kein zusätzliches Exemplar. Die Positionsnummern der übrigen Bücher werden nicht verschoben.
 
-**Korrigierte Bildausschnitte:** Fuer alle 25 noch offenen IDs liegen aktualisierte Sichtbereiche unter `bilder/nachkontrolle-korrigiert/`, mit erweitertem Kontext der direkten Nachbarbuecher. Die bisherigen Ausschnitte bleiben unveraendert erhalten.
+**Korrigierte Bildausschnitte:** Fuer alle 24 noch offenen IDs liegen aktualisierte Sichtbereiche unter `bilder/nachkontrolle-korrigiert/`, mit erweitertem Kontext der direkten Nachbarbuecher. Die bisherigen Ausschnitte bleiben unveraendert erhalten.
 
 **Bildmaterial:** Zu jeder der 48 IDs existiert ein separater SVG-Sichtausschnitt unter `bilder/nachkontrolle/`, jeweils aus den unveränderten hochauflösenden Git-JPEG-Originalpixeln. Die Ausschnitte dienen als Ansichtshilfe; sie sind keine zusätzlichen Fotos. Für alle Entscheidungen zählt die bestätigte Eingabe des Nutzers.
 
 
-**Datensätze:** 25. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
+**Datensätze:** 24. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
 
 | ID | Regal | Zwischen | Nahansicht | Breiterer Kontext | Autor | Titel |
 |---|---|---|---|---|---|---|
 | B00131 | Regal 2-4 (Pos. 5) | zwischen Marguerite Duras – Der Matrose von Gibraltar und Michael Ende – Momo | [Nahansicht](../../bilder/nachkontrolle-zoom/B00131-nah-mit-nachbarn.jpg) | [Kontext](../../bilder/nachkontrolle-zoom/B00131-kontext-gesamt.jpg) |  |  |
 | B00240 | Regal 3-1 (Pos. 11) | zwischen Alfred Komarek – Polterabend und André Kaminski – Flimmergeschichten | [Nahansicht](../../bilder/nachkontrolle-zoom/B00240-nah-mit-nachbarn.jpg) | [Kontext](../../bilder/nachkontrolle-zoom/B00240-kontext-gesamt.jpg) |  |  |
-| B00433 | Regal 4-2 (Pos. 16) | zwischen Friedrich Torberg – Süßkind von Trimberg und Sabine Thiesler – Die Totengräberin | [Nahansicht](../../bilder/nachkontrolle-zoom/B00433-nah-mit-nachbarn.jpg) | [Kontext](../../bilder/nachkontrolle-zoom/B00433-kontext-gesamt.jpg) |  |  |
 | B00492 | Regal 4-6 (Pos. 2) | zwischen Sabine Thiesler – Hexenkind und Paul Auster – Nacht des Orakels | [Nahansicht](../../bilder/nachkontrolle-zoom/B00492-nah-mit-nachbarn.jpg) | [Kontext](../../bilder/nachkontrolle-zoom/B00492-kontext-gesamt.jpg) |  |  |
 | B00516 | Regal 4-7 (Pos. 4) | zwischen Konstantin Wecker – Der Klang der ungespielten Töne und Konstantin Wecker – Jeder Augenblick ist ewig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00516-nah-mit-nachbarn.jpg) | [Kontext](../../bilder/nachkontrolle-zoom/B00516-kontext-gesamt.jpg) |  |  |
 | B00540 | Regal 4-7 (Pos. 28) | zwischen Petros Markaris – Faule Kredite und Eric-Emmanuel Schmitt – Das Evangelium nach Pilatus | [Nahansicht](../../bilder/nachkontrolle-zoom/B00540-nah-mit-nachbarn.jpg) | [Kontext](../../bilder/nachkontrolle-zoom/B00540-kontext-gesamt.jpg) |  |  |
