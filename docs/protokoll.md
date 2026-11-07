@@ -354,3 +354,10 @@
 - Für beide Positionen **frontal fotografierter freigestellter Rücken**, **Titelblatt** und Kontrolle der physischen Buchgrenzen nötig; Nachbarbände als Positionsanker festhalten.
 - Fach 6-1: **23 vorläufige Einträge, 21 lesbar, 0 prüfen, 2 offen**, nicht abgehakt. Gesamt weiterhin **1.048 Einträge, 997 lesbar, 14 prüfen, 37 offen** (= 51 unsicher). **20** Fächer vorläufig abgehakt, **2** weitere in der laufenden Fachprüfrunde zu bearbeiten. Einzelbericht `docs/fachpruefung_6-1_20261107.md`; **nächstes Fach 6-2**, ausschließlich **B00767**.
 
+## 2026-11-07 – Gezielte Nachprüfung Fach 6-2
+
+- Ausschließlich **B00767, Position 18**, anhand des einzeln geladenen Git-Originalpixel-Bildteils `FOTO0039_teil_04` untersucht. Die 19 bereits lesbaren Nachbarbücher und alle Originalfotos unverändert belassen.
+- Auf dem blauen Rücken sind **Komarek/Kalmár**, *Schräge Vögel* und *Faszinierende Lebensentwürfe* erkennbar. Buchhandels-/Verlagsnachweis: **Alfred Komarek (Text)** und **János Kalmár (Fotografien)**, *Schräge Vögel: Faszinierende Lebensentwürfe*, Kremayr & Scheriau. Die unterschiedlichen Mitwirkendenrollen ausdrücklich dokumentiert; konkrete ISBN/Auflage des Exemplars nicht aus Katalogdaten übernommen.
+- B00767 `pruefen` → `lesbar`; Fach **6-2 = 20 von 20 vorläufig lesbar**, vorläufig abgehakt. Gesamt **1048 Bucheinträge, 998 lesbar, 13 prüfen, 37 offen** (= 50 unsicher). **21** Fächer vorläufig abgehakt. Prüfbericht `docs/fachpruefung_6-2_20261107.md`.
+- **Nur noch Fach 6-4 in der gezielten Nachprüfrunde**, ausschließlich **B00804** und **B00811**; noch keine weiteren Fächer geprüft. Physische Zähl-/Positionsfragen und Restunsicherheiten bleiben separat bestehen.
+
