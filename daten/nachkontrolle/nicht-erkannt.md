@@ -39,7 +39,7 @@ Quelle: `daten/buecher.csv`. Stand: 2026-11-07.
 | B00869 | Regal 6-6 (Pos. 22) | zwischen Anne B. Ragde – Herzenbrecher und Petra Hammesfahr – Erinnerung an einen Mörder | [Bild B00869 – Ausschnitt](../../bilder/nachkontrolle/B00869.svg) |  |  |
 | B00896 | Regal 6-8 (Pos. 5) | zwischen Fritz Muliar – Streng indiskret! und Mary Higgins Clark – Tödliche Fesseln | [Bild B00896 – Ausschnitt](../../bilder/nachkontrolle/B00896.svg) |  |  |
 | B00916 | Regal 7-1 (Pos. 3) | zwischen Rosamunde Pilcher – Wintersonne und John Grisham – Die Bruderschaft | [Bild B00916 – Ausschnitt](../../bilder/nachkontrolle/B00916.svg) |  |  |
-| B00953 | Regal 7-3 (Pos. 2) | zwischen Rita Mae Brown – Eine Maus kommt selten allein und Die Klinik | [Bild B00953 – Ausschnitt](../../bilder/nachkontrolle/B00953.svg) |  |  |
+| B00953 | Regal 7-3 (Pos. 2) | zwischen Rita Mae Brown – Eine Maus kommt selten allein und Noah Gordon – Die Klinik | [Bild B00953 – Ausschnitt](../../bilder/nachkontrolle/B00953.svg) |  |  |
 | B01001 | Regal 7-5 (Pos. 14) | zwischen Donna Leon – Schöner Schein und Utta Danella – Der blaue Vogel | [Bild B01001 – Ausschnitt](../../bilder/nachkontrolle/B01001.svg) |  |  |
 | B01007 | Regal 7-5 (Pos. 20) | zwischen Susanne Scholl – Schäm dich, Europa! und Michael Niavarani – Buch B01008 (noch unklar) | [Bild B01007 – Ausschnitt](../../bilder/nachkontrolle/B01007.svg) |  |  |
 | B01008 | Regal 7-5 (Pos. 21) | zwischen Buch B01007 (noch unklar) und Anne B. Ragde – Einsiedlerkrebse | [Bild B01008 – Ausschnitt](../../bilder/nachkontrolle/B01008.svg) |  |  |
