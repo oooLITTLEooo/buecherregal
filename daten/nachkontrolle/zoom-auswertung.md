@@ -1,6 +1,6 @@
 # Ergebnis der vollständigen Zoom-Nachkontrolle – 2026-11-07
 
-Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht und in beiden Leserichtungen vergrößert. Fuer die 30 weiterhin offenen IDs sind nun zusaetzlich Nah- und Kontextansichten direkt aus den vollstaendigen Originalfotos erzeugt worden; sie zeigen beidseitig mehr Nachbarbuecher. Historische Zoomdateien bleiben erhalten. **14 Titel durch Zoom identifiziert, zusätzlich B00585 und B00604 vom Nutzer bestätigt; noch 19 offen.** Keine zweifelhafte Buchgrenze automatisch als `kein_buch` eingestuft.
+Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht und in beiden Leserichtungen vergrößert. Fuer die 30 weiterhin offenen IDs sind nun zusaetzlich Nah- und Kontextansichten direkt aus den vollstaendigen Originalfotos erzeugt worden; sie zeigen beidseitig mehr Nachbarbuecher. Historische Zoomdateien bleiben erhalten. **14 Titel durch Zoom identifiziert, zusätzlich B00585 und B00604 vom Nutzer bestätigt; noch 18 offen.** Keine zweifelhafte Buchgrenze automatisch als `kein_buch` eingestuft.
 
 ## Neu identifiziert
 
@@ -31,7 +31,6 @@ Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht 
 | B00131 | Regal 2-4 (Pos. 5) | zwischen Marguerite Duras – Der Matrose von Gibraltar und Michael Ende – Momo | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00131-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00131-kontext-gesamt.jpg) |
 | B00240 | Regal 3-1 (Pos. 11) | zwischen Alfred Komarek – Polterabend und André Kaminski – Flimmergeschichten | Auf der Suche nach dem Wunderbaren möglicherweise erkennbar; Autor fehlt | [Nahansicht](../../bilder/nachkontrolle-zoom/B00240-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00240-kontext-gesamt.jpg) |
 | B00563 | Regal 5-1 (Pos. 5) | zwischen Håkan Nesser – Barins Dreieck und Claudie Gallay – Die Brandungswelle | Eduard Mörike erkennbar; laut Nutzer kein Titel am Buchrücken | [Nahansicht](../../bilder/nachkontrolle-zoom/B00563-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00563-kontext-gesamt.jpg) |
-| B00645 | Regal 5-5 (Pos. 2) | zwischen Saul Bellow – Der Regenkönig und Thomas Bernhard – Ein Kind | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00645-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00645-kontext-gesamt.jpg) |
 | B00647 | Regal 5-5 (Pos. 4) | zwischen Thomas Bernhard – Ein Kind und John Irving – Die imaginäre Freundin | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00647-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00647-kontext-gesamt.jpg) |
 | B00686 | Regal 5-6 (Pos. 22) | zwischen Ernst Jandl – Lechts und rinks und Erich Fried – Liebesgedichte | Oskar Werner erkennbar; Titel fehlt | [Nahansicht](../../bilder/nachkontrolle-zoom/B00686-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00686-kontext-gesamt.jpg) |
 | B00688 | Regal 5-6 (Pos. 24) | zwischen Erich Fried – Liebesgedichte und Regalrand | Frank Hoffmann erkennbar; Titel fehlt | [Nahansicht](../../bilder/nachkontrolle-zoom/B00688-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00688-kontext-gesamt.jpg) |
@@ -113,3 +112,7 @@ B00123 ist laut Nutzer **kein eigenes Buch**. Status `kein_buch`, als historisch
 ## Nutzerentscheidung B00604 – 2026-11-07
 
 **Nur der gelbe Brecht-Band – B00604 diesem zuordnen.** B00604 als **Bertolt Brecht – Der gute Mensch von Sezuan** mit Status `lesbar` gespeichert. Kein zusaetzlicher eigener Band im dunklen Bereich, keine neue ID oder Positionsverschiebung erforderlich. Fruehere Zaehldifferenz-Vermutung an dieser Stelle erledigt. 19 offene IDs verbleiben. Naechste gemeinsame Einzelpruefung: **B00645, Fach 5-5, urspruengliche Position 2**, zwischen Saul Bellow *Der Regenkoenig* und Thomas Bernhard *Ein Kind*. Nahansicht erneut visuell betrachtet. Alle Originalpositionen bleiben erhalten.
+
+## Nutzerentscheidung B00645 – 2026-11-07
+
+**Kein eigenes Buch.** B00645 bleibt als historischer Platzhalter mit Status `kein_buch` erhalten und wird aus den offenen Tabellen entfernt. 18 offene IDs verbleiben. Naechste gemeinsame Einzelpruefung: **B00647, Fach 5-5, urspruengliche Position 4**, zwischen Thomas Bernhard *Ein Kind* und John Irving *Die imaginaere Freundin*. Nahansicht erneut visuell betrachtet: schmaler heller Ruecken, Titel nicht sicher lesbar. Alle Originalpositionen bleiben erhalten.
