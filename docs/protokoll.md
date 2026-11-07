@@ -318,3 +318,10 @@
 - Alle drei auf `lesbar` umgestellt; keine ISBN, Auflagen oder Erscheinungsjahre für das vorhandene Exemplar behauptet. Fach **5-4**: 22/22 vorläufig lesbar, vorläufig abgehakt.
 - Gesamt 1048 Datensätze (990 lesbar, 20 prüfen, 38 offen = 58 unsicher). 20 Fächer vorläufig abgehakt, 7 weitere gezielte Fachprüfungen. Dokumentation `docs/fachpruefung_5-4_20261107.md`. **Nächstes Fach erst auf „Weiter“: 5-5**, ausschließlich B00645 und B00647.
 
+## 2026-11-07 – Gezielte Nachprüfung Fach 5-5
+
+- Nur B00645 (Position 2) und B00647 (Position 4) anhand der Git-Originalpixel von FOTO0034 Teil 01 geprüft, Teil 02 ergänzend betrachtet. Die anderen 19 Bucheinträge nicht erneut inventarisiert.
+- B00645: dunkler reflektierender Buchrücken zwischen Saul Bellow *Der Regenkönig* und Thomas Bernhard *Ein Kind* bleibt unlesbar; frontales Foto/Titelblatt nötig.
+- B00647: teilweise verdeckter schmaler Rücken zwischen Thomas Bernhard *Ein Kind* und John Irving *Die imaginäre Freundin* bleibt unlesbar; freigestelltes Detailfoto/Titelblatt nötig. Die sichtbare Diogenes-Nummer **23308** gehört laut Diogenes dem bereits erfassten Irving-Band B00648 und darf nicht für B00647 übernommen werden.
+- Fach 5-5: **21** vorläufige Bucheinträge, **19 lesbar, 0 prüfen, 2 offen**; nicht abgehakt, nur neue Detailfotos zielführend. Gesamt unverändert **1048 Bucheinträge, 990 lesbar, 20 prüfen, 38 offen** (= 58 unsicher); 20 Fächer vorläufig abgehakt, 6 noch gezielt zu prüfen. Bericht `docs/fachpruefung_5-5_20261107.md`; nächstes Fach **5-6**.
+
