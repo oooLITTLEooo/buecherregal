@@ -92,5 +92,56 @@ def main():
         save_jpeg_and_b64(book_id, "rechts", canvas.rotate(270, expand=True))
     print(f"Finished {len(seen)} original-pixel crop views; source photos unchanged.")
 
+def make_neighbor_crops():
+    """For every still-open ID use the COMPLETE original shelf photo, not the old SVG's embedded tile.
+
+    Existing SVG viewBoxes provide approximate locations only; add generous extra
+    photo pixels on BOTH sides to retain the requested neighboring books.
+    Save both a close view and a broad verification view for safe manual checking.
+    Never edit originals, invent titles, or renumber inventory IDs.
+    """
+    pending = ROOT / "daten/nachkontrolle/nicht-erkannt.csv"
+    with pending.open(newline="", encoding="utf-8") as fh:
+        rows = list(csv.DictReader(fh, delimiter=";"))
+    inventory = ROOT / "daten/buecher.csv"
+    with inventory.open(newline="", encoding="utf-8") as fh:
+        books = {r["buch_id"]: r for r in csv.DictReader(fh, delimiter=";")}
+    if len(rows) != 30:
+        raise ValueError(f"Expected 30 still-open IDs; got {len(rows)}. Check queue first.")
+
+    for row in rows:
+        book_id = row["ID"]
+        if book_id not in books:
+            raise ValueError(f"Missing inventory entry: {book_id}")
+        original_rel = books[book_id]["foto_referenz"]
+        original = ROOT / original_rel
+        if not original.is_file() or not original.resolve().is_relative_to((ROOT / "bilder/originale").resolve()):
+            raise ValueError(f"Missing or invalid original for {book_id}: {original_rel}")
+        root = ET.parse(SVG_DIR / f"{book_id}.svg").getroot()
+        vx, vy, vw, vh = [float(x) for x in root.attrib["viewBox"].replace(",", " ").split()]
+        with Image.open(original) as original_photo:
+            original_photo.load()
+            im = original_photo.convert("RGB")
+        w, h = im.size
+        if w < 2000 or h < 2000:
+            raise ValueError(f"Original resolution unexpected for {book_id}: {im.size}")
+        # The historic SVG focus can exclude the preceding book. Anchor 350 px
+        # further left, then include plenty of native pixels in BOTH directions.
+        center_x = vx + vw / 2 - 350
+        top = max(0, int(vy) - 120)
+        bottom = min(h, int(vy + vh) + 120)
+        for suffix, width, quality in (("nah-mit-nachbarn", 2300, 86),
+                                       ("kontext-gesamt", 3800, 82)):
+            left = max(0, min(int(round(center_x - width / 2)), w - width))
+            right = min(w, left + width)
+            if right - left < 1000 or bottom - top < 1500:
+                raise ValueError(f"Invalid crop for {book_id}: {left},{top},{right},{bottom}")
+            picture = im.crop((left, top, right, bottom))
+            dest = OUT_DIR / f"{book_id}-{suffix}.jpg"
+            picture.save(dest, "JPEG", quality=quality, optimize=True, subsampling=0)
+            print(f"{book_id} {suffix}: {left},{top} - {right},{bottom} -> {picture.size}, {dest.stat().st_size} bytes")
+    print(f"Generated {len(rows) * 2} neighbor/context views directly from full-resolution originals.")
+
 if __name__ == "__main__":
     main()
+    make_neighbor_crops()
