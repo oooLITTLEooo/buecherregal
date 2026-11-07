@@ -4,7 +4,7 @@ Quelle: `daten/buecher.csv`. Stand: 2026-11-07.
 
 **Neue Nachbaransichten:** Fuer alle 18 offenen IDs sind jetzt aus den vollstaendigen Git-Originalfotos jeweils eine Nahansicht und ein breiterer Kontext gespeichert. Die neuen Links stehen in der Tabelle. Fruehere SVG-Ausschnitte bleiben fuer den Audit im Git erhalten.
 
-**Einzelklärung:** Immer Bild, Standort und Nachbarbücher zeigen sowie Auswahlmöglichkeiten anbieten: „Kein eigenes Buch“, „Autor/Titel angeben“ oder „Unklar lassen“. B00131 und B00240 wurden auf Nutzerwunsch unklar belassen. B00563 bleibt ebenfalls offen: laut Nutzer kein Titel am Buchrücken. Alle drei bleiben in der Liste. Nächste ID zur gemeinsamen Prüfung: **B00647**.
+**Einzelklärung:** Immer Bild, Standort und Nachbarbücher zeigen sowie Auswahlmöglichkeiten anbieten: „Kein eigenes Buch“, „Autor/Titel angeben“ oder „Unklar lassen“. B00131, B00240 und B00647 wurden auf Nutzerwunsch unklar belassen. B00563 bleibt ebenfalls offen: laut Nutzer kein Titel am Buchrücken. Alle vier bleiben in der Liste. Nächste ID zur gemeinsamen Prüfung: **B00686**.
 
 **Zum Ausfüllen:** Die Felder **Autor** und **Titel** bleiben bewusst leer, bis der Nutzer sie bestätigt. Teilhinweise bleiben in `daten/buecher.csv` erhalten. Wo bereits ein individueller Ausschnitt unter `bilder/nachkontrolle/` existiert, ist dieser verlinkt; sonst das Originalfoto. Bestätigte Entscheidungen (auch `kein Buch`) stehen unter `daten/nachkontrolle/entscheidungen.csv`; abschließend geklärte Einträge werden aus dieser offenen Liste entfernt; „unklar lassen“ bleibt enthalten.
 **Zoom-Nachkontrolle:** 14 weitere IDs identifiziert; die 18 weiterhin offenen Fälle stehen mit vergrößerten Ansichten in [zoom-auswertung.md](zoom-auswertung.md).
