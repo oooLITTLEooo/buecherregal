@@ -23,6 +23,9 @@ Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht 
 
 ## Noch offene Fälle
 
+**Bildlinks aktualisiert:** Die 30 korrigierten Ausschnitte zeigen das fragliche Buch mit den benachbarten Buchruecken. Die alten Zoom-JPEGs stehen weiterhin zum Drehen zur Verfuegung.
+
+
 | ID | Regalposition | Zwischen | Grund | Nahansicht mit Nachbarn | Breiterer Kontext |
 |---|---|---|---|---|---|
 | B00123 | Regal 2-3 (Pos. 17) | zwischen Ken Follett – Eisfieber und Ann Granger – Mord wirft lange Schatten | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00123-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00123-kontext-gesamt.jpg) |
