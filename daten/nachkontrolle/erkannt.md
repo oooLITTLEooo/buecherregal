@@ -637,8 +637,8 @@ Quelle: `daten/buecher.csv`. Stand: 2026-11-07.
 | B00641 | Regal 5-4 (Pos. 20) | zwischen Andrea Camilleri – Hahn im Korb und Melitta Breznik – Figuren | [Bild B00641](../../bilder/originale/PXL_20261105_151516438.jpg) | Simon Beckett | Die Chemie des Todes |
 | B00642 | Regal 5-4 (Pos. 21) | zwischen Simon Beckett – Die Chemie des Todes und Rosamunde Pilcher – Heimkehr | [Bild B00642](../../bilder/originale/PXL_20261105_151516438.jpg) | Melitta Breznik | Figuren |
 | B00643 | Regal 5-4 (Pos. 22) | zwischen Melitta Breznik – Figuren und Regalrand | [Bild B00643](../../bilder/originale/PXL_20261105_151516438.jpg) | Rosamunde Pilcher | Heimkehr |
-| B00644 | Regal 5-5 (Pos. 1) | zwischen Regalrand und Buch B00645 (noch unklar) | [Bild B00644](../../bilder/originale/PXL_20261105_151520019.jpg) | Saul Bellow | Der Regenkönig |
-| B00646 | Regal 5-5 (Pos. 3) | zwischen Buch B00645 (noch unklar) und Buch B00647 (noch unklar) | [Bild B00646](../../bilder/originale/PXL_20261105_151520019.jpg) | Thomas Bernhard | Ein Kind |
+| B00644 | Regal 5-5 (Pos. 1) | zwischen Regalrand und Thomas Bernhard – Ein Kind | [Bild B00644](../../bilder/originale/PXL_20261105_151520019.jpg) | Saul Bellow | Der Regenkönig |
+| B00646 | Regal 5-5 (Pos. 3) | zwischen Saul Bellow – Der Regenkönig und Buch B00647 (noch unklar) | [Bild B00646](../../bilder/originale/PXL_20261105_151520019.jpg) | Thomas Bernhard | Ein Kind |
 | B00648 | Regal 5-5 (Pos. 5) | zwischen Buch B00647 (noch unklar) und Melitta Breznik – Das Umstellformat | [Bild B00648](../../bilder/originale/PXL_20261105_151520019.jpg) | John Irving | Die imaginäre Freundin |
 | B00649 | Regal 5-5 (Pos. 6) | zwischen John Irving – Die imaginäre Freundin und Arne Blum – Saubande | [Bild B00649](../../bilder/originale/PXL_20261105_151520019.jpg) | Melitta Breznik | Das Umstellformat |
 | B00650 | Regal 5-5 (Pos. 7) | zwischen Melitta Breznik – Das Umstellformat und Minette Walters – Das Echo | [Bild B00650](../../bilder/originale/PXL_20261105_151520019.jpg) | Arne Blum | Saubande |
