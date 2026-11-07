@@ -71,3 +71,7 @@ Alle Ausschnitte wurden aus den unveränderten hochauflösenden JPEG-Originalen 
 ## Nutzerentscheidung B00123 – 2026-11-07
 
 B00123 ist laut Nutzer **kein eigenes Buch**. Status `kein_buch`, als historischer Platzhalter erhalten und aus den offenen Tabellen entfernt. 29 Faelle verbleiben. Naechster Fall: B00131 (Fach 2-4, Position 5). Fuer jede folgende Einzelklaerung ausdruecklich Auswahlmoeglichkeiten zusammen mit Bild und Nachbarbuechern anbieten: kein eigenes Buch / Autor und Titel angeben / unklar lassen. Der oben protokollierte Ausgangsstand mit 30 offenen IDs ist historisch.
+
+## Nutzerentscheidung B00131 – 2026-11-07
+
+**Unklar lassen und weiter.** B00131 (Fach 2-4, Position 5) bleibt offen und in der nicht-erkannt-Liste. Weiterhin 29 offene IDs. Nächste gemeinsame Einzelprüfung: **B00235, Fach 3-1, Position 6**, zwischen Roger Willemsen *Gute Tage* und Stephen King *In einer kleinen Stadt*. Bild und Auswahlmöglichkeiten anzeigen.
