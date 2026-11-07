@@ -9,6 +9,8 @@ Quelle: `daten/buecher.csv`. Stand: 2026-11-07.
 
 **Entscheidungsstand:** B00061 und B00078 wurden vom Nutzer am 2026-11-07 als **kein eigenes Buch** bestätigt; die IDs und Regalpositionen bleiben als historische Platzhalter in `daten/buecher.csv`, ohne im Buchbestand mitzuzählen. B00071 wurde durch Nutzer-Screenshot am 2026-11-07 als Marianne Fredriksson – *Lillemors Rätsel* erkannt. B00094 wurde durch Nutzer-Screenshot am 2026-11-07 als Heinrich von Kleist – *Der zerbrochene Krug* identifiziert. Die Positionsnummern der übrigen Bücher werden nicht verschoben.
 
+**Korrigierte Bildausschnitte:** Fuer alle 30 noch offenen IDs liegen aktualisierte Sichtbereiche unter `bilder/nachkontrolle-korrigiert/`, mit erweitertem Kontext der direkten Nachbarbuecher. Die bisherigen Ausschnitte bleiben unveraendert erhalten.
+
 **Bildmaterial:** Zu jeder der 48 IDs existiert ein separater SVG-Sichtausschnitt unter `bilder/nachkontrolle/`, jeweils aus den unveränderten hochauflösenden Git-JPEG-Originalpixeln. Die Ausschnitte dienen als Ansichtshilfe; sie sind keine zusätzlichen Fotos. Für alle Entscheidungen zählt die bestätigte Eingabe des Nutzers.
 
 
