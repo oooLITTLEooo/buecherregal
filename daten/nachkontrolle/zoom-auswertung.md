@@ -1,6 +1,6 @@
 # Ergebnis der vollständigen Zoom-Nachkontrolle – 2026-11-07
 
-Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht und in beiden Leserichtungen vergrößert. Fuer die 30 weiterhin offenen IDs sind nun zusaetzlich Nah- und Kontextansichten direkt aus den vollstaendigen Originalfotos erzeugt worden; sie zeigen beidseitig mehr Nachbarbuecher. Historische Zoomdateien bleiben erhalten. **14 Titel neu identifiziert; nach Nutzerentscheidungen zu B00123, B00235, B00258 und B00318 noch 26 offen.** Keine zweifelhafte Buchgrenze automatisch als `kein_buch` eingestuft.
+Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht und in beiden Leserichtungen vergrößert. Fuer die 30 weiterhin offenen IDs sind nun zusaetzlich Nah- und Kontextansichten direkt aus den vollstaendigen Originalfotos erzeugt worden; sie zeigen beidseitig mehr Nachbarbuecher. Historische Zoomdateien bleiben erhalten. **14 Titel neu identifiziert; nach Nutzerentscheidungen zu B00123, B00235, B00258, B00318 und B00418 noch 25 offen.** Keine zweifelhafte Buchgrenze automatisch als `kein_buch` eingestuft.
 
 ## Neu identifiziert
 
@@ -30,7 +30,6 @@ Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht 
 |---|---|---|---|---|---|
 | B00131 | Regal 2-4 (Pos. 5) | zwischen Marguerite Duras – Der Matrose von Gibraltar und Michael Ende – Momo | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00131-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00131-kontext-gesamt.jpg) |
 | B00240 | Regal 3-1 (Pos. 11) | zwischen Alfred Komarek – Polterabend und André Kaminski – Flimmergeschichten | Auf der Suche nach dem Wunderbaren möglicherweise erkennbar; Autor fehlt | [Nahansicht](../../bilder/nachkontrolle-zoom/B00240-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00240-kontext-gesamt.jpg) |
-| B00418 | Regal 4-2 (Pos. 1) | zwischen Regalrand und Folke Tegetthoff – Kräutermärchen | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00418-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00418-kontext-gesamt.jpg) |
 | B00433 | Regal 4-2 (Pos. 16) | zwischen Friedrich Torberg – Süßkind von Trimberg und Sabine Thiesler – Die Totengräberin | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00433-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00433-kontext-gesamt.jpg) |
 | B00492 | Regal 4-6 (Pos. 2) | zwischen Sabine Thiesler – Hexenkind und Paul Auster – Nacht des Orakels | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00492-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00492-kontext-gesamt.jpg) |
 | B00516 | Regal 4-7 (Pos. 4) | zwischen Konstantin Wecker – Der Klang der ungespielten Töne und Konstantin Wecker – Jeder Augenblick ist ewig | Mehrere Wecker-Bände überlappen; Buchgrenze fraglich | [Nahansicht](../../bilder/nachkontrolle-zoom/B00516-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00516-kontext-gesamt.jpg) |
@@ -88,3 +87,7 @@ B00123 ist laut Nutzer **kein eigenes Buch**. Status `kein_buch`, als historisch
 ## Nutzerentscheidung B00318 – 2026-11-07
 
 **Kein eigenes Buch.** B00318 bleibt als historischer Platzhalter mit Status `kein_buch` im Inventar und wird aus den offenen Tabellen entfernt. 26 offene IDs verbleiben. Naechste gemeinsame Einzelpruefung: **B00418, Fach 4-2, urspruengliche Position 1**, links Regalrand, rechts Folke Tegetthoff *Kraeutermaerchen* (B00419). Nahansicht erneut visuell betrachtet: linker Ruecken und sichtbare Vorderseite scheinen zu demselben Kraeutermaerchen-Band zu gehoeren, daher moegliche Doppelzaehlung. Nur Hinweis zur Nutzerpruefung, keine automatische Inventaraenderung zu B00418. Alle Originalpositionen bleiben erhalten.
+
+## Nutzerentscheidung B00418 – 2026-11-07
+
+**Kein zusaetzliches Buch – gehoert zu Kraeutermaerchen.** B00418 ist eine Doppelzaehlung von B00419 (Folke Tegetthoff, *Kraeutermaerchen*). B00418 wird als historischer Platzhalter mit Status `kein_buch` erhalten und aus den offenen Tabellen entfernt. B00419 bleibt das einmal gezaehlte Exemplar. 25 offene IDs verbleiben. Naechste gemeinsame Einzelpruefung: **B00433, Fach 4-2, urspruengliche Position 16**, zwischen Friedrich Torberg *Suesskind von Trimberg* und Sabine Thiesler *Die Totengraeberin*. Aktuelle Nahansicht erneut visuell betrachtet. Alle Originalpositionen bleiben erhalten.
