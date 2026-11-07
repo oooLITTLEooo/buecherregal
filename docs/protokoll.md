@@ -347,3 +347,10 @@
 - **B00711** Colleen McCullough am hellen Rücken zwischen Thomas Mann *Die Erzählungen* und Donna Leon *Das goldene Ei* erkennbar, Titel verdeckt → bleibt `offen`. Frontalfoto des freigestellten Rückens sowie Titelblatt benötigt, kein Titel geraten.
 - Fach 5-8: **20 vorläufige Einträge, 19 lesbar, 0 prüfen, 1 offen**, nicht abgehakt. Gesamt **1048 Datensätze (997 lesbar, 14 prüfen, 37 offen = 51 unsicher)**. **20** Fächer vorläufig abgehakt, **3** weitere gezielt zu prüfen. Bericht `docs/fachpruefung_5-8_20261107.md`; **nächstes Fach 6-1**, nur B00727 und B00748.
 
+## 2026-11-07 – Gezielte Nachprüfung Fach 6-1
+
+- Ausschließlich **B00727 (Position 1)** und **B00748 (Position 22)** anhand der einzeln geladenen nativen Git-FOTO0038-Bildteile 01 bzw. 04 untersucht. Die weiteren 21 Bucheinträge des Fachs sowie sämtliche Originalfotos und Positionen unverändert belassen.
+- **B00727:** am äußersten linken Fachrand schmaler dunkler Rücken, von **Leo Lukas – Das Leo Lukas Lesebuch** weitgehend verdeckt. Eigenständige Bandgrenze, Autor und Titel nicht sicher bestimmbar. **B00748:** schmaler dunkler Rücken mit roter btb-artiger Markierung zwischen **Axel Munthe – Das Buch von San Michele** und **Håkan Nesser – Sein letzter Fall**; Autor und Titel nicht lesbar. Beide bleiben `offen`, keine Schätzungen.
+- Für beide Positionen **frontal fotografierter freigestellter Rücken**, **Titelblatt** und Kontrolle der physischen Buchgrenzen nötig; Nachbarbände als Positionsanker festhalten.
+- Fach 6-1: **23 vorläufige Einträge, 21 lesbar, 0 prüfen, 2 offen**, nicht abgehakt. Gesamt weiterhin **1.048 Einträge, 997 lesbar, 14 prüfen, 37 offen** (= 51 unsicher). **20** Fächer vorläufig abgehakt, **2** weitere in der laufenden Fachprüfrunde zu bearbeiten. Einzelbericht `docs/fachpruefung_6-1_20261107.md`; **nächstes Fach 6-2**, ausschließlich **B00767**.
+
