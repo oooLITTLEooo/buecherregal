@@ -325,3 +325,10 @@
 - B00647: teilweise verdeckter schmaler Rücken zwischen Thomas Bernhard *Ein Kind* und John Irving *Die imaginäre Freundin* bleibt unlesbar; freigestelltes Detailfoto/Titelblatt nötig. Die sichtbare Diogenes-Nummer **23308** gehört laut Diogenes dem bereits erfassten Irving-Band B00648 und darf nicht für B00647 übernommen werden.
 - Fach 5-5: **21** vorläufige Bucheinträge, **19 lesbar, 0 prüfen, 2 offen**; nicht abgehakt, nur neue Detailfotos zielführend. Gesamt unverändert **1048 Bucheinträge, 990 lesbar, 20 prüfen, 38 offen** (= 58 unsicher); 20 Fächer vorläufig abgehakt, 6 noch gezielt zu prüfen. Bericht `docs/fachpruefung_5-5_20261107.md`; nächstes Fach **5-6**.
 
+## 2026-11-07 – Gezielte Nachprüfung Fach 5-6
+
+- Ausschließlich B00668, B00671, B00673, B00680, B00686 und B00688 anhand der vier einzeln geladenen nativen Git-Ausschnitte FOTO0035 geprüft; die übrigen Bücher und alle Originalfotos unverändert.
+- B00668 **Hans Weigel – Die Leiden der jungen Wörter** (Hans-Weigel-Bibliografie); B00671 **Edith Kneifl (Hrsg.) – Tatort Kaffeehaus** (Falter-Verlagskatalog; vorher „Tarot“ falsch); B00673 **Daniel Keel / Daniel Kampa (Hrsg.) – Erlesene Verbrechen: Kriminalgeschichten** (detebe 23574); B00680 **Eva Zeller – Lampenfieber** (dtv 1238) identifiziert und auf `lesbar` gesetzt.
+- B00686: „OSKAR WERNER“ auf großem weißem Rücken, genaue Autoren-/Titelzuordnung nicht sicher; B00688: „Frank Hoffmann“ auf spiegelndem blauen Band, eigentlicher Titel nicht entzifferbar. Beide bleiben `offen`; jeweils Titelblatt und blendfreies Rückenfoto nötig.
+- Fach 5-6: **24 vorläufige Bucheinträge, 22 lesbar, 0 prüfen, 2 offen**, nicht abgehakt. Insgesamt **1048 Datensätze, 994 lesbar, 16 prüfen, 38 offen** (= 54 unsicher). **20** Fächer vorläufig abgehakt; **5** weitere gezielte Fachprüfungen. Einzelbericht `docs/fachpruefung_5-6_20261107.md`; **nächstes Fach 5-7**.
+
