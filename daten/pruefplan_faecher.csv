@@ -42,7 +42,7 @@ fach;fotostatus;bucheintraege;lesbar;pruefen;offen;arbeitsstatus;zweite_sichtpru
 6-1;detail_vorhanden;23;21;0;2;neues_detailfoto_bei_bedarf;ja;B00727|B00748
 6-2;detail_vorhanden;20;20;0;0;vorlaeufig_abgehakt;ja;
 6-3;detail_vorhanden;20;20;0;0;vorlaeufig_abgehakt;nein;
-6-4;detail_vorhanden;24;22;1;1;gezielte_pruefung;nein;B00804|B00811
+6-4;detail_vorhanden;24;24;0;0;vorlaeufig_abgehakt;ja;
 6-5;detail_vorhanden;34;34;0;0;vorlaeufig_abgehakt;ja;
 6-6;detail_vorhanden;25;22;1;2;neues_detailfoto_bei_bedarf;ja;B00848|B00860|B00869
 6-7;detail_vorhanden;19;19;0;0;vorlaeufig_abgehakt;ja;
