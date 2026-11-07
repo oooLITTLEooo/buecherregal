@@ -1,16 +1,17 @@
 # Nicht erkannte Bücher – bitte Autor und Titel ergänzen
 
-Quelle: `daten/buecher.csv`, Git-Blob `79d3da3d531386abcf9ebdf8023f92558d6d9d36`. Stand: 2026-11-07.
+Quelle: `daten/buecher.csv`. Stand: 2026-11-07.
 
-**Zum Ausfüllen:** Die Felder **Autor** und **Titel** bleiben bewusst leer, bis der Nutzer sie bestätigt. Teilhinweise bleiben in `daten/buecher.csv` erhalten. Wo bereits ein individueller Ausschnitt unter `bilder/nachkontrolle/` existiert, ist dieser verlinkt; sonst das Originalfoto. Die Entscheidung `kein Buch` wird erst nach Nutzerbestätigung verarbeitet.
+**Zum Ausfüllen:** Die Felder **Autor** und **Titel** bleiben bewusst leer, bis der Nutzer sie bestätigt. Teilhinweise bleiben in `daten/buecher.csv` erhalten. Wo bereits ein individueller Ausschnitt unter `bilder/nachkontrolle/` existiert, ist dieser verlinkt; sonst das Originalfoto. Bestätigte Entscheidungen (auch `kein Buch`) stehen unter `daten/nachkontrolle/entscheidungen.csv`; entschiedene Einträge werden aus dieser offenen Liste entfernt.
+**Entscheidungsstand:** B00061 ist laut Nutzer vom 2026-11-07 **kein eigenes Buch**. Die ID und ursprüngliche Regalposition bleiben in `daten/buecher.csv` als historischer Platzhalter bestehen; die übrigen Positionsnummern werden nicht verschoben.
+
 **Bildmaterial:** Zu jeder der 48 IDs existiert ein separater SVG-Sichtausschnitt unter `bilder/nachkontrolle/`, jeweils aus den unveränderten hochauflösenden Git-JPEG-Originalpixeln. Die Ausschnitte dienen als Ansichtshilfe; sie sind keine zusätzlichen Fotos. Für alle Entscheidungen zählt die bestätigte Eingabe des Nutzers.
 
 
-**Datensätze:** 48. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
+**Datensätze:** 47. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
 
 | ID | Regal | Zwischen | Link zum Bild | Autor | Titel |
 |---|---|---|---|---|---|
-| B00061 | Regal 2-1 (Pos. 2) | zwischen Eva Rossmann – Gut, aber tot und Carlo und Franco Fruttero und Lucentini – Die Sonntagsfrau | [Bild B00061 – Ausschnitt](../../bilder/nachkontrolle/B00061.svg) |  |  |
 | B00071 | Regal 2-1 (Pos. 12) | zwischen Marianne Fredriksson – Sofia und Anders und Ken Follett – Der dritte Zwilling | [Bild B00071 – Ausschnitt](../../bilder/nachkontrolle/B00071.svg) |  |  |
 | B00078 | Regal 2-1 (Pos. 19) | zwischen Nicci French – Das rote Zimmer und Marianne Fredriksson – Die Jahre mit Jan | [Bild B00078 – Ausschnitt](../../bilder/nachkontrolle/B00078.svg) |  |  |
 | B00094 | Regal 2-2 (Pos. 15) | zwischen Barbara Frischmuth – Kopftänzer und Henrik Ibsen – Nora (Ein Puppenheim) | [Bild B00094 – Ausschnitt](../../bilder/nachkontrolle/B00094.svg) |  |  |

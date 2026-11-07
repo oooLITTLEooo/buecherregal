@@ -1,0 +1,2 @@
+ID;Regal;Position;Entscheidung;Autor;Titel;Datum;Link zum Bild;Nachbar links;Nachbar rechts;Bemerkung
+"B00061";"2-1";"2";"kein_buch";"";"";"2026-11-07";"https://github.com/oooLITTLEooo/buecherregal/blob/main/bilder/nachkontrolle/B00061.svg";"B00060 – Eva Rossmann: Gut, aber tot";"B00062 – Fruttero & Lucentini: Die Sonntagsfrau";"Nutzer bestaetigt: kein eigenes Buch. ID bleibt in daten/buecher.csv mit Status kein_buch; nicht im Bestand zaehlen; Positionen unveraendert."
