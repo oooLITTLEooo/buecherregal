@@ -2,28 +2,27 @@
 
 Quelle: `daten/buecher.csv`. Stand: 2026-11-07.
 
-**Neue Nachbaransichten:** Fuer alle 29 offenen IDs sind jetzt aus den vollstaendigen Git-Originalfotos jeweils eine Nahansicht und ein breiterer Kontext gespeichert. Die neuen Links stehen in der Tabelle. Fruehere SVG-Ausschnitte bleiben fuer den Audit im Git erhalten.
+**Neue Nachbaransichten:** Fuer alle 28 offenen IDs sind jetzt aus den vollstaendigen Git-Originalfotos jeweils eine Nahansicht und ein breiterer Kontext gespeichert. Die neuen Links stehen in der Tabelle. Fruehere SVG-Ausschnitte bleiben fuer den Audit im Git erhalten.
 
-**Einzelklärung:** Immer Bild, Standort und Nachbarbücher zeigen sowie Auswahlmöglichkeiten anbieten: „Kein eigenes Buch“, „Autor/Titel angeben“ oder „Unklar lassen“. B00131 wurde auf Nutzerwunsch unklar belassen und bleibt in der Liste. Nächste ID zur gemeinsamen Prüfung: **B00235**.
+**Einzelklärung:** Immer Bild, Standort und Nachbarbücher zeigen sowie Auswahlmöglichkeiten anbieten: „Kein eigenes Buch“, „Autor/Titel angeben“ oder „Unklar lassen“. B00131 wurde auf Nutzerwunsch unklar belassen und bleibt in der Liste. Nächste ID zur gemeinsamen Prüfung: **B00240**.
 
 **Zum Ausfüllen:** Die Felder **Autor** und **Titel** bleiben bewusst leer, bis der Nutzer sie bestätigt. Teilhinweise bleiben in `daten/buecher.csv` erhalten. Wo bereits ein individueller Ausschnitt unter `bilder/nachkontrolle/` existiert, ist dieser verlinkt; sonst das Originalfoto. Bestätigte Entscheidungen (auch `kein Buch`) stehen unter `daten/nachkontrolle/entscheidungen.csv`; abschließend geklärte Einträge werden aus dieser offenen Liste entfernt; „unklar lassen“ bleibt enthalten.
-**Zoom-Nachkontrolle:** 14 weitere IDs identifiziert; die 29 weiterhin offenen Fälle stehen mit vergrößerten Ansichten in [zoom-auswertung.md](zoom-auswertung.md).
+**Zoom-Nachkontrolle:** 14 weitere IDs identifiziert; die 28 weiterhin offenen Fälle stehen mit vergrößerten Ansichten in [zoom-auswertung.md](zoom-auswertung.md).
 
-**Entscheidungsstand:** B00061, B00078 und B00123 wurden vom Nutzer am 2026-11-07 als **kein eigenes Buch** bestätigt; die IDs und Regalpositionen bleiben als historische Platzhalter in `daten/buecher.csv`, ohne im Buchbestand mitzuzählen. B00071 wurde durch Nutzer-Screenshot am 2026-11-07 als Marianne Fredriksson – *Lillemors Rätsel* erkannt. B00094 wurde durch Nutzer-Screenshot am 2026-11-07 als Heinrich von Kleist – *Der zerbrochene Krug* identifiziert. Die Positionsnummern der übrigen Bücher werden nicht verschoben.
+**Entscheidungsstand:** B00061, B00078, B00123 und B00235 wurden vom Nutzer am 2026-11-07 als **kein eigenes Buch** bestätigt; die IDs und Regalpositionen bleiben als historische Platzhalter in `daten/buecher.csv`, ohne im Buchbestand mitzuzählen. B00071 wurde durch Nutzer-Screenshot am 2026-11-07 als Marianne Fredriksson – *Lillemors Rätsel* erkannt. B00094 wurde durch Nutzer-Screenshot am 2026-11-07 als Heinrich von Kleist – *Der zerbrochene Krug* identifiziert. Die Positionsnummern der übrigen Bücher werden nicht verschoben.
 
-**Korrigierte Bildausschnitte:** Fuer alle 29 noch offenen IDs liegen aktualisierte Sichtbereiche unter `bilder/nachkontrolle-korrigiert/`, mit erweitertem Kontext der direkten Nachbarbuecher. Die bisherigen Ausschnitte bleiben unveraendert erhalten.
+**Korrigierte Bildausschnitte:** Fuer alle 28 noch offenen IDs liegen aktualisierte Sichtbereiche unter `bilder/nachkontrolle-korrigiert/`, mit erweitertem Kontext der direkten Nachbarbuecher. Die bisherigen Ausschnitte bleiben unveraendert erhalten.
 
 **Bildmaterial:** Zu jeder der 48 IDs existiert ein separater SVG-Sichtausschnitt unter `bilder/nachkontrolle/`, jeweils aus den unveränderten hochauflösenden Git-JPEG-Originalpixeln. Die Ausschnitte dienen als Ansichtshilfe; sie sind keine zusätzlichen Fotos. Für alle Entscheidungen zählt die bestätigte Eingabe des Nutzers.
 
 
-**Datensätze:** 29. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
+**Datensätze:** 28. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
 
 | ID | Regal | Zwischen | Nahansicht | Breiterer Kontext | Autor | Titel |
 |---|---|---|---|---|---|---|
 | B00131 | Regal 2-4 (Pos. 5) | zwischen Marguerite Duras – Der Matrose von Gibraltar und Michael Ende – Momo | [Nahansicht](../../bilder/nachkontrolle-zoom/B00131-nah-mit-nachbarn.jpg) | [Kontext](../../bilder/nachkontrolle-zoom/B00131-kontext-gesamt.jpg) |  |  |
-| B00235 | Regal 3-1 (Pos. 6) | zwischen Roger Willemsen – Gute Tage und Stephen King – In einer kleinen Stadt | [Nahansicht](../../bilder/nachkontrolle-zoom/B00235-nah-mit-nachbarn.jpg) | [Kontext](../../bilder/nachkontrolle-zoom/B00235-kontext-gesamt.jpg) |  |  |
 | B00240 | Regal 3-1 (Pos. 11) | zwischen Alfred Komarek – Polterabend und André Kaminski – Flimmergeschichten | [Nahansicht](../../bilder/nachkontrolle-zoom/B00240-nah-mit-nachbarn.jpg) | [Kontext](../../bilder/nachkontrolle-zoom/B00240-kontext-gesamt.jpg) |  |  |
-| B00258 | Regal 3-1 (Pos. 29) | zwischen André Kaminski – Schalom allerseits und John Irving – Garp und wie er die Welt sah | [Nahansicht](../../bilder/nachkontrolle-zoom/B00258-nah-mit-nachbarn.jpg) | [Kontext](../../bilder/nachkontrolle-zoom/B00258-kontext-gesamt.jpg) |  |  |
+| B00258 | Regal 3-1 (Pos. 28) | zwischen André Kaminski – Schalom allerseits und John Irving – Garp und wie er die Welt sah | [Nahansicht](../../bilder/nachkontrolle-zoom/B00258-nah-mit-nachbarn.jpg) | [Kontext](../../bilder/nachkontrolle-zoom/B00258-kontext-gesamt.jpg) |  |  |
 | B00318 | Regal 3-4 (Pos. 17) | zwischen John Irving – Eine Mittelgewichts-Ehe und John Irving – Zirkuskind | [Nahansicht](../../bilder/nachkontrolle-zoom/B00318-nah-mit-nachbarn.jpg) | [Kontext](../../bilder/nachkontrolle-zoom/B00318-kontext-gesamt.jpg) |  |  |
 | B00418 | Regal 4-2 (Pos. 1) | zwischen Regalrand und Folke Tegetthoff – Kräutermärchen | [Nahansicht](../../bilder/nachkontrolle-zoom/B00418-nah-mit-nachbarn.jpg) | [Kontext](../../bilder/nachkontrolle-zoom/B00418-kontext-gesamt.jpg) |  |  |
 | B00433 | Regal 4-2 (Pos. 16) | zwischen Friedrich Torberg – Süßkind von Trimberg und Sabine Thiesler – Die Totengräberin | [Nahansicht](../../bilder/nachkontrolle-zoom/B00433-nah-mit-nachbarn.jpg) | [Kontext](../../bilder/nachkontrolle-zoom/B00433-kontext-gesamt.jpg) |  |  |
