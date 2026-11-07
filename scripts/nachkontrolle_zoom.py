@@ -128,6 +128,10 @@ def make_neighbor_crops():
         # The historic SVG focus can exclude the preceding book. Anchor 350 px
         # further left, then include plenty of native pixels in BOTH directions.
         center_x = vx + vw / 2 - 350
+        # B00131: right neighbor Michael Ende/Momo otherwise falls outside
+        # the close crop; verified against the broad original-photo context.
+        if book_id == "B00131":
+            center_x += 650
         top = max(0, int(vy) - 120)
         bottom = min(h, int(vy + vh) + 120)
         for suffix, width, quality in (("nah-mit-nachbarn", 2300, 72),
