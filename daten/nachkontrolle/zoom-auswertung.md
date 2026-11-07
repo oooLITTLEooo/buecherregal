@@ -60,3 +60,11 @@ Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht 
 | B01031 | Regal 7-6 (Pos. 22) | zwischen Moskauer Küchengespräche und Eugen Roth – Das Eugen Roth Buch | Arthur Schnitzler erkennbar; Titel offen | [Nahansicht](../../bilder/nachkontrolle-zoom/B01031-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B01031-kontext-gesamt.jpg) |
 
 Alle Ausschnitte wurden aus den unveränderten hochauflösenden JPEG-Originalen unter `bilder/originale/` erzeugt. Positionen und Buch-IDs wurden nicht umnummeriert. Bei möglicher Doppelzählung oder zusätzlichen Buchrücken ist eine Nutzerentscheidung nötig.
+
+## Fortsetzung nach erneuter Chat-Unterbrechung – 2026-11-07
+
+- Gepruefter Ausgangsstand: `f573232b0878a2167e5ec0cedd647c2a5c52a5b7` (07.11.2026, 17:00:55 Uhr Wien).
+- Die offene CSV und Markdown-Tabelle enthalten dieselben 30 IDs. Alle 60 referenzierten Nah-/Kontext-JPEGs sind im Git-Baum vorhanden. Die 14 Zoom-Identifikationen und vier vorherigen Nutzerentscheidungen sind gespeichert.
+- Gemeinsame Einzelklaerung wird bei **B00123, Fach 2-3, Position 17** fortgesetzt, zwischen Ken Follett *Eisfieber* und Ann Granger *Mord wirft lange Schatten*.
+- Die aktuelle Nahansicht erneut visuell geprueft: Der schmale blaue Bereich mit Text zwischen den beiden Buchruecken wirkt wie ein umgeschlagener Teil des Ann-Granger-Einbands. Das ist eine **Hypothese**, keine bestaetigte Entscheidung `kein_buch`. Nutzerentscheidung steht aus; Inventar und offene Liste bleiben unveraendert.
+- Anschliessend B00131, sofern der Nutzer keine andere Reihenfolge vorgibt.
