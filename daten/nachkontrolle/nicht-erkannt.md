@@ -3,16 +3,15 @@
 Quelle: `daten/buecher.csv`. Stand: 2026-11-07.
 
 **Zum Ausfüllen:** Die Felder **Autor** und **Titel** bleiben bewusst leer, bis der Nutzer sie bestätigt. Teilhinweise bleiben in `daten/buecher.csv` erhalten. Wo bereits ein individueller Ausschnitt unter `bilder/nachkontrolle/` existiert, ist dieser verlinkt; sonst das Originalfoto. Bestätigte Entscheidungen (auch `kein Buch`) stehen unter `daten/nachkontrolle/entscheidungen.csv`; entschiedene Einträge werden aus dieser offenen Liste entfernt.
-**Entscheidungsstand:** B00061 und B00078 wurden vom Nutzer am 2026-11-07 als **kein eigenes Buch** bestätigt; die IDs und Regalpositionen bleiben als historische Platzhalter in `daten/buecher.csv`, ohne im Buchbestand mitzuzählen. B00071 wurde durch Nutzer-Screenshot am 2026-11-07 als Marianne Fredriksson – *Lillemors Rätsel* erkannt. Die Positionsnummern der übrigen Bücher werden nicht verschoben.
+**Entscheidungsstand:** B00061 und B00078 wurden vom Nutzer am 2026-11-07 als **kein eigenes Buch** bestätigt; die IDs und Regalpositionen bleiben als historische Platzhalter in `daten/buecher.csv`, ohne im Buchbestand mitzuzählen. B00071 wurde durch Nutzer-Screenshot am 2026-11-07 als Marianne Fredriksson – *Lillemors Rätsel* erkannt. B00094 wurde durch Nutzer-Screenshot am 2026-11-07 als Heinrich von Kleist – *Der zerbrochene Krug* identifiziert. Die Positionsnummern der übrigen Bücher werden nicht verschoben.
 
 **Bildmaterial:** Zu jeder der 48 IDs existiert ein separater SVG-Sichtausschnitt unter `bilder/nachkontrolle/`, jeweils aus den unveränderten hochauflösenden Git-JPEG-Originalpixeln. Die Ausschnitte dienen als Ansichtshilfe; sie sind keine zusätzlichen Fotos. Für alle Entscheidungen zählt die bestätigte Eingabe des Nutzers.
 
 
-**Datensätze:** 45. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
+**Datensätze:** 44. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
 
 | ID | Regal | Zwischen | Link zum Bild | Autor | Titel |
 |---|---|---|---|---|---|
-| B00094 | Regal 2-2 (Pos. 15) | zwischen Barbara Frischmuth – Kopftänzer und Henrik Ibsen – Nora (Ein Puppenheim) | [Bild B00094 – Ausschnitt](../../bilder/nachkontrolle/B00094.svg) |  |  |
 | B00123 | Regal 2-3 (Pos. 17) | zwischen Ken Follett – Eisfieber und Ann Granger – Mord wirft lange Schatten | [Bild B00123 – Ausschnitt](../../bilder/nachkontrolle/B00123.svg) |  |  |
 | B00131 | Regal 2-4 (Pos. 5) | zwischen Marguerite Duras – Der Matrose von Gibraltar und Michael Ende – Momo | [Bild B00131 – Ausschnitt](../../bilder/nachkontrolle/B00131.svg) |  |  |
 | B00226 | Regal 2-8 (Pos. 14) | zwischen Isabel Allende – Violeta und Martha Grimes – Das Hotel am See | [Bild B00226 – Ausschnitt](../../bilder/nachkontrolle/B00226.svg) |  |  |

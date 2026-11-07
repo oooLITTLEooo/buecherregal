@@ -4,7 +4,7 @@ Quelle: `daten/buecher.csv`. Stand: 2026-11-07.
 
 **Wichtig:** „erkannt“ übernimmt den bestehenden Status `lesbar`. Es ist keine unabhängig geprüfte Garantie für jeden Autorennamen, jede Buchgrenze oder jeden Titel.
 
-**Datensätze:** 1001. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
+**Datensätze:** 1002. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
 
 | ID | Regal | Zwischen | Link zum Bild | Autor | Titel |
 |---|---|---|---|---|---|
@@ -98,8 +98,9 @@ Quelle: `daten/buecher.csv`. Stand: 2026-11-07.
 | B00090 | Regal 2-2 (Pos. 11) | zwischen Barbara Frischmuth – Die Mystifikationen der Sophie Silber und Erich Fromm – Die Kunst des Liebens | [Bild B00090](../../bilder/originale/PXL_20261105_151105038.jpg) | Barbara Frischmuth | Kai und die Liebe zu den Modellen |
 | B00091 | Regal 2-2 (Pos. 12) | zwischen Barbara Frischmuth – Kai und die Liebe zu den Modellen und Amelie Fried – Geheime Leidenschaften | [Bild B00091](../../bilder/originale/PXL_20261105_151105038.jpg) | Erich Fromm | Die Kunst des Liebens |
 | B00092 | Regal 2-2 (Pos. 13) | zwischen Erich Fromm – Die Kunst des Liebens und Barbara Frischmuth – Kopftänzer | [Bild B00092](../../bilder/originale/PXL_20261105_151105038.jpg) | Amelie Fried | Geheime Leidenschaften |
-| B00093 | Regal 2-2 (Pos. 14) | zwischen Amelie Fried – Geheime Leidenschaften und Buch B00094 (noch unklar) | [Bild B00093](../../bilder/originale/PXL_20261105_151105038.jpg) | Barbara Frischmuth | Kopftänzer |
-| B00095 | Regal 2-2 (Pos. 16) | zwischen Buch B00094 (noch unklar) und Marianne Fredriksson – Noreas Geschichte | [Bild B00095](../../bilder/originale/PXL_20261105_151105038.jpg) | Henrik Ibsen | Nora (Ein Puppenheim) |
+| B00093 | Regal 2-2 (Pos. 14) | zwischen Amelie Fried – Geheime Leidenschaften und Heinrich von Kleist – Der zerbrochene Krug | [Bild B00093](../../bilder/originale/PXL_20261105_151105038.jpg) | Barbara Frischmuth | Kopftänzer |
+| B00094 | Regal 2-2 (Pos. 15) | zwischen Barbara Frischmuth – Kopftänzer und Henrik Ibsen – Nora (Ein Puppenheim) | [Bild B00094 – Ausschnitt](../../bilder/nachkontrolle/B00094.svg) | Heinrich von Kleist | Der zerbrochene Krug |
+| B00095 | Regal 2-2 (Pos. 16) | zwischen Heinrich von Kleist – Der zerbrochene Krug und Marianne Fredriksson – Noreas Geschichte | [Bild B00095](../../bilder/originale/PXL_20261105_151105038.jpg) | Henrik Ibsen | Nora (Ein Puppenheim) |
 | B00096 | Regal 2-2 (Pos. 17) | zwischen Henrik Ibsen – Nora (Ein Puppenheim) und Jonas Jonasson – Mörder Anders und seine Freunde nebst dem einen oder anderen Feind | [Bild B00096](../../bilder/originale/PXL_20261105_151105038.jpg) | Marianne Fredriksson | Noreas Geschichte |
 | B00097 | Regal 2-2 (Pos. 18) | zwischen Marianne Fredriksson – Noreas Geschichte und Marianne Fredriksson – Marcus und Eneides | [Bild B00097](../../bilder/originale/PXL_20261105_151105038.jpg) | Jonas Jonasson | Mörder Anders und seine Freunde nebst dem einen oder anderen Feind |
 | B00098 | Regal 2-2 (Pos. 19) | zwischen Jonas Jonasson – Mörder Anders und seine Freunde nebst dem einen oder anderen Feind und Erling Jepsen – Die Kunst im Chor zu weinen | [Bild B00098](../../bilder/originale/PXL_20261105_151105038.jpg) | Marianne Fredriksson | Marcus und Eneides |
