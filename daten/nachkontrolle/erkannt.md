@@ -4,7 +4,7 @@ Quelle: `daten/buecher.csv`. Stand: 2026-11-07.
 
 **Wichtig:** „erkannt“ übernimmt den bestehenden Status `lesbar`. Es ist keine unabhängig geprüfte Garantie für jeden Autorennamen, jede Buchgrenze oder jeden Titel.
 
-**Datensätze:** 1017. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
+**Datensätze:** 1018. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
 
 | ID | Regal | Zwischen | Link zum Bild | Autor | Titel |
 |---|---|---|---|---|---|
@@ -596,8 +596,9 @@ Quelle: `daten/buecher.csv`. Stand: 2026-11-07.
 | B00600 | Regal 5-3 (Pos. 1) | zwischen Regalrand und Richard Dübell – Die Teufelsbibel | [Bild B00600 – Zoom](../../bilder/nachkontrolle-zoom/B00600-rechts.jpg) | Agatha Christie | Bertrams Hotel |
 | B00601 | Regal 5-3 (Pos. 2) | zwischen Agatha Christie – Bertrams Hotel und Carla Guelfenbein – Die Frau unseres Lebens | [Bild B00601](../../bilder/originale/PXL_20261105_151511259.jpg) | Richard Dübell | Die Teufelsbibel |
 | B00602 | Regal 5-3 (Pos. 3) | zwischen Richard Dübell – Die Teufelsbibel und Ann Granger – Wer andern eine Grube gräbt | [Bild B00602](../../bilder/originale/PXL_20261105_151511259.jpg) | Carla Guelfenbein | Die Frau unseres Lebens |
-| B00603 | Regal 5-3 (Pos. 4) | zwischen Carla Guelfenbein – Die Frau unseres Lebens und Buch B00604 (noch unklar) | [Bild B00603](../../bilder/originale/PXL_20261105_151511259.jpg) | Ann Granger | Wer andern eine Grube gräbt |
-| B00605 | Regal 5-3 (Pos. 6) | zwischen Buch B00604 (noch unklar) und Elizabeth George – Sturmwarnung | [Bild B00605](../../bilder/originale/PXL_20261105_151511259.jpg) | Fabio Geda | Im Meer schwimmen Krokodile |
+| B00603 | Regal 5-3 (Pos. 4) | zwischen Carla Guelfenbein – Die Frau unseres Lebens und Bertolt Brecht – Der gute Mensch von Sezuan | [Bild B00603](../../bilder/originale/PXL_20261105_151511259.jpg) | Ann Granger | Wer andern eine Grube gräbt |
+| B00604 | Regal 5-3 (Pos. 5) | zwischen Ann Granger – Wer andern eine Grube gräbt und Fabio Geda – Im Meer schwimmen Krokodile | [Bild B00604](../../bilder/nachkontrolle-zoom/B00604-nah-mit-nachbarn.jpg) | Bertolt Brecht | Der gute Mensch von Sezuan |
+| B00605 | Regal 5-3 (Pos. 6) | zwischen Bertolt Brecht – Der gute Mensch von Sezuan und Elizabeth George – Sturmwarnung | [Bild B00605](../../bilder/originale/PXL_20261105_151511259.jpg) | Fabio Geda | Im Meer schwimmen Krokodile |
 | B00606 | Regal 5-3 (Pos. 7) | zwischen Fabio Geda – Im Meer schwimmen Krokodile und Elke Heidenreich – Ab morgen wird alles anders | [Bild B00606](../../bilder/originale/PXL_20261105_151511259.jpg) | Elizabeth George | Sturmwarnung |
 | B00607 | Regal 5-3 (Pos. 8) | zwischen Elizabeth George – Sturmwarnung und Patrick Süskind – Das Parfum | [Bild B00607](../../bilder/originale/PXL_20261105_151511259.jpg) | Elke Heidenreich | Ab morgen wird alles anders |
 | B00608 | Regal 5-3 (Pos. 9) | zwischen Elke Heidenreich – Ab morgen wird alles anders und Elizabeth McGregor – Denn es gibt keine Gnade | [Bild B00608](../../bilder/originale/PXL_20261105_151511259.jpg) | Patrick Süskind | Das Parfum |
