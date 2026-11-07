@@ -311,3 +311,10 @@
 - B00600 Agatha Christie, Titel trotz Rückenzahl 822 nicht belegt → offen. B00604 ebenfalls offen: neben dunklem schlecht lesbaren Rücken steht noch ein erkennbarer gelber Rücken **Bertolt Brecht – Der gute Mensch von Sezuan** zwischen Ann Granger und Fabio Geda. Möglicher zusätzlicher Band/Positionsfehler, vor Ort zählen, keine neue ID oder Verschiebung geraten.
 - Fach 5-3: 22 vorläufige Einträge (20 lesbar, 0 prüfen, 2 offen), nicht abgehakt. Gesamt 1048 (987 lesbar, 23 prüfen, 38 offen = 61 unsicher). 19 Fächer vorläufig abgehakt, 8 weitere gezielt zu prüfen. Bericht `docs/fachpruefung_5-3_20261107.md`, nächstes Fach **5-4**.
 
+## 2026-11-07 – Gezielte Nachprüfung Fach 5-4
+
+- Nur B00627, B00631 und B00642 anhand der Git-Bilddaten FOTO0033 und bibliografischer Quellen geprüft. Teile 02 bis 04 zeigten die relevanten Rücken; keine anderen Buch-IDs oder Originalfotos verändert.
+- B00627: Dieter Noll, *Die Abenteuer des Werner Holt*, auf dem roten Buchrücken lesbar. B00631: *Nie wieder Hummer* auf schwarzem Rücken, Autor **Hanns Marzini** anhand Buchkatalog geklärt. B00642: *Figuren*, **Melitta Breznik**, Sammlung Luchterhand, Titel und Nachname auf dem Rücken, voller Vorname aus Katalog.
+- Alle drei auf `lesbar` umgestellt; keine ISBN, Auflagen oder Erscheinungsjahre für das vorhandene Exemplar behauptet. Fach **5-4**: 22/22 vorläufig lesbar, vorläufig abgehakt.
+- Gesamt 1048 Datensätze (990 lesbar, 20 prüfen, 38 offen = 58 unsicher). 20 Fächer vorläufig abgehakt, 7 weitere gezielte Fachprüfungen. Dokumentation `docs/fachpruefung_5-4_20261107.md`. **Nächstes Fach erst auf „Weiter“: 5-5**, ausschließlich B00645 und B00647.
+
