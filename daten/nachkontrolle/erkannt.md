@@ -1,10 +1,10 @@
 # Erkannte Bücher (Inventarstatus lesbar)
 
-Quelle: `daten/buecher.csv`, Git-Blob `79d3da3d531386abcf9ebdf8023f92558d6d9d36`. Stand: 2026-11-07.
+Quelle: `daten/buecher.csv`. Stand: 2026-11-07.
 
 **Wichtig:** „erkannt“ übernimmt den bestehenden Status `lesbar`. Es ist keine unabhängig geprüfte Garantie für jeden Autorennamen, jede Buchgrenze oder jeden Titel.
 
-**Datensätze:** 1000. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
+**Datensätze:** 1001. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
 
 | ID | Regal | Zwischen | Link zum Bild | Autor | Titel |
 |---|---|---|---|---|---|
@@ -67,8 +67,8 @@ Quelle: `daten/buecher.csv`, Git-Blob `79d3da3d531386abcf9ebdf8023f92558d6d9d36`
 | B00057 | Regal 1-8 (Pos. 13) | zwischen Charlotte Link – Der Verehrer und Charlotte Link – Die Rosenzüchterin | [Bild B00057](../../bilder/originale/PXL_20261105_151050073.jpg) | Charlotte Link | Der Beobachter |
 | B00058 | Regal 1-8 (Pos. 14) | zwischen Charlotte Link – Der Beobachter und Henning Mankell – Wallanders erster Fall | [Bild B00058](../../bilder/originale/PXL_20261105_151050073.jpg) | Charlotte Link | Die Rosenzüchterin |
 | B00059 | Regal 1-8 (Pos. 15) | zwischen Charlotte Link – Die Rosenzüchterin und Regalrand | [Bild B00059](../../bilder/originale/PXL_20261105_151050073.jpg) | Henning Mankell | Wallanders erster Fall |
-| B00060 | Regal 2-1 (Pos. 1) | zwischen Regalrand und Buch B00061 (noch unklar) | [Bild B00060](../../bilder/originale/PXL_20261105_151059664.jpg) | Eva Rossmann | Gut, aber tot |
-| B00062 | Regal 2-1 (Pos. 3) | zwischen Buch B00061 (noch unklar) und Rina Frank – Als Gott die Großmutter holte | [Bild B00062](../../bilder/originale/PXL_20261105_151059664.jpg) | Carlo und Franco Fruttero und Lucentini | Die Sonntagsfrau |
+| B00060 | Regal 2-1 (Pos. 1) | zwischen Regalrand und Carlo und Franco Fruttero und Lucentini – Die Sonntagsfrau | [Bild B00060](../../bilder/originale/PXL_20261105_151059664.jpg) | Eva Rossmann | Gut, aber tot |
+| B00062 | Regal 2-1 (Pos. 3) | zwischen Eva Rossmann – Gut, aber tot und Rina Frank – Als Gott die Großmutter holte | [Bild B00062](../../bilder/originale/PXL_20261105_151059664.jpg) | Carlo und Franco Fruttero und Lucentini | Die Sonntagsfrau |
 | B00063 | Regal 2-1 (Pos. 4) | zwischen Carlo und Franco Fruttero und Lucentini – Die Sonntagsfrau und Marianne Fredriksson – Stinas Entscheidung | [Bild B00063](../../bilder/originale/PXL_20261105_151059664.jpg) | Rina Frank | Als Gott die Großmutter holte |
 | B00064 | Regal 2-1 (Pos. 5) | zwischen Rina Frank – Als Gott die Großmutter holte und Marianne Fredriksson – Abels Bruder | [Bild B00064](../../bilder/originale/PXL_20261105_151059664.jpg) | Marianne Fredriksson | Stinas Entscheidung |
 | B00065 | Regal 2-1 (Pos. 6) | zwischen Marianne Fredriksson – Stinas Entscheidung und F. Scott Fitzgerald – Unser Haus hat viele Gäste | [Bild B00065](../../bilder/originale/PXL_20261105_151059664.jpg) | Marianne Fredriksson | Abels Bruder |
@@ -76,8 +76,9 @@ Quelle: `daten/buecher.csv`, Git-Blob `79d3da3d531386abcf9ebdf8023f92558d6d9d36`
 | B00067 | Regal 2-1 (Pos. 8) | zwischen F. Scott Fitzgerald – Unser Haus hat viele Gäste und Marianne Fredriksson – Hannas Töchter | [Bild B00067](../../bilder/originale/PXL_20261105_151059664.jpg) | Amelie Fried | Die Findelfrau |
 | B00068 | Regal 2-1 (Pos. 9) | zwischen Amelie Fried – Die Findelfrau und Marianne Fredriksson – Eva | [Bild B00068](../../bilder/originale/PXL_20261105_151059664.jpg) | Marianne Fredriksson | Hannas Töchter |
 | B00069 | Regal 2-1 (Pos. 10) | zwischen Marianne Fredriksson – Hannas Töchter und Marianne Fredriksson – Sofia und Anders | [Bild B00069](../../bilder/originale/PXL_20261105_151059664.jpg) | Marianne Fredriksson | Eva |
-| B00070 | Regal 2-1 (Pos. 11) | zwischen Marianne Fredriksson – Eva und Marianne Fredriksson – Buch B00071 (noch unklar) | [Bild B00070](../../bilder/originale/PXL_20261105_151059664.jpg) | Marianne Fredriksson | Sofia und Anders |
-| B00072 | Regal 2-1 (Pos. 13) | zwischen Marianne Fredriksson – Buch B00071 (noch unklar) und Marianne Fredriksson – Geliebte Tochter | [Bild B00072](../../bilder/originale/PXL_20261105_151059664.jpg) | Ken Follett | Der dritte Zwilling |
+| B00070 | Regal 2-1 (Pos. 11) | zwischen Marianne Fredriksson – Eva und Marianne Fredriksson – Lillemors Rätsel | [Bild B00070](../../bilder/originale/PXL_20261105_151059664.jpg) | Marianne Fredriksson | Sofia und Anders |
+| B00071 | Regal 2-1 (Pos. 12) | zwischen Marianne Fredriksson – Sofia und Anders und Ken Follett – Der dritte Zwilling | [Bild B00071 – Ausschnitt](../../bilder/nachkontrolle/B00071.svg) | Marianne Fredriksson | Lillemors Rätsel |
+| B00072 | Regal 2-1 (Pos. 13) | zwischen Marianne Fredriksson – Lillemors Rätsel und Marianne Fredriksson – Geliebte Tochter | [Bild B00072](../../bilder/originale/PXL_20261105_151059664.jpg) | Ken Follett | Der dritte Zwilling |
 | B00073 | Regal 2-1 (Pos. 14) | zwischen Ken Follett – Der dritte Zwilling und Marianne Fredriksson – Maria Magdalena | [Bild B00073](../../bilder/originale/PXL_20261105_151059664.jpg) | Marianne Fredriksson | Geliebte Tochter |
 | B00074 | Regal 2-1 (Pos. 15) | zwischen Marianne Fredriksson – Geliebte Tochter und Marianne Fredriksson – Inge und Mira | [Bild B00074](../../bilder/originale/PXL_20261105_151059664.jpg) | Marianne Fredriksson | Maria Magdalena |
 | B00075 | Regal 2-1 (Pos. 16) | zwischen Marianne Fredriksson – Maria Magdalena und Deborah Crombie – Denn nie bist du allein | [Bild B00075](../../bilder/originale/PXL_20261105_151059664.jpg) | Marianne Fredriksson | Inge und Mira |
