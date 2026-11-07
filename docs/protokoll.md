@@ -332,3 +332,10 @@
 - B00686: „OSKAR WERNER“ auf großem weißem Rücken, genaue Autoren-/Titelzuordnung nicht sicher; B00688: „Frank Hoffmann“ auf spiegelndem blauen Band, eigentlicher Titel nicht entzifferbar. Beide bleiben `offen`; jeweils Titelblatt und blendfreies Rückenfoto nötig.
 - Fach 5-6: **24 vorläufige Bucheinträge, 22 lesbar, 0 prüfen, 2 offen**, nicht abgehakt. Insgesamt **1048 Datensätze, 994 lesbar, 16 prüfen, 38 offen** (= 54 unsicher). **20** Fächer vorläufig abgehakt; **5** weitere gezielte Fachprüfungen. Einzelbericht `docs/fachpruefung_5-6_20261107.md`; **nächstes Fach 5-7**.
 
+## 2026-11-07 – Gezielte Nachprüfung Fach 5-7
+
+- Ausschließlich B00701 (Position 13) und B00706 (Position 18) anhand der einzelnen nativen Git-Bildteile FOTO0036 Teile 03/04 kontrolliert. Die anderen 16 Bucheinträge des Fachs sowie alle Originalfotos unverändert belassen.
+- **B00701:** *Sabine Gruber – Stillbach oder Die Sehnsucht* durch lesbares „Sehnsucht“, C.H.Beck-Verlagsaufdruck sowie den eindeutigen Bildmotivvergleich des römischen Gebäudes mit der gebundenen Ausgabe und bibliografischen Nachweis bei C.H.Beck/Autorin identifiziert → nun `lesbar`. Keine konkrete Auflage des Exemplars behauptet.
+- **B00706:** letzter breiter, blau/türkiser Band rechts von Håkan Nesser *Eine ganz andere Geschichte*; verblasste goldene Schrift kann nicht zuverlässig entziffert werden → bleibt `offen`; gezieltes Rückennahfoto plus Titelblatt/Impressum erforderlich.
+- Fach 5-7: **18** vorläufige Einträge, **17 lesbar, 0 prüfen, 1 offen**, nicht abgehakt. Gesamt **1048 Einträge: 995 lesbar, 16 prüfen, 37 offen** (= 53 unsicher). **20** Fächer vorläufig abgehakt, **4** weitere Fächer erstmals gezielt zu prüfen. Bericht `docs/fachpruefung_5-7_20261107.md`; **nächstes Fach 5-8** (nur B00711, B00718, B00719).
+
