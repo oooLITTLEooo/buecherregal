@@ -297,3 +297,11 @@ B00560 als Marlo Morgan *Traumfänger* (Goldmann 43740), B00575 als Donna Leon *
 - **B00706:** letzter breiter, blau/türkiser Band rechts von Håkan Nesser *Eine ganz andere Geschichte*; verblasste goldene Schrift kann nicht zuverlässig entziffert werden → bleibt `offen`; gezieltes Rückennahfoto plus Titelblatt/Impressum erforderlich.
 - Fach 5-7: **18** vorläufige Einträge, **17 lesbar, 0 prüfen, 1 offen**, nicht abgehakt. Gesamt **1048 Einträge: 995 lesbar, 16 prüfen, 37 offen** (= 53 unsicher). **20** Fächer vorläufig abgehakt, **4** weitere Fächer erstmals gezielt zu prüfen. Bericht `docs/fachpruefung_5-7_20261107.md`; **nächstes Fach 5-8** (nur B00711, B00718, B00719).
 
+## 2026-11-07 – Gezielte Nachprüfung Fach 5-8
+
+- Ausschließlich **B00711, B00718 und B00719** an vier einzeln eingelesenen nativen Bildteilen von FOTO0037 geprüft. Original-JPEGs sowie alle anderen Bucheinträge, IDs, Fach- und Positionsangaben unverändert belassen.
+- **B00718** James A. Michener, *Die Kinder von Torremolinos*, auf dem cremefarbenen Rücken im Teil 03 sicher lesbar und bibliografisch durch Goldmann-Katalog bestätigt → nun `lesbar`.
+- **B00719** *Alice Miller – Du sollst nicht merken*, grüner Suhrkamp-Rücken `st 952` in Teil 03; der zuvor eingetragene Vorname **Arthur** war falsch und wurde anhand des Suhrkamp-Verlagskatalogs korrigiert → nun `lesbar`. Benachbarter *Arthur Miller – Hexenjagd* ist ein eigenes Exemplar; keine Positionsverschiebung.
+- **B00711** Colleen McCullough am hellen Rücken zwischen Thomas Mann *Die Erzählungen* und Donna Leon *Das goldene Ei* erkennbar, Titel verdeckt → bleibt `offen`. Frontalfoto des freigestellten Rückens sowie Titelblatt benötigt, kein Titel geraten.
+- Fach 5-8: **20 vorläufige Einträge, 19 lesbar, 0 prüfen, 1 offen**, nicht abgehakt. Gesamt **1048 Datensätze (997 lesbar, 14 prüfen, 37 offen = 51 unsicher)**. **20** Fächer vorläufig abgehakt, **3** weitere gezielt zu prüfen. Bericht `docs/fachpruefung_5-8_20261107.md`; **nächstes Fach 6-1**, nur B00727 und B00748.
+
