@@ -1,6 +1,6 @@
 # Ergebnis der vollständigen Zoom-Nachkontrolle – 2026-11-07
 
-Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht und in beiden Leserichtungen vergrößert. Fuer die 30 weiterhin offenen IDs sind nun zusaetzlich Nah- und Kontextansichten direkt aus den vollstaendigen Originalfotos erzeugt worden; sie zeigen beidseitig mehr Nachbarbuecher. Historische Zoomdateien bleiben erhalten. **14 Titel neu identifiziert; nach Nutzerentscheidungen zu B00123, B00235, B00258, B00318, B00418 und B00433 noch 24 offen.** Keine zweifelhafte Buchgrenze automatisch als `kein_buch` eingestuft.
+Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht und in beiden Leserichtungen vergrößert. Fuer die 30 weiterhin offenen IDs sind nun zusaetzlich Nah- und Kontextansichten direkt aus den vollstaendigen Originalfotos erzeugt worden; sie zeigen beidseitig mehr Nachbarbuecher. Historische Zoomdateien bleiben erhalten. **14 Titel neu identifiziert; nach Nutzerentscheidungen zu B00123, B00235, B00258, B00318, B00418, B00433 und B00492 noch 23 offen.** Keine zweifelhafte Buchgrenze automatisch als `kein_buch` eingestuft.
 
 ## Neu identifiziert
 
@@ -30,7 +30,6 @@ Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht 
 |---|---|---|---|---|---|
 | B00131 | Regal 2-4 (Pos. 5) | zwischen Marguerite Duras – Der Matrose von Gibraltar und Michael Ende – Momo | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00131-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00131-kontext-gesamt.jpg) |
 | B00240 | Regal 3-1 (Pos. 11) | zwischen Alfred Komarek – Polterabend und André Kaminski – Flimmergeschichten | Auf der Suche nach dem Wunderbaren möglicherweise erkennbar; Autor fehlt | [Nahansicht](../../bilder/nachkontrolle-zoom/B00240-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00240-kontext-gesamt.jpg) |
-| B00492 | Regal 4-6 (Pos. 2) | zwischen Sabine Thiesler – Hexenkind und Paul Auster – Nacht des Orakels | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00492-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00492-kontext-gesamt.jpg) |
 | B00516 | Regal 4-7 (Pos. 4) | zwischen Konstantin Wecker – Der Klang der ungespielten Töne und Konstantin Wecker – Jeder Augenblick ist ewig | Mehrere Wecker-Bände überlappen; Buchgrenze fraglich | [Nahansicht](../../bilder/nachkontrolle-zoom/B00516-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00516-kontext-gesamt.jpg) |
 | B00540 | Regal 4-7 (Pos. 28) | zwischen Petros Markaris – Faule Kredite und Eric-Emmanuel Schmitt – Das Evangelium nach Pilatus | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00540-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00540-kontext-gesamt.jpg) |
 | B00563 | Regal 5-1 (Pos. 5) | zwischen Håkan Nesser – Barins Dreieck und Claudie Gallay – Die Brandungswelle | Eduard Mörike erkennbar; Titel fehlt | [Nahansicht](../../bilder/nachkontrolle-zoom/B00563-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00563-kontext-gesamt.jpg) |
@@ -94,3 +93,7 @@ B00123 ist laut Nutzer **kein eigenes Buch**. Status `kein_buch`, als historisch
 ## Nutzerentscheidung B00433 – 2026-11-07
 
 **Kein eigenes Buch.** B00433 bleibt als historischer Platzhalter mit Status `kein_buch` erhalten und wird aus den offenen Tabellen entfernt. 24 offene IDs verbleiben. Naechste gemeinsame Einzelpruefung: **B00492, Fach 4-6, urspruengliche Position 2**, zwischen Sabine Thiesler *Hexenkind* und Paul Auster *Nacht des Orakels*. Nahansicht erneut visuell betrachtet. Alle Originalpositionen bleiben erhalten.
+
+## Nutzerentscheidung B00492 – 2026-11-07
+
+**Kein eigenes Buch.** B00492 bleibt als historischer Platzhalter mit Status `kein_buch` erhalten und wird aus den offenen Tabellen entfernt. 23 offene IDs verbleiben. Naechste gemeinsame Einzelpruefung: **B00516, Fach 4-7, urspruengliche Position 4**, zwischen Konstantin Wecker *Der Klang der ungespielten Toene* und Konstantin Wecker *Jeder Augenblick ist ewig*. Nahansicht erneut visuell betrachtet. Alle Originalpositionen bleiben erhalten.
