@@ -78,3 +78,7 @@ B00123 ist laut Nutzer **kein eigenes Buch**. Status `kein_buch`, als historisch
 ## Nutzerentscheidung B00235 – 2026-11-07
 
 **Kein eigenes Buch.** B00235 bleibt als historischer Platzhalter mit Status `kein_buch` im Inventar und wird aus den offenen Tabellen entfernt. 28 offene IDs verbleiben, darunter der auf Wunsch unklar belassene B00131. Nächste gemeinsame Einzelprüfung: **B00240, Fach 3-1, Position 11**, zwischen Alfred Komarek *Polterabend* und André Kaminski *Flimmergeschichten*. Aktuelle Nahansicht erneut betrachtet: Titel *Auf der Suche nach dem Wunderbaren* lesbar, Autorenlesung als Vorschlag **P. D. Ouspensky**, Nutzerbestätigung ausstehend.
+
+## Nutzerentscheidung B00240 – 2026-11-07
+
+**Unklar lassen und weiter.** B00240 bleibt offen. Der Vorschlag *P. D. Ouspensky – Auf der Suche nach dem Wunderbaren* wurde nicht bestaetigt und wird nicht als Identifikation ins Inventar uebernommen. Weiterhin 28 offene IDs. Naechste gemeinsame Einzelpruefung: **B00258, Fach 3-1, urspruengliche Position 29**, zwischen Andre Kaminski *Schalom allerseits* und John Irving *Garp und wie er die Welt sah*. Die irrtuemliche Positionsangabe 28 in nicht-erkannt.md wurde anhand des Inventars und der offenen CSV auf 29 berichtigt; keine Inventarposition verschoben.
