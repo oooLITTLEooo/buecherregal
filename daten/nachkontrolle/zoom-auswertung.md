@@ -116,3 +116,7 @@ B00123 ist laut Nutzer **kein eigenes Buch**. Status `kein_buch`, als historisch
 ## Nutzerentscheidung B00645 – 2026-11-07
 
 **Kein eigenes Buch.** B00645 bleibt als historischer Platzhalter mit Status `kein_buch` erhalten und wird aus den offenen Tabellen entfernt. 18 offene IDs verbleiben. Naechste gemeinsame Einzelpruefung: **B00647, Fach 5-5, urspruengliche Position 4**, zwischen Thomas Bernhard *Ein Kind* und John Irving *Die imaginaere Freundin*. Nahansicht erneut visuell betrachtet: schmaler heller Ruecken, Titel nicht sicher lesbar. Alle Originalpositionen bleiben erhalten.
+
+## Nutzerentscheidung B00647 – 2026-11-07
+
+**Unklar lassen und weiter.** B00647 (Fach 5-5, urspruengliche Position 4) bleibt offen und in der nicht-erkannt-Liste. Weiterhin 18 offene IDs. Naechste gemeinsame Einzelpruefung: **B00686, Fach 5-6, urspruengliche Position 22**, zwischen Ernst Jandl *Lechts und rinks* und Erich Fried *Liebesgedichte*. Aktuelle Nahansicht erneut visuell betrachtet: breiter weisser Band mit Aufschrift OSKAR WERNER, Autoren-/Titelzuordnung bleibt zur Nutzerklaerung offen.
