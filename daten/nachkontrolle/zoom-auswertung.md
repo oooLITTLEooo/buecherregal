@@ -1,6 +1,6 @@
 # Ergebnis der vollständigen Zoom-Nachkontrolle – 2026-11-07
 
-Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht und in beiden Leserichtungen vergrößert. Fuer die 30 weiterhin offenen IDs sind nun zusaetzlich Nah- und Kontextansichten direkt aus den vollstaendigen Originalfotos erzeugt worden; sie zeigen beidseitig mehr Nachbarbuecher. Historische Zoomdateien bleiben erhalten. **14 Titel neu identifiziert; 30 weiterhin offen.** Keine zweifelhafte Buchgrenze automatisch als `kein_buch` eingestuft.
+Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht und in beiden Leserichtungen vergrößert. Fuer die 30 weiterhin offenen IDs sind nun zusaetzlich Nah- und Kontextansichten direkt aus den vollstaendigen Originalfotos erzeugt worden; sie zeigen beidseitig mehr Nachbarbuecher. Historische Zoomdateien bleiben erhalten. **14 Titel neu identifiziert; nach Nutzerentscheidung zu B00123 noch 29 offen.** Keine zweifelhafte Buchgrenze automatisch als `kein_buch` eingestuft.
 
 ## Neu identifiziert
 
@@ -28,7 +28,6 @@ Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht 
 
 | ID | Regalposition | Zwischen | Grund | Nahansicht mit Nachbarn | Breiterer Kontext |
 |---|---|---|---|---|---|
-| B00123 | Regal 2-3 (Pos. 17) | zwischen Ken Follett – Eisfieber und Ann Granger – Mord wirft lange Schatten | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00123-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00123-kontext-gesamt.jpg) |
 | B00131 | Regal 2-4 (Pos. 5) | zwischen Marguerite Duras – Der Matrose von Gibraltar und Michael Ende – Momo | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00131-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00131-kontext-gesamt.jpg) |
 | B00235 | Regal 3-1 (Pos. 6) | zwischen Roger Willemsen – Gute Tage und Stephen King – In einer kleinen Stadt | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00235-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00235-kontext-gesamt.jpg) |
 | B00240 | Regal 3-1 (Pos. 11) | zwischen Alfred Komarek – Polterabend und André Kaminski – Flimmergeschichten | Auf der Suche nach dem Wunderbaren möglicherweise erkennbar; Autor fehlt | [Nahansicht](../../bilder/nachkontrolle-zoom/B00240-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00240-kontext-gesamt.jpg) |
@@ -68,3 +67,7 @@ Alle Ausschnitte wurden aus den unveränderten hochauflösenden JPEG-Originalen 
 - Gemeinsame Einzelklaerung wird bei **B00123, Fach 2-3, Position 17** fortgesetzt, zwischen Ken Follett *Eisfieber* und Ann Granger *Mord wirft lange Schatten*.
 - Die aktuelle Nahansicht erneut visuell geprueft: Der schmale blaue Bereich mit Text zwischen den beiden Buchruecken wirkt wie ein umgeschlagener Teil des Ann-Granger-Einbands. Das ist eine **Hypothese**, keine bestaetigte Entscheidung `kein_buch`. Nutzerentscheidung steht aus; Inventar und offene Liste bleiben unveraendert.
 - Anschliessend B00131, sofern der Nutzer keine andere Reihenfolge vorgibt.
+
+## Nutzerentscheidung B00123 – 2026-11-07
+
+B00123 ist laut Nutzer **kein eigenes Buch**. Status `kein_buch`, als historischer Platzhalter erhalten und aus den offenen Tabellen entfernt. 29 Faelle verbleiben. Naechster Fall: B00131 (Fach 2-4, Position 5). Fuer jede folgende Einzelklaerung ausdruecklich Auswahlmoeglichkeiten zusammen mit Bild und Nachbarbuechern anbieten: kein eigenes Buch / Autor und Titel angeben / unklar lassen. Der oben protokollierte Ausgangsstand mit 30 offenen IDs ist historisch.
