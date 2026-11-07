@@ -319,3 +319,11 @@ B00560 als Marlo Morgan *Traumfänger* (Goldmann 43740), B00575 als Donna Leon *
 - B00767 `pruefen` → `lesbar`; Fach **6-2 = 20 von 20 vorläufig lesbar**, vorläufig abgehakt. Gesamt **1048 Bucheinträge, 998 lesbar, 13 prüfen, 37 offen** (= 50 unsicher). **21** Fächer vorläufig abgehakt. Prüfbericht `docs/fachpruefung_6-2_20261107.md`.
 - **Nur noch Fach 6-4 in der gezielten Nachprüfrunde**, ausschließlich **B00804** und **B00811**; noch keine weiteren Fächer geprüft. Physische Zähl-/Positionsfragen und Restunsicherheiten bleiben separat bestehen.
 
+## 2026-11-07 – Gezielte Nachprüfung Fach 6-4 und Abschluss dieser Prüfrunde
+
+- Ausschließlich **B00804 (Position 15)** und **B00811 (Position 22)** im Git-Original `FOTO0041` anhand der vorhandenen hochauflösenden Einzelbildteile (insbesondere Teile 03 und 04) geprüft. Keine anderen Buch-IDs in der Inventarliste verändert.
+- **B00804:** Heinrich Böll und **Lew Kopelew** – *Warum haben wir aufeinander geschossen?*. „Koppel“ war eine Namensverlesung, der im Foto nur teilweise sichtbare Titel ist durch Bibliothekskatalog und Deutsche Biographie vervollständigt. Status `pruefen` → `lesbar`.
+- **B00811:** Peter Handke – *Die linkshändige Frau*. Dunkelblauer Rücken **suhrkamp taschenbuch st 560** zwischen Böll *Der Zug war pünktlich* und Harris *Die Hannibal-Lecter-Romane* im Git-Foto. DLA Marbach Katalog und Vergleichsfoto einer st-560-Ausgabe bestätigen die Identifikation; die konkrete Auflage bleibt offen. Status `offen` → `lesbar`.
+- Fach 6-4: **24/24 lesbar**, vorläufig abgehakt. **Gesamter Inventarstand 1.048 vorläufige Bucheinträge, 1.000 lesbar, 12 prüfen, 36 offen**, somit **48 unsichere**. **22 Fächer vorläufig abgehakt, 28 mit Restunsicherheiten**. **Kein Fach dieser gezielten Nachprüfrunde mehr unbearbeitet.** Zwei besondere Zähl-/Positionsfragen (3-3 und 5-3) und bereits dokumentierte fehlende Fachdetailfotos bleiben separat bestehen.
+- Alle Originalfotos, Buch-IDs, Positionen und Fotoreferenzen unverändert. Vollständiger Nachweis `docs/fachpruefung_6-4_20261107.md`. Nächster Projektschritt **nur nach neuer Aufforderung**: Nachfotoliste der 48 noch unsicheren Datensätze und gesonderte physische Fachzählungen aus den vorhandenen Git-Befunden ableiten.
+
