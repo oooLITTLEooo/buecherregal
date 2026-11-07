@@ -4,7 +4,7 @@ Quelle: `daten/buecher.csv`. Stand: 2026-11-07.
 
 **Wichtig:** „erkannt“ übernimmt den bestehenden Status `lesbar`. Es ist keine unabhängig geprüfte Garantie für jeden Autorennamen, jede Buchgrenze oder jeden Titel.
 
-**Datensätze:** 1016. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
+**Datensätze:** 1017. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
 
 | ID | Regal | Zwischen | Link zum Bild | Autor | Titel |
 |---|---|---|---|---|---|
@@ -577,8 +577,9 @@ Quelle: `daten/buecher.csv`. Stand: 2026-11-07.
 | B00581 | Regal 5-2 (Pos. 1) | zwischen Regalrand und Martin Suter – Small World | [Bild B00581](../../bilder/originale/PXL_20261105_151506949.jpg) | Mary Higgins Clark | Schlangen im Paradies |
 | B00582 | Regal 5-2 (Pos. 2) | zwischen Mary Higgins Clark – Schlangen im Paradies und Wolf Haas – Brennerova | [Bild B00582](../../bilder/originale/PXL_20261105_151506949.jpg) | Martin Suter | Small World |
 | B00583 | Regal 5-2 (Pos. 3) | zwischen Martin Suter – Small World und Jonas Jonasson – Mörder Anders und seine Freunde nebst dem einen oder anderen Feind | [Bild B00583](../../bilder/originale/PXL_20261105_151506949.jpg) | Wolf Haas | Brennerova |
-| B00584 | Regal 5-2 (Pos. 4) | zwischen Wolf Haas – Brennerova und Buch B00585 (noch unklar) | [Bild B00584](../../bilder/originale/PXL_20261105_151506949.jpg) | Jonas Jonasson | Mörder Anders und seine Freunde nebst dem einen oder anderen Feind |
-| B00586 | Regal 5-2 (Pos. 6) | zwischen Buch B00585 (noch unklar) und Stieg Larsson – Verdammnis | [Bild B00586](../../bilder/originale/PXL_20261105_151506949.jpg) | Minette Walters | Wellenbrecher |
+| B00584 | Regal 5-2 (Pos. 4) | zwischen Wolf Haas – Brennerova und Mark Twain – Die Schrecken der deutschen Sprache | [Bild B00584](../../bilder/originale/PXL_20261105_151506949.jpg) | Jonas Jonasson | Mörder Anders und seine Freunde nebst dem einen oder anderen Feind |
+| B00585 | Regal 5-2 (Pos. 5) | zwischen Jonas Jonasson – Mörder Anders und seine Freunde nebst dem einen oder anderen Feind und Minette Walters – Wellenbrecher | [Bild B00585](../../bilder/nachkontrolle-zoom/B00585-nah-mit-nachbarn.jpg) | Mark Twain | Die Schrecken der deutschen Sprache |
+| B00586 | Regal 5-2 (Pos. 6) | zwischen Mark Twain – Die Schrecken der deutschen Sprache und Stieg Larsson – Verdammnis | [Bild B00586](../../bilder/originale/PXL_20261105_151506949.jpg) | Minette Walters | Wellenbrecher |
 | B00587 | Regal 5-2 (Pos. 7) | zwischen Minette Walters – Wellenbrecher und Peter Altenberg – Sommerabend in Gmunden | [Bild B00587](../../bilder/originale/PXL_20261105_151506949.jpg) | Stieg Larsson | Verdammnis |
 | B00588 | Regal 5-2 (Pos. 8) | zwischen Stieg Larsson – Verdammnis und Isabel Allende – Die Stadt der wilden Götter | [Bild B00588](../../bilder/originale/PXL_20261105_151506949.jpg) | Peter Altenberg | Sommerabend in Gmunden |
 | B00589 | Regal 5-2 (Pos. 9) | zwischen Peter Altenberg – Sommerabend in Gmunden und Isabel Allende – Im Reich des Goldenen Drachen | [Bild B00589](../../bilder/originale/PXL_20261105_151506949.jpg) | Isabel Allende | Die Stadt der wilden Götter |
