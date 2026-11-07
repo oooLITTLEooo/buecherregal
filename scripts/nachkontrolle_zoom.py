@@ -130,15 +130,15 @@ def make_neighbor_crops():
         center_x = vx + vw / 2 - 350
         top = max(0, int(vy) - 120)
         bottom = min(h, int(vy + vh) + 120)
-        for suffix, width, quality in (("nah-mit-nachbarn", 2300, 86),
-                                       ("kontext-gesamt", 3800, 82)):
+        for suffix, width, quality in (("nah-mit-nachbarn", 2300, 72),
+                                       ("kontext-gesamt", 3800, 56)):
             left = max(0, min(int(round(center_x - width / 2)), w - width))
             right = min(w, left + width)
             if right - left < 1000 or bottom - top < 1500:
                 raise ValueError(f"Invalid crop for {book_id}: {left},{top},{right},{bottom}")
             picture = im.crop((left, top, right, bottom))
             dest = OUT_DIR / f"{book_id}-{suffix}.jpg"
-            picture.save(dest, "JPEG", quality=quality, optimize=True, subsampling=0)
+            picture.save(dest, "JPEG", quality=quality, optimize=True, subsampling=2)
             print(f"{book_id} {suffix}: {left},{top} - {right},{bottom} -> {picture.size}, {dest.stat().st_size} bytes")
     print(f"Generated {len(rows) * 2} neighbor/context views directly from full-resolution originals.")
 
