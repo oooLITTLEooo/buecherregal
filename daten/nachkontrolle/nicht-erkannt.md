@@ -2,23 +2,24 @@
 
 Quelle: `daten/buecher.csv`. Stand: 2026-11-07.
 
-**Neue Nachbaransichten:** Fuer alle 30 offenen IDs sind jetzt aus den vollstaendigen Git-Originalfotos jeweils eine Nahansicht und ein breiterer Kontext gespeichert. Die neuen Links stehen in der Tabelle. Fruehere SVG-Ausschnitte bleiben fuer den Audit im Git erhalten.
+**Neue Nachbaransichten:** Fuer alle 29 offenen IDs sind jetzt aus den vollstaendigen Git-Originalfotos jeweils eine Nahansicht und ein breiterer Kontext gespeichert. Die neuen Links stehen in der Tabelle. Fruehere SVG-Ausschnitte bleiben fuer den Audit im Git erhalten.
+
+**Einzelklärung:** Immer Bild, Standort und Nachbarbücher zeigen sowie Auswahlmöglichkeiten anbieten: „Kein eigenes Buch“, „Autor/Titel angeben“ oder „Unklar lassen“. Nächste offene ID: **B00131**.
 
 **Zum Ausfüllen:** Die Felder **Autor** und **Titel** bleiben bewusst leer, bis der Nutzer sie bestätigt. Teilhinweise bleiben in `daten/buecher.csv` erhalten. Wo bereits ein individueller Ausschnitt unter `bilder/nachkontrolle/` existiert, ist dieser verlinkt; sonst das Originalfoto. Bestätigte Entscheidungen (auch `kein Buch`) stehen unter `daten/nachkontrolle/entscheidungen.csv`; entschiedene Einträge werden aus dieser offenen Liste entfernt.
-**Zoom-Nachkontrolle:** 14 weitere IDs identifiziert; die 30 weiterhin offenen Fälle stehen mit vergrößerten Ansichten in [zoom-auswertung.md](zoom-auswertung.md).
+**Zoom-Nachkontrolle:** 14 weitere IDs identifiziert; die 29 weiterhin offenen Fälle stehen mit vergrößerten Ansichten in [zoom-auswertung.md](zoom-auswertung.md).
 
-**Entscheidungsstand:** B00061 und B00078 wurden vom Nutzer am 2026-11-07 als **kein eigenes Buch** bestätigt; die IDs und Regalpositionen bleiben als historische Platzhalter in `daten/buecher.csv`, ohne im Buchbestand mitzuzählen. B00071 wurde durch Nutzer-Screenshot am 2026-11-07 als Marianne Fredriksson – *Lillemors Rätsel* erkannt. B00094 wurde durch Nutzer-Screenshot am 2026-11-07 als Heinrich von Kleist – *Der zerbrochene Krug* identifiziert. Die Positionsnummern der übrigen Bücher werden nicht verschoben.
+**Entscheidungsstand:** B00061, B00078 und B00123 wurden vom Nutzer am 2026-11-07 als **kein eigenes Buch** bestätigt; die IDs und Regalpositionen bleiben als historische Platzhalter in `daten/buecher.csv`, ohne im Buchbestand mitzuzählen. B00071 wurde durch Nutzer-Screenshot am 2026-11-07 als Marianne Fredriksson – *Lillemors Rätsel* erkannt. B00094 wurde durch Nutzer-Screenshot am 2026-11-07 als Heinrich von Kleist – *Der zerbrochene Krug* identifiziert. Die Positionsnummern der übrigen Bücher werden nicht verschoben.
 
-**Korrigierte Bildausschnitte:** Fuer alle 30 noch offenen IDs liegen aktualisierte Sichtbereiche unter `bilder/nachkontrolle-korrigiert/`, mit erweitertem Kontext der direkten Nachbarbuecher. Die bisherigen Ausschnitte bleiben unveraendert erhalten.
+**Korrigierte Bildausschnitte:** Fuer alle 29 noch offenen IDs liegen aktualisierte Sichtbereiche unter `bilder/nachkontrolle-korrigiert/`, mit erweitertem Kontext der direkten Nachbarbuecher. Die bisherigen Ausschnitte bleiben unveraendert erhalten.
 
 **Bildmaterial:** Zu jeder der 48 IDs existiert ein separater SVG-Sichtausschnitt unter `bilder/nachkontrolle/`, jeweils aus den unveränderten hochauflösenden Git-JPEG-Originalpixeln. Die Ausschnitte dienen als Ansichtshilfe; sie sind keine zusätzlichen Fotos. Für alle Entscheidungen zählt die bestätigte Eingabe des Nutzers.
 
 
-**Datensätze:** 30. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
+**Datensätze:** 29. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
 
 | ID | Regal | Zwischen | Nahansicht | Breiterer Kontext | Autor | Titel |
 |---|---|---|---|---|---|---|
-| B00123 | Regal 2-3 (Pos. 17) | zwischen Ken Follett – Eisfieber und Ann Granger – Mord wirft lange Schatten | [Nahansicht](../../bilder/nachkontrolle-zoom/B00123-nah-mit-nachbarn.jpg) | [Kontext](../../bilder/nachkontrolle-zoom/B00123-kontext-gesamt.jpg) |  |  |
 | B00131 | Regal 2-4 (Pos. 5) | zwischen Marguerite Duras – Der Matrose von Gibraltar und Michael Ende – Momo | [Nahansicht](../../bilder/nachkontrolle-zoom/B00131-nah-mit-nachbarn.jpg) | [Kontext](../../bilder/nachkontrolle-zoom/B00131-kontext-gesamt.jpg) |  |  |
 | B00235 | Regal 3-1 (Pos. 6) | zwischen Roger Willemsen – Gute Tage und Stephen King – In einer kleinen Stadt | [Nahansicht](../../bilder/nachkontrolle-zoom/B00235-nah-mit-nachbarn.jpg) | [Kontext](../../bilder/nachkontrolle-zoom/B00235-kontext-gesamt.jpg) |  |  |
 | B00240 | Regal 3-1 (Pos. 11) | zwischen Alfred Komarek – Polterabend und André Kaminski – Flimmergeschichten | [Nahansicht](../../bilder/nachkontrolle-zoom/B00240-nah-mit-nachbarn.jpg) | [Kontext](../../bilder/nachkontrolle-zoom/B00240-kontext-gesamt.jpg) |  |  |
