@@ -11,15 +11,15 @@ Maschinenlesbare vollständige Übersicht: `daten/pruefplan_faecher.csv`. Nach j
 ## Zusammenfassung
 
 - Raster: **64** Fachpositionen, davon **51** mit Foto und vorhandenen Bucheinträgen.
-- **20** fotografierte Fächer mit `0` offenen/prüfpflichtigen Bucheinträgen → **vorläufig abhaken**.
-- **30** fotografierte Fächer mit zusammen **51** `pruefen`/`offen`-Einträgen.
-- Von diesen 30 sind **2** noch nicht in der neuen fachweisen Nachkontrolle behandelt worden → als nächstes **gezielt nur die unsicheren Bücher prüfen**.
+- **21** fotografierte Fächer mit `0` offenen/prüfpflichtigen Bucheinträgen → **vorläufig abhaken**.
+- **29** fotografierte Fächer mit zusammen **50** `pruefen`/`offen`-Einträgen.
+- Von diesen 29 ist **1** noch nicht in der neuen fachweisen Nachkontrolle behandelt worden → als nächstes **gezielt nur die unsicheren Bücher prüfen**.
 - **28** weitere wurden bereits mit den einschlägigen Originalpixel-Ausschnitten erneut geprüft, bleiben aber ungeklärt → erneute identische Bildprüfung ohne neuen Hinweis vermeiden; bei Bedarf neues Detailfoto.
 - **2** fotografierte Fächer mit gesondertem Positions-/Zählabgleich: 3-3 (möglicher zusätzlicher Band *Deutschlandreise*) und 5-3 (neben einem dunklen Buchrücken auch gelber Brecht-Rücken *Der gute Mensch von Sezuan* sichtbar).
 - Daneben **13 Positionen ohne Fachdetailfoto**: 3 mit Foto- oder Sichtbedarf, 6 mit unklarer/leer wirkender Belegung, 4 laut Übersicht leer oder mit Lampe.
-- Global: **1048** vorläufige Exemplare, davon **997 lesbar, 14 prüfen, 37 offen**. Fotos, Buch-IDs und positionsbezogene Originalreferenzen werden nicht geändert.
+- Global: **1048** vorläufige Exemplare, davon **998 lesbar, 13 prüfen, 37 offen**. Fotos, Buch-IDs und positionsbezogene Originalreferenzen werden nicht geändert.
 
-## Vorläufig abgehakt — 20 Fächer
+## Vorläufig abgehakt — 21 Fächer
 
 - `1-5` — zweite Sichtprüfung durchgeführt
 - `1-6` — zweite Sichtprüfung durchgeführt
@@ -36,22 +36,22 @@ Maschinenlesbare vollständige Übersicht: `daten/pruefplan_faecher.csv`. Nach j
 - `4-5` — drei verbliebene Unsicherheiten aus FOTO0026 geklärt, siehe `docs/fachpruefung_4-5_20261106.md`
 - `4-8` — beide verbliebenen Buchidentifikationen (Richard Picker, Arthur Schnitzler) geklärt, siehe `docs/fachpruefung_4-8_20261106.md`
 - `5-4` — B00627 (Dieter Noll), B00631 (Hanns Marzini), B00642 (Melitta Breznik) geklärt, siehe `docs/fachpruefung_5-4_20261107.md`
+- `6-2` — B00767 als Alfred Komarek / János Kalmár, *Schräge Vögel: Faszinierende Lebensentwürfe* (Text/Fotos) identifiziert; Bericht `docs/fachpruefung_6-2_20261107.md`
 - `6-3` — nur im ersten Inventurdurchgang erfasst, keine offenen Datensätze
 - `6-5` — zweite Sichtprüfung durchgeführt
 - `6-7` — zweite Sichtprüfung durchgeführt
 - `7-2` — zweite Sichtprüfung durchgeführt
 - `7-4` — zweite Sichtprüfung durchgeführt
 
-## Noch gezielt prüfen — 2 Fächer
+## Noch gezielt prüfen — 1 Fach
 
 Reihenfolge folgt der Regalnummerierung. Nur die betroffenen IDs öffnen und einen passenden Bildausschnitt lesen; klar lesbare Bücher nicht erneut bearbeiten.
 
 | Fach | Unsichere Bücher | IDs |
 | --- | ---: | --- |
-| 6-2 | 1 | `B00767` |
 | 6-4 | 2 | `B00804`, `B00811` |
 
-**Nächstes Fach:** `6-2`, ausschließlich **B00767**.
+**Nächstes Fach:** `6-4`, ausschließlich **B00804** und **B00811**.
 
 ## Bereits erneut geprüft, aber weiterhin ungeklärt — 28 Fächer
 
