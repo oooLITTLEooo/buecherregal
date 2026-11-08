@@ -989,7 +989,7 @@ Quelle: `daten/buecher.csv`. Stand: 2026-11-08.
 | B01003 | Regal 7-5 (Pos. 16) | zwischen Utta Danella – Der blaue Vogel und Eva Rossmann – Ausgekocht | [Bild B01003](../../bilder/originale/PXL_20261105_151644950.jpg) | John Irving | Eine Mittelgewichts-Ehe |
 | B01004 | Regal 7-5 (Pos. 17) | zwischen John Irving – Eine Mittelgewichts-Ehe und Rudi Anschober – Pandemia | [Bild B01004](../../bilder/originale/PXL_20261105_151644950.jpg) | Eva Rossmann | Ausgekocht |
 | B01005 | Regal 7-5 (Pos. 18) | zwischen Eva Rossmann – Ausgekocht und Susanne Scholl – Schäm dich, Europa! | [Bild B01005](../../bilder/originale/PXL_20261105_151644950.jpg) | Rudi Anschober | Pandemia |
-| B01006 | Regal 7-5 (Pos. 19) | zwischen Rudi Anschober – Pandemia und Buch B01007 (noch unklar) | [Bild B01006](../../bilder/originale/PXL_20261105_151644950.jpg) | Susanne Scholl | Schäm dich, Europa! |
+| B01006 | Regal 7-5 (Pos. 19) | zwischen Rudi Anschober – Pandemia und Michael Niavarani – Buch B01008 (noch unklar) | [Bild B01006](../../bilder/originale/PXL_20261105_151644950.jpg) | Susanne Scholl | Schäm dich, Europa! |
 | B01009 | Regal 7-5 (Pos. 22) | zwischen Michael Niavarani – Buch B01008 (noch unklar) und Regalrand | [Bild B01009](../../bilder/originale/PXL_20261105_151644950.jpg) | Anne B. Ragde | Einsiedlerkrebse |
 | B01010 | Regal 7-6 (Pos. 1) | zwischen Regalrand und Anne B. Ragde – Die Liebesangst | [Bild B01010](../../bilder/originale/PXL_20261105_151651350.jpg) | Marie Merburg | Sommerflimmern |
 | B01011 | Regal 7-6 (Pos. 2) | zwischen Marie Merburg – Sommerflimmern und Anne B. Ragde – Hitzewelle | [Bild B01011](../../bilder/originale/PXL_20261105_151651350.jpg) | Anne B. Ragde | Die Liebesangst |
