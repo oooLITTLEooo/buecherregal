@@ -4,7 +4,7 @@ Quelle: `daten/buecher.csv`. Stand: 2026-11-08.
 
 **Wichtig:** „erkannt“ übernimmt den bestehenden Status `lesbar`. Es ist keine unabhängig geprüfte Garantie für jeden Autorennamen, jede Buchgrenze oder jeden Titel.
 
-**Datensätze:** 1019. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
+**Datensätze:** 1020. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
 
 | ID | Regal | Zwischen | Link zum Bild | Autor | Titel |
 |---|---|---|---|---|---|
@@ -835,7 +835,8 @@ Quelle: `daten/buecher.csv`. Stand: 2026-11-08.
 | B00845 | Regal 6-5 (Pos. 32) | zwischen Agatha Christie – Rotkäppchen und der böse Wolf und Agatha Christie – Die Schattenhand | [Bild B00845](../../bilder/originale/PXL_20261105_151556258.jpg) | Agatha Christie | Tödlicher Irrtum oder Feuerprobe der Unschuld |
 | B00846 | Regal 6-5 (Pos. 33) | zwischen Agatha Christie – Tödlicher Irrtum oder Feuerprobe der Unschuld und Agatha Christie – Der Todeswirbel | [Bild B00846](../../bilder/originale/PXL_20261105_151556258.jpg) | Agatha Christie | Die Schattenhand |
 | B00847 | Regal 6-5 (Pos. 34) | zwischen Agatha Christie – Die Schattenhand und Regalrand | [Bild B00847](../../bilder/originale/PXL_20261105_151556258.jpg) | Agatha Christie | Der Todeswirbel |
-| B00849 | Regal 6-6 (Pos. 2) | zwischen Agatha Christie – Buch B00848 (noch unklar) und Agatha Christie – Hercule Poirots größte Trümpfe | [Bild B00849](../../bilder/originale/PXL_20261105_151603704.jpg) | Agatha Christie | Das Sterben in Wychwood |
+| B00848 | Regal 6-6 (Pos. 1) | zwischen Regalrand und Agatha Christie – Das Sterben in Wychwood | [Bild B00848](../../bilder/nachkontrolle-zoom/B00848-nah-mit-nachbarn.jpg) | Agatha Christie | Morphium |
+| B00849 | Regal 6-6 (Pos. 2) | zwischen Agatha Christie – Morphium und Agatha Christie – Hercule Poirots größte Trümpfe | [Bild B00849](../../bilder/originale/PXL_20261105_151603704.jpg) | Agatha Christie | Das Sterben in Wychwood |
 | B00850 | Regal 6-6 (Pos. 3) | zwischen Agatha Christie – Das Sterben in Wychwood und Agatha Christie – Das fehlende Glied in der Kette | [Bild B00850](../../bilder/originale/PXL_20261105_151603704.jpg) | Agatha Christie | Hercule Poirots größte Trümpfe |
 | B00851 | Regal 6-6 (Pos. 4) | zwischen Agatha Christie – Hercule Poirots größte Trümpfe und Agatha Christie – Das Schicksal in Person | [Bild B00851](../../bilder/originale/PXL_20261105_151603704.jpg) | Agatha Christie | Das fehlende Glied in der Kette |
 | B00852 | Regal 6-6 (Pos. 5) | zwischen Agatha Christie – Das fehlende Glied in der Kette und Agatha Christie – Der blaue Express | [Bild B00852](../../bilder/originale/PXL_20261105_151603704.jpg) | Agatha Christie | Das Schicksal in Person |
