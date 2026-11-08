@@ -141,3 +141,7 @@ B00123 ist laut Nutzer **kein eigenes Buch**. Status `kein_buch`, als historisch
 ## Nutzerentscheidung B00848 – 2026-11-08
 
 **Agatha Christie – Morphium.** Titel vom Nutzer angegeben. B00848 steht nun mit Status `lesbar` im Inventar und in den erkannten Tabellen. 15 offene IDs verbleiben. Naechste gemeinsame Einzelpruefung: **B00869, Fach 6-6, urspruengliche Position 22**, zwischen Anne B. Ragde *Herzenbrecher* und Petra Hammesfahr *Erinnerung an einen Moerder*. Nahansicht erneut visuell betrachtet: breiter orangebrauner unbeschrifteter Ruecken, am rechten Rand ein schmaler heller Bereich. Autor und Titel nicht sicher erkennbar. Alle Originalpositionen bleiben erhalten.
+
+## Nutzerentscheidung B00869 – 2026-11-08
+
+**Unklar lassen und weiter.** B00869 (Fach 6-6, urspruengliche Position 22) bleibt offen und in der nicht-erkannt-Liste. Weiterhin 15 offene IDs. Naechste gemeinsame Einzelpruefung: **B00896, Fach 6-8, urspruengliche Position 5**, zwischen Fritz Muliar *Streng indiskret!* und Mary Higgins Clark *Toedliche Fesseln*. Nahansicht erneut visuell betrachtet: kleiner gelb/goldener Band, Aufdruck KARST und rechts daneben kleinere goldene Schrift. Autor und vollstaendiger Titel nicht sicher entzifferbar.
