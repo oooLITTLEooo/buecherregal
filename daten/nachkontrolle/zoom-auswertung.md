@@ -1,6 +1,6 @@
 # Ergebnis der vollständigen Zoom-Nachkontrolle – 2026-11-07
 
-Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht und in beiden Leserichtungen vergrößert. Fuer die 30 weiterhin offenen IDs sind nun zusaetzlich Nah- und Kontextansichten direkt aus den vollstaendigen Originalfotos erzeugt worden; sie zeigen beidseitig mehr Nachbarbuecher. Historische Zoomdateien bleiben erhalten. **14 Titel durch Zoom identifiziert, zusätzlich B00585 und B00604 vom Nutzer bestätigt; noch 18 offen.** Keine zweifelhafte Buchgrenze automatisch als `kein_buch` eingestuft.
+Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht und in beiden Leserichtungen vergrößert. Fuer die 30 weiterhin offenen IDs sind nun zusaetzlich Nah- und Kontextansichten direkt aus den vollstaendigen Originalfotos erzeugt worden; sie zeigen beidseitig mehr Nachbarbuecher. Historische Zoomdateien bleiben erhalten. **14 Titel durch Zoom identifiziert, zusätzlich B00585, B00604 und B00688 vom Nutzer bestätigt; noch 17 offen.** Keine zweifelhafte Buchgrenze automatisch als `kein_buch` eingestuft.
 
 ## Neu identifiziert
 
@@ -33,7 +33,6 @@ Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht 
 | B00563 | Regal 5-1 (Pos. 5) | zwischen Håkan Nesser – Barins Dreieck und Claudie Gallay – Die Brandungswelle | Eduard Mörike erkennbar; laut Nutzer kein Titel am Buchrücken | [Nahansicht](../../bilder/nachkontrolle-zoom/B00563-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00563-kontext-gesamt.jpg) |
 | B00647 | Regal 5-5 (Pos. 4) | zwischen Thomas Bernhard – Ein Kind und John Irving – Die imaginäre Freundin | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00647-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00647-kontext-gesamt.jpg) |
 | B00686 | Regal 5-6 (Pos. 22) | zwischen Ernst Jandl – Lechts und rinks und Erich Fried – Liebesgedichte | Oskar-Werner-Band vom Nutzer bestätigt; genauer Titel und Verfasser offen | [Nahansicht](../../bilder/nachkontrolle-zoom/B00686-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00686-kontext-gesamt.jpg) |
-| B00688 | Regal 5-6 (Pos. 24) | zwischen Erich Fried – Liebesgedichte und Regalrand | Frank Hoffmann erkennbar; Titel fehlt | [Nahansicht](../../bilder/nachkontrolle-zoom/B00688-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00688-kontext-gesamt.jpg) |
 | B00706 | Regal 5-7 (Pos. 18) | zwischen Håkan Nesser – Eine ganz andere Geschichte und Regalrand | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00706-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00706-kontext-gesamt.jpg) |
 | B00727 | Regal 6-1 (Pos. 1) | zwischen Regalrand und Leo Lukas – Das Leo Lukas Lesebuch | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00727-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00727-kontext-gesamt.jpg) |
 | B00748 | Regal 6-1 (Pos. 22) | zwischen Axel Munthe – Das Buch von San Michele und Håkan Nesser – Sein letzter Fall | Trotz Vergrößerung nicht eindeutig | [Nahansicht](../../bilder/nachkontrolle-zoom/B00748-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00748-kontext-gesamt.jpg) |
@@ -124,3 +123,7 @@ B00123 ist laut Nutzer **kein eigenes Buch**. Status `kein_buch`, als historisch
 ## Nutzerhinweis B00686 – 2026-11-07
 
 **Ein Oskar Werner Buch.** Teilhinweis zum Band bestaetigt, aber kein genauer Werktitel oder Verfasser angegeben. Keine Autorenschaft Oskar Werners daraus ableiten: vorlaeufige Autorenfelder im Inventar auf `offen` korrigiert. B00686 bleibt offen und in der nicht-erkannt-Liste. Weiterhin 18 offene IDs. Naechste gemeinsame Einzelpruefung: **B00688, Fach 5-6, urspruengliche Position 24**, links Erich Fried *Liebesgedichte*, rechts Regalrand. Nahansicht erneut betrachtet: Frank Hoffmann lesbar, goldene Titelschrift unter spiegelnder Folie nicht sicher lesbar.
+
+## Nutzerentscheidung B00688 – 2026-11-08
+
+**Frank Hoffmann – Weihnachten in Wien.** Titel vom Nutzer angegeben. B00688 steht nun mit Status `lesbar` im Inventar und in den erkannten Tabellen. 17 offene IDs verbleiben. Naechste gemeinsame Einzelpruefung: **B00706, Fach 5-7, urspruengliche Position 18**, links Hakan Nesser *Eine ganz andere Geschichte*, rechts Regalrand. Nahansicht und gedrehte Ansicht erneut betrachtet: breiter verblichener hellblau/tuerkiser Band, goldene Beschriftung weiterhin nicht sicher entzifferbar. Alle Originalpositionen bleiben erhalten.
