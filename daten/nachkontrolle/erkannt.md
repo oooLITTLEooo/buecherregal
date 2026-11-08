@@ -1,10 +1,10 @@
 # Erkannte Bücher (Inventarstatus lesbar)
 
-Quelle: `daten/buecher.csv`. Stand: 2026-11-07.
+Quelle: `daten/buecher.csv`. Stand: 2026-11-08.
 
 **Wichtig:** „erkannt“ übernimmt den bestehenden Status `lesbar`. Es ist keine unabhängig geprüfte Garantie für jeden Autorennamen, jede Buchgrenze oder jeden Titel.
 
-**Datensätze:** 1018. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
+**Datensätze:** 1019. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
 
 | ID | Regal | Zwischen | Link zum Bild | Autor | Titel |
 |---|---|---|---|---|---|
@@ -677,7 +677,8 @@ Quelle: `daten/buecher.csv`. Stand: 2026-11-07.
 | B00683 | Regal 5-6 (Pos. 19) | zwischen Markus Zusak – Die Bücherdiebin und Erich Fried – Warngedichte | [Bild B00683](../../bilder/originale/PXL_20261105_151523610.jpg) | Stefanie Werger | Wichtig ist was drinnen steht |
 | B00684 | Regal 5-6 (Pos. 20) | zwischen Stefanie Werger – Wichtig ist was drinnen steht und Ernst Jandl – Lechts und rinks | [Bild B00684](../../bilder/originale/PXL_20261105_151523610.jpg) | Erich Fried | Warngedichte |
 | B00685 | Regal 5-6 (Pos. 21) | zwischen Erich Fried – Warngedichte und Oskar Werner – Buch B00686 (noch unklar) | [Bild B00685](../../bilder/originale/PXL_20261105_151523610.jpg) | Ernst Jandl | Lechts und rinks |
-| B00687 | Regal 5-6 (Pos. 23) | zwischen Oskar Werner – Buch B00686 (noch unklar) und Frank Hoffmann – Buch B00688 (noch unklar) | [Bild B00687](../../bilder/originale/PXL_20261105_151523610.jpg) | Erich Fried | Liebesgedichte |
+| B00687 | Regal 5-6 (Pos. 23) | zwischen Oskar Werner – Buch B00686 (noch unklar) und Frank Hoffmann – Weihnachten in Wien | [Bild B00687](../../bilder/originale/PXL_20261105_151523610.jpg) | Erich Fried | Liebesgedichte |
+| B00688 | Regal 5-6 (Pos. 24) | zwischen Erich Fried – Liebesgedichte und Regalrand | [Bild B00688](../../bilder/nachkontrolle-zoom/B00688-nah-mit-nachbarn.jpg) | Frank Hoffmann | Weihnachten in Wien |
 | B00689 | Regal 5-7 (Pos. 1) | zwischen Regalrand und Utta Danella – Wo hohe Türme sind | [Bild B00689](../../bilder/originale/PXL_20261105_151527033.jpg) | Utta Danella | Wo hohe Türme sind |
 | B00690 | Regal 5-7 (Pos. 2) | zwischen Utta Danella – Wo hohe Türme sind und Amelie Fried – Glücksspieler | [Bild B00690](../../bilder/originale/PXL_20261105_151527033.jpg) | Utta Danella | Wo hohe Türme sind |
 | B00691 | Regal 5-7 (Pos. 3) | zwischen Utta Danella – Wo hohe Türme sind und David Nicholls – Keine weiteren Fragen | [Bild B00691](../../bilder/originale/PXL_20261105_151527033.jpg) | Amelie Fried | Glücksspieler |
