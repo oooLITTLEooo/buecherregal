@@ -4,6 +4,18 @@
 **Sichtbarkeit:** öffentlich (`public`), ausdrücklich gewünscht  
 **Single Source of Truth:** ausschließlich der **jeweils aktuelle tatsächliche GitHub-Dateibestand**
 
+## Aktuelle Umräumliste – 08.11.2026
+
+Die alphabetische Umräumplanung wurde ausdrücklich beauftragt. **1.022 erkannte Bücher** sind mit bisherigen und geplanten Standorten aufgeführt. Die **11 offenen Einträge** bleiben separat; **15 historische `kein_buch`-Einträge** werden nicht mitgezählt. Das Ist-Inventar bleibt bis zum tatsächlichen Umräumen unverändert.
+
+- [Vollständige Umräumliste nach Autoren-Nachnamen](daten/umsortierung/umraeumliste.md)
+- [CSV der Umräumliste](daten/umsortierung/umraeumliste.csv)
+- [Geplante Belegung je Regalfach](daten/umsortierung/regalbelegung.md)
+- [Breitenschätzung und Planungsmethode](docs/umsortierung_2026-11-08.md)
+- [Elf offene Bücher zum manuellen Ergänzen](daten/nachkontrolle/offene-buecher-zum-ergaenzen.md)
+
+Der Plan belegt **55 Fächer von 1-1 bis 7-7** in spaltenweiser Reihenfolge. Pro belegtem Fach ist Platz für mindestens ungefähr 2–3 weitere Bücher auf Grundlage grob geschätzter durchschnittlicher Rückenbreiten vorgesehen. Alle alten Standortnummern und Positionen sind erhalten.
+
 ## Neustart der Bestandsanalyse
 
 Der Foto-Upload wurde am 06.11.2026 als abgeschlossen gemeldet; der Bestand wird ausschließlich am aktuellen Git-Stand geprüft. Die frühere Erfassung ist **nicht maßgeblich**. Keine Fotoanzahlen, Regalfachzuordnungen, Erinnerungen, Buchinventare oder Bilddateien aus vorherigen Chat-Nachrichten übernehmen.
