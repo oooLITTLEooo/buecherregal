@@ -144,7 +144,7 @@ def run(inventory, estimate, output):
                'inventory_sha256': config['inventory_sha256'], 'erkannte_buecher': len(books),
                'offen_ausgeschlossen': sum(r['identifikationsstatus'] not in ('lesbar', 'kein_buch') for r in rows),
                'kein_buch_ausgeschlossen': sum(r['identifikationsstatus'] == 'kein_buch' for r in rows),
-               'belegte_faecher': len(groups), 'erstes_zielfach': allocations[0]['Nach Regal'],
+               'belegte_faecher': sum(bool(group) for group in groups.values()), 'erstes_zielfach': allocations[0]['Nach Regal'],
                'letztes_zielfach': allocations[-1]['Nach Regal'], 'faecher': shelf_rows,
                'pruefung': 'Alle erkannten IDs genau einmal, Quellpositionen erhalten, Zielpositionen eindeutig und fortlaufend, Reserve in jedem belegten Fach mindestens 2,5 geschaetzte mittlere Buchbreiten.'}
     (output / 'pruefung.json').write_text(json.dumps(summary, ensure_ascii=False, indent=2) + '\n')
