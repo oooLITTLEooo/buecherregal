@@ -4,7 +4,7 @@ Quelle: `daten/buecher.csv`. Stand: 2026-11-08.
 
 **Wichtig:** „erkannt“ übernimmt den bestehenden Status `lesbar`. Es ist keine unabhängig geprüfte Garantie für jeden Autorennamen, jede Buchgrenze oder jeden Titel.
 
-**Datensätze:** 1020. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
+**Datensätze:** 1021. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
 
 | ID | Regal | Zwischen | Link zum Bild | Autor | Titel |
 |---|---|---|---|---|---|
@@ -900,8 +900,9 @@ Quelle: `daten/buecher.csv`. Stand: 2026-11-08.
 | B00912 | Regal 6-8 (Pos. 21) | zwischen Doris Knecht – Besser und John Grisham – Der Verrat | [Bild B00912](../../bilder/originale/PXL_20261105_151620572.jpg) | John Grisham | Der Klient |
 | B00913 | Regal 6-8 (Pos. 22) | zwischen John Grisham – Der Klient und Regalrand | [Bild B00913](../../bilder/originale/PXL_20261105_151620572.jpg) | John Grisham | Der Verrat |
 | B00914 | Regal 7-1 (Pos. 1) | zwischen Regalrand und Rosamunde Pilcher – Wintersonne | [Bild B00914](../../bilder/originale/PXL_20261105_151624486.jpg) | John Grisham | Das Urteil |
-| B00915 | Regal 7-1 (Pos. 2) | zwischen John Grisham – Das Urteil und Buch B00916 (noch unklar) | [Bild B00915](../../bilder/originale/PXL_20261105_151624486.jpg) | Rosamunde Pilcher | Wintersonne |
-| B00917 | Regal 7-1 (Pos. 4) | zwischen Buch B00916 (noch unklar) und Joachim Meyerhoff – Alle Toten fliegen hoch: Amerika | [Bild B00917](../../bilder/originale/PXL_20261105_151624486.jpg) | John Grisham | Die Bruderschaft |
+| B00915 | Regal 7-1 (Pos. 2) | zwischen John Grisham – Das Urteil und Goetz / Martens – Wir wandern, wir wandern | [Bild B00915](../../bilder/originale/PXL_20261105_151624486.jpg) | Rosamunde Pilcher | Wintersonne |
+| B00916 | Regal 7-1 (Pos. 3) | zwischen Rosamunde Pilcher – Wintersonne und John Grisham – Die Bruderschaft | [Bild B00916](../../bilder/nachkontrolle-zoom/B00916-nah-mit-nachbarn.jpg) | Goetz / Martens | Wir wandern, wir wandern |
+| B00917 | Regal 7-1 (Pos. 4) | zwischen Goetz / Martens – Wir wandern, wir wandern und Joachim Meyerhoff – Alle Toten fliegen hoch: Amerika | [Bild B00917](../../bilder/originale/PXL_20261105_151624486.jpg) | John Grisham | Die Bruderschaft |
 | B00918 | Regal 7-1 (Pos. 5) | zwischen John Grisham – Die Bruderschaft und Herbert Dutzler – Letzter Applaus | [Bild B00918](../../bilder/originale/PXL_20261105_151624486.jpg) | Joachim Meyerhoff | Alle Toten fliegen hoch: Amerika |
 | B00919 | Regal 7-1 (Pos. 6) | zwischen Joachim Meyerhoff – Alle Toten fliegen hoch: Amerika und Paulo Coelho – Der Alchimist | [Bild B00919](../../bilder/originale/PXL_20261105_151624486.jpg) | Herbert Dutzler | Letzter Applaus |
 | B00920 | Regal 7-1 (Pos. 7) | zwischen Herbert Dutzler – Letzter Applaus und John Grisham – Die Farm | [Bild B00920](../../bilder/originale/PXL_20261105_151624486.jpg) | Paulo Coelho | Der Alchimist |
