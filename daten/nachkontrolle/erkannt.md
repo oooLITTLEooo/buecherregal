@@ -4,7 +4,7 @@ Quelle: `daten/buecher.csv`. Stand: 2026-11-08.
 
 **Wichtig:** „erkannt“ übernimmt den bestehenden Status `lesbar`. Es ist keine unabhängig geprüfte Garantie für jeden Autorennamen, jede Buchgrenze oder jeden Titel.
 
-**Datensätze:** 1021. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
+**Datensätze:** 1022. Reihenfolge: Regal, dann Position links nach rechts. **ID ist eine eigene erste Spalte**; die Fachposition steht in der Regalspalte.
 
 | ID | Regal | Zwischen | Link zum Bild | Autor | Titel |
 |---|---|---|---|---|---|
@@ -1011,8 +1011,9 @@ Quelle: `daten/buecher.csv`. Stand: 2026-11-08.
 | B01027 | Regal 7-6 (Pos. 18) | zwischen David Schalko – Weiße Nacht und John Irving – Witwe für ein Jahr | [Bild B01027](../../bilder/originale/PXL_20261105_151651350.jpg) | Håkan Nesser | Das grobmaschige Netz |
 | B01028 | Regal 7-6 (Pos. 19) | zwischen Håkan Nesser – Das grobmaschige Netz und Arthur Schopenhauer – Aphorismen zur Lebensweisheit | [Bild B01028](../../bilder/originale/PXL_20261105_151651350.jpg) | John Irving | Witwe für ein Jahr |
 | B01029 | Regal 7-6 (Pos. 20) | zwischen John Irving – Witwe für ein Jahr und Moskauer Küchengespräche | [Bild B01029](../../bilder/originale/PXL_20261105_151651350.jpg) | Arthur Schopenhauer | Aphorismen zur Lebensweisheit |
-| B01030 | Regal 7-6 (Pos. 21) | zwischen Arthur Schopenhauer – Aphorismen zur Lebensweisheit und Arthur Schnitzler – Buch B01031 (noch unklar) | [Bild B01030 – Zoom](../../bilder/nachkontrolle-zoom/B01030-rechts.jpg) | Susanne Scholl / Irina Scherbakowa | Moskauer Küchengespräche |
-| B01032 | Regal 7-6 (Pos. 23) | zwischen Arthur Schnitzler – Buch B01031 (noch unklar) und Regalrand | [Bild B01032](../../bilder/originale/PXL_20261105_151651350.jpg) | Eugen Roth | Das Eugen Roth Buch |
+| B01030 | Regal 7-6 (Pos. 21) | zwischen Arthur Schopenhauer – Aphorismen zur Lebensweisheit und Hartmut Scheible – Arthur Schnitzler in Selbstzeugnissen und Bilddokumenten | [Bild B01030 – Zoom](../../bilder/nachkontrolle-zoom/B01030-rechts.jpg) | Susanne Scholl / Irina Scherbakowa | Moskauer Küchengespräche |
+| B01031 | Regal 7-6 (Pos. 22) | zwischen Susanne Scholl / Irina Scherbakowa – Moskauer Küchengespräche und Eugen Roth – Das Eugen Roth Buch | [Bild B01031](../../bilder/nachkontrolle-zoom/B01031-nah-mit-nachbarn.jpg) | Hartmut Scheible | Arthur Schnitzler in Selbstzeugnissen und Bilddokumenten |
+| B01032 | Regal 7-6 (Pos. 23) | zwischen Hartmut Scheible – Arthur Schnitzler in Selbstzeugnissen und Bilddokumenten und Regalrand | [Bild B01032](../../bilder/originale/PXL_20261105_151651350.jpg) | Eugen Roth | Das Eugen Roth Buch |
 | B01033 | Regal 7-7 (Pos. 1) | zwischen Regalrand und Marcel Reich-Ranicki – Mein Leben | [Bild B01033](../../bilder/originale/PXL_20261105_151658812.jpg) | John Irving | Gottes Werk und Teufels Beitrag |
 | B01034 | Regal 7-7 (Pos. 2) | zwischen John Irving – Gottes Werk und Teufels Beitrag und Erich Fried – Erich Fried erzählt | [Bild B01034](../../bilder/originale/PXL_20261105_151658812.jpg) | Marcel Reich-Ranicki | Mein Leben |
 | B01035 | Regal 7-7 (Pos. 3) | zwischen Marcel Reich-Ranicki – Mein Leben und Erich Fried – Vorübungen für Wunder | [Bild B01035 – Zoom](../../bilder/nachkontrolle-zoom/B01035-rechts.jpg) | Erich Fried | Erich Fried erzählt |
