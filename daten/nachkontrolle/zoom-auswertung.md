@@ -131,3 +131,7 @@ B00123 ist laut Nutzer **kein eigenes Buch**. Status `kein_buch`, als historisch
 ## Nutzerentscheidung B00706 – 2026-11-08
 
 **Unklar lassen und weiter.** B00706 (Fach 5-7, urspruengliche Position 18) bleibt offen und in der nicht-erkannt-Liste. Weiterhin 17 offene IDs. Naechste gemeinsame Einzelpruefung: **B00727, Fach 6-1, urspruengliche Position 1**, links Regalrand, rechts Leo Lukas *Das Leo Lukas Lesebuch*. Nahansicht erneut visuell betrachtet: schmaler dunkler Bereich am linken Fachrand, weitgehend vom Leo-Lukas-Band verdeckt. Identitaet und separate Bandgrenze nicht sicher erkennbar.
+
+## Nutzerentscheidung B00727 – 2026-11-08
+
+**Unklar lassen und weiter.** B00727 (Fach 6-1, urspruengliche Position 1) bleibt offen und in der nicht-erkannt-Liste. Weiterhin 17 offene IDs. Naechste gemeinsame Einzelpruefung: **B00748, Fach 6-1, urspruengliche Position 22**, zwischen Axel Munthe *Das Buch von San Michele* und Hakan Nesser *Sein letzter Fall*. Nahansicht erneut visuell betrachtet: schmaler schwarzer Bereich mit rotem btb-Zeichen zwischen dem breiten blauen Munthe-Band und dem grauen Nesser-Band. Separate Bandgrenze nicht sicher erkennbar.
