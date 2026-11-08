@@ -1,6 +1,6 @@
 # Ergebnis der vollständigen Zoom-Nachkontrolle – 2026-11-07
 
-Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht und in beiden Leserichtungen vergrößert. Fuer die 30 weiterhin offenen IDs sind nun zusaetzlich Nah- und Kontextansichten direkt aus den vollstaendigen Originalfotos erzeugt worden; sie zeigen beidseitig mehr Nachbarbuecher. Historische Zoomdateien bleiben erhalten. **14 Titel durch Zoom identifiziert, zusätzlich B00585, B00604, B00688, B00848 und B00916 vom Nutzer bestätigt; noch 12 offen.** Keine zweifelhafte Buchgrenze automatisch als `kein_buch` eingestuft.
+Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht und in beiden Leserichtungen vergrößert. Fuer die 30 weiterhin offenen IDs sind nun zusaetzlich Nah- und Kontextansichten direkt aus den vollstaendigen Originalfotos erzeugt worden; sie zeigen beidseitig mehr Nachbarbuecher. Historische Zoomdateien bleiben erhalten. **14 Titel durch Zoom identifiziert, zusätzlich B00585, B00604, B00688, B00848, B00916 und B01031 vom Nutzer bestätigt; noch 11 offen.** Keine zweifelhafte Buchgrenze automatisch als `kein_buch` eingestuft.
 
 ## Neu identifiziert
 
@@ -39,7 +39,6 @@ Alle 44 urspruenglich offenen Buch-IDs anhand vorhandener Originalpixel gedreht 
 | B00896 | Regal 6-8 (Pos. 5) | zwischen Fritz Muliar – Streng indiskret! und Mary Higgins Clark – Tödliche Fesseln | Nutzerhinweis: KARST, Titel nicht erkennbar. Autor und genauer Titel bleiben offen | [Nahansicht](../../bilder/nachkontrolle-zoom/B00896-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B00896-kontext-gesamt.jpg) |
 | B01001 | Regal 7-5 (Pos. 14) | zwischen Donna Leon – Schöner Schein und Utta Danella – Der blaue Vogel | Nad Turjman möglicherweise erkennbar, Titel offen | [Nahansicht](../../bilder/nachkontrolle-zoom/B01001-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B01001-kontext-gesamt.jpg) |
 | B01008 | Regal 7-5 (Pos. 21) | zwischen Susanne Scholl – Schäm dich, Europa! und Anne B. Ragde – Einsiedlerkrebse | Michael Niavarani erkennbar; Nutzerhinweis: oben zwei Woerter, zweites Wort Nestroy. Vollstaendiger Titel offen | [Nahansicht](../../bilder/nachkontrolle-zoom/B01008-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B01008-kontext-gesamt.jpg) |
-| B01031 | Regal 7-6 (Pos. 22) | zwischen Moskauer Küchengespräche und Eugen Roth – Das Eugen Roth Buch | Schnitzler und rm 235 lesbar. Bibliografischer Vorschlag: Hartmut Scheible – Arthur Schnitzler in Selbstzeugnissen und Bilddokumenten. Bestaetigung ausstehend | [Nahansicht](../../bilder/nachkontrolle-zoom/B01031-nah-mit-nachbarn.jpg) | [Breiterer Kontext](../../bilder/nachkontrolle-zoom/B01031-kontext-gesamt.jpg) |
 
 Alle Ausschnitte wurden aus den unveränderten hochauflösenden JPEG-Originalen unter `bilder/originale/` erzeugt. Positionen und Buch-IDs wurden nicht umnummeriert. Bei möglicher Doppelzählung oder zusätzlichen Buchrücken ist eine Nutzerentscheidung nötig.
 
@@ -170,3 +169,9 @@ B00123 ist laut Nutzer **kein eigenes Buch**. Status `kein_buch`, als historisch
 ## Nutzerhinweis B01031 – 2026-11-08
 
 **235.** Nutzer nennt die Reihennummer. Zusammen mit dem Fotoaufdruck Schnitzler und rm 235 bibliografisch abgeglichen: Hartmut Scheible, *Arthur Schnitzler in Selbstzeugnissen und Bilddokumenten*, Rowohlts Monographien 235, Rowohlt 1976, ISBN 3499502356. Quellen: [Wellcome-Katalog](https://wellcomecollection.org/works/f523vy2e) und [Stadtbibliothek Graz](https://stadtbibliothek.graz.at/Mediensuche/Einfache-Suche?detail=7&search=arthur&top=y). Vorschlag dem Nutzer zur Bestaetigung zeigen. Schnitzler ist Gegenstand dieser Biografie, daher bisherige vorlaeufige Autorenzuordnung im Inventar entfernt. B01031 bleibt bis zur Bestaetigung offen. Alle 12 weiterhin offenen Faelle wurden gemeinsam angesehen. Originalpositionen unveraendert.
+
+## Nutzerentscheidung B01031 und Abschluss des gemeinsamen Durchgangs – 2026-11-08
+
+**Hartmut Scheible – Arthur Schnitzler in Selbstzeugnissen und Bilddokumenten.** Nutzer bestaetigt die bibliografische Zuordnung ueber Schnitzler und rm 235. B01031 steht nun mit Status `lesbar` im Inventar und in den erkannten Tabellen, aus der offenen Liste entfernt. Originalposition unveraendert.
+
+Alle Faelle dieses gemeinsamen Durchgangs wurden angesehen. **1048 historische Inventarzeilen: 1022 lesbar, 15 kein_buch, 11 weiterhin offen.** Offene IDs: B00131, B00240, B00563, B00647, B00686, B00706, B00727, B00869, B00896, B01001, B01008. Keine automatisch erneute Vorlage der bewusst zurueckgestellten Faelle. Weitere Bearbeitung nach Auswahl des Nutzers.
