@@ -127,3 +127,7 @@ B00123 ist laut Nutzer **kein eigenes Buch**. Status `kein_buch`, als historisch
 ## Nutzerentscheidung B00688 – 2026-11-08
 
 **Frank Hoffmann – Weihnachten in Wien.** Titel vom Nutzer angegeben. B00688 steht nun mit Status `lesbar` im Inventar und in den erkannten Tabellen. 17 offene IDs verbleiben. Naechste gemeinsame Einzelpruefung: **B00706, Fach 5-7, urspruengliche Position 18**, links Hakan Nesser *Eine ganz andere Geschichte*, rechts Regalrand. Nahansicht und gedrehte Ansicht erneut betrachtet: breiter verblichener hellblau/tuerkiser Band, goldene Beschriftung weiterhin nicht sicher entzifferbar. Alle Originalpositionen bleiben erhalten.
+
+## Nutzerentscheidung B00706 – 2026-11-08
+
+**Unklar lassen und weiter.** B00706 (Fach 5-7, urspruengliche Position 18) bleibt offen und in der nicht-erkannt-Liste. Weiterhin 17 offene IDs. Naechste gemeinsame Einzelpruefung: **B00727, Fach 6-1, urspruengliche Position 1**, links Regalrand, rechts Leo Lukas *Das Leo Lukas Lesebuch*. Nahansicht erneut visuell betrachtet: schmaler dunkler Bereich am linken Fachrand, weitgehend vom Leo-Lukas-Band verdeckt. Identitaet und separate Bandgrenze nicht sicher erkennbar.
