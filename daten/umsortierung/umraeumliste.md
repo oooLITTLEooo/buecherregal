@@ -1,0 +1,1311 @@
+# Umräumliste nach Autoren-Nachnamen
+
+Stand: 08.11.2026 · **1.022 erkannte Bücher** · Zielpositionen sind ein grober Breitenplan.
+
+**Regal / Position** sind die ursprünglichen Standorte. **Nach Regal / Nach Position** sind die geplanten Standorte. Positionen zählen von links nach rechts ab 1.
+
+Fachfolge: 1-1 bis 1-8, dann 2-1 bis 2-8 usw. In jedem belegten Fach sind rechnerisch mindestens 2,5 durchschnittliche Buchrücken als Reserve vorgesehen. Die letzte belegte Ablage darf mehr frei lassen.
+
+Breiten sind aus der sichtbaren Füllung der Herkunftsfächer geschätzt, keine Messungen einzelner Bücher. Die Lampe in 1-4 und andere Gegenstände in Zielfächern vorher entfernen. Die elf offenen Einträge sind nicht umgeplant.
+
+Ein erkanntes Lesebuch ohne Autorenangabe steht am Schluss. Mehrfachautoren werden unter dem ersten genannten Nachnamen eingeordnet; bei Gleichstand Vorname und Titel. Ä/Ö/Ü wie A/O/U, ß wie ss. Namensvorsätze von/du/le werden für die Ablage übergangen.
+
+[CSV herunterladen](umraeumliste.csv) · [Belegung je Fach](regalbelegung.md) · [Methode](../../docs/umsortierung_2026-11-08.md)
+
+## Nach Regal 1-1
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00046 | Hubert Achleitner | flüchtig | 1-8 | 2 | 1-1 | 1 |
+| B00595 | Joy Adamson | Die Löwin Elsa und ihre Jungen | 5-2 | 15 | 1-1 | 2 |
+| B00596 | Isabel Allende | Das Geisterhaus | 5-2 | 16 | 1-1 | 3 |
+| B00499 | Isabel Allende | Der unendliche Plan | 4-6 | 9 | 1-1 | 4 |
+| B00500 | Isabel Allende | Die Insel unter dem Meer | 4-6 | 10 | 1-1 | 5 |
+| B00589 | Isabel Allende | Die Stadt der wilden Götter | 5-2 | 9 | 1-1 | 6 |
+| B00221 | Isabel Allende | Ein unvergänglicher Sommer | 2-8 | 9 | 1-1 | 7 |
+| B00509 | Isabel Allende | Eva Luna | 4-6 | 19 | 1-1 | 8 |
+| B00494 | Isabel Allende | Fortunas Tochter | 4-6 | 4 | 1-1 | 9 |
+| B00503 | Isabel Allende | Geschichten der Eva Luna | 4-6 | 13 | 1-1 | 10 |
+| B00590 | Isabel Allende | Im Reich des Goldenen Drachen | 5-2 | 10 | 1-1 | 11 |
+| B00511 | Isabel Allende | Inés meines Herzens | 4-6 | 21 | 1-1 | 12 |
+| B00512 | Isabel Allende | Mayas Tagebuch | 4-6 | 22 | 1-1 | 13 |
+| B00510 | Isabel Allende | Porträt in Sepia | 4-6 | 20 | 1-1 | 14 |
+| B00225 | Isabel Allende | Violeta | 2-8 | 13 | 1-1 | 15 |
+
+## Nach Regal 1-2
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00502 | Isabel Allende | Von Liebe und Schatten | 4-6 | 12 | 1-2 | 1 |
+| B00506 | Isabel Allende | Zorro | 4-6 | 16 | 1-2 | 2 |
+| B00948 | Adriana Altaras | Das Meer und ich waren im besten Alter | 7-2 | 16 | 1-2 | 3 |
+| B00588 | Peter Altenberg | Sommerabend in Gmunden | 5-2 | 8 | 1-2 | 4 |
+| B00498 | Peter Altenberg | Sonnenuntergang im Prater | 4-6 | 8 | 1-2 | 5 |
+| B00766 | Martin Amanshauser | Typisch Welt | 6-2 | 17 | 1-2 | 6 |
+| B00507 | Jean Anouilh | Das Leben ist unerhört! | 4-6 | 17 | 1-2 | 7 |
+| B01005 | Rudi Anschober | Pandemia | 7-5 | 18 | 1-2 | 8 |
+| B00497 | Ludwig Anzengruber | Gesammelte Werke Band 1 | 4-6 | 7 | 1-2 | 9 |
+| B00504 | Ludwig Anzengruber | Gesammelte Werke Band 1 | 4-6 | 14 | 1-2 | 10 |
+| B00505 | Ludwig Anzengruber | Gesammelte Werke Band 2 | 4-6 | 15 | 1-2 | 11 |
+| B00750 | Jeffrey Archer | Spiel der Zeit | 6-2 | 1 | 1-2 | 12 |
+| B00972 | Ewald Arenz | Alte Sorten | 7-4 | 3 | 1-2 | 13 |
+| B00459 | Pino Arlacchi | Mafia von innen | 4-4 | 3 | 1-2 | 14 |
+| B00495 | Jane Austen | Stolz und Vorurteil | 4-6 | 5 | 1-2 | 15 |
+
+## Nach Regal 1-3
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00496 | Paul Auster | Das rote Notizbuch | 4-6 | 6 | 1-3 | 1 |
+| B00493 | Paul Auster | Nacht des Orakels | 4-6 | 3 | 1-3 | 2 |
+| B00458 | Richard Bach | Illusionen | 4-4 | 2 | 1-3 | 3 |
+| B00457 | Eva Bakos | Sehnsucht nach Salina | 4-4 | 1 | 1-3 | 4 |
+| B00461 | Gerry Baldwin | Das Arche Noah Komplott | 4-4 | 5 | 1-3 | 5 |
+| B00462 | Honoré de Balzac | Tolldreiste Geschichten | 4-4 | 6 | 1-3 | 6 |
+| B00463 | Hans Bankl | Ein Mord in der Badewanne | 4-4 | 7 | 1-3 | 7 |
+| B00501 | Muriel Barbery | Die Eleganz des Igels | 4-6 | 11 | 1-3 | 8 |
+| B00635 | Frederick Barthelme | Leuchtspur | 5-4 | 14 | 1-3 | 9 |
+| B00460 | Gabriel Barylli | Butterbrot | 4-4 | 4 | 1-3 | 10 |
+| B00622 | Jean-Dominique Bauby | Schmetterling und Taucherglocke | 5-4 | 1 | 1-3 | 11 |
+| B00508 | Friederike Bauer | Kofi Annan | 4-6 | 18 | 1-3 | 12 |
+| B00623 | Hermann Bauer | Philosophenpunsch | 5-4 | 2 | 1-3 | 13 |
+
+## Nach Regal 1-4
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00624 | Stephen Baxter | Flut | 5-4 | 3 | 1-4 | 1 |
+| B00664 | Simone de Beauvoir | Eine gebrochene Frau | 5-5 | 21 | 1-4 | 2 |
+| B00641 | Simon Beckett | Die Chemie des Todes | 5-4 | 20 | 1-4 | 3 |
+| B00639 | Gioconda Belli | Bewohnte Frau | 5-4 | 18 | 1-4 | 4 |
+| B00644 | Saul Bellow | Der Regenkönig | 5-5 | 1 | 1-4 | 5 |
+| B00661 | Saul Bellow | Humboldts Vermächtnis | 5-5 | 18 | 1-4 | 6 |
+| B00646 | Thomas Bernhard | Ein Kind | 5-5 | 3 | 1-4 | 7 |
+| B00657 | Tania Blixen | Gespensterpferde | 5-5 | 14 | 1-4 | 8 |
+| B00650 | Arne Blum | Saubande | 5-5 | 7 | 1-4 | 9 |
+| B00704 | Judy Blume | Sommerschwestern | 5-7 | 16 | 1-4 | 10 |
+| B00805 | Heinrich Böll | Ansichten eines Clowns | 6-4 | 16 | 1-4 | 11 |
+| B00810 | Heinrich Böll | Der Zug war pünktlich | 6-4 | 21 | 1-4 | 12 |
+| B00809 | Heinrich Böll | Ein Tag wie sonst | 6-4 | 20 | 1-4 | 13 |
+| B00806 | Heinrich Böll | Ende einer Dienstfahrt | 6-4 | 17 | 1-4 | 14 |
+| B00807 | Heinrich Böll | Irisches Tagebuch | 6-4 | 18 | 1-4 | 15 |
+| B00803 | Heinrich Böll | Rendezvous mit Margaret | 6-4 | 14 | 1-4 | 16 |
+| B00808 | Heinrich Böll | Wanderer, kommst du nach Spa... | 6-4 | 19 | 1-4 | 17 |
+
+## Nach Regal 1-5
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00804 | Heinrich Böll / Lew Kopelew | Warum haben wir aufeinander geschossen? | 6-4 | 15 | 1-5 | 1 |
+| B00802 | Heinrich Böll | Wo warst du, Adam? | 6-4 | 13 | 1-5 | 2 |
+| B00955 | Heinrich Böll | Zur Verteidigung der Waschküchen | 7-3 | 4 | 1-5 | 3 |
+| B00526 | Martin Borré / Thomas Reintjes | Warum Frauen schneller frieren: Alltagsphänomene wissenschaftlich erklärt | 4-7 | 14 | 1-5 | 4 |
+| B00775 | Helmut Brandstätter | Kurz & Kickl. Ihr Spiel mit Macht und Angst | 6-3 | 6 | 1-5 | 5 |
+| B00659 | Alois Brandstetter | Zu Lasten der Briefträger | 5-5 | 16 | 1-5 | 6 |
+| B00604 | Bertolt Brecht | Der gute Mensch von Sezuan | 5-3 | 5 | 1-5 | 7 |
+| B00302 | Lily Brett | Alles halb so schlimm! | 3-4 | 1 | 1-5 | 8 |
+| B00610 | Lily Brett | Chuzpe | 5-3 | 11 | 1-5 | 9 |
+| B00213 | Lily Brett | Ein unmögliches Angebot | 2-8 | 1 | 1-5 | 10 |
+| B00652 | Lily Brett | Einfach so | 5-5 | 9 | 1-5 | 11 |
+| B00656 | Lily Brett | New York | 5-5 | 13 | 1-5 | 12 |
+| B00655 | Lily Brett | Zu viele Männer | 5-5 | 12 | 1-5 | 13 |
+| B00649 | Melitta Breznik | Das Umstellformat | 5-5 | 6 | 1-5 | 14 |
+| B00642 | Melitta Breznik | Figuren | 5-4 | 21 | 1-5 | 15 |
+| B00991 | Dan Brown | Das verlorene Symbol | 7-5 | 4 | 1-5 | 16 |
+
+## Nach Regal 1-6
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00617 | Dan Brown | Inferno | 5-3 | 18 | 1-6 | 1 |
+| B00800 | Rita Mae Brown | Die Katze lässt das Mausen nicht | 6-4 | 11 | 1-6 | 2 |
+| B00799 | Rita Mae Brown | Die kluge Katze baut vor | 6-4 | 10 | 1-6 | 3 |
+| B00658 | Rita Mae Brown | Dolley | 5-5 | 15 | 1-6 | 4 |
+| B00952 | Rita Mae Brown | Eine Maus kommt selten allein | 7-3 | 1 | 1-6 | 5 |
+| B00694 | Rita Mae Brown | Maus im Aus | 5-7 | 6 | 1-6 | 6 |
+| B00957 | Rita Mae Brown / Sneaky Pie Brown | Rache auf leisen Pfoten | 7-3 | 6 | 1-6 | 7 |
+| B00801 | Rita Mae Brown | Schade, dass du nicht tot bist | 6-4 | 12 | 1-6 | 8 |
+| B00883 | Andrea Camilleri | Das kalte Lächeln des Meeres | 6-7 | 11 | 1-6 | 9 |
+| B00796 | Andrea Camilleri | Das Labyrinth der Spiegel | 6-4 | 7 | 1-6 | 10 |
+| B00886 | Andrea Camilleri | Das Ritual der Rache | 6-7 | 14 | 1-6 | 11 |
+| B00798 | Andrea Camilleri | Das Spiel des Patriarchen | 6-4 | 9 | 1-6 | 12 |
+| B00980 | Andrea Camilleri | Der Dieb der süßen Dinge | 7-4 | 11 | 1-6 | 13 |
+| B00795 | Andrea Camilleri | Der falsche Liebreiz der Vergeltung | 6-4 | 6 | 1-6 | 14 |
+| B00887 | Andrea Camilleri | Der Hund aus Terracotta | 6-7 | 15 | 1-6 | 15 |
+| B00884 | Andrea Camilleri | Der Kavalier der späten Stunde | 6-7 | 12 | 1-6 | 16 |
+
+## Nach Regal 1-7
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00797 | Andrea Camilleri | Der zerbrochene Himmel | 6-4 | 8 | 1-7 | 1 |
+| B00879 | Andrea Camilleri | Die dunkle Wahrheit des Mondes | 6-7 | 7 | 1-7 | 2 |
+| B00888 | Andrea Camilleri | Die Flügel der Sphinx | 6-7 | 16 | 1-7 | 3 |
+| B00885 | Andrea Camilleri | Die Form des Wassers | 6-7 | 13 | 1-7 | 4 |
+| B00873 | Andrea Camilleri | Die Nacht des einsamen Träumers | 6-7 | 1 | 1-7 | 5 |
+| B00878 | Andrea Camilleri | Die Rache des schönen Geschlechts | 6-7 | 6 | 1-7 | 6 |
+| B00882 | Andrea Camilleri | Die schwarze Seele des Sommers | 6-7 | 10 | 1-7 | 7 |
+| B00875 | Andrea Camilleri | Die sizilianische Oper / Jagdsaison | 6-7 | 3 | 1-7 | 8 |
+| B00874 | Andrea Camilleri | Die Stimme der Violine | 6-7 | 2 | 1-7 | 9 |
+| B00640 | Andrea Camilleri | Hahn im Korb | 5-4 | 19 | 1-7 | 10 |
+| B00792 | Elias Canetti | Der Ohrenzeuge | 6-4 | 3 | 1-7 | 11 |
+| B00791 | Lara Cardella | Ich wollte Hosen | 6-4 | 2 | 1-7 | 12 |
+| B00793 | John le Carré | Der Schneider von Panama | 6-4 | 4 | 1-7 | 13 |
+| B00790 | Giacomo Casanova | Memoiren | 6-4 | 1 | 1-7 | 14 |
+| B00978 | Willa Cather | Meine Antonia | 7-4 | 9 | 1-7 | 15 |
+| B00926 | Ruth Cerha | Bora: Eine Geschichte vom Wind | 7-1 | 13 | 1-7 | 16 |
+
+## Nach Regal 1-8
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00881 | Diane Chamberlain | Der Tod meiner Schwester | 6-7 | 9 | 1-8 | 1 |
+| B00880 | Anne Chaplet | Caruso singt nicht mehr | 6-7 | 8 | 1-8 | 2 |
+| B00843 | Agatha Christie | Alibi | 6-5 | 30 | 1-8 | 3 |
+| B00832 | Agatha Christie | Alterssitz | 6-5 | 19 | 1-8 | 4 |
+| B00820 | Agatha Christie | Auf doppelter Spur | 6-5 | 7 | 1-8 | 5 |
+| B00600 | Agatha Christie | Bertrams Hotel | 5-3 | 1 | 1-8 | 6 |
+| B00830 | Agatha Christie | Blausäure | 6-5 | 17 | 1-8 | 7 |
+| B00838 | Agatha Christie | Das Böse unter der Sonne | 6-5 | 25 | 1-8 | 8 |
+| B00825 | Agatha Christie | Das Eulenhaus | 6-5 | 12 | 1-8 | 9 |
+| B00827 | Agatha Christie | Das fahle Pferd | 6-5 | 14 | 1-8 | 10 |
+| B00823 | Agatha Christie | Das fehlende Glied in der Kette | 6-5 | 10 | 1-8 | 11 |
+| B00851 | Agatha Christie | Das fehlende Glied in der Kette | 6-6 | 4 | 1-8 | 12 |
+| B00842 | Agatha Christie | Das Geheimnis von Sittaford | 6-5 | 29 | 1-8 | 13 |
+| B00852 | Agatha Christie | Das Schicksal in Person | 6-6 | 5 | 1-8 | 14 |
+| B00849 | Agatha Christie | Das Sterben in Wychwood | 6-6 | 2 | 1-8 | 15 |
+| B00824 | Agatha Christie | Das unvollendete Bildnis | 6-5 | 11 | 1-8 | 16 |
+| B00853 | Agatha Christie | Der blaue Express | 6-6 | 6 | 1-8 | 17 |
+| B00826 | Agatha Christie | Der Dienstagabend-Klub | 6-5 | 13 | 1-8 | 18 |
+| B00817 | Agatha Christie | Der Mann im braunen Anzug | 6-5 | 4 | 1-8 | 19 |
+| B00816 | Agatha Christie | Der rätselhafte Hund | 6-5 | 3 | 1-8 | 20 |
+| B00847 | Agatha Christie | Der Todeswirbel | 6-5 | 34 | 1-8 | 21 |
+| B00814 | Agatha Christie | Der Todeswirbel / 16 Uhr 50 ab Paddington / Die Memoiren des Grafen | 6-5 | 1 | 1-8 | 22 |
+| B00854 | Agatha Christie | Der unheimliche Weg | 6-6 | 7 | 1-8 | 23 |
+| B00818 | Agatha Christie | Die großen Vier | 6-5 | 5 | 1-8 | 24 |
+| B00856 | Agatha Christie | Die Memoiren des Grafen | 6-6 | 9 | 1-8 | 25 |
+
+## Nach Regal 2-1
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00855 | Agatha Christie | Die Morde des Herrn ABC | 6-6 | 8 | 2-1 | 1 |
+| B00829 | Agatha Christie | Die Mörder-Maschen | 6-5 | 16 | 2-1 | 2 |
+| B00846 | Agatha Christie | Die Schattenhand | 6-5 | 33 | 2-1 | 3 |
+| B00840 | Agatha Christie | Die Tote in der Bibliothek | 6-5 | 27 | 2-1 | 4 |
+| B00836 | Agatha Christie | Dreizehn bei Tisch | 6-5 | 23 | 2-1 | 5 |
+| B00819 | Agatha Christie | Ein Mord wird angekündigt | 6-5 | 6 | 2-1 | 6 |
+| B00839 | Agatha Christie | Ein Schritt ins Leere | 6-5 | 26 | 2-1 | 7 |
+| B00821 | Agatha Christie | Fata Morgana | 6-5 | 8 | 2-1 | 8 |
+| B00850 | Agatha Christie | Hercule Poirots größte Trümpfe | 6-6 | 3 | 2-1 | 9 |
+| B00828 | Agatha Christie | Lauter reizende alte Damen | 6-5 | 15 | 2-1 | 10 |
+| B00841 | Agatha Christie | Mit offenen Karten | 6-5 | 28 | 2-1 | 11 |
+| B00833 | Agatha Christie | Mord auf dem Golfplatz | 6-5 | 20 | 2-1 | 12 |
+| B00835 | Agatha Christie | Mord im Pfarrhaus | 6-5 | 22 | 2-1 | 13 |
+| B00822 | Agatha Christie | Mord nach Maß | 6-5 | 9 | 2-1 | 14 |
+| B00831 | Agatha Christie | Mord nach Maß | 6-5 | 18 | 2-1 | 15 |
+| B00848 | Agatha Christie | Morphium | 6-6 | 1 | 2-1 | 16 |
+| B00975 | Agatha Christie | Nikotin | 7-4 | 6 | 2-1 | 17 |
+| B00844 | Agatha Christie | Rotkäppchen und der böse Wolf | 6-5 | 31 | 2-1 | 18 |
+| B00834 | Agatha Christie | Sie kamen nach Bagdad | 6-5 | 21 | 2-1 | 19 |
+| B00845 | Agatha Christie | Tödlicher Irrtum oder Feuerprobe der Unschuld | 6-5 | 32 | 2-1 | 20 |
+| B00815 | Agatha Christie | Und dann gab's keines mehr | 6-5 | 2 | 2-1 | 21 |
+| B00837 | Agatha Christie | Vorhang | 6-5 | 24 | 2-1 | 22 |
+| B00161 | Mary Higgins Clark | Dass du ewig denkst an mich | 2-5 | 12 | 2-1 | 23 |
+| B00343 | Mary Higgins Clark | Die Gnadenfrist | 3-6 | 4 | 2-1 | 24 |
+| B00345 | Mary Higgins Clark | Fürchte dich nicht | 3-6 | 6 | 2-1 | 25 |
+| B00348 | Mary Higgins Clark | Hab acht auf meine Schritte | 3-6 | 9 | 2-1 | 26 |
+| B00346 | Mary Higgins Clark | In einer Winternacht | 3-6 | 7 | 2-1 | 27 |
+| B00949 | Mary Higgins Clark | Mein ist die Stunde der Nacht | 7-2 | 17 | 2-1 | 28 |
+| B00344 | Mary Higgins Clark | Nimm dich in acht | 3-6 | 5 | 2-1 | 29 |
+
+## Nach Regal 2-2
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00342 | Mary Higgins Clark | Schlaf wohl mein süßes Kind | 3-6 | 3 | 2-2 | 1 |
+| B00581 | Mary Higgins Clark | Schlangen im Paradies | 5-2 | 1 | 2-2 | 2 |
+| B00943 | Mary Higgins Clark | Sieh dich nicht um | 7-2 | 11 | 2-2 | 3 |
+| B00950 | Mary Higgins Clark | Stille Nacht | 7-2 | 18 | 2-2 | 4 |
+| B00897 | Mary Higgins Clark | Tödliche Fesseln | 6-8 | 6 | 2-2 | 5 |
+| B00474 | Mary Higgins Clark | Und morgen in das kühle Grab | 4-5 | 3 | 2-2 | 6 |
+| B00488 | Mary Higgins Clark | Weil deine Augen ihn nicht sehen | 4-5 | 17 | 2-2 | 7 |
+| B00347 | Mary Higgins Clark | Wintersturm | 3-6 | 8 | 2-2 | 8 |
+| B00420 | Mary Higgins Clark | Wo waren Sie Dr Highley? | 4-2 | 3 | 2-2 | 9 |
+| B00867 | John Cleland | Die Memoiren der Fanny Hill | 6-6 | 20 | 2-2 | 10 |
+| B00866 | Jonathan Coe | Der Regen, bevor er fällt | 6-6 | 19 | 2-2 | 11 |
+| B00862 | Paulo Coelho | Am Ufer des Rio Piedra saß ich und weinte | 6-6 | 15 | 2-2 | 12 |
+| B00864 | Paulo Coelho | Am Ufer des Rio Piedra saß ich und weinte | 6-6 | 17 | 2-2 | 13 |
+| B00861 | Paulo Coelho | Auf dem Jakobsweg | 6-6 | 14 | 2-2 | 14 |
+| B00863 | Paulo Coelho | Der Alchimist | 6-6 | 16 | 2-2 | 15 |
+| B00920 | Paulo Coelho | Der Alchimist | 7-1 | 7 | 2-2 | 16 |
+| B00865 | Paulo Coelho | Der Wanderer | 6-6 | 18 | 2-2 | 17 |
+| B01020 | Catherine Cookson | Das Haus im Moor | 7-6 | 11 | 2-2 | 18 |
+| B00859 | Patricia Cornwell | Kreuz des Südens | 6-6 | 12 | 2-2 | 19 |
+| B00556 | Barbara Coudenhove-Kalergi | Zuhause ist überall | 4-8 | 14 | 2-2 | 20 |
+| B00877 | Deborah Crombie | Das Hotel im Moor / Alles wird gut | 6-7 | 5 | 2-2 | 21 |
+
+## Nach Regal 2-3
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B01021 | Deborah Crombie | Das verlorene Gedicht / Böses Erwachen | 7-6 | 12 | 2-3 | 1 |
+| B00076 | Deborah Crombie | Denn nie bist du allein | 2-1 | 17 | 2-3 | 2 |
+| B01019 | Deborah Crombie | Der Rache kaltes Schwert | 7-6 | 10 | 2-3 | 3 |
+| B00761 | Deborah Crombie | Kein Grund zur Trauer | 6-2 | 12 | 2-3 | 4 |
+| B00858 | Deborah Crombie | So will ich schweigen | 6-6 | 11 | 2-3 | 5 |
+| B00876 | Deborah Crombie | Von fremder Hand | 6-7 | 4 | 2-3 | 6 |
+| B00908 | Donna W. Cross | Die Päpstin | 6-8 | 17 | 2-3 | 7 |
+| B00513 | Robert Dachs | Oskar Werner | 4-7 | 1 | 2-3 | 8 |
+| B00140 | Arne Dahl | Dunkelziffer | 2-4 | 14 | 2-3 | 9 |
+| B00145 | Arne Dahl | Falsche Opfer | 2-4 | 19 | 2-3 | 10 |
+| B00349 | Arne Dahl | Misterioso | 3-6 | 10 | 2-3 | 11 |
+| B00735 | Arne Dahl | Misterioso / Böses Blut | 6-1 | 9 | 2-3 | 12 |
+| B00135 | Arne Dahl | Opferzahl | 2-4 | 9 | 2-3 | 13 |
+| B00127 | Arne Dahl | Rosenrot | 2-4 | 1 | 2-3 | 14 |
+| B00166 | Arne Dahl | Ungeschoren | 2-5 | 17 | 2-3 | 15 |
+| B00355 | Roald Dahl | Im Alleingang | 3-6 | 16 | 2-3 | 16 |
+| B00356 | Roald Dahl | Onkel Oswald und der Sudan-Käfer | 3-6 | 17 | 2-3 | 17 |
+| B00287 | Roald Dahl | ... und noch ein Küsschen | 3-3 | 7 | 2-3 | 18 |
+| B01002 | Utta Danella | Der blaue Vogel | 7-5 | 15 | 2-3 | 19 |
+| B00689 | Utta Danella | Wo hohe Türme sind | 5-7 | 1 | 2-3 | 20 |
+
+## Nach Regal 2-4
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00690 | Utta Danella | Wo hohe Türme sind | 5-7 | 2 | 2-4 | 1 |
+| B00128 | Andrea De Carlo | Wir drei | 2-4 | 2 | 2-4 | 2 |
+| B00350 | Daniel Defoe | Robinson Crusoe | 3-6 | 11 | 2-4 | 3 |
+| B00134 | Vincent Delecroix | Der Schuh auf dem Dach | 2-4 | 8 | 2-4 | 4 |
+| B00165 | Dimitré Dinev | Engelszungen | 2-5 | 16 | 2-4 | 5 |
+| B00472 | Waris Dirie | Wüstenblume | 4-5 | 1 | 2-4 | 6 |
+| B00316 | Irene Dische | Großmama packt aus | 3-4 | 15 | 2-4 | 7 |
+| B00141 | Heimito von Doderer | Die Strudlhofstiege | 2-4 | 15 | 2-4 | 8 |
+| B00324 | Heimito von Doderer | Ein Mord den jeder begeht | 3-5 | 1 | 2-4 | 9 |
+| B00137 | Doris Dörrie | Bin ich schön? | 2-4 | 11 | 2-4 | 10 |
+| B00139 | Doris Dörrie | Das blaue Kleid | 2-4 | 13 | 2-4 | 11 |
+| B00142 | Doris Dörrie | Der Mann meiner Träume | 2-4 | 16 | 2-4 | 12 |
+| B00351 | Doris Dörrie | Für immer und ewig | 3-6 | 12 | 2-4 | 13 |
+| B00939 | Doris Dörrie | Was machen wir jetzt? | 7-2 | 7 | 2-4 | 14 |
+| B00935 | Stephanie Doyon | Die wunderbare Welt des Francis Pinkham | 7-2 | 3 | 2-4 | 15 |
+| B00601 | Richard Dübell | Die Teufelsbibel | 5-3 | 2 | 2-4 | 16 |
+| B00144 | Marguerite Duras | Der Liebhaber | 2-4 | 18 | 2-4 | 17 |
+| B00130 | Marguerite Duras | Der Matrose von Gibraltar | 2-4 | 4 | 2-4 | 18 |
+| B00143 | Marguerite Duras | Der Matrose von Gibraltar | 2-4 | 17 | 2-4 | 19 |
+| B00354 | Marguerite Duras | Hiroshima mon amour | 3-6 | 15 | 2-4 | 20 |
+
+## Nach Regal 2-5
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00146 | Marguerite Duras | Im Sommer abends um halb elf | 2-4 | 20 | 2-5 | 1 |
+| B00147 | Marguerite Duras | Liebe | 2-4 | 21 | 2-5 | 2 |
+| B00148 | Friedrich Dürrenmatt | Das Versprechen / Aufenthalt | 2-4 | 22 | 2-5 | 3 |
+| B00353 | Friedrich Dürrenmatt | Der Besuch der alten Dame | 3-6 | 14 | 2-5 | 4 |
+| B00919 | Herbert Dutzler | Letzter Applaus | 7-1 | 6 | 2-5 | 5 |
+| B00133 | Umberto Eco | Baudolino | 2-4 | 7 | 2-5 | 6 |
+| B00136 | Umberto Eco | Das Foucaultsche Pendel | 2-4 | 10 | 2-5 | 7 |
+| B00129 | Umberto Eco | Platon im Striptease-Lokal | 2-4 | 3 | 2-5 | 8 |
+| B00555 | Paul Chaim Eisenberg | Auf das Leben! | 4-8 | 13 | 2-5 | 9 |
+| B00001 | Marc Elsberg | Blackout | 1-5 | 1 | 2-5 | 10 |
+| B00469 | Marc Elsberg | Helix | 4-4 | 13 | 2-5 | 11 |
+| B00138 | Michael Ende | Das Michael Ende Lesebuch | 2-4 | 12 | 2-5 | 12 |
+| B01038 | Michael Ende | Die unendliche Geschichte | 7-7 | 6 | 2-5 | 13 |
+| B00132 | Michael Ende | Momo | 2-4 | 6 | 2-5 | 14 |
+| B01043 | Andreas Englisch | Franziskus: Zeichen der Hoffnung | 7-7 | 11 | 2-5 | 15 |
+| B00184 | Per Olov Enquist | Der Besuch des Leibarztes | 2-7 | 1 | 2-5 | 16 |
+| B00765 | Andreas Eschbach | NSA | 6-2 | 16 | 2-5 | 17 |
+| B00041 | Clarissa Pinkola Estés | Die Wolfsfrau | 1-7 | 12 | 2-5 | 18 |
+| B00181 | Nicholas Evans | Der Pferdeflüsterer | 2-6 | 15 | 2-5 | 19 |
+
+## Nach Regal 2-6
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00174 | Hans Fallada | Der ungeliebte Mann | 2-6 | 8 | 2-6 | 1 |
+| B00172 | Hans Fallada | Heute bei uns zu Haus | 2-6 | 6 | 2-6 | 2 |
+| B00175 | Hans Fallada | Jeder stirbt für sich allein | 2-6 | 9 | 2-6 | 3 |
+| B00979 | Judith Fanto | Viktor | 7-4 | 10 | 2-6 | 4 |
+| B00813 | Antonio Fian | Das Polykrates-Syndrom | 6-4 | 24 | 2-6 | 5 |
+| B00155 | Helen Fielding | Bridget Jones | 2-5 | 6 | 2-6 | 6 |
+| B00156 | Helen Fielding | Die Geheimnisse der Olivia Joules | 2-5 | 7 | 2-6 | 7 |
+| B00154 | Joy Fielding | Bevor der Abend kommt | 2-5 | 5 | 2-6 | 8 |
+| B00179 | Joy Fielding | Das Verhängnis | 2-6 | 13 | 2-6 | 9 |
+| B00168 | Joy Fielding | Die Katze | 2-6 | 2 | 2-6 | 10 |
+| B00788 | Joy Fielding | Im Koma | 6-3 | 19 | 2-6 | 11 |
+| B00167 | Joy Fielding | Nur der Tod kann dich retten | 2-6 | 1 | 2-6 | 12 |
+| B00663 | Joy Fielding | Nur wenn du mich liebst | 5-5 | 20 | 2-6 | 13 |
+| B00971 | Joy Fielding | Tanz, Püppchen, tanz | 7-4 | 2 | 2-6 | 14 |
+| B00330 | Joy Fielding | Träume süß, mein Mädchen | 3-5 | 7 | 2-6 | 15 |
+| B00592 | Sebastian Fitzek / Michael Tsokos | Abgeschnitten | 5-2 | 12 | 2-6 | 16 |
+
+## Nach Regal 2-7
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00126 | F. Scott Fitzgerald | Der Fluch der Fitzgeralds | 2-3 | 20 | 2-7 | 1 |
+| B00101 | F. Scott Fitzgerald | Der große Gatsby | 2-2 | 22 | 2-7 | 2 |
+| B00066 | F. Scott Fitzgerald | Unser Haus hat viele Gäste | 2-1 | 7 | 2-7 | 3 |
+| B00125 | John D. Fitzgerald | Vater heiratet eine Mormonin | 2-3 | 19 | 2-7 | 4 |
+| B00959 | Ken Follett | Das Fundament der Ewigkeit | 7-3 | 8 | 2-7 | 5 |
+| B00072 | Ken Follett | Der dritte Zwilling | 2-1 | 13 | 2-7 | 6 |
+| B00987 | Ken Follett | Die Brücken der Freiheit | 7-4 | 18 | 2-7 | 7 |
+| B00387 | Ken Follett | Die Tore der Welt | 3-8 | 5 | 2-7 | 8 |
+| B00122 | Ken Follett | Eisfieber | 2-3 | 16 | 2-7 | 9 |
+| B00388 | Ken Follett | Kinder der Freiheit | 3-8 | 6 | 2-7 | 10 |
+| B00264 | Ken Follett | Sturz der Giganten | 3-2 | 5 | 2-7 | 11 |
+| B00328 | Ken Follett | Sturz der Titanen | 3-5 | 5 | 2-7 | 12 |
+| B00118 | Ken Follett | Winter der Welt | 2-3 | 12 | 2-7 | 13 |
+| B00063 | Rina Frank | Als Gott die Großmutter holte | 2-1 | 4 | 2-7 | 14 |
+| B00106 | Jonathan Franzen | Die Korrekturen | 2-2 | 27 | 2-7 | 15 |
+| B00065 | Marianne Fredriksson | Abels Bruder | 2-1 | 6 | 2-7 | 16 |
+| B00079 | Marianne Fredriksson | Die Jahre mit Jan | 2-1 | 20 | 2-7 | 17 |
+| B00069 | Marianne Fredriksson | Eva | 2-1 | 10 | 2-7 | 18 |
+
+## Nach Regal 2-8
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00073 | Marianne Fredriksson | Geliebte Tochter | 2-1 | 14 | 2-8 | 1 |
+| B00068 | Marianne Fredriksson | Hannas Töchter | 2-1 | 9 | 2-8 | 2 |
+| B00075 | Marianne Fredriksson | Inge und Mira | 2-1 | 16 | 2-8 | 3 |
+| B00071 | Marianne Fredriksson | Lillemors Rätsel | 2-1 | 12 | 2-8 | 4 |
+| B00098 | Marianne Fredriksson | Marcus und Eneides | 2-2 | 19 | 2-8 | 5 |
+| B00074 | Marianne Fredriksson | Maria Magdalena | 2-1 | 15 | 2-8 | 6 |
+| B00096 | Marianne Fredriksson | Noreas Geschichte | 2-2 | 17 | 2-8 | 7 |
+| B00121 | Marianne Fredriksson | Sintflut | 2-3 | 15 | 2-8 | 8 |
+| B00070 | Marianne Fredriksson | Sofia und Anders | 2-1 | 11 | 2-8 | 9 |
+| B00064 | Marianne Fredriksson | Stinas Entscheidung | 2-1 | 5 | 2-8 | 10 |
+| B00077 | Nicci French | Das rote Zimmer | 2-1 | 18 | 2-8 | 11 |
+| B00119 | Nicci French | Ein sicheres Haus | 2-3 | 13 | 2-8 | 12 |
+| B00080 | Nicci French | Seit er tot ist | 2-2 | 1 | 2-8 | 13 |
+| B00985 | Tana French | Grabesgrün | 7-4 | 16 | 2-8 | 14 |
+| B00120 | Tana French | Totengleich | 2-3 | 14 | 2-8 | 15 |
+| B00087 | Sigmund Freud | Briefe | 2-2 | 8 | 2-8 | 16 |
+| B00974 | René Freund | Das Vierzehn-Tage-Date | 7-4 | 5 | 2-8 | 17 |
+| B00067 | Amelie Fried | Die Findelfrau | 2-1 | 8 | 2-8 | 18 |
+| B00092 | Amelie Fried | Geheime Leidenschaften | 2-2 | 13 | 2-8 | 19 |
+
+## Nach Regal 3-1
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00691 | Amelie Fried | Glücksspieler | 5-7 | 3 | 3-1 | 1 |
+| B00100 | Amelie Fried | Rosannas Tochter | 2-2 | 21 | 3-1 | 2 |
+| B00105 | Amelie Fried | Traumfrau mit Nebenwirkungen | 2-2 | 26 | 3-1 | 3 |
+| B01035 | Erich Fried | Erich Fried erzählt | 7-7 | 3 | 3-1 | 4 |
+| B00687 | Erich Fried | Liebesgedichte | 5-6 | 23 | 3-1 | 5 |
+| B01036 | Erich Fried | Vorübungen für Wunder | 7-7 | 4 | 3-1 | 6 |
+| B00684 | Erich Fried | Warngedichte | 5-6 | 20 | 3-1 | 7 |
+| B00085 | Egon Friedell | Wozu das Theater? | 2-2 | 6 | 3-1 | 8 |
+| B00081 | Inger Frimansson | Gute Nacht, mein Geliebter | 2-2 | 2 | 3-1 | 9 |
+| B00082 | Max Frisch | Mein Name sei Gantenbein | 2-2 | 3 | 3-1 | 10 |
+| B00086 | Barbara Frischmuth | Amoralische Kinderklapper | 2-2 | 7 | 3-1 | 11 |
+| B00088 | Barbara Frischmuth | Amy oder Die Metamorphose | 2-2 | 9 | 3-1 | 12 |
+| B00089 | Barbara Frischmuth | Die Mystifikationen der Sophie Silber | 2-2 | 10 | 3-1 | 13 |
+| B00090 | Barbara Frischmuth | Kai und die Liebe zu den Modellen | 2-2 | 11 | 3-1 | 14 |
+| B00093 | Barbara Frischmuth | Kopftänzer | 2-2 | 14 | 3-1 | 15 |
+| B00091 | Erich Fromm | Die Kunst des Liebens | 2-2 | 12 | 3-1 | 16 |
+| B00104 | Erich Fromm | Die Seele des Menschen | 2-2 | 25 | 3-1 | 17 |
+| B00084 | Carlo Fruttero / Franco Lucentini | Der Liebhaber ohne festen Wohnsitz | 2-2 | 5 | 3-1 | 18 |
+| B00062 | Carlo Fruttero / Franco Lucentini | Die Sonntagsfrau | 2-1 | 3 | 3-1 | 19 |
+| B00083 | Fynn | Anna schreibt an Mister Gott | 2-2 | 4 | 3-1 | 20 |
+| B00338 | Jostein Gaarder | Sofies Welt | 3-5 | 15 | 3-1 | 21 |
+| B00337 | Rebecca Gablé | Hiobs Brüder | 3-5 | 14 | 3-1 | 22 |
+
+## Nach Regal 3-2
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00564 | Claudie Gallay | Die Brandungswelle | 5-1 | 6 | 3-2 | 1 |
+| B00628 | Steven Galloway | Der Cellist von Sarajevo | 5-4 | 7 | 3-2 | 2 |
+| B00304 | Mahatma Gandhi | Mein Leben | 3-4 | 3 | 3-2 | 3 |
+| B00709 | Gabriel García Márquez | Von der Liebe und anderen Dämonen | 5-8 | 3 | 3-2 | 4 |
+| B00333 | Erle Stanley Gardner | Mord auf der Luxusjacht | 3-5 | 10 | 3-2 | 5 |
+| B00360 | Antonio Manuel Garrido | Das Pergament des Himmels | 3-6 | 21 | 3-2 | 6 |
+| B00116 | Joachim Gauck | Winter im Sommer – Frühling im Herbst. Erinnerungen | 2-3 | 10 | 3-2 | 7 |
+| B00329 | Karl-Markus Gauß / Martin Pollack | Das reiche Land der armen Leute: Literarische Wanderungen durch Galizien | 3-5 | 6 | 3-2 | 8 |
+| B00303 | Anna Gavalda | Alles Glück kommt nie | 3-4 | 2 | 3-2 | 9 |
+| B00605 | Fabio Geda | Im Meer schwimmen Krokodile | 5-3 | 6 | 3-2 | 10 |
+| B00363 | Arno Geiger | Alles über Sally | 3-6 | 24 | 3-2 | 11 |
+| B00361 | Gisela Gensch | Kranewitter | 3-6 | 22 | 3-2 | 12 |
+| B00467 | Elizabeth George | Am Ende war die Tat | 4-4 | 11 | 3-2 | 13 |
+| B00989 | Elizabeth George | Asche zu Asche | 7-5 | 2 | 3-2 | 14 |
+| B00598 | Elizabeth George | Auf Ehre und Gewissen | 5-2 | 18 | 3-2 | 15 |
+| B00490 | Elizabeth George | Bedenke was du tust | 4-5 | 19 | 3-2 | 16 |
+| B00593 | Elizabeth George | Denn keiner ist ohne Schuld | 5-2 | 13 | 3-2 | 17 |
+| B00305 | Elizabeth George | Denn sie betrügt man nicht | 3-4 | 4 | 3-2 | 18 |
+
+## Nach Regal 3-3
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00466 | Elizabeth George | Doch die Sünde ist scharlachrot | 4-4 | 10 | 3-3 | 1 |
+| B00789 | Elizabeth George | Glaube der Lüge | 6-3 | 20 | 3-3 | 2 |
+| B00465 | Elizabeth George | Keiner werfe den ersten Stein | 4-4 | 9 | 3-3 | 3 |
+| B00455 | Elizabeth George | Mein ist die Rache | 4-3 | 17 | 3-3 | 4 |
+| B00613 | Elizabeth George | Nie sollst du vergessen | 5-3 | 14 | 3-3 | 5 |
+| B00606 | Elizabeth George | Sturmwarnung | 5-3 | 7 | 3-3 | 6 |
+| B00612 | Elizabeth George | Undank ist der Väter Lohn | 5-3 | 13 | 3-3 | 7 |
+| B00162 | Elizabeth George | Vergiss nie, dass ich dich liebe | 2-5 | 13 | 3-3 | 8 |
+| B00470 | Elizabeth George | Wer dem Tode geweiht | 4-4 | 14 | 3-3 | 9 |
+| B00468 | Elizabeth George | Wer die Wahrheit sucht | 4-4 | 12 | 3-3 | 10 |
+| B00022 | Elizabeth George | Wer Strafe verdient | 1-6 | 8 | 3-3 | 11 |
+| B00489 | Elizabeth George | Wo kein Zeuge ist | 4-5 | 18 | 3-3 | 12 |
+| B00966 | Nina George | Das Lavendelzimmer | 7-3 | 15 | 3-3 | 13 |
+| B00163 | Tess Gerritsen | Blutmale | 2-5 | 14 | 3-3 | 14 |
+| B00339 | Tess Gerritsen | Der Meister | 3-5 | 16 | 3-3 | 15 |
+| B00334 | Tess Gerritsen | Die Chirurgin | 3-5 | 11 | 3-3 | 16 |
+
+## Nach Regal 3-4
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00326 | Tess Gerritsen | Grabkammer | 3-5 | 3 | 3-4 | 1 |
+| B00112 | Tess Gerritsen | Kalte Herzen | 2-3 | 6 | 3-4 | 2 |
+| B00945 | Tess Gerritsen | Leichenraub | 7-2 | 13 | 3-4 | 3 |
+| B00335 | Tess Gerritsen | Todsünde | 3-5 | 12 | 3-4 | 4 |
+| B00327 | Tess Gerritsen | Totengrund | 3-5 | 4 | 3-4 | 5 |
+| B00113 | Tess Gerritsen | Verrat in Paris | 2-3 | 7 | 3-4 | 6 |
+| B00185 | Brigitte Giraud | Die Liebe ist doch sehr überschätzt | 2-7 | 2 | 3-4 | 7 |
+| B00198 | Roland Girtler | Die feinen Leute: Von der vornehmen Art, durchs Leben zu gehen | 2-7 | 15 | 3-4 | 8 |
+| B00108 | Daniel Glattauer | Bekennen Sie sich schuldig? Geschichten | 2-3 | 2 | 3-4 | 9 |
+| B00936 | Daniel Glattauer | Darum | 7-2 | 4 | 3-4 | 10 |
+| B00331 | Daniel Glattauer | Der Weihnachtshund | 3-5 | 8 | 3-4 | 11 |
+| B00110 | Daniel Glattauer | Die Ameisenzählung | 2-3 | 4 | 3-4 | 12 |
+| B00114 | Daniel Glattauer | Die Vögel brüllen | 2-3 | 8 | 3-4 | 13 |
+| B00713 | Daniel Glattauer | Die Wunderübung | 5-8 | 7 | 3-4 | 14 |
+| B00107 | Daniel Glattauer | Ewig Dein | 2-3 | 1 | 3-4 | 15 |
+| B00930 | Daniel Glattauer | Geschenkt | 7-1 | 17 | 3-4 | 16 |
+| B00111 | Daniel Glattauer | Gut gegen Nordwind | 2-3 | 5 | 3-4 | 17 |
+| B00473 | Daniel Glattauer | Gut gegen Nordwind / Alle sieben Wellen | 4-5 | 2 | 3-4 | 18 |
+
+## Nach Regal 3-5
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00451 | Daniel Glattauer | Mama jetzt nicht! | 4-3 | 13 | 3-5 | 1 |
+| B00364 | Daniel Glattauer | Theo | 3-6 | 25 | 3-5 | 2 |
+| B00415 | Johann Wolfgang von Goethe | Faust Zweiter Teil / Iphigenie auf Tauris | 4-1 | 15 | 3-5 | 3 |
+| B00414 | Johann Wolfgang von Goethe | Gedichte und Balladen / Die Leiden des jungen Werther | 4-1 | 14 | 3-5 | 4 |
+| B00416 | Johann Wolfgang von Goethe | Götz von Berlichingen / Faust Erster Teil | 4-1 | 16 | 3-5 | 5 |
+| B00906 | Johann Wolfgang von Goethe | Lektüre für Augenblicke | 6-8 | 15 | 3-5 | 6 |
+| B00533 | Johann Wolfgang von Goethe | Tagebuch der italienischen Reise | 4-7 | 21 | 3-5 | 7 |
+| B00905 | Johann Wolfgang von Goethe | Theatralische Sendung | 6-8 | 14 | 3-5 | 8 |
+| B00413 | Johann Wolfgang von Goethe | Wahlverwandtschaften / Hermann und Dorothea | 4-1 | 13 | 3-5 | 9 |
+| B00916 | Goetz / Martens | Wir wandern, wir wandern | 7-1 | 3 | 3-5 | 10 |
+| B00290 | Curt Goetz | Sämtliche Bühnenwerke | 3-3 | 10 | 3-5 | 11 |
+| B00903 | Curt Goetz | Sämtliche Bühnenwerke 3 | 6-8 | 12 | 3-5 | 12 |
+| B00117 | William Golding | Das Feuer der Finsternis | 2-3 | 11 | 3-5 | 13 |
+| B00176 | Noah Gordon | Der Diamant des Salomon | 2-6 | 10 | 3-5 | 14 |
+| B00417 | Noah Gordon | Der Katalane | 4-1 | 17 | 3-5 | 15 |
+| B00177 | Noah Gordon | Der Medicus | 2-6 | 11 | 3-5 | 16 |
+| B00965 | Noah Gordon | Der Medicus von Saragossa | 7-3 | 14 | 3-5 | 17 |
+
+## Nach Regal 3-6
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00054 | Noah Gordon | Der Rabbi | 1-8 | 10 | 3-6 | 1 |
+| B00954 | Noah Gordon | Die Klinik | 7-3 | 3 | 3-6 | 2 |
+| B00153 | Ann Granger | Blumen für sein Grab | 2-5 | 4 | 3-6 | 3 |
+| B00730 | Ann Granger | Denn umsonst ist nur der Tod | 6-1 | 4 | 3-6 | 4 |
+| B00384 | Ann Granger | Ein Hauch von Sterblichkeit | 3-8 | 2 | 3-6 | 5 |
+| B00050 | Ann Granger | Fuchs, du hast die Gans gestohlen | 1-8 | 6 | 3-6 | 6 |
+| B00786 | Ann Granger | Ihr Wille geschehe | 6-3 | 17 | 3-6 | 7 |
+| B00941 | Ann Granger | In dunkler Tiefe sollst du ruhn | 7-2 | 9 | 3-6 | 8 |
+| B00448 | Ann Granger | Kerzenlicht für eine Leiche | 4-3 | 10 | 3-6 | 9 |
+| B00995 | Ann Granger | Mord ist aller Laster Anfang | 7-5 | 8 | 3-6 | 10 |
+| B00124 | Ann Granger | Mord wirft lange Schatten | 2-3 | 18 | 3-6 | 11 |
+| B00452 | Ann Granger | Nur der Tod ist ohne Makel | 4-3 | 14 | 3-6 | 12 |
+| B00937 | Ann Granger | Tote kehren nicht zurück | 7-2 | 5 | 3-6 | 13 |
+| B00152 | Ann Granger | Und sei getreu bis in den Tod | 2-5 | 3 | 3-6 | 14 |
+| B00603 | Ann Granger | Wer andern eine Grube gräbt | 5-3 | 4 | 3-6 | 15 |
+| B00150 | Günter Grass | Die Blechtrommel | 2-5 | 1 | 3-6 | 16 |
+| B00212 | Graham Greene | Das Schlachtfeld des Lebens | 2-7 | 29 | 3-6 | 17 |
+| B00211 | Graham Greene | Zentrum des Schreckens | 2-7 | 28 | 3-6 | 18 |
+
+## Nach Regal 3-7
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00151 | Martha Grimes | All die schönen Toten | 2-5 | 2 | 3-7 | 1 |
+| B00169 | Martha Grimes | Auferstanden von den Toten | 2-6 | 3 | 3-7 | 2 |
+| B00227 | Martha Grimes | Das Hotel am See | 2-8 | 15 | 3-7 | 3 |
+| B00171 | Martha Grimes | Das Mädchen ohne Namen | 2-6 | 5 | 3-7 | 4 |
+| B00158 | Martha Grimes | Die Ruine am See | 2-5 | 9 | 3-7 | 5 |
+| B00968 | Martha Grimes | Die Trauer trägt Schwarz | 7-3 | 17 | 3-7 | 6 |
+| B00208 | Martha Grimes | Die Treppe zum Meer | 2-7 | 25 | 3-7 | 7 |
+| B00164 | Martha Grimes | Fremde Federn | 2-5 | 15 | 3-7 | 8 |
+| B00599 | Martha Grimes | Fremde Federn / Inspektor Jury besucht alte Damen | 5-2 | 19 | 3-7 | 9 |
+| B00180 | Martha Grimes | Gewagtes Spiel | 2-6 | 14 | 3-7 | 10 |
+| B00157 | Martha Grimes | Inspektor Jury besucht alte Damen | 2-5 | 8 | 3-7 | 11 |
+| B00182 | Martha Grimes | Inspektor Jury lässt die Puppen tanzen | 2-6 | 16 | 3-7 | 12 |
+| B00173 | Martha Grimes | Karneval der Toten | 2-6 | 7 | 3-7 | 13 |
+| B00210 | Martha Grimes | Mordserfolg | 2-7 | 27 | 3-7 | 14 |
+| B00367 | Martha Grimes | Still ruht der See | 3-7 | 3 | 3-7 | 15 |
+| B00970 | Martha Grimes | Was am See geschah | 7-4 | 1 | 3-7 | 16 |
+
+## Nach Regal 3-8
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00183 | Martha Grimes | Zwei Fälle für Inspektor Jury | 2-6 | 17 | 3-8 | 1 |
+| B00445 | John Grisham | Berufung | 4-3 | 7 | 3-8 | 2 |
+| B00207 | John Grisham | Das Fest | 2-7 | 24 | 3-8 | 3 |
+| B00914 | John Grisham | Das Urteil | 7-1 | 1 | 3-8 | 4 |
+| B00159 | John Grisham | Der Coach | 2-5 | 10 | 3-8 | 5 |
+| B00912 | John Grisham | Der Klient | 6-8 | 21 | 3-8 | 6 |
+| B00229 | John Grisham | Der Polizist | 2-8 | 17 | 3-8 | 7 |
+| B00986 | John Grisham | Der Regenmacher | 7-4 | 17 | 3-8 | 8 |
+| B00913 | John Grisham | Der Verrat | 6-8 | 22 | 3-8 | 9 |
+| B00917 | John Grisham | Die Bruderschaft | 7-1 | 4 | 3-8 | 10 |
+| B00938 | John Grisham | Die Erbin | 7-2 | 6 | 3-8 | 11 |
+| B00921 | John Grisham | Die Farm | 7-1 | 8 | 3-8 | 12 |
+| B00549 | John Grisham | Die Jury | 4-8 | 7 | 3-8 | 13 |
+| B00909 | John Grisham | Die Liste | 6-8 | 18 | 3-8 | 14 |
+| B00160 | John Grisham | Die Schuld | 2-5 | 11 | 3-8 | 15 |
+| B00701 | Sabine Gruber | Stillbach oder Die Sehnsucht | 5-7 | 13 | 3-8 | 16 |
+| B00602 | Carla Guelfenbein | Die Frau unseres Lebens | 5-3 | 3 | 3-8 | 17 |
+
+## Nach Regal 4-1
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00444 | Ayelet Gundar-Goshen | Löwen wecken | 4-3 | 6 | 4-1 | 1 |
+| B00902 | David Guterson | Schnee, der auf Zedern fällt | 6-8 | 11 | 4-1 | 2 |
+| B00924 | Joel Haahtela | Der Schmetterlingssammler | 7-1 | 11 | 4-1 | 3 |
+| B00447 | Wolf Haas | Auferstehung der Toten | 4-3 | 9 | 4-1 | 4 |
+| B00927 | Wolf Haas | Ausgebremst | 7-1 | 14 | 4-1 | 5 |
+| B00583 | Wolf Haas | Brennerova | 5-2 | 3 | 4-1 | 6 |
+| B00446 | Wolf Haas | Das ewige Leben | 4-3 | 8 | 4-1 | 7 |
+| B00925 | Wolf Haas | Das ewige Leben | 7-1 | 12 | 4-1 | 8 |
+| B00441 | Wolf Haas | Der Brenner und der liebe Gott | 4-3 | 3 | 4-1 | 9 |
+| B00860 | Wolf Haas | Eigentum | 6-6 | 13 | 4-1 | 10 |
+| B00442 | Wolf Haas | Silentium! | 4-3 | 4 | 4-1 | 11 |
+| B00443 | Wolf Haas | Wie die Tiere | 4-3 | 5 | 4-1 | 12 |
+| B00928 | Erich Hackl | Als ob ein Engel | 7-1 | 15 | 4-1 | 13 |
+| B00923 | Erich Hackl | Entwurf einer Liebe auf den ersten Blick | 7-1 | 10 | 4-1 | 14 |
+| B00224 | Maja Haderlap | Engel des Vergessens | 2-8 | 12 | 4-1 | 15 |
+| B01025 | Maja Haderlap | Engel des Vergessens | 7-6 | 16 | 4-1 | 16 |
+| B00857 | Katharina Hagena | Der Geschmack von Apfelkernen | 6-6 | 10 | 4-1 | 17 |
+| B00439 | Arthur Hailey | Die Bankiers | 4-3 | 1 | 4-1 | 18 |
+
+## Nach Regal 4-2
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00440 | Arthur Hailey | Letzte Diagnose | 4-3 | 2 | 4-2 | 1 |
+| B00450 | Elfriede Hammerl | Der verpasste Mann | 4-3 | 12 | 4-2 | 2 |
+| B00410 | Elfriede Hammerl | Hotel Mama | 4-1 | 10 | 4-2 | 3 |
+| B00252 | Elfriede Hammerl | Müde bin ich Känguru | 3-1 | 23 | 4-2 | 4 |
+| B00246 | Elfriede Hammerl | Schuldgefühle sind schön | 3-1 | 17 | 4-2 | 5 |
+| B00251 | Elfriede Hammerl | Schuldgefühle sind schön | 3-1 | 22 | 4-2 | 6 |
+| B00932 | Elfriede Hammerl | Wunderbare Valerie | 7-1 | 19 | 4-2 | 7 |
+| B00781 | Petra Hammesfahr | An einem Tag im November | 6-3 | 12 | 4-2 | 8 |
+| B00188 | Petra Hammesfahr | Das Geheimnis der Puppe | 2-7 | 5 | 4-2 | 9 |
+| B00785 | Petra Hammesfahr | Der gläserne Himmel | 6-3 | 16 | 4-2 | 10 |
+| B00871 | Petra Hammesfahr | Der Schatten | 6-6 | 24 | 4-2 | 11 |
+| B00947 | Petra Hammesfahr | Die Lüge | 7-2 | 15 | 4-2 | 12 |
+| B00889 | Petra Hammesfahr | Die Toten vom Karst | 6-7 | 17 | 4-2 | 13 |
+| B00870 | Petra Hammesfahr | Erinnerung an einen Mörder | 6-6 | 23 | 4-2 | 14 |
+| B00186 | Petra Hammesfahr | Seine große Liebe | 2-7 | 3 | 4-2 | 15 |
+| B00811 | Peter Handke | Die linkshändige Frau | 6-4 | 22 | 4-2 | 16 |
+| B00956 | Helene Hanff | 84, Charing Cross Road | 7-3 | 5 | 4-2 | 17 |
+| B00193 | Joanne Harris | Fünf Viertel einer Orange | 2-7 | 10 | 4-2 | 18 |
+| B00812 | Thomas Harris | Die Hannibal-Lecter-Romane | 6-4 | 23 | 4-2 | 19 |
+| B00422 | Petra Hartlieb | Meine wundervolle Buchhandlung | 4-2 | 5 | 4-2 | 20 |
+| B00199 | Maria Hauser | Valeries Baum | 2-7 | 16 | 4-2 | 21 |
+
+## Nach Regal 4-3
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00204 | Marlen Haushofer | Die Wand | 2-7 | 21 | 4-3 | 1 |
+| B00607 | Elke Heidenreich | Ab morgen wird alles anders | 5-3 | 8 | 4-3 | 2 |
+| B00189 | Elke Heidenreich | Der Welt den Rücken | 2-7 | 6 | 4-3 | 3 |
+| B00187 | Elke Heidenreich | Kolonien der Liebe | 2-7 | 4 | 4-3 | 4 |
+| B00202 | Elke Heidenreich | Kolonien der Liebe | 2-7 | 19 | 4-3 | 5 |
+| B00341 | Elke Heidenreich | Wörter aus 30 Jahren | 3-6 | 2 | 4-3 | 6 |
+| B00203 | Veit Heinichen | Gib jedem seinen eigenen Tod | 2-7 | 20 | 4-3 | 7 |
+| B00340 | Veit Heinichen | Keine Frage des Geschmacks | 3-6 | 1 | 4-3 | 8 |
+| B00194 | Veit Heinichen | Totentanz | 2-7 | 11 | 4-3 | 9 |
+| B00195 | Veit Heinichen | Wegenschatten | 2-7 | 12 | 4-3 | 10 |
+| B00200 | Ernest Hemingway | Der alte Mann und das Meer | 2-7 | 17 | 4-3 | 11 |
+| B00197 | Judith Hermann | Nichts als Gespenster | 2-7 | 14 | 4-3 | 12 |
+| B00190 | Judith Hermann | Sommerhaus, später | 2-7 | 7 | 4-3 | 13 |
+| B00192 | Hermann Hesse | Die Kunst des Müßiggangs | 2-7 | 9 | 4-3 | 14 |
+| B00196 | Hermann Hesse | Eine Bibliothek der Weltliteratur | 2-7 | 13 | 4-3 | 15 |
+| B00201 | Hermann Hesse | Lektüre für Minuten 2 | 2-7 | 18 | 4-3 | 16 |
+| B00205 | Hermann Hesse | Liebesgeschichten | 2-7 | 22 | 4-3 | 17 |
+| B00191 | Hermann Hesse | Siddhartha | 2-7 | 8 | 4-3 | 18 |
+| B00963 | Patricia Highsmith | Small g - eine Sommeridylle | 7-3 | 12 | 4-3 | 19 |
+| B00962 | Ludwig Hirsch | Ich weiß es nicht, wohin die Engel fliegen | 7-3 | 11 | 4-3 | 20 |
+| B00660 | Paulus Hochgatterer | Das Matratzenhaus | 5-5 | 17 | 4-3 | 21 |
+| B00357 | Peter Høeg | Das stille Mädchen | 3-6 | 18 | 4-3 | 22 |
+| B00359 | Peter Høeg | Der Plan von der Abschaffung des Dunkels | 3-6 | 20 | 4-3 | 23 |
+| B00964 | Peter Høeg | Fräulein Smillas Gespür für Schnee | 7-3 | 13 | 4-3 | 24 |
+
+## Nach Regal 4-4
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00149 | Peter Høeg | Von der Liebe und ihren Bedingungen in der Nacht des 19. März 1929 | 2-4 | 23 | 4-4 | 1 |
+| B00688 | Frank Hoffmann | Weihnachten in Wien | 5-6 | 24 | 4-4 | 2 |
+| B00358 | Hugo von Hofmannsthal | Jedermann | 3-6 | 19 | 4-4 | 3 |
+| B00407 | Siri Hustvedt | Was ich liebte | 4-1 | 7 | 4-4 | 4 |
+| B00095 | Henrik Ibsen | Nora (Ein Puppenheim) | 2-2 | 16 | 4-4 | 5 |
+| B00254 | Viktor Arnar Ingólfsson | Bevor der Morgen graut | 3-1 | 25 | 4-4 | 6 |
+| B00385 | John Irving | Bis ich dich finde | 3-8 | 3 | 4-4 | 7 |
+| B00992 | John Irving | Der letzte Sessellift | 7-5 | 5 | 4-4 | 8 |
+| B00648 | John Irving | Die imaginäre Freundin | 5-5 | 5 | 4-4 | 9 |
+| B00404 | John Irving | Die vierte Hand | 4-1 | 4 | 4-4 | 10 |
+| B00317 | John Irving | Eine Mittelgewichts-Ehe | 3-4 | 16 | 4-4 | 11 |
+| B01003 | John Irving | Eine Mittelgewichts-Ehe | 7-5 | 16 | 4-4 | 12 |
+| B00259 | John Irving | Garp und wie er die Welt sah | 3-1 | 30 | 4-4 | 13 |
+| B01033 | John Irving | Gottes Werk und Teufels Beitrag | 7-7 | 1 | 4-4 | 14 |
+| B00412 | John Irving | In einer Person | 4-1 | 12 | 4-4 | 15 |
+| B00411 | John Irving | Letzte Nacht in Twisted River | 4-1 | 11 | 4-4 | 16 |
+| B00990 | John Irving | Owen Meany | 7-5 | 3 | 4-4 | 17 |
+| B00611 | John Irving | Straße der Wunder | 5-3 | 12 | 4-4 | 18 |
+| B00933 | John Irving | Witwe für ein Jahr | 7-2 | 1 | 4-4 | 19 |
+
+## Nach Regal 4-5
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B01028 | John Irving | Witwe für ein Jahr | 7-6 | 19 | 4-5 | 1 |
+| B00319 | John Irving | Zirkuskind | 3-4 | 18 | 4-5 | 2 |
+| B00278 | Peter James | So gut wie tot | 3-2 | 19 | 4-5 | 3 |
+| B00685 | Ernst Jandl | Lechts und rinks | 5-6 | 21 | 4-5 | 4 |
+| B00573 | Elfriede Jelinek | Die Liebhaberinnen | 5-1 | 15 | 4-5 | 5 |
+| B00099 | Erling Jepsen | Die Kunst im Chor zu weinen | 2-2 | 20 | 4-5 | 6 |
+| B00931 | Jonas Jonasson | Die Analphabetin, die rechnen konnte | 7-1 | 18 | 4-5 | 7 |
+| B00097 | Jonas Jonasson | Mörder Anders und seine Freunde nebst dem einen oder anderen Feind | 2-2 | 18 | 4-5 | 8 |
+| B00584 | Jonas Jonasson | Mörder Anders und seine Freunde nebst dem einen oder anderen Feind | 5-2 | 4 | 4-5 | 9 |
+| B00292 | Carl Gustav Jung | Erinnerungen, Träume, Gedanken | 3-3 | 12 | 4-5 | 10 |
+| B00794 | Vea Kaiser | Blasmusikpop | 6-4 | 5 | 4-5 | 11 |
+| B00249 | André Kaminski | Die Gärten des Mulay Abdallah | 3-1 | 20 | 4-5 | 12 |
+| B00241 | André Kaminski | Flimmergeschichten | 3-1 | 12 | 4-5 | 13 |
+| B00247 | André Kaminski | Kiebitz | 3-1 | 18 | 4-5 | 14 |
+| B00257 | André Kaminski | Schalom allerseits | 3-1 | 28 | 4-5 | 15 |
+| B00248 | offen Kaminski | Der Sieg über die Schwerkraft | 3-1 | 19 | 4-5 | 16 |
+| B00250 | offen Kaminski | Nächstes Jahr in Jerusalem | 3-1 | 21 | 4-5 | 17 |
+| B00401 | Walter Kappacher | Der Fliege | 4-1 | 1 | 4-5 | 18 |
+| B00732 | Erich Kästner | Bei Durchsicht meiner Bücher | 6-1 | 6 | 4-5 | 19 |
+| B00739 | Erich Kästner | Die verschwundene Miniatur | 6-1 | 13 | 4-5 | 20 |
+| B00580 | Erich Kästner | Drei Männer im Schnee | 5-1 | 22 | 4-5 | 21 |
+| B00738 | Erich Kästner | Herz auf Taille | 6-1 | 12 | 4-5 | 22 |
+
+## Nach Regal 4-6
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00525 | Erich Kästner | Lyrische Hausapotheke | 4-7 | 13 | 4-6 | 1 |
+| B00729 | Erich Kästner | Notabene 45 | 6-1 | 3 | 4-6 | 2 |
+| B00740 | Erich Kästner | ... was nicht in euren Lesebüchern steht | 6-1 | 14 | 4-6 | 3 |
+| B00673 | Daniel Keel / Daniel Kampa | Erlesene Verbrechen: Kriminalgeschichten | 5-6 | 9 | 4-6 | 4 |
+| B00406 | Thomas Keneally | Schindlers Liste | 4-1 | 6 | 4-6 | 5 |
+| B00280 | Imre Kertész | Roman eines Schicksallosen | 3-2 | 21 | 4-6 | 6 |
+| B00281 | Ranka Keser | Sag nicht Hopp | 3-3 | 1 | 4-6 | 7 |
+| B01016 | Stephen King | Christine | 7-6 | 7 | 4-6 | 8 |
+| B00045 | Stephen King | Der Anschlag | 1-8 | 1 | 4-6 | 9 |
+| B00703 | Stephen King | Dolores | 5-7 | 15 | 4-6 | 10 |
+| B00236 | Stephen King | In einer kleinen Stadt | 3-1 | 7 | 4-6 | 11 |
+| B00286 | Stephen King | Sie | 3-3 | 6 | 4-6 | 12 |
+| B00409 | Stephen King | Sie | 4-1 | 9 | 4-6 | 13 |
+| B00283 | Ephraim Kishon | Beste Reisegeschichten | 3-3 | 3 | 4-6 | 14 |
+| B00288 | Ephraim Kishon | Beste Tiergeschichten | 3-3 | 8 | 4-6 | 15 |
+| B00284 | Ephraim Kishon | Hausapotheke für Gesunde | 3-3 | 4 | 4-6 | 16 |
+| B00285 | Ephraim Kishon | Total verkabelt | 3-3 | 5 | 4-6 | 17 |
+| B00553 | Ephraim Kishon | ... und die beste Ehefrau von allen | 4-8 | 11 | 4-6 | 18 |
+| B00320 | Ephraim Kishon | Wie unfair, David! | 3-4 | 19 | 4-6 | 19 |
+
+## Nach Regal 4-7
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00534 | Kilian Kleinschmidt / Jenny Schuckardt | Beyond Survival | 4-7 | 22 | 4-7 | 1 |
+| B00969 | Kilian Kleinschmidt | Weil es um die Menschen geht | 7-3 | 18 | 4-7 | 2 |
+| B00094 | Heinrich von Kleist | Der zerbrochene Krug | 2-2 | 15 | 4-7 | 3 |
+| B00911 | Doris Knecht | Besser | 6-8 | 20 | 4-7 | 4 |
+| B00253 | Doris Knecht | Gruber geht | 3-1 | 24 | 4-7 | 5 |
+| B00671 | Edith Kneifl | Tatort Kaffeehaus | 5-6 | 7 | 4-7 | 6 |
+| B00899 | Michael Köhlmeier | Dein Zimmer für mich allein | 6-8 | 8 | 4-7 | 7 |
+| B00734 | Michael Köhlmeier | Geschichten von der Bibel | 6-1 | 8 | 4-7 | 8 |
+| B00743 | Michael Köhlmeier | Sagen des klassischen Altertums | 6-1 | 17 | 4-7 | 9 |
+| B00731 | Michael Köhlmeier | Sunrise | 6-1 | 5 | 4-7 | 10 |
+| B00238 | Alfred Komarek | Die Schattenuhr | 3-1 | 9 | 4-7 | 11 |
+| B00256 | Alfred Komarek | Doppelblick | 3-1 | 27 | 4-7 | 12 |
+| B00255 | Alfred Komarek | Himmel, Polt und Hölle | 3-1 | 26 | 4-7 | 13 |
+| B00026 | Alfred Komarek | Narrenwinter | 1-6 | 12 | 4-7 | 14 |
+| B00698 | Alfred Komarek | Polt | 5-7 | 10 | 4-7 | 15 |
+| B00239 | Alfred Komarek | Polterabend | 3-1 | 10 | 4-7 | 16 |
+| B00767 | Alfred Komarek / János Kalmár | Schräge Vögel: Faszinierende Lebensentwürfe | 6-2 | 18 | 4-7 | 17 |
+| B00898 | Gerhard Köpf | Eulensehen | 6-8 | 7 | 4-7 | 18 |
+| B00408 | Stefanie Kremser | Der Tag an dem ich fliegen lernte | 4-1 | 8 | 4-7 | 19 |
+| B00243 | Susanna Kubelka | Madame kommt heute später | 3-1 | 14 | 4-7 | 20 |
+| B00230 | Susanna Kubelka | Ophelia lernt schwimmen | 3-1 | 1 | 4-7 | 21 |
+
+## Nach Regal 4-8
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00403 | Milan Kundera | Das Buch der lächerlichen Liebe | 4-1 | 3 | 4-8 | 1 |
+| B00233 | Milan Kundera | Das Buch vom Lachen und Vergessen | 3-1 | 4 | 4-8 | 2 |
+| B00242 | Milan Kundera | Das Leben ist anderswo | 3-1 | 13 | 4-8 | 3 |
+| B00244 | Milan Kundera | Der Scherz | 3-1 | 15 | 4-8 | 4 |
+| B00237 | Milan Kundera | Die Identität | 3-1 | 8 | 4-8 | 5 |
+| B00231 | Milan Kundera | Die unerträgliche Leichtigkeit des Seins | 3-1 | 2 | 4-8 | 6 |
+| B00402 | Milan Kundera | Die Unsterblichkeit | 4-1 | 2 | 4-8 | 7 |
+| B00027 | Topsy Küppers | Nix wie Zores! | 1-6 | 13 | 4-8 | 8 |
+| B00565 | Rolf Lappert | Nach Hause schwimmen | 5-1 | 7 | 4-8 | 9 |
+| B00587 | Stieg Larsson | Verdammnis | 5-2 | 7 | 4-8 | 10 |
+| B00336 | Stieg Larsson | Vergebung | 3-5 | 13 | 4-8 | 11 |
+| B00681 | Jean-Yves Leloup | Das Evangelium der Maria | 5-6 | 17 | 4-8 | 12 |
+| B00736 | Judith Lennox | Das Herz der Nacht | 6-1 | 10 | 4-8 | 13 |
+| B00109 | Donna Leon | Beweise, dass es böse ist | 2-3 | 3 | 4-8 | 14 |
+| B00999 | Donna Leon | Blutige Steine | 7-5 | 12 | 4-8 | 15 |
+| B00571 | Donna Leon | Das Gesetz der Lagune | 5-1 | 13 | 4-8 | 16 |
+| B00712 | Donna Leon | Das goldene Ei | 5-8 | 6 | 4-8 | 17 |
+| B00997 | Donna Leon | Das Mädchen seiner Träume | 7-5 | 10 | 4-8 | 18 |
+| B00576 | Donna Leon | Die dunkle Stunde der Serenissima | 5-1 | 18 | 4-8 | 19 |
+| B00052 | Donna Leon | Endlich mein | 1-8 | 8 | 4-8 | 20 |
+
+## Nach Regal 5-1
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00575 | Donna Leon | Endstation Venedig | 5-1 | 17 | 5-1 | 1 |
+| B00733 | Donna Leon | Feine Freunde | 6-1 | 7 | 5-1 | 2 |
+| B00574 | Donna Leon | In Sachen Signora Brunetti | 5-1 | 16 | 5-1 | 3 |
+| B00998 | Donna Leon | Lasset die Kinder zu mir kommen | 7-5 | 11 | 5-1 | 4 |
+| B00901 | Donna Leon | Nobiltà | 6-8 | 10 | 5-1 | 5 |
+| B00566 | Donna Leon | Sanft entschlafen | 5-1 | 8 | 5-1 | 6 |
+| B01000 | Donna Leon | Schöner Schein | 7-5 | 13 | 5-1 | 7 |
+| B00763 | Donna Leon | Stille Wasser | 6-2 | 14 | 5-1 | 8 |
+| B00217 | Donna Leon | Tierische Profite | 2-8 | 5 | 5-1 | 9 |
+| B00904 | Donna Leon | Tod zwischen den Zeilen | 6-8 | 13 | 5-1 | 10 |
+| B00741 | Donna Leon | Vendetta | 6-1 | 15 | 5-1 | 11 |
+| B00572 | Donna Leon | Venezianische Scharade | 5-1 | 14 | 5-1 | 12 |
+| B00996 | Donna Leon | Wie durch ein dunkles Glas | 7-5 | 9 | 5-1 | 13 |
+| B00570 | Doris Lessing | Das fünfte Kind | 5-1 | 12 | 5-1 | 14 |
+| B00900 | Gotthold Ephraim Lessing | Nathan der Weise | 6-8 | 9 | 5-1 | 15 |
+| B00567 | Ira Levin | Rosemarys Sohn | 5-1 | 9 | 5-1 | 16 |
+| B00579 | Norman Levine | Django, Karfunkelstein & Rosen | 5-1 | 21 | 5-1 | 17 |
+| B00031 | Charlotte Link | Das andere Kind | 1-7 | 2 | 5-1 | 18 |
+| B00693 | Charlotte Link | Das Echo der Schuld | 5-7 | 5 | 5-1 | 19 |
+
+## Nach Regal 5-2
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00548 | Charlotte Link | Das Haus der Schwestern | 4-8 | 6 | 5-2 | 1 |
+| B00057 | Charlotte Link | Der Beobachter | 1-8 | 13 | 5-2 | 2 |
+| B00056 | Charlotte Link | Der Verehrer | 1-8 | 12 | 5-2 | 3 |
+| B00478 | Charlotte Link | Die Betrogene | 4-5 | 7 | 5-2 | 4 |
+| B01048 | Charlotte Link | Die letzte Spur | 7-7 | 16 | 5-2 | 5 |
+| B00058 | Charlotte Link | Die Rosenzüchterin | 1-8 | 14 | 5-2 | 6 |
+| B00037 | Charlotte Link | Die Sünde der Engel | 1-7 | 8 | 5-2 | 7 |
+| B00038 | Charlotte Link | Schattenspiel | 1-7 | 9 | 5-2 | 8 |
+| B01047 | Charlotte Link | Sturmzeit | 7-7 | 15 | 5-2 | 9 |
+| B01037 | Charlotte Link | Wilde Lupinen | 7-7 | 5 | 5-2 | 10 |
+| B00391 | Mario Vargas Llosa | Das Fest des Ziegenbocks | 3-8 | 9 | 5-2 | 11 |
+| B00034 | Bernhard Ludwig | Anleitung zum Herzinfarkt | 1-7 | 5 | 5-2 | 12 |
+| B00728 | Leo Lukas | Das Leo Lukas Lesebuch | 6-1 | 2 | 5-2 | 13 |
+| B00547 | Leo Lukas | Mörder Quoten | 4-8 | 5 | 5-2 | 14 |
+| B00988 | Sofia Lundberg | Ein halbes Herz | 7-5 | 1 | 5-2 | 15 |
+| B00362 | Marisa Madieri | Wassergrün | 3-6 | 23 | 5-2 | 16 |
+| B00554 | Ferry Maier / Julia Ortner | Willkommen in Österreich | 4-8 | 12 | 5-2 | 17 |
+
+## Nach Regal 5-3
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00030 | Eric Malpass | Als Mutter streikte | 1-7 | 1 | 5-3 | 1 |
+| B00036 | Eric Malpass | Wenn der Tiger schlafen geht | 1-7 | 7 | 5-3 | 2 |
+| B00232 | Eric Malpass | Wenn süß das Mondlicht auf den Hügeln schläft | 3-1 | 3 | 5-3 | 3 |
+| B00035 | Nelson Mandela | Der lange Weg zur Freiheit | 1-7 | 6 | 5-3 | 4 |
+| B00716 | Henning Mankell | Daisy Sisters | 5-8 | 10 | 5-3 | 5 |
+| B00016 | Henning Mankell | Der Chinese | 1-6 | 2 | 5-3 | 6 |
+| B00006 | Henning Mankell | Der Feind im Schatten | 1-5 | 6 | 5-3 | 7 |
+| B00015 | Henning Mankell | Der Mann, der lächelte | 1-6 | 1 | 5-3 | 8 |
+| B00780 | Henning Mankell | Der Sprengmeister | 6-3 | 11 | 5-3 | 9 |
+| B00737 | Henning Mankell | Die Brandmauer | 6-1 | 11 | 5-3 | 10 |
+| B00033 | Henning Mankell | Die falsche Fährte | 1-7 | 4 | 5-3 | 11 |
+| B00032 | Henning Mankell | Die italienischen Schuhe | 1-7 | 3 | 5-3 | 12 |
+| B00004 | Henning Mankell | Die rote Antilope | 1-5 | 4 | 5-3 | 13 |
+| B00005 | Henning Mankell | Die Rückkehr des Tanzlehrers | 1-5 | 5 | 5-3 | 14 |
+| B00262 | Henning Mankell | Die weiße Löwin | 3-2 | 3 | 5-3 | 15 |
+| B00013 | Henning Mankell | Mittsommermord | 1-5 | 13 | 5-3 | 16 |
+| B00009 | Henning Mankell | Tea-Bag | 1-5 | 9 | 5-3 | 17 |
+| B00577 | Henning Mankell | Tiefe | 5-1 | 19 | 5-3 | 18 |
+| B00620 | Henning Mankell | Treibsand | 5-3 | 21 | 5-3 | 19 |
+
+## Nach Regal 5-4
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00044 | Henning Mankell | Vor dem Frost | 1-7 | 15 | 5-4 | 1 |
+| B00059 | Henning Mankell | Wallanders erster Fall | 1-8 | 15 | 5-4 | 2 |
+| B00012 | Golo Mann | Deutsche Geschichte des 19. und 20. Jahrhunderts | 1-5 | 12 | 5-4 | 3 |
+| B00103 | Thomas Mann | Buddenbrooks | 2-2 | 24 | 5-4 | 4 |
+| B00946 | Thomas Mann | Der Tod in Venedig | 7-2 | 14 | 5-4 | 5 |
+| B00018 | Thomas Mann | Der Zauberberg | 1-6 | 4 | 5-4 | 6 |
+| B00710 | Thomas Mann | Die Erzählungen | 5-8 | 4 | 5-4 | 7 |
+| B00011 | Thomas Mann | Joseph und seine Brüder | 1-5 | 11 | 5-4 | 8 |
+| B00007 | Thomas Mann | Tagebücher 1953–1955 | 1-5 | 7 | 5-4 | 9 |
+| B00557 | Sándor Márai | Bekenntnisse eines Bürgers | 4-8 | 15 | 5-4 | 10 |
+| B00893 | Sándor Márai | Das Vermächtnis der Eszter | 6-8 | 2 | 5-4 | 11 |
+| B00569 | Sándor Márai | Die Fremde | 5-1 | 11 | 5-4 | 12 |
+| B01018 | Sándor Márai | Die Glut | 7-6 | 9 | 5-4 | 13 |
+| B00568 | Sándor Márai | Wandlungen einer Ehe | 5-1 | 10 | 5-4 | 14 |
+| B00206 | Petros Markaris | Abrechnung | 2-7 | 23 | 5-4 | 15 |
+| B00890 | Petros Markaris | Die Kinderfrau | 6-7 | 18 | 5-4 | 16 |
+| B00539 | Petros Markaris | Faule Kredite | 4-7 | 27 | 5-4 | 17 |
+| B00891 | Petros Markaris | Live! | 6-7 | 19 | 5-4 | 18 |
+| B00724 | Petros Markaris | Zahltag | 5-8 | 18 | 5-4 | 19 |
+
+## Nach Regal 5-5
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00453 | Petros Markaris | Zurück auf Start | 4-3 | 15 | 5-5 | 1 |
+| B00723 | Georg Markus | Wenn man trotzdem lacht | 5-8 | 17 | 5-5 | 2 |
+| B00910 | Valerie von Martens | Curts Geschichten | 6-8 | 19 | 5-5 | 3 |
+| B00631 | Hanns Marzini | Nie wieder Hummer | 5-4 | 10 | 5-5 | 4 |
+| B01046 | Jörg Maurer | Die große Hitze | 7-7 | 14 | 5-5 | 5 |
+| B00298 | Daphne du Maurier | Ein Tropfen Zeit | 3-3 | 18 | 5-5 | 6 |
+| B00315 | Daphne du Maurier | Spätestens in Venedig | 3-4 | 14 | 5-5 | 7 |
+| B00275 | Jörg Mauthe | Demnächst | 3-2 | 16 | 5-5 | 8 |
+| B00294 | Jörg Mauthe | Die Bürger von Schmeggs | 3-3 | 14 | 5-5 | 9 |
+| B00922 | Beate Maxian | Tod hinter dem Stephansdom | 7-1 | 9 | 5-5 | 10 |
+| B00967 | Felicitas Mayall | Hundszeiten | 7-3 | 16 | 5-5 | 11 |
+| B00929 | Felicitas Mayall | Nacht der Stachelschweine | 7-1 | 16 | 5-5 | 12 |
+| B00449 | Felicitas Mayall | Wie Krähen im Nebel | 4-3 | 11 | 5-5 | 13 |
+| B00721 | Frank McCourt | Die Asche meiner Mutter | 5-8 | 15 | 5-5 | 14 |
+| B00711 | Colleen McCullough | Tim | 5-8 | 5 | 5-5 | 15 |
+| B00609 | Elizabeth McGregor | Denn es gibt keine Gnade | 5-3 | 10 | 5-5 | 16 |
+| B00486 | Semezdin Mehmedinović | Sarajevo Blues | 4-5 | 15 | 5-5 | 17 |
+| B00707 | Herman Melville | Moby-Dick | 5-8 | 1 | 5-5 | 18 |
+
+## Nach Regal 5-6
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00753 | Eva Menasse | Vienna | 6-2 | 4 | 5-6 | 1 |
+| B00591 | Robert Menasse | Die Hauptstadt | 5-2 | 11 | 5-6 | 2 |
+| B00261 | Robert Menasse | Die Vertreibung aus der Hölle | 3-2 | 2 | 5-6 | 3 |
+| B01010 | Marie Merburg | Sommerflimmern | 7-6 | 1 | 5-6 | 4 |
+| B00702 | Laura Imai Messina | Die Telefonzelle am Ende der Welt | 5-7 | 14 | 5-6 | 5 |
+| B00405 | Joachim Meyerhoff | Ach diese Lücke diese entsetzliche Lücke | 4-1 | 5 | 5-6 | 6 |
+| B00918 | Joachim Meyerhoff | Alle Toten fliegen hoch: Amerika | 7-1 | 5 | 5-6 | 7 |
+| B00715 | Joachim Meyerhoff | Die Zweisamkeit der Einzelgänger | 5-8 | 9 | 5-6 | 8 |
+| B01015 | Joachim Meyerhoff | Man kann auch in die Höhe fallen | 7-6 | 6 | 5-6 | 9 |
+| B00951 | Joachim Meyerhoff | Wann wird es endlich wieder so, wie es nie war | 7-2 | 19 | 5-6 | 10 |
+| B00718 | James A. Michener | Die Kinder von Torremolinos | 5-8 | 12 | 5-6 | 11 |
+| B00475 | Corinna Milborn / Markus Breitenecker | Change the Game: Wie wir uns das Netz von Facebook und Google zurückerobern | 4-5 | 4 | 5-6 | 12 |
+| B00719 | Alice Miller | Du sollst nicht merken | 5-8 | 13 | 5-6 | 13 |
+| B00720 | Arthur Miller | Hexenjagd | 5-8 | 14 | 5-6 | 14 |
+| B00542 | Sue Miller | Das Ende des Sommers | 4-7 | 30 | 5-6 | 15 |
+| B00787 | Donna Milner | River | 6-3 | 18 | 5-6 | 16 |
+| B00561 | Katharina Mink | Die Insassen | 5-1 | 3 | 5-6 | 17 |
+| B00279 | Roberto Mistretta | Das falsche Spiel des Fischers | 3-2 | 20 | 5-6 | 18 |
+| B00872 | Emily Mitchell | Bilder eines Sommers | 6-6 | 25 | 5-6 | 19 |
+
+## Nach Regal 5-7
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00115 | Anna Mitgutsch | Ausgrenzung | 2-3 | 9 | 5-7 | 1 |
+| B00276 | Anna Mitgutsch | Zwei Leben und ein Tag | 3-2 | 17 | 5-7 | 2 |
+| B00299 | Anna Mitgutsch | Zwei Leben und ein Tag | 3-3 | 19 | 5-7 | 3 |
+| B00742 | Walter Moers | Die Stadt der Träumenden Bücher | 6-1 | 16 | 5-7 | 4 |
+| B00894 | Michael Moore | Volle Deckung, Mr. Bush | 6-8 | 3 | 5-7 | 5 |
+| B00560 | Marlo Morgan | Traumfänger | 5-1 | 2 | 5-7 | 6 |
+| B00892 | Christian Morgenstern | Gedichte / Verse / Sprüche | 6-8 | 1 | 5-7 | 7 |
+| B00537 | Christian Morgenstern | Sämtliche Galgenlieder | 4-7 | 25 | 5-7 | 8 |
+| B00578 | Christian Morgenstern | Sämtliche Galgenlieder | 5-1 | 20 | 5-7 | 9 |
+| B00907 | Jojo Moyes | Ein ganzes halbes Jahr | 6-8 | 16 | 5-7 | 10 |
+| B00895 | Fritz Muliar | Streng indiskret! | 6-8 | 4 | 5-7 | 11 |
+| B00961 | Alice Munro | Liebes Leben | 7-3 | 10 | 5-7 | 12 |
+| B00747 | Axel Munthe | Das Buch von San Michele | 6-1 | 21 | 5-7 | 13 |
+| B00379 | Magdalen Nabb | Tod eines Engländers | 3-7 | 15 | 5-7 | 14 |
+| B00381 | Magdalen Nabb | Tod eines Holländers | 3-7 | 17 | 5-7 | 15 |
+| B00382 | Magdalen Nabb | Tod im Herbst | 3-7 | 18 | 5-7 | 16 |
+| B00380 | Magdalen Nabb | Tod im Palazzo | 3-7 | 16 | 5-7 | 17 |
+| B00374 | Sten Nadolny | Die Entdeckung der Langsamkeit | 3-7 | 10 | 5-7 | 18 |
+| B00746 | Preethi Nair | Der Duft der Farben | 6-1 | 20 | 5-7 | 19 |
+
+## Nach Regal 5-8
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00745 | John J. Nance | Das Medusa-Projekt | 6-1 | 19 | 5-8 | 1 |
+| B00368 | Håkan Nesser | Aus Doktor Klimkes Perspektive | 3-7 | 4 | 5-8 | 2 |
+| B00562 | Håkan Nesser | Barins Dreieck | 5-1 | 4 | 5-8 | 3 |
+| B01027 | Håkan Nesser | Das grobmaschige Netz | 7-6 | 18 | 5-8 | 4 |
+| B00369 | Håkan Nesser | Das zweite Leben des Herrn Roos | 3-7 | 5 | 5-8 | 5 |
+| B00527 | Håkan Nesser | Der Tote vom Strand | 4-7 | 15 | 5-8 | 6 |
+| B00370 | Håkan Nesser | Die Einsamen | 3-7 | 6 | 5-8 | 7 |
+| B00375 | Håkan Nesser | Die Fliege und die Ewigkeit | 3-7 | 11 | 5-8 | 8 |
+| B00559 | Håkan Nesser | Die Perspektive des Gärtners | 5-1 | 1 | 5-8 | 9 |
+| B01023 | Håkan Nesser | Die Schatten und der Regen | 7-6 | 14 | 5-8 | 10 |
+| B00454 | Håkan Nesser | Die Schwalbe, die Katze, die Rose und der Tod | 4-3 | 16 | 5-8 | 11 |
+| B00372 | Håkan Nesser | Die Wahrheit über Kim Novak und den Mord an Berra Albertsson | 3-7 | 8 | 5-8 | 12 |
+| B00376 | Håkan Nesser | Eine ganz andere Geschichte | 3-7 | 12 | 5-8 | 13 |
+| B00705 | Håkan Nesser | Eine ganz andere Geschichte | 5-7 | 17 | 5-8 | 14 |
+| B00371 | Håkan Nesser | Mensch ohne Hund | 3-7 | 7 | 5-8 | 15 |
+| B00749 | Håkan Nesser | Sein letzter Fall | 6-1 | 23 | 5-8 | 16 |
+| B01024 | Håkan Nesser | Und Piccadilly Circus liegt nicht in Kumla | 7-6 | 15 | 5-8 | 17 |
+| B00377 | Johann Nestroy | Werke | 3-7 | 13 | 5-8 | 18 |
+
+## Nach Regal 6-1
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00483 | Michael Niavarani | Der frühe Wurm hat einen Vogel | 4-5 | 12 | 6-1 | 1 |
+| B00487 | Michael Niavarani | Vater Morgana | 4-5 | 16 | 6-1 | 2 |
+| B00692 | David Nicholls | Keine weiteren Fragen | 5-7 | 4 | 6-1 | 3 |
+| B00482 | David Nicholls | Zwei an einem Tag | 4-5 | 11 | 6-1 | 4 |
+| B00476 | Friedrich Nietzsche | Also sprach Zarathustra | 4-5 | 5 | 6-1 | 5 |
+| B00479 | Anaïs Nin | Die verborgenen Früchte | 4-5 | 8 | 6-1 | 6 |
+| B00480 | Anaïs Nin | Ein Spion im Haus der Liebe | 4-5 | 9 | 6-1 | 7 |
+| B00481 | Anaïs Nin | Haus des Inzests | 4-5 | 10 | 6-1 | 8 |
+| B00627 | Dieter Noll | Die Abenteuer des Werner Holt | 5-4 | 6 | 6-1 | 9 |
+| B00638 | Ingrid Noll | Der Hahn ist tot | 5-4 | 17 | 6-1 | 10 |
+| B00618 | Ingrid Noll | Die Apothekerin | 5-3 | 19 | 6-1 | 11 |
+| B00633 | Ingrid Noll | Ladylike | 5-4 | 12 | 6-1 | 12 |
+| B00637 | Ingrid Noll | Rabenbrüder | 5-4 | 16 | 6-1 | 13 |
+| B00634 | Ingrid Noll | Röslein rot | 5-4 | 13 | 6-1 | 14 |
+| B00636 | Ingrid Noll | Selige Witwen | 5-4 | 15 | 6-1 | 15 |
+| B00942 | Tamar Noort | Die Ewigkeit ist ein guter Ort | 7-2 | 10 | 6-1 | 16 |
+| B00471 | Lawrence Norfolk | Lemprières Wörterbuch | 4-4 | 15 | 6-1 | 17 |
+| B00629 | Christine Nöstlinger | Best of Mama | 5-4 | 8 | 6-1 | 18 |
+
+## Nach Regal 6-2
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00615 | Christine Nöstlinger | Manchmal möchte ich ein Single sein | 5-3 | 16 | 6-2 | 1 |
+| B00616 | Christine Nöstlinger | Salat für Mama | 5-3 | 17 | 6-2 | 2 |
+| B00958 | Joyce Carol Oates | Geheimnisse | 7-3 | 7 | 6-2 | 3 |
+| B00043 | Barack Obama | Ein amerikanischer Traum. Die Geschichte meiner Familie | 1-7 | 14 | 6-2 | 4 |
+| B00699 | Cornelius Obonya | Kommen Sie bitte weiter vor | 5-7 | 11 | 6-2 | 5 |
+| B00040 | Karl Ludwig Opitz | Das Pfandhaus der Glückseligkeit | 1-7 | 11 | 6-2 | 6 |
+| B00039 | Kurt Palm | Bad Fucking | 1-7 | 10 | 6-2 | 7 |
+| B00994 | Ann Patchett | Familienangelegenheiten | 7-5 | 7 | 6-2 | 8 |
+| B00545 | Richard Picker | Das Ende vom Lied? Positionen eines Lebens zwischen Hitlerjugend, Psychotherapie und Kirche | 4-8 | 3 | 6-2 | 9 |
+| B00017 | Jodi Picoult | 19 Minuten | 1-6 | 3 | 6-2 | 10 |
+| B00053 | Jodi Picoult | Auf den zweiten Blick | 1-8 | 9 | 6-2 | 11 |
+| B00008 | Jodi Picoult | Das Herz ihrer Tochter | 1-5 | 8 | 6-2 | 12 |
+| B00020 | Jodi Picoult | Die Wahrheit meines Vaters | 1-6 | 6 | 6-2 | 13 |
+| B00048 | Jodi Picoult | Schuldig | 1-8 | 4 | 6-2 | 14 |
+| B00002 | Jodi Picoult | Zeit der Gespenster | 1-5 | 2 | 6-2 | 15 |
+| B00014 | Jodi Picoult | Zerbrechlich | 1-5 | 14 | 6-2 | 16 |
+| B00550 | Rosamunde Pilcher | Die Muschelsucher | 4-8 | 8 | 6-2 | 17 |
+| B00643 | Rosamunde Pilcher | Heimkehr | 5-4 | 22 | 6-2 | 18 |
+
+## Nach Regal 6-3
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00010 | Rosamunde Pilcher | Wilder Thymian | 1-5 | 10 | 6-3 | 1 |
+| B00915 | Rosamunde Pilcher | Wintersonne | 7-1 | 2 | 6-3 | 2 |
+| B00528 | Friederun Pleterski | Ein Haus in Dalmatien | 4-7 | 16 | 6-3 | 3 |
+| B00003 | Erika Pluhar | Als gehörte eins zum andern | 1-5 | 3 | 6-3 | 4 |
+| B01045 | Erika Pluhar | Am Ende des Gartens | 7-7 | 13 | 6-3 | 5 |
+| B00042 | Erika Pluhar | Der Fisch lernt fliegen | 1-7 | 13 | 6-3 | 6 |
+| B00019 | Erika Pluhar | Mulldus Erfindungen | 1-6 | 5 | 6-3 | 7 |
+| B00021 | Hugo Portisch / Sepp Riff | Österreich II | 1-6 | 7 | 6-3 | 8 |
+| B00700 | Otfried Preußler | Der Räuber Hotzenplotz | 5-7 | 12 | 6-3 | 9 |
+| B00551 | Otfried Preußler | Krabat | 4-8 | 9 | 6-3 | 10 |
+| B00782 | Avi Primor | Weit war der Himmel über Palästina | 6-3 | 13 | 6-3 | 11 |
+| B01041 | Thomas Raab | Der Metzger bricht das Eis | 7-7 | 9 | 6-3 | 12 |
+| B00047 | Thomas Raab | Der Metzger kommt ins Paradies | 1-8 | 3 | 6-3 | 13 |
+| B01042 | Thomas Raab | Der Metzger muss nachsitzen | 7-7 | 10 | 6-3 | 14 |
+| B01039 | Thomas Raab | Der Metzger sieht rot | 7-7 | 7 | 6-3 | 15 |
+| B00983 | Thomas Raab | Walter muss weg | 7-4 | 14 | 6-3 | 16 |
+| B00386 | Anne B. Ragde | Das Lügenhaus | 3-8 | 4 | 6-3 | 17 |
+
+## Nach Regal 6-4
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B01011 | Anne B. Ragde | Die Liebesangst | 7-6 | 2 | 6-4 | 1 |
+| B01009 | Anne B. Ragde | Einsiedlerkrebse | 7-5 | 22 | 6-4 | 2 |
+| B00868 | Anne B. Ragde | Herzenbrecher | 6-6 | 21 | 6-4 | 3 |
+| B01012 | Anne B. Ragde | Hitzewelle | 7-6 | 3 | 6-4 | 4 |
+| B01044 | Anne B. Ragde | Tod im Fjord / Mord in Spitzbergen | 7-7 | 12 | 6-4 | 5 |
+| B00025 | Christoph Ransmayr | Atlas eines ängstlichen Mannes | 1-6 | 11 | 6-4 | 6 |
+| B00055 | Manfred Rebhandl | Der König der Schweine | 1-8 | 11 | 6-4 | 7 |
+| B01034 | Marcel Reich-Ranicki | Mein Leben | 7-7 | 2 | 6-4 | 8 |
+| B01040 | Elisabeth Reichart | Die Voest-Kinder | 7-7 | 8 | 6-4 | 9 |
+| B00102 | Christoph Reichl | Schlaraffenland | 2-2 | 23 | 6-4 | 10 |
+| B00268 | Erich Maria Remarque | Im Westen nichts Neues | 3-2 | 9 | 6-4 | 11 |
+| B00784 | Ruth Rendell | Der Friedhofbaum | 6-3 | 15 | 6-4 | 12 |
+| B00544 | Ruth Rendell | Der Sonderling | 4-8 | 2 | 6-4 | 13 |
+| B00282 | Ruth Rendell | Der vergessene Tote | 3-3 | 2 | 6-4 | 14 |
+| B00594 | Ruth Rendell | Die Liebe eines Mörders | 5-2 | 14 | 6-4 | 15 |
+| B00310 | Ruth Rendell | Die Tote im falschen Grab | 3-4 | 9 | 6-4 | 16 |
+| B00464 | Ruth Rendell | Die Werbung / Das geheime Haus des Todes | 4-4 | 8 | 6-4 | 17 |
+| B00306 | Ruth Rendell | Dunkle Wasser | 3-4 | 5 | 6-4 | 18 |
+
+## Nach Regal 6-5
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00312 | Ruth Rendell | Mord am Polterabend / Der Liebe böser Engel | 3-4 | 11 | 6-5 | 1 |
+| B00768 | Ruth Rendell | Schuld der Angst | 6-2 | 19 | 6-5 | 2 |
+| B00977 | Ruth Rendell | See der Dunkelheit | 7-4 | 8 | 6-5 | 3 |
+| B00764 | Ruth Rendell | Urteil in Stein | 6-2 | 15 | 6-5 | 4 |
+| B00295 | Luise Rinser | Miriam | 3-3 | 15 | 6-5 | 5 |
+| B00270 | Harold Robbins | Sehnsucht | 3-2 | 11 | 6-5 | 6 |
+| B00696 | Nora Roberts | Lockruf der Gefahr | 5-7 | 8 | 6-5 | 7 |
+| B00456 | Nora Roberts | Mitten in der Nacht | 4-3 | 18 | 6-5 | 8 |
+| B00271 | Michael Robotham | Dein Wille geschehe | 3-2 | 12 | 6-5 | 9 |
+| B00314 | Alexander Roda Roda | Der Knabe mit den 13 Vätern | 3-4 | 13 | 6-5 | 10 |
+| B00313 | Alexander Roda Roda | Fünfhundert Schwänke | 3-4 | 12 | 6-5 | 11 |
+| B00325 | Emmanuil Roidis | Päpstin Johanna | 3-5 | 2 | 6-5 | 12 |
+| B00051 | Karen Rose | Der Duft des Bösen | 1-8 | 7 | 6-5 | 13 |
+| B00717 | Peter Rosegger | Die Försterbuben | 5-8 | 11 | 6-5 | 14 |
+| B00323 | Herbert Rosendorfer | Briefe in die chinesische Vergangenheit | 3-4 | 22 | 6-5 | 15 |
+| B00291 | Eva Rossmann | Alles rot | 3-3 | 11 | 6-5 | 16 |
+| B00485 | Eva Rossmann | Ausgekocht | 4-5 | 14 | 6-5 | 17 |
+| B01004 | Eva Rossmann | Ausgekocht | 7-5 | 17 | 6-5 | 18 |
+
+## Nach Regal 6-6
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00546 | Eva Rossmann | Evelyns Fall | 4-8 | 4 | 6-6 | 1 |
+| B00178 | Eva Rossmann | Fadenkreuz | 2-6 | 12 | 6-6 | 2 |
+| B00060 | Eva Rossmann | Gut, aber tot | 2-1 | 1 | 6-6 | 3 |
+| B00697 | Eva Rossmann | Heißzeit 51 | 5-7 | 9 | 6-6 | 4 |
+| B00944 | Eva Rossmann | Männerfreundschaft | 7-2 | 12 | 6-6 | 5 |
+| B00722 | Eva Rossmann | Russen kommen | 5-8 | 16 | 6-6 | 6 |
+| B00267 | Eva Rossmann | Unter Strom | 3-2 | 8 | 6-6 | 7 |
+| B00266 | Eva Rossmann | Unterm Messer | 3-2 | 7 | 6-6 | 8 |
+| B00274 | Eva Rossmann | Verschieden | 3-2 | 15 | 6-6 | 9 |
+| B00226 | Eva Rossmann | Wahlkampf | 2-8 | 14 | 6-6 | 10 |
+| B00272 | Eva Rossmann | Wein und Tod | 3-2 | 13 | 6-6 | 11 |
+| B01032 | Eugen Roth | Das Eugen Roth Buch | 7-6 | 23 | 6-6 | 12 |
+| B00535 | Eugen Roth | Ernst und heiter | 4-7 | 23 | 6-6 | 13 |
+| B00677 | Carlos Ruiz Zafón | Das Spiel des Engels | 5-6 | 13 | 6-6 | 14 |
+| B00708 | Carlos Ruiz Zafón | Marina | 5-8 | 2 | 6-6 | 15 |
+| B00653 | David Safier | Jesus liebt mich | 5-5 | 10 | 6-6 | 16 |
+| B00536 | David Safier | Muh! | 4-7 | 24 | 6-6 | 17 |
+| B00529 | J. D. Salinger | Der Fänger im Roggen | 4-7 | 17 | 6-6 | 18 |
+| B01022 | Anna Salter | Wenn du lügst | 7-6 | 13 | 6-6 | 19 |
+
+## Nach Regal 6-7
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00049 | Thomas Sautner | Fuchserde | 1-8 | 5 | 6-7 | 1 |
+| B01026 | David Schalko | Weiße Nacht | 7-6 | 17 | 6-7 | 2 |
+| B01014 | Hans-Henning Scharsach | Stille Machtergreifung | 7-6 | 5 | 6-7 | 3 |
+| B01031 | Hartmut Scheible | Arthur Schnitzler in Selbstzeugnissen und Bilddokumenten | 7-6 | 22 | 6-7 | 4 |
+| B00726 | Otto Schenk | Garantiert zum Lachen | 5-8 | 20 | 6-7 | 5 |
+| B00725 | Otto Schenk | Sachen zum Lachen | 5-8 | 19 | 6-7 | 6 |
+| B00219 | Ferdinand von Schirach | Schuld | 2-8 | 7 | 6-7 | 7 |
+| B00531 | Bernhard Schlink | Das Wochenende | 4-7 | 19 | 6-7 | 8 |
+| B00993 | Bernhard Schlink | Die Enkelin | 7-5 | 6 | 6-7 | 9 |
+| B00530 | Bernhard Schlink | Liebesfluchten | 4-7 | 18 | 6-7 | 10 |
+| B00751 | Bernhard Schlink | Selbs Mord | 6-2 | 2 | 6-7 | 11 |
+| B00541 | Eric-Emmanuel Schmitt | Das Evangelium nach Pilatus | 4-7 | 29 | 6-7 | 12 |
+| B00532 | Arthur Schnitzler | Der Weg ins Freie | 4-7 | 20 | 6-7 | 13 |
+| B00558 | Arthur Schnitzler | Lesebuch | 4-8 | 16 | 6-7 | 14 |
+| B00263 | Susanne Scholl | Emma schweigt | 3-2 | 4 | 6-7 | 15 |
+| B01030 | Susanne Scholl / Irina Scherbakowa | Moskauer Küchengespräche | 7-6 | 21 | 6-7 | 16 |
+| B01006 | Susanne Scholl | Schäm dich, Europa! | 7-5 | 19 | 6-7 | 17 |
+| B01029 | Arthur Schopenhauer | Aphorismen zur Lebensweisheit | 7-6 | 20 | 6-7 | 18 |
+| B00245 | Michael Schottenberg | Von der Bühne in die Welt | 3-1 | 16 | 6-7 | 19 |
+| B00170 | Götz Schrage | Tausendmal verliebt | 2-6 | 4 | 6-7 | 20 |
+
+## Nach Regal 6-8
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00614 | Julian Schutting | Liebesgedichte | 5-3 | 15 | 6-8 | 1 |
+| B00373 | Brigitte Schwaiger | Liebesversuche | 3-7 | 9 | 6-8 | 2 |
+| B00378 | Dietrich Schwanitz | Bildung | 3-7 | 14 | 6-8 | 3 |
+| B00477 | Alice Schwarzer | Meine algerische Familie | 4-5 | 6 | 6-8 | 4 |
+| B00365 | Alice Schwarzer | Simone de Beauvoir. Weggefährtinnen im Gespräch | 3-7 | 1 | 6-8 | 5 |
+| B00597 | Robert Seethaler | Das Café ohne Namen | 5-2 | 17 | 6-8 | 6 |
+| B00277 | Ben Segenreich / Daniela Segenreich | Fast ganz normal – Unser Leben in Israel | 3-2 | 18 | 6-8 | 7 |
+| B00228 | Dagmar Seifert | Ein silbergrüner Wasserfall | 2-8 | 16 | 6-8 | 8 |
+| B00984 | Elif Shafak | Der Geruch des Paradieses | 7-4 | 15 | 6-8 | 9 |
+| B00366 | Siba Shakib | Nach Afghanistan kommt Gott nur noch zum Weinen | 3-7 | 2 | 6-8 | 10 |
+| B00654 | Anita Shreve | Eine Hochzeit im Dezember | 5-5 | 11 | 6-8 | 11 |
+| B00215 | Isaac Bashevis Singer | Feinde, die Geschichte einer Liebe | 2-8 | 3 | 6-8 | 12 |
+| B00223 | Isaac Bashevis Singer | Meschugge | 2-8 | 11 | 6-8 | 13 |
+| B00222 | Isaac Bashevis Singer | Verloren in Amerika | 2-8 | 10 | 6-8 | 14 |
+| B00024 | Karin Slaughter | Belladonna | 1-6 | 10 | 6-8 | 15 |
+| B00218 | Karin Slaughter | Das fremde Gesicht | 2-8 | 6 | 6-8 | 16 |
+| B00216 | Karin Slaughter | Entsetzen | 2-8 | 4 | 6-8 | 17 |
+
+## Nach Regal 7-1
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00214 | Karin Slaughter | Gottlos | 2-8 | 2 | 7-1 | 1 |
+| B00220 | Karin Slaughter | Schattenblume | 2-8 | 8 | 7-1 | 2 |
+| B00695 | Karin Slaughter | Zerstört | 5-7 | 7 | 7-1 | 3 |
+| B00621 | Dorothee Sölle | Leben ohne Lügen | 5-3 | 22 | 7-1 | 4 |
+| B00023 | Alexander Solschenizyn | Iwan Denissowitsch | 1-6 | 9 | 7-1 | 5 |
+| B00619 | Alexander Solschenizyn | Zwischenfall | 5-3 | 20 | 7-1 | 6 |
+| B00625 | Nicholas Sparks | Das Schweigen des Glücks | 5-4 | 4 | 7-1 | 7 |
+| B00630 | Nicholas Sparks | Die Nähe des Himmels | 5-4 | 9 | 7-1 | 8 |
+| B00626 | Nicholas Sparks | Weit wie das Meer | 5-4 | 5 | 7-1 | 9 |
+| B00632 | Nicholas Sparks | Zeit im Wind | 5-4 | 11 | 7-1 | 10 |
+| B00662 | Daniel Speck | Jaffa Road | 5-5 | 19 | 7-1 | 11 |
+| B00423 | Manès Sperber | Churban | 4-2 | 6 | 7-1 | 12 |
+| B00352 | Peter Stanford | Die wahre Geschichte der Päpstin Johanna | 3-6 | 13 | 7-1 | 13 |
+| B00427 | Jason Starr | Panik | 4-2 | 10 | 7-1 | 14 |
+| B00774 | Dirk Stermann | 6 Österreicher unter den ersten 5 | 6-3 | 5 | 7-1 | 15 |
+| B00543 | Dirk Stermann | Maksym | 4-8 | 1 | 7-1 | 16 |
+| B00429 | Robert Louis Stevenson | Dr Jekyll und Mr Hyde | 4-2 | 12 | 7-1 | 17 |
+| B00759 | Adalbert Stifter | Witiko | 6-2 | 10 | 7-1 | 18 |
+
+## Nach Regal 7-2
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00771 | Otto Stoessl | Der Kurpfuscher | 6-3 | 2 | 7-2 | 1 |
+| B00779 | Marlene Streeruwitz | Verführungen | 6-3 | 10 | 7-2 | 2 |
+| B00438 | Elizabeth Strout | Mit Blick aufs Meer | 4-2 | 21 | 7-2 | 3 |
+| B00608 | Patrick Süskind | Das Parfum | 5-3 | 9 | 7-2 | 4 |
+| B00426 | Patrick Süskind | Der Kontrabass | 4-2 | 9 | 7-2 | 5 |
+| B00428 | Patrick Süskind | Die Geschichte von Herrn Sommer | 4-2 | 11 | 7-2 | 6 |
+| B00425 | Patrick Süskind | Die Taube | 4-2 | 8 | 7-2 | 7 |
+| B00424 | Patrick Süskind | Drei Geschichten | 4-2 | 7 | 7-2 | 8 |
+| B00436 | Martin Suter | Allmen und der rosa Diamant | 4-2 | 19 | 7-2 | 9 |
+| B00973 | Martin Suter | Allmen und die Dahlien | 7-4 | 4 | 7-2 | 10 |
+| B00744 | Martin Suter | Allmen und die verschwundene María | 6-1 | 18 | 7-2 | 11 |
+| B00756 | Martin Suter | Business Class | 6-2 | 7 | 7-2 | 12 |
+| B00778 | Martin Suter | Der Koch | 6-3 | 9 | 7-2 | 13 |
+| B00437 | Martin Suter | Der Teufel von Mailand | 4-2 | 20 | 7-2 | 14 |
+| B00758 | Martin Suter | Die dunkle Seite des Mondes | 6-2 | 9 | 7-2 | 15 |
+| B00209 | Martin Suter | Ein perfekter Freund | 2-7 | 26 | 7-2 | 16 |
+| B00435 | Martin Suter | Ein perfekter Freund | 4-2 | 18 | 7-2 | 17 |
+| B00757 | Martin Suter | Ein perfekter Freund | 6-2 | 8 | 7-2 | 18 |
+
+## Nach Regal 7-3
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00755 | Martin Suter | Lila, Lila | 6-2 | 6 | 7-3 | 1 |
+| B00981 | Martin Suter | Montecristo | 7-4 | 12 | 7-3 | 2 |
+| B00582 | Martin Suter | Small World | 5-2 | 2 | 7-3 | 3 |
+| B00762 | Richard Swartz | Blut, Boden & Geld | 6-2 | 13 | 7-3 | 4 |
+| B00773 | Susanna Tamaro | Draußen | 6-3 | 4 | 7-3 | 5 |
+| B00430 | Amy Tan | Die hundert verborgenen Sinne | 4-2 | 13 | 7-3 | 6 |
+| B00772 | Folke Tegetthoff | Gott ist überall zu Hause | 6-3 | 3 | 7-3 | 7 |
+| B00419 | Folke Tegetthoff | Kräutermärchen | 4-2 | 2 | 7-3 | 8 |
+| B00776 | Folke Tegetthoff | Liebesmärchen | 6-3 | 7 | 7-3 | 9 |
+| B00484 | Eva Tenzer | Einfach schweben | 4-5 | 13 | 7-3 | 10 |
+| B00769 | Sabine Thiesler | Der Kindersammler | 6-2 | 20 | 7-3 | 11 |
+| B00434 | Sabine Thiesler | Die Totengräberin | 4-2 | 17 | 7-3 | 12 |
+| B00491 | Sabine Thiesler | Hexenkind | 4-6 | 1 | 7-3 | 13 |
+| B00392 | Friedrich Torberg | Apropos | 3-8 | 10 | 7-3 | 14 |
+| B00395 | Friedrich Torberg | Auch das war Wien | 3-8 | 13 | 7-3 | 15 |
+| B01013 | Friedrich Torberg | Auch Nichtarier müssen sterben | 7-6 | 4 | 7-3 | 16 |
+| B00431 | Friedrich Torberg | Der Schüler Gerber | 4-2 | 14 | 7-3 | 17 |
+| B00389 | Friedrich Torberg | Die Mannschaft | 3-8 | 7 | 7-3 | 18 |
+
+## Nach Regal 7-4
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00960 | Friedrich Torberg | Die Tante Jolesch | 7-3 | 9 | 7-4 | 1 |
+| B00552 | Friedrich Torberg | Die Tante Jolesch / Die Erben der Tante Jolesch | 4-8 | 10 | 7-4 | 2 |
+| B00394 | Friedrich Torberg | Die zweite Begegnung | 3-8 | 12 | 7-4 | 3 |
+| B00289 | Friedrich Torberg | Kaffeehaus war überall | 3-3 | 9 | 7-4 | 4 |
+| B00432 | Friedrich Torberg | Süßkind von Trimberg | 4-2 | 15 | 7-4 | 5 |
+| B00396 | Friedrich Torberg | Wien oder Der Unterschied | 3-8 | 14 | 7-4 | 6 |
+| B00783 | Adriana Trigiani | Der beste Sommer unseres Lebens | 6-3 | 14 | 7-4 | 7 |
+| B00940 | Michael Tsokos | Abgeschlagen | 7-2 | 8 | 7-4 | 8 |
+| B00585 | Mark Twain | Die Schrecken der deutschen Sprache | 5-2 | 5 | 7-4 | 9 |
+| B00397 | Milos Urban | Im Dunkel der Kathedrale | 3-8 | 15 | 7-4 | 10 |
+| B00390 | Peter Ustinov | Die Gabe des Lachens | 3-8 | 8 | 7-4 | 11 |
+| B00028 | Timur Vermes | Die Hungrigen und die Satten | 1-6 | 14 | 7-4 | 12 |
+| B00399 | Barbara Vine | Der schwarze Falter | 3-8 | 17 | 7-4 | 13 |
+| B00400 | Barbara Vine | Die im Dunkeln sieht man doch | 3-8 | 18 | 7-4 | 14 |
+| B00752 | Christoph Wagner | Schattenbach | 6-2 | 3 | 7-4 | 15 |
+| B00321 | Martin Walker | Chef de police | 3-4 | 20 | 7-4 | 16 |
+| B00982 | Martin Walker | Eskapaden | 7-4 | 13 | 7-4 | 17 |
+
+## Nach Regal 7-5
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00322 | Martin Walker | Grand Cru | 3-4 | 21 | 7-5 | 1 |
+| B00269 | Martin Walker | Schwarze Diamanten | 3-2 | 10 | 7-5 | 2 |
+| B00311 | Martin Walser | Der Hexer | 3-4 | 10 | 7-5 | 3 |
+| B00714 | Martin Walser | Femme fatale | 5-8 | 8 | 7-5 | 4 |
+| B00296 | Martin Walser | Jenseits der Liebe | 3-3 | 16 | 7-5 | 5 |
+| B00273 | Martin Walser | Meßmers Reisen | 3-2 | 14 | 7-5 | 6 |
+| B00754 | Martin Walser | Protokolleure | 6-2 | 5 | 7-5 | 7 |
+| B00538 | Martin Walser | Reiner Wein | 4-7 | 26 | 7-5 | 8 |
+| B00309 | Ilse Walter | Passende Wüste für Fata Morgana gesucht | 3-4 | 8 | 7-5 | 9 |
+| B00651 | Minette Walters | Das Echo | 5-5 | 8 | 7-5 | 10 |
+| B00934 | Minette Walters | Der Außenseiter | 7-2 | 2 | 7-5 | 11 |
+| B00297 | Minette Walters | Der Schatten des Chamäleons | 3-3 | 17 | 7-5 | 12 |
+| B00421 | Minette Walters | Der Schrei des Hahns | 4-2 | 4 | 7-5 | 13 |
+| B00293 | Minette Walters | Des Teufels Werk | 3-3 | 13 | 7-5 | 14 |
+| B00260 | Minette Walters | Die Schandmaske | 3-2 | 1 | 7-5 | 15 |
+| B00029 | Minette Walters | Dunkle Kammern | 1-6 | 15 | 7-5 | 16 |
+| B00308 | Minette Walters | Fuchsjagd | 3-4 | 7 | 7-5 | 17 |
+| B00676 | Minette Walters | In Flammen | 5-6 | 12 | 7-5 | 18 |
+| B00760 | Minette Walters | In Flammen | 6-2 | 11 | 7-5 | 19 |
+
+## Nach Regal 7-6
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00265 | Minette Walters | Schlangenlinien | 3-2 | 6 | 7-6 | 1 |
+| B00586 | Minette Walters | Wellenbrecher | 5-2 | 6 | 7-6 | 2 |
+| B00777 | Jakob Wassermann | Der Fall Maurizius | 6-3 | 8 | 7-6 | 3 |
+| B00300 | Jakob Wassermann | Etzel Andergast | 3-3 | 20 | 7-6 | 4 |
+| B00301 | Jakob Wassermann | Joseph Kerkhovens dritte Existenz | 3-3 | 21 | 7-6 | 5 |
+| B00307 | Jakob Wassermann | Schläfst du, Mutter? | 3-4 | 6 | 7-6 | 6 |
+| B00332 | Konstantin Wecker | Dann denkt mit dem Herzen | 3-5 | 9 | 7-6 | 7 |
+| B00515 | Konstantin Wecker | Der Klang der ungespielten Töne | 4-7 | 3 | 7-6 | 8 |
+| B00517 | Konstantin Wecker | Jeder Augenblick ist ewig | 4-7 | 5 | 7-6 | 9 |
+| B00678 | Konstantin Wecker | Jetzt eine Insel finden | 5-6 | 14 | 7-6 | 10 |
+| B00383 | Konstantin Wecker | Meine rebellischen Freunde | 3-8 | 1 | 7-6 | 11 |
+| B00519 | Konstantin Wecker | Sage nein! | 4-7 | 7 | 7-6 | 12 |
+| B00393 | Konstantin Wecker | Schon Schweigen ist Betrug: Die kompletten Liedtexte | 3-8 | 11 | 7-6 | 13 |
+| B00398 | Konstantin Wecker | Schon Schweigen ist Betrug. Die kompletten Liedtexte | 3-8 | 16 | 7-6 | 14 |
+| B00668 | Hans Weigel | Die Leiden der jungen Wörter | 5-6 | 4 | 7-6 | 15 |
+| B00514 | Renate Welsh | Liebe Schwester | 4-7 | 2 | 7-6 | 16 |
+| B00672 | Franz Werfel | Der Abituriententag | 5-6 | 8 | 7-6 | 17 |
+| B00683 | Stefanie Werger | Wichtig ist was drinnen steht | 5-6 | 19 | 7-6 | 18 |
+| B00669 | Manfred Wieninger | Die Spur der Katzen | 5-6 | 5 | 7-6 | 19 |
+| B00679 | Oscar Wilde | Das Bildnis des Dorian Gray | 5-6 | 15 | 7-6 | 20 |
+
+## Nach Regal 7-7
+
+| ID | Autor | Titel | Regal | Position | Nach Regal | Nach Position |
+|---|---|---|---|---:|---|---:|
+| B00976 | Roger Willemsen | Der Knacks | 7-4 | 7 | 7-7 | 1 |
+| B00770 | Roger Willemsen | Die Enden der Welt | 6-3 | 1 | 7-7 | 2 |
+| B00234 | Roger Willemsen | Gute Tage | 3-1 | 5 | 7-7 | 3 |
+| B00674 | Dirk Wittenborn | Casper | 5-6 | 10 | 7-7 | 4 |
+| B00523 | P. G. Wodehouse | Dann eben nicht Jeeves | 4-7 | 11 | 7-7 | 5 |
+| B00521 | P. G. Wodehouse | Das höchste der Gefühle | 4-7 | 9 | 7-7 | 6 |
+| B00520 | P. G. Wodehouse | Die Hunde-Akademie | 4-7 | 8 | 7-7 | 7 |
+| B00522 | P. G. Wodehouse | Jeeves ist eine Klasse für sich | 4-7 | 10 | 7-7 | 8 |
+| B00524 | P. G. Wodehouse | Sommerliches Schloßgewitter | 4-7 | 12 | 7-7 | 9 |
+| B00667 | Barbara Wood | Die Prophetin | 5-6 | 3 | 7-7 | 10 |
+| B00675 | Barbara Wood | Gesang der Erde | 5-6 | 11 | 7-7 | 11 |
+| B00666 | Barbara Wood | Himmelsfeuer | 5-6 | 2 | 7-7 | 12 |
+| B00665 | Barbara Wood | Kristall der Träume | 5-6 | 1 | 7-7 | 13 |
+| B00670 | Virginia Woolf | Mrs Dalloway | 5-6 | 6 | 7-7 | 14 |
+| B00518 | Dorothea Zeemann | Das heimliche Fest | 4-7 | 6 | 7-7 | 15 |
+| B00680 | Eva Zeller | Lampenfieber | 5-6 | 16 | 7-7 | 16 |
+| B00682 | Markus Zusak | Die Bücherdiebin | 5-6 | 18 | 7-7 | 17 |
+| B01017 | Ohne Autorenangabe | Winter am Kamin: Das große Lesebuch | 7-6 | 8 | 7-7 | 18 |
+
